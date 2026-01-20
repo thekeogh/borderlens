@@ -23,6 +23,7 @@
 
   /* Dimensions */
   --dimension-spacing-default: 12px;
+  --dimension-spacing-largest: 46px;
   --dimension-strip-height: 8px;
   --dimension-footer-height: 37px;
 }
@@ -43,7 +44,6 @@ input, button, textarea, select { font: inherit }
  */
 body {
   min-height: 100vh;
-  padding: var(--dimension-spacing-default);
   background-color: var(--color-body-background);
   color: var(--color-body-foreground);
   font-family: var(--font-family-default);
@@ -62,15 +62,13 @@ body {
   z-index: 0;
 }
 main {
+  min-height: 100vh;
+  padding: var(--dimension-spacing-largest);
   justify-content: center;
   align-items: center;
   display: flex;
-  left: 0;
-  right: 0;
-  bottom: calc(var(--dimension-strip-height) + var(--dimension-spacing-default)*2 + var(--dimension-footer-height));
-  top: calc(var(--dimension-strip-height) + var(--dimension-spacing-default));
-  position: fixed;
-  z-index: 1;
+  position: relative;
+  z-index: 2;
 }
 main .window {
   width: 100%;
@@ -89,7 +87,8 @@ main .window {
   background: repeating-linear-gradient(90deg, var(--color-yellow-500) 0px, var(--color-yellow-500) 40px, var(--color-orange-500) 40px, var(--color-orange-500) 80px);
   left: 0;
   right: 0;
-  position: fixed
+  position: fixed;
+  z-index: 10
 }
 .strip.top {
   top: 0;
@@ -101,20 +100,31 @@ main .window {
 /**
  * Title
  */
-.title {
+h1 img {
   width: 100%;
   max-width: 700px;
   margin: 0 0 var(--dimension-spacing-default);
   height: auto;
   display: block;
 }
-h1 {
+.soon {
   margin: 0 0 calc(var(--dimension-spacing-default)*2);
   font-family: var(--font-family-title);
   font-size: var(--font-size-largest);
   color: var(--color-yellow-500);
   text-align: center;
   text-shadow: var(--color-black-100) 4px 4px 0px, var(--color-orange-500) 8px 8px 0px, #000 -2px -2px 0px, #000 2px -2px 0px, #000 -2px 2px 0px, #000 2px 2px 0px;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 /**
@@ -144,7 +154,19 @@ h1 {
   color: var(--color-orange-500)
 }
 .features div h2 {
+  margin: 0 0 6px;
   font-size: var(--font-size-default);
+}
+.features div p {
+  font-size: var(--font-size-small);
+  color: var(--color-white-400)
+}
+
+.intro {
+  margin: 0 0 12px;
+  font-size: var(--font-size-medium);
+  text-align: center;
+  color: var(--color-white-400)
 }
 
 /**
@@ -183,6 +205,7 @@ footer {
   display: flex;
   position: fixed;
   opacity: .6;
+  z-index: 1;
 }
 
 /*
@@ -209,16 +232,16 @@ footer {
   Phone portrait
 */
 @media (max-width: 479px) {
-  h1 {
+  main {
+    padding-left: var(--dimension-spacing-default);
+    padding-right: var(--dimension-spacing-default);
+  }
+  .soon {
     font-size: 70px
   }
   .features {
     padding: 0 var(--dimension-spacing-default);
     flex-direction: column;
-  }
-  .features div {
-    align-items: center;
-    display: flex;
   }
   .features div .lucide {
     margin: 0 var(--dimension-spacing-default) 0 0 !important;
@@ -227,67 +250,3 @@ footer {
     display: none;
   }
 }
-
-
-
-/*
-
-element.style {
-    background-image: radial-gradient(circle, rgb(245, 197, 24) 1px, transparent 1px);
-    background-size: 20px 20px;
-}
-
-
------
-
-
-
-.bebas-neue-regular {
-  font-family: "Bebas Neue", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
----------
-
-.rajdhani-light {
-  font-family: "Rajdhani", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-}
-
-.rajdhani-regular {
-  font-family: "Rajdhani", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.rajdhani-medium {
-  font-family: "Rajdhani", sans-serif;
-  font-weight: 500;
-  font-style: normal;
-}
-
-.rajdhani-semibold {
-  font-family: "Rajdhani", sans-serif;
-  font-weight: 600;
-  font-style: normal;
-}
-
-.rajdhani-bold {
-  font-family: "Rajdhani", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
-
----------
-
-.share-tech-mono-regular {
-  font-family: "Share Tech Mono", monospace;
-  font-weight: 400;
-  font-style: normal;
-}
-
-
-
-*/
