@@ -1,0 +1,44 @@
+{
+  "images": {
+    "card": "../img/card/lacerator.png"
+  },
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Lacerator"
+  },
+  "name": "Lacerator",
+  "type": "Repeater",
+  "description": "Lacerators are standard repeaters fitted with a blade accessory. As firearms they are unremarkable because the blade replaces stronger parts like elemental, double, or stabilizer accessories. In melee, however, the blade triples strike damage after other bonuses are applied.",
+  "notes": "The Lacerator accessory replaces an elemental accessory, so Maliwan versions do not exist.\nLacerators are always repeater pistols, and they always use the highest-quality repeater melee accessory. Repeaters or machine pistols with the lower-quality double-damage melee accessory instead qualify for the Fanged prefix.\nThe \"Lacerator\" title is applied to repeaters with the top-rank blade accessory and is purely cosmetic, but it takes priority over other non-unique or non-legendary pistol titles. The lower-tier blade accessory instead grants the Fanged prefix.",
+  "manufacturer": [
+    "Atlas",
+    "Dahl",
+    "Hyperion",
+    "Jakobs",
+    "Tediore",
+    "Torgue",
+    "Vladof"
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      65,
+      343
+    ],
+    "accuracy": [
+      72.8,
+      94.9
+    ],
+    "rate": [
+      2.8,
+      5.1
+    ],
+    "mag": [
+      12,
+      30
+    ]
+  }
+}

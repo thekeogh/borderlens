@@ -1,0 +1,51 @@
+{
+  "images": {
+    "card": "../img/card/scattergun.png"
+  },
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Scattergun_(Borderlands)"
+  },
+  "name": "Scattergun",
+  "type": "Shotgun",
+  "description": "Scattergun is a combat shotgun title that increases pellet count by 2, for a total of 11 projectiles per shot. It emphasizes spread and volume over precision.",
+  "notes": "Please see stat modifiers for an explanation on how to interpret all of these modifiers. Examples are on the talk page .",
+  "manufacturer": [
+    "Atlas",
+    "Dahl",
+    "Jakobs",
+    "Tediore",
+    "Torgue"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    2.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      8.0
+    ],
+    "accuracy": [
+      0.0,
+      33.0
+    ],
+    "rate": [
+      0.6,
+      1.0
+    ],
+    "mag": [
+      2.0,
+      12.0
+    ]
+  }
+}

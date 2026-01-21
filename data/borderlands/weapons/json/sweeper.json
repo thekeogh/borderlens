@@ -1,0 +1,47 @@
+{
+  "images": {
+    "card": "../img/card/sweeper.png"
+  },
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Sweeper_(Borderlands)"
+  },
+  "name": "Sweeper",
+  "type": "Shotgun",
+  "description": "Sweeper is the assault shotgun counterpart to the Matador. It trades pellet count for fire rate: fewer pellets (8 vs 12) but a faster rate of fire. The result is lower damage per shot but heavy recoil, rapid ammo burn, and short bursts between reloads.",
+  "notes": "The Sweeper title (Title_HighSpread1_Sweeper) is granted to shotguns with high spread and does little more than add a single projectile. See stat modifiers for details.",
+  "manufacturer": [
+    "Vladof"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    2.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      1.0
+    ],
+    "accuracy": [
+      6.7,
+      23.0
+    ],
+    "rate": [
+      1.4,
+      3.1
+    ],
+    "mag": [
+      5.0,
+      7.0
+    ]
+  }
+}

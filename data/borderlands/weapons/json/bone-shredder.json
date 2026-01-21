@@ -1,0 +1,179 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/bone-shredder.png",
+    "card": "../img/card/bone-shredder.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/bone-shredder-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Bone_Shredder_(Borderlands)"
+  },
+  "name": "Bone Shredder",
+  "type": "SMG",
+  "description": "The Bone Shredder is an Epic Tediore SMG from Base Game with a small magazine boost and a fixed, high-quality parts setup. It always spawns with a good scope and double accessory, making it consistently strong for its tier.",
+  "manufacturer": [
+    "Tediore"
+  ],
+  "rarity": [
+    "Epic"
+  ],
+  "special": {
+    "red": "The lead wind blows",
+    "description": "The Bone Shredder has increased Mag Size. It may also merge with the Savior SMG, creating the Hybrid Weapon: Bone Savior Bug The Bone Shredder's unique Material is bugged and is replaced by a Title Part. Predefined build: Double accessory and scope."
+  },
+  "ranges": {
+    "damage": [
+      10.0,
+      194.0
+    ],
+    "accuracy": [
+      80.6
+    ],
+    "rate": [
+      6.9,
+      12.5
+    ],
+    "mag": [
+      60.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "+1 Element Level",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      },
+      {
+        "name": "Body_5",
+        "modifiers": [
+          "+50% Fire Rate",
+          "+20% Damage",
+          "-20% Recoil",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Savior",
+        "modifiers": [
+          "+7.3 Ammo Regen/s",
+          "+30% Fire Rate",
+          "+25% Damage",
+          "-30% Recoil",
+          "+4 Element Level"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock None",
+        "modifiers": [
+          "-20% Max Inaccuracy",
+          "+100% Recoil Recovery",
+          "+30% Reload Speed",
+          "+40% Swap Speed",
+          "-50% Max Accuracy",
+          "+40% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_1",
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-30% Max Inaccuracy",
+          "-30% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 183,
+    "accuracy": 80.6,
+    "fire_rate": 12.5,
+    "mag_size": 60,
+    "multiplier": 2,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Bone Head",
+      "tags": [
+        "Unique Enemy",
+        "Arid Badlands"
+      ]
+    },
+    {
+      "name": "Chaz",
+      "tags": [
+        "Unique Enemy",
+        "Lockdown Palace"
+      ]
+    }
+  ]
+}

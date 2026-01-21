@@ -1,0 +1,99 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/kroms-sidearm.png",
+    "card": "../img/card/kroms-sidearm.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/kroms-sidearm-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Krom%27s_Sidearm"
+  },
+  "name": "Krom's Sidearm",
+  "type": "Repeater",
+  "description": "The Krom's Sidearm is a Epic Atlas Repeater from Base Game. It is known for notable accuracy, strong damage, fast fire rate. It fires in bursts.",
+  "manufacturer": [
+    "Atlas"
+  ],
+  "elements": [
+    "Shock"
+  ],
+  "multiplier": [
+    1.0,
+    3.0
+  ],
+  "rarity": [
+    "Epic"
+  ],
+  "special": {
+    "red": "a gift from Papa Krom",
+    "description": "Boosts strong damage, fast fire rate, tighter spread. It fires in bursts and features unusually high zoom."
+  },
+  "ranges": {
+    "damage": [
+      48.0,
+      208.0
+    ],
+    "accuracy": [
+      92.8
+    ],
+    "rate": [
+      3.1,
+      4.8
+    ],
+    "mag": [
+      18.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+2 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 175,
+    "accuracy": 92.8,
+    "fire_rate": 4.8,
+    "mag_size": 18,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Krom's Turret",
+      "tags": [
+        "Boss",
+        "Krom's Canyon"
+      ]
+    }
+  ]
+}

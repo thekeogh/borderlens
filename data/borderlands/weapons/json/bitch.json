@@ -1,0 +1,355 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/bitch.png",
+    "card": "../img/card/bitch.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/bitch-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Bitch_(Borderlands)"
+  },
+  "name": "Bitch",
+  "type": "SMG",
+  "description": "The Bitch is a Legendary Hyperion SMG from Base Game tuned for precision and tech. It handles exceptionally tightly and boosts elemental effect, excelling at controlled mid-range fire, but it lacks long-range stopping power.",
+  "manufacturer": [
+    "Hyperion"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    3.0,
+    4.0
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "Smack 'em.",
+    "description": "The Bitch has increased Crit Damage, Element Level and Accuracy. Note: The Bitch doesn't get increased accuracy with sustained firing nor has increased Crit Damage. Improved accuracy under sustained fire. Increases elemental effect. Also intended to increase of critical hit damage but this effect is defunct."
+  },
+  "ranges": {
+    "damage": [
+      24.0,
+      345.0
+    ],
+    "accuracy": [
+      90.3,
+      94.9
+    ],
+    "rate": [
+      2.5,
+      18.8
+    ],
+    "mag": [
+      18.0,
+      66.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "+1 Element Level",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      },
+      {
+        "name": "Body_5",
+        "modifiers": [
+          "+50% Fire Rate",
+          "+20% Damage",
+          "-20% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Thumper",
+        "modifiers": [
+          "+70% Damage",
+          "+25% Reload Speed",
+          "+20% Equip Speed",
+          "-10 Mag Size",
+          "-200% Fire Rate"
+        ]
+      },
+      {
+        "name": "Mag_2",
+        "modifiers": [
+          "+15% Reload Speed"
+        ]
+      },
+      {
+        "name": "Mag_3",
+        "modifiers": [
+          "+8 Mag Size",
+          "+20% Reload Speed",
+          "+2 Element Level",
+          "-10% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "+27 Mag Size",
+          "-60% Reload Speed",
+          "-50% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_5",
+        "modifiers": [
+          "+18 Mag Size",
+          "+1 Element Level",
+          "-40% Reload Speed",
+          "-20% Equip Speed"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock None",
+        "modifiers": [
+          "-20% Max Inaccuracy",
+          "+100% Recoil Recovery",
+          "+30% Reload Speed",
+          "+40% Swap Speed",
+          "-50% Max Accuracy",
+          "+40% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_1",
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-30% Max Inaccuracy",
+          "-30% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight None",
+        "modifiers": [
+          "-50% Move Speed (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "2.1x Zoom",
+          "-15% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "2.5x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "2.9x Zoom",
+          "-30% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "4.4x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "5.9x Zoom",
+          "-70% Spread (aiming)"
+        ]
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Relentless",
+        "modifiers": [
+          "+20% Fire Rate"
+        ]
+      },
+      {
+        "name": "Ruthless",
+        "modifiers": [
+          "-45% Recoil",
+          "+53% Reload Speed"
+        ]
+      },
+      {
+        "name": "Vector",
+        "modifiers": [
+          "+45% Fire Rate",
+          "-200% Recoil",
+          "+53% Reload Speed"
+        ]
+      },
+      {
+        "name": "Double",
+        "modifiers": [
+          "+1 Projectile",
+          "+20% Mag Size",
+          "-18% Damage",
+          "+75% Spread",
+          "+1 Shot Cost"
+        ]
+      },
+      {
+        "name": "Fire",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Shock",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Corrosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Explosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-20% Damage"
+        ]
+      }
+    ],
+    "Material": [
+      {
+        "name": "Hyperion_1",
+        "modifiers": [
+          "+50% Max Accuracy",
+          "-70% Recoil",
+          "-70% Spread",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Hyperion_2",
+        "modifiers": [
+          "+50% Max Accuracy",
+          "-70% Recoil",
+          "-85% Spread",
+          "+1 Element Level",
+          "+5% Damage",
+          "+30% Fire Rate"
+        ]
+      },
+      {
+        "name": "Hyperion_3",
+        "modifiers": [
+          "+50% Max Accuracy",
+          "-80% Recoil",
+          "-100% Spread",
+          "+1 Element Level",
+          "+10% Damage",
+          "+30% Reload Speed"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 201,
+    "accuracy": 90.7,
+    "fire_rate": 15,
+    "mag_size": 43,
+    "multiplier": 2,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "SMG Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

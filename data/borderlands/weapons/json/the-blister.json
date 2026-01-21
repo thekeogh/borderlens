@@ -1,0 +1,72 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/the-blister.png",
+    "card": "../img/card/the-blister.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/the-blister-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/The_Blister"
+  },
+  "name": "The Blister",
+  "type": "Shotgun",
+  "description": "The The Blister is a Rare Torgue Shotgun from Base Game. It is known for notable accuracy, strong damage, fast fire rate.",
+  "manufacturer": [
+    "Torgue"
+  ],
+  "elements": [
+    "Corrosive"
+  ],
+  "multiplier": [
+    1.0,
+    2.0
+  ],
+  "rarity": [
+    "Rare"
+  ],
+  "special": {
+    "red": "It's a painful thing",
+    "description": "Boosts notable accuracy, strong damage, fast fire rate."
+  },
+  "ranges": {
+    "damage": [
+      35.0,
+      81.0
+    ],
+    "accuracy": [
+      56.7
+    ],
+    "rate": [
+      0.8,
+      1.4
+    ],
+    "mag": [
+      6.0
+    ]
+  },
+  "max": {
+    "damage": 167,
+    "accuracy": 56.7,
+    "fire_rate": 0.9,
+    "mag_size": 6,
+    "multiplier": 9,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Mothrakk",
+      "tags": [
+        "Unique Enemy",
+        "Arid Badlands"
+      ]
+    },
+    {
+      "name": "Like A Moth To Flame",
+      "tags": [
+        "Quest",
+        "New Haven"
+      ]
+    }
+  ]
+}

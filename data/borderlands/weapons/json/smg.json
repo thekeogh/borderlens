@@ -1,0 +1,45 @@
+{
+  "images": {
+    "card": "../img/card/smg.png"
+  },
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/SMG_(Title)"
+  },
+  "name": "SMG",
+  "type": "SMG",
+  "description": "SMG (Title) is a submachine gun that prioritizes damage, leans on fire rate.",
+  "notes": "The Title__SMG title does not have any effect on the weapon.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    4.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "ranges": {
+    "damage": [
+      1.0
+    ],
+    "accuracy": [
+      72.1,
+      94.9
+    ],
+    "rate": [
+      7.7,
+      12.1
+    ],
+    "mag": [
+      31.0,
+      66.0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "content": "Enhanced",
+  "dlc": true,
+  "images": {
+    "item": "../img/item/hive-mind.png",
+    "card": "../img/card/hive-mind.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/hive-mind-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Hive_Mind"
+  },
+  "name": "Hive Mind",
+  "type": "Launcher",
+  "description": "The Hive Mind is a Legendary Gearbox Launcher from Enhanced. It is known for strong damage, large magazine, ammo regeneration but with slower reload. It fires in bursts and regenerates ammo over time.",
+  "manufacturer": [
+    "Gearbox"
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "That's gonna leave a Marx",
+    "description": "Boosts strong damage, large magazine, ammo regeneration but has a slower reload. It fires in bursts and regenerates ammo over time."
+  },
+  "max": {
+    "damage": 5722,
+    "accuracy": 73.3,
+    "fire_rate": 1.5,
+    "mag_size": 6,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Raid Boss",
+        "Craw's Lair"
+      ]
+    },
+    {
+      "name": "Destroyer Chest",
+      "tags": [
+        "Chest",
+        "The Vault"
+      ]
+    },
+    {
+      "name": "Skagzilla",
+      "tags": [
+        "Unique Enemy",
+        "DAHL Headland"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/patton.png",
+    "card": "../img/card/patton.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/patton-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Patton"
+  },
+  "name": "Patton",
+  "type": "Revolver",
+  "description": "The Patton is a Rare Atlas Revolver from Base Game. It is known for strong damage, fast fire rate, critical hit bonus but with lower accuracy.",
+  "manufacturer": [
+    "Atlas"
+  ],
+  "rarity": [
+    "Rare"
+  ],
+  "special": {
+    "red": "May God have mercy upon my enemies, because I won't.",
+    "description": "Boosts strong damage, fast fire rate, critical hit bonus."
+  },
+  "ranges": {
+    "damage": [
+      264.0,
+      756.0
+    ],
+    "accuracy": [
+      91.7
+    ],
+    "rate": [
+      1.9
+    ],
+    "mag": [
+      6.0
+    ]
+  },
+  "max": {
+    "damage": 743,
+    "accuracy": 91.7,
+    "fire_rate": 1.9,
+    "mag_size": 6,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Queen Tarantella",
+      "tags": [
+        "Unique Enemy",
+        "Trash Coast"
+      ]
+    },
+    {
+      "name": "Bait And Switch",
+      "tags": [
+        "Quest",
+        "Rust Commons East"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/leviathan.png",
+    "card": "../img/card/leviathan.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/leviathan-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Leviathan"
+  },
+  "name": "Leviathan",
+  "type": "Launcher",
+  "description": "The Leviathan is a Rare Torgue Launcher from Base Game. It is known for strong damage, fast fire rate, large magazine.",
+  "manufacturer": [
+    "Torgue"
+  ],
+  "elements": [
+    "Incendiary",
+    "Corrosive",
+    "Shock",
+    "Explosive"
+  ],
+  "rarity": [
+    "Rare"
+  ],
+  "special": {
+    "red": "It rises!",
+    "description": "Boosts strong damage, fast fire rate, large magazine."
+  },
+  "ranges": {
+    "damage": [
+      404.0,
+      1533.0
+    ],
+    "accuracy": [
+      91.7,
+      97.9
+    ],
+    "rate": [
+      1.2
+    ],
+    "mag": [
+      6.0,
+      7.0
+    ]
+  },
+  "max": {
+    "damage": 1622,
+    "accuracy": 91.7,
+    "fire_rate": 0.6,
+    "mag_size": 6,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Rakk Hive",
+      "tags": [
+        "Boss",
+        "Trash Coast"
+      ]
+    },
+    {
+      "name": "Rakk-Trap Hive",
+      "tags": [
+        "Boss",
+        "Scorched Snake Canyon"
+      ]
+    },
+    {
+      "name": "Wanted: Fresh Fish",
+      "tags": [
+        "Quest",
+        "New Haven"
+      ]
+    }
+  ]
+}

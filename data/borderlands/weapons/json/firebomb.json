@@ -1,0 +1,207 @@
+{
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "images": {
+    "item": "../img/item/firebomb.png",
+    "card": "../img/card/firebomb.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/firebomb-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Eridian_Firebomb"
+  },
+  "name": "Firebomb",
+  "type": "Eridian",
+  "description": "The Firebomb is a Legendary Eridian weapon from The Secret Armory of General Knoxx. It is known for strong damage, large magazine, elemental potential but with slower fire rate. Its shots explode on impact.",
+  "manufacturer": [
+    "Eridian"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "Bad is Good, BABY!",
+    "description": "Boosts explosive splash. Its shots explode on impact."
+  },
+  "ranges": {
+    "damage": [
+      123.0
+    ],
+    "accuracy": [
+      87.5
+    ],
+    "rate": [
+      1.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_2",
+        "modifiers": []
+      },
+      {
+        "name": "Body_3",
+        "modifiers": []
+      },
+      {
+        "name": "Body_4",
+        "modifiers": []
+      },
+      {
+        "name": "Body_5",
+        "modifiers": []
+      },
+      {
+        "name": "Body_6",
+        "modifiers": []
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_1",
+        "modifiers": [
+          "Capacity: 100",
+          "Regen Rate: 7/s",
+          "Cooldown: 4.0s"
+        ]
+      },
+      {
+        "name": "Mag_2",
+        "modifiers": [
+          "Capacity: 130",
+          "Regen Rate: 5.8/s",
+          "Cooldown: 4.0s"
+        ]
+      },
+      {
+        "name": "Mag_3",
+        "modifiers": [
+          "Capacity: 83",
+          "Regen Rate: 9.8/s",
+          "Cooldown: 2.9s"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "Capacity: 200",
+          "Regen Rate: 5.8/s",
+          "Cooldown: 5.2s"
+        ]
+      },
+      {
+        "name": "Mag_5",
+        "modifiers": [
+          "Capacity: 130",
+          "Regen Rate: 9.1/s",
+          "Cooldown: 3.3s"
+        ]
+      },
+      {
+        "name": "Mag_6",
+        "modifiers": [
+          "Capacity: 120",
+          "Regen Rate: 9.8/s",
+          "Cooldown: 2.7s"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "-50% Max Inaccuracy",
+          "+40% Max Accuracy",
+          "+15% Recoil Recovery",
+          "-70% Recoil",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "-80% Max Inaccuracy",
+          "+50% Max Accuracy",
+          "+60% Recoil Recovery",
+          "-90% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight None",
+        "modifiers": []
+      },
+      {
+        "name": "Sight_1",
+        "modifiers": []
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": []
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": []
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": []
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": []
+      },
+      {
+        "name": "Sight_6",
+        "modifiers": []
+      }
+    ]
+  },
+  "max": {
+    "damage": 333,
+    "accuracy": 87.5,
+    "fire_rate": 1,
+    "mag_size": 0,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Pyro",
+      "tags": [
+        "Enemy",
+        "Road's End"
+      ]
+    },
+    {
+      "name": "Drifter",
+      "tags": [
+        "Enemy",
+        "Sunken Sea"
+      ]
+    },
+    {
+      "name": "Badass Bruiser",
+      "tags": [
+        "Enemy",
+        "Deep Fathoms"
+      ]
+    },
+    {
+      "name": "Lance Chest",
+      "tags": [
+        "Chest",
+        "Crimson Armory"
+      ]
+    }
+  ]
+}

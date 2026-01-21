@@ -1,0 +1,35 @@
+{
+  "images": {
+    "card": "../img/card/rage.png"
+  },
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Rage"
+  },
+  "name": "Rage",
+  "type": "Repeater",
+  "description": "Rage is a repeater pistol that has notable accuracy, fires in bursts.",
+  "notes": "Rage is a nameplate ( Title_Firerate1_Rage ) given to machine pistols that spawn with the Rage accessory ( acc2_Rage ). The accessory itself only gives a slight tech boost (which by itself is useless as being an accessory, it prevents the weapon from being elemental); the burst fire and fire rate boost are granted by the title in its place. This means that while it's possible to find the Rage accessory on a legendary machine pistol (except the Reaper ), it is impossible to obtain a legendary machine Pistol with the Rage effect.",
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      9.0,
+      250.0
+    ],
+    "accuracy": [
+      74.7,
+      92.8
+    ],
+    "rate": [
+      15.3,
+      24.3
+    ],
+    "mag": [
+      16.0,
+      39.0
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "images": {
+    "card": "../img/card/sniper.png"
+  },
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Sniper_(Title)"
+  },
+  "name": "Sniper",
+  "type": "Sniper",
+  "notes": "The Title Sniper ( Title__SniperRifle ) is defaulted on sniper rifles who otherwise don't qualify for any other specific title. Note that this does not necessarily mean the weapon is just average, but rather it does not have any defining traits. The Title__SniperRifle does not modify the weapon.",
+  "manufacturer": [
+    "Atlas",
+    "Dahl",
+    "Eridian",
+    "Hyperion",
+    "Jakobs",
+    "Maliwan",
+    "S&S Munitions",
+    "Torgue",
+    "Vladof"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "ranges": {
+    "damage": [
+      26.0
+    ],
+    "mag": [
+      3.0,
+      10.0
+    ]
+  }
+}

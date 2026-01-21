@@ -1,0 +1,35 @@
+{
+  "images": {
+    "card": "../img/card/anarchy-smg.png"
+  },
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Anarchy_(SMG)"
+  },
+  "name": "Anarchy (SMG)",
+  "type": "SMG",
+  "description": "Anarchy (SMG) is a submachine gun that has notable accuracy, leans on fire rate.",
+  "notes": "Anarchy is a Title( Title_LowAccuracy1_Anarchy ) that is bestowed on SMGs that have both the Double accessory ( acc4_Double ) and a low accuracy rating (approx. less than 70%). The Anarchy title further increases the magazine size, adds two extra projectiles (with no further change to ammo cost) and massively increases spread. The resulting weapon is the combination of the modifiers of both the accessory and the title. Please see stat modifiers for an explanation on how to interpret all of these modifiers.",
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      8.0,
+      237.0
+    ],
+    "accuracy": [
+      27.0,
+      35.0
+    ],
+    "rate": [
+      6.4,
+      13.8
+    ],
+    "mag": [
+      42.0,
+      82.0
+    ]
+  }
+}

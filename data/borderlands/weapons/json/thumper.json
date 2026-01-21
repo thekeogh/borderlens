@@ -1,0 +1,44 @@
+{
+  "images": {
+    "card": "../img/card/thumper.png"
+  },
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Thumper"
+  },
+  "name": "Thumper",
+  "type": "SMG",
+  "description": "Thumper is a submachine gun that prioritizes damage, leans on fire rate.",
+  "notes": "The Double accessory effectively doubles the fire rate of a Thumper, greatly reducing the drawback of slow fire rate of a normal Thumper; this advantage is to some extent offset by doubled ammo consumption and much more frequent reloading.\nBecause of the high damage and low fire rate, Thumpers act best as medium range rifles. They save considerably more ammo, being able to kill most enemies in 4 to 6 critical hits.\nThe Thumper effect comes from the mag1_thumper magazine . This part is wholly responsible for the weapon's stats change, the Title_Mag1_Thumper having no effect on the weapon. This makes it possible for unique and legendary SMGs (excluding the Wildcat ) to have the Thumper magazine and it's effects. However, the Thumper title has higher priority than any other common SMG title, meaning that Thumper-magazined Stingers , Bruisers or Anarchies aren't possible. Please see stat modifiers for an explanation on how to interpret all of these modifiers.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    4.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      1.0
+    ],
+    "accuracy": [
+      72.1,
+      94.9
+    ],
+    "rate": [
+      2.5,
+      6.3
+    ],
+    "mag": [
+      18.0,
+      21.0
+    ]
+  }
+}

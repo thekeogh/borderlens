@@ -1,0 +1,70 @@
+{
+  "content": "Enhanced",
+  "dlc": true,
+  "images": {
+    "item": "../img/item/silent-night.png",
+    "card": "../img/card/silent-night.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/silent-night-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Silent_Night"
+  },
+  "name": "Silent Night",
+  "type": "Sniper",
+  "description": "The Silent Night is a Legendary Gearbox Sniper from Enhanced. It is known for strong damage, critical hit bonus, elemental potential but with smaller magazine.",
+  "manufacturer": [
+    "Gearbox"
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "It knows when you're awake",
+    "description": "Boosts strong damage, critical hit bonus."
+  },
+  "ranges": {
+    "damage": [
+      47.0,
+      1065.0
+    ],
+    "accuracy": [
+      97.8
+    ],
+    "rate": [
+      0.8
+    ],
+    "mag": [
+      3.0
+    ]
+  },
+  "max": {
+    "damage": 1065,
+    "accuracy": 97.8,
+    "fire_rate": 0.8,
+    "mag_size": 3,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Raid Boss",
+        "Craw's Lair"
+      ]
+    },
+    {
+      "name": "Destroyer Chest",
+      "tags": [
+        "Chest",
+        "The Vault"
+      ]
+    },
+    {
+      "name": "Skagzilla",
+      "tags": [
+        "Unique Enemy",
+        "DAHL Headland"
+      ]
+    }
+  ]
+}

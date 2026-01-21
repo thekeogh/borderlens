@@ -10,6 +10,7 @@ dist
 
 # AI
 .claude
+.codex
 
 # Logs
 logs

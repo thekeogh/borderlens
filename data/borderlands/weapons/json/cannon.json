@@ -1,0 +1,191 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/cannon.png",
+    "card": "../img/card/cannon.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/cannon-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Eridian_Cannon"
+  },
+  "name": "Cannon",
+  "type": "Eridian",
+  "description": "The Eridian Cannon is an Uncommon Eridian weapon from Base Game that launches a slow energy orb which explodes on impact. Its projectile speed makes it best at close to mid range, and holding it slows movement.",
+  "manufacturer": [
+    "Eridian"
+  ],
+  "rarity": [
+    "Uncommon"
+  ],
+  "special": {
+    "red": "010011110100110101000111",
+    "description": "Boosts explosive splash. Its shots explode on impact and creates healing orbs on hit."
+  },
+  "ranges": {
+    "damage": [
+      546.0,
+      2491.0
+    ],
+    "accuracy": [
+      91.7
+    ],
+    "rate": [
+      0.4
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_2",
+        "modifiers": []
+      },
+      {
+        "name": "Body_3",
+        "modifiers": []
+      },
+      {
+        "name": "Body_4",
+        "modifiers": []
+      },
+      {
+        "name": "Body_5",
+        "modifiers": []
+      },
+      {
+        "name": "Body_6",
+        "modifiers": []
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_1",
+        "modifiers": [
+          "Capacity: 100",
+          "Regen Rate: 7/s",
+          "Cooldown: 4.0s"
+        ]
+      },
+      {
+        "name": "Mag_2",
+        "modifiers": [
+          "Capacity: 130",
+          "Regen Rate: 5.8/s",
+          "Cooldown: 4.0s"
+        ]
+      },
+      {
+        "name": "Mag_3",
+        "modifiers": [
+          "Capacity: 83",
+          "Regen Rate: 9.8/s",
+          "Cooldown: 2.9s"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "Capacity: 200",
+          "Regen Rate: 5.8/s",
+          "Cooldown: 5.2s"
+        ]
+      },
+      {
+        "name": "Mag_5",
+        "modifiers": [
+          "Capacity: 130",
+          "Regen Rate: 9.1/s",
+          "Cooldown: 3.3s"
+        ]
+      },
+      {
+        "name": "Mag_6",
+        "modifiers": [
+          "Capacity: 120",
+          "Regen Rate: 9.8/s",
+          "Cooldown: 2.7s"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "-50% Max Inaccuracy",
+          "+40% Max Accuracy",
+          "+15% Recoil Recovery",
+          "-70% Recoil",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "-80% Max Inaccuracy",
+          "+50% Max Accuracy",
+          "+60% Recoil Recovery",
+          "-90% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight None",
+        "modifiers": []
+      },
+      {
+        "name": "Sight_1",
+        "modifiers": []
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": []
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": []
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": []
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": []
+      },
+      {
+        "name": "Sight_6",
+        "modifiers": []
+      }
+    ]
+  },
+  "max": {
+    "damage": 2535,
+    "accuracy": 91.7,
+    "fire_rate": 0.4,
+    "mag_size": 0,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "Master McCloud",
+      "tags": [
+        "Boss",
+        "The Backdoor"
+      ]
+    },
+    {
+      "name": "Eridian Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

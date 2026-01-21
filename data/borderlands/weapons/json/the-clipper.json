@@ -1,0 +1,62 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/the-clipper.png",
+    "card": "../img/card/the-clipper.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/the-clipper-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/The_Clipper"
+  },
+  "name": "The Clipper",
+  "type": "Repeater",
+  "description": "The The Clipper is a Rare Vladof Repeater from Base Game. It is known for strong damage, fast fire rate, quick reload.",
+  "manufacturer": [
+    "Vladof"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "multiplier": [
+    1.0
+  ],
+  "rarity": [
+    "Rare"
+  ],
+  "special": {
+    "red": "Don't drop it... might lose a toe.",
+    "description": "Boosts strong damage, fast fire rate, quick reload."
+  },
+  "ranges": {
+    "damage": [
+      8.0,
+      125.0
+    ],
+    "accuracy": [
+      71.7
+    ],
+    "rate": [
+      9.0
+    ],
+    "mag": [
+      20.0
+    ]
+  },
+  "max": {
+    "damage": 123,
+    "accuracy": 71.7,
+    "fire_rate": 9,
+    "mag_size": 20,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Nine-Toes",
+      "tags": [
+        "Boss",
+        "Skag Gully"
+      ]
+    }
+  ]
+}

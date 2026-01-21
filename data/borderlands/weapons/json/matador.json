@@ -1,0 +1,51 @@
+{
+  "images": {
+    "card": "../img/card/matador.png"
+  },
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Matador"
+  },
+  "name": "Matador",
+  "type": "Shotgun",
+  "description": "Matador is a shotgun title that is especially effective against Spiderants, Skags, Psychos, and zombies. Rakk can also be viable targets if you catch them clustered on approach.",
+  "notes": "The Matador effect comes from the Title_HighSpread2_Matador title and is given to shotguns with accuracy below 33.3% and rarity above 6. The effect adds 3 pellets and increases fire rate by 25%. Shotguns with low accuracy but not enough rarity for Matador use the Scattergun title instead. Because the effect comes from the title, unique/legendary Matadors cannot appear. See stat modifiers for how to interpret these modifiers.",
+  "manufacturer": [
+    "Atlas",
+    "Dahl",
+    "Jakobs",
+    "Tediore",
+    "Torgue"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    2.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      21.0
+    ],
+    "accuracy": [
+      0.0,
+      33.4
+    ],
+    "rate": [
+      0.3,
+      2.0
+    ],
+    "mag": [
+      2.0,
+      13.0
+    ]
+  }
+}

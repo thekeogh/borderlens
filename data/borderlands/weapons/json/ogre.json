@@ -1,0 +1,265 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/ogre.png",
+    "card": "../img/card/ogre.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/ogre-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Ogre_(Borderlands)"
+  },
+  "name": "Ogre",
+  "type": "Assault Rifle",
+  "description": "The Ogre is a Legendary Atlas Assault Rifle from Base Game. It is known for notable accuracy, strong damage, fast fire rate. It fires full-auto and shots explode on impact.",
+  "manufacturer": [
+    "Atlas"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "multiplier": [
+    2.0,
+    4.0
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "Ogre SMASH!",
+    "description": "Boosts strong damage, elemental potential. It fires full-auto and can combine into a hybrid weapon."
+  },
+  "ranges": {
+    "damage": [
+      42.0,
+      429.0
+    ],
+    "accuracy": [
+      72.4,
+      91.3
+    ],
+    "rate": [
+      6.4,
+      12.5
+    ],
+    "mag": [
+      27.0,
+      69.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+2 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      },
+      {
+        "name": "Body_5",
+        "modifiers": [
+          "+20% Damage",
+          "+50% Fire Rate",
+          "-20% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Barrel": [
+      {
+        "name": "Barrel_2",
+        "modifiers": [
+          "+15% Max Accuracy",
+          "-20% Spread",
+          "-20% Max Accuracy",
+          "+20% Recoil",
+          "+28% Spread"
+        ]
+      },
+      {
+        "name": "Barrel_3",
+        "modifiers": [
+          "+10% Damage",
+          "+30% Accuracy",
+          "-50% Spread",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Barrel_4",
+        "modifiers": [
+          "+30% Damage",
+          "-10% Max Inaccuracy",
+          "+40% Max Accuracy",
+          "-30% Spread",
+          "+35% Recoil"
+        ]
+      },
+      {
+        "name": "Barrel_5",
+        "modifiers": [
+          "+15% Damage",
+          "-40% Max Inaccuracy",
+          "+150% Max Accuracy",
+          "-50% Recoil",
+          "-130% Spread"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_2",
+        "modifiers": [
+          "+15% Reload Speed",
+          "+25% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "+15% Damage",
+          "+12 Mag Size",
+          "-25% Reload Speed",
+          "-30% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_5",
+        "modifiers": [
+          "+18% Damage",
+          "+24 Mag Size",
+          "+1 Element Level",
+          "-35% Reload Speed",
+          "-50% Equip Speed"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight None",
+        "modifiers": [
+          "-50% Move Speed (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "3.2x Zoom",
+          "-35% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "2.5x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      }
+    ],
+    "Material": [
+      {
+        "name": "Atlas_1",
+        "modifiers": [
+          "+10% Damage",
+          "-0.05 Fire Interval",
+          "+15% Mag Size",
+          "+1 Element Level",
+          "+0.11 Recoil"
+        ]
+      },
+      {
+        "name": "Atlas_2",
+        "modifiers": [
+          "+15% Damage",
+          "-0.05 Fire Interval",
+          "+15% Mag Size",
+          "+1 Element Level",
+          "+0.11 Recoil"
+        ]
+      },
+      {
+        "name": "Atlas_3",
+        "modifiers": [
+          "+20% Damage",
+          "-0.05 Fire Interval",
+          "+15% Mag Size",
+          "+2 Element Level",
+          "+0.11 Recoil"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 419,
+    "accuracy": 84.6,
+    "fire_rate": 12.5,
+    "mag_size": 69,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "AR Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

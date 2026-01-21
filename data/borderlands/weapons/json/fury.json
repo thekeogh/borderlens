@@ -1,0 +1,41 @@
+{
+  "images": {
+    "card": "../img/card/fury.png"
+  },
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Fury"
+  },
+  "name": "Fury",
+  "type": "Repeater",
+  "description": "Fury is a repeater pistol that has notable accuracy, prioritizes damage, fires in bursts.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon"
+  ],
+  "ranges": {
+    "damage": [
+      7.0
+    ],
+    "accuracy": [
+      50.0,
+      79.1
+    ],
+    "rate": [
+      13.4,
+      18.1
+    ],
+    "mag": [
+      20.0,
+      32.0
+    ]
+  }
+}

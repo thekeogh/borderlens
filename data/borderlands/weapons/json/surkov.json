@@ -1,0 +1,284 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/surkov.png",
+    "card": "../img/card/surkov.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/surkov-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Surkov"
+  },
+  "name": "Surkov",
+  "type": "Sniper",
+  "description": "The Surkov is a Legendary Vladof Sniper from Base Game. It is known for notable accuracy, strong damage, fast fire rate. It fires semi-auto and can combine into a hybrid weapon.",
+  "manufacturer": [
+    "Vladof"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    4.0
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "For the Motherland.",
+    "description": "Boosts strong damage, fast fire rate, quick reload."
+  },
+  "ranges": {
+    "damage": [
+      200.0,
+      1349.0
+    ],
+    "accuracy": [
+      94.9,
+      95.9
+    ],
+    "rate": [
+      1.0,
+      1.7
+    ],
+    "mag": [
+      3.0,
+      6.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "+1 Element Level",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_1",
+        "modifiers": []
+      },
+      {
+        "name": "Mag_3",
+        "modifiers": [
+          "+21% Damage",
+          "+15% Reload Speed",
+          "+3 Element Level",
+          "-3 Mag Size"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "+21% Fire Rate",
+          "+40% Reload Speed",
+          "+15% Equip Speed"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock_1",
+        "modifiers": [
+          "-30% Max Inaccuracy",
+          "-30% Recoil",
+          "+20% Recoil Recovery",
+          "+20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "3.3x Zoom",
+          "-15% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "4.0x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "4.7x Zoom",
+          "-30% Spread (aiming)",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "7.1x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "9.4x Zoom",
+          "-70% Spread (aiming)"
+        ]
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Rolling",
+        "modifiers": [
+          "+100% Reload Speed"
+        ]
+      },
+      {
+        "name": "Heavy",
+        "modifiers": [
+          "+18% Damage",
+          "+1 Element Level",
+          "+18% Recoil"
+        ]
+      },
+      {
+        "name": "Long",
+        "modifiers": [
+          "-25% Spread",
+          "+2 Element Level"
+        ]
+      },
+      {
+        "name": "Fire",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Shock",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Corrosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Explosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      }
+    ],
+    "Material": [
+      {
+        "name": "Vladof_1",
+        "modifiers": [
+          "+44% Fire Rate",
+          "+32% Spread"
+        ]
+      },
+      {
+        "name": "Vladof_2",
+        "modifiers": [
+          "+5% Damage",
+          "+50% Fire Rate",
+          "-20% Recoil",
+          "+32% Spread"
+        ]
+      },
+      {
+        "name": "Vladof_3",
+        "modifiers": [
+          "+10% Damage",
+          "+56% Fire Rate",
+          "-40% Recoil",
+          "+32% Spread"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 1407,
+    "accuracy": 94.9,
+    "fire_rate": 1.2,
+    "mag_size": 6,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "Sniper Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

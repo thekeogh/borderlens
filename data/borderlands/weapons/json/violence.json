@@ -1,0 +1,76 @@
+{
+  "content": "Enhanced",
+  "dlc": true,
+  "images": {
+    "item": "../img/item/violence.png",
+    "card": "../img/card/violence.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/violence-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Violence"
+  },
+  "name": "Violence",
+  "type": "Revolver",
+  "description": "The Violence is a Legendary Gearbox Revolver from Enhanced. It is known for strong damage, fast fire rate, quick reload.",
+  "manufacturer": [
+    "Gearbox"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "multiplier": [
+    3.0
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "Death will reign.",
+    "description": "Boosts strong damage, fast fire rate, large magazine."
+  },
+  "ranges": {
+    "damage": [
+      41.0,
+      818.0
+    ],
+    "accuracy": [
+      94.4
+    ],
+    "rate": [
+      2.0
+    ],
+    "mag": [
+      3.0
+    ]
+  },
+  "max": {
+    "damage": 818,
+    "accuracy": 94.4,
+    "fire_rate": 2,
+    "mag_size": 3,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Raid Boss",
+        "Craw's Lair"
+      ]
+    },
+    {
+      "name": "Destroyer Chest",
+      "tags": [
+        "Chest",
+        "The Vault"
+      ]
+    },
+    {
+      "name": "Skagzilla",
+      "tags": [
+        "Unique Enemy",
+        "DAHL Headland"
+      ]
+    }
+  ]
+}

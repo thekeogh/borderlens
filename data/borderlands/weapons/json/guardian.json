@@ -1,0 +1,291 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/guardian.png",
+    "card": "../img/card/guardian.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/guardian-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Guardian_(rifle)"
+  },
+  "name": "Guardian",
+  "type": "Assault Rifle",
+  "description": "The Guardian is a Legendary Tediore Assault Rifle from Base Game. It is known for notable accuracy, strong damage, elemental potential. It fires in bursts and fires semi-auto.",
+  "manufacturer": [
+    "Tediore"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    2.0
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "Hold your ground... Forever.",
+    "description": "Boosts strong damage, large magazine, elemental potential. It fires in bursts and fires semi-auto."
+  },
+  "ranges": {
+    "damage": [
+      64.0,
+      539.0
+    ],
+    "accuracy": [
+      85.4,
+      94.6
+    ],
+    "rate": [
+      3.0,
+      7.7
+    ],
+    "mag": [
+      6.0,
+      18.0
+    ]
+  },
+  "parts": {
+    "Barrel": [
+      {
+        "name": "Barrel_1",
+        "modifiers": [
+          "-4% Damage"
+        ]
+      },
+      {
+        "name": "Barrel_3",
+        "modifiers": [
+          "+10% Damage",
+          "+30% Accuracy",
+          "-50% Spread",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Barrel_4",
+        "modifiers": [
+          "+30% Damage",
+          "-10% Max Inaccuracy",
+          "+40% Max Accuracy",
+          "-30% Spread",
+          "+35% Recoil"
+        ]
+      },
+      {
+        "name": "Barrel_5",
+        "modifiers": [
+          "+15% Damage",
+          "-40% Max Inaccuracy",
+          "+150% Max Accuracy",
+          "-50% Recoil",
+          "-130% Spread"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_1",
+        "modifiers": []
+      },
+      {
+        "name": "Pounder",
+        "modifiers": [
+          "+52% Damage",
+          "+40% Reload Speed",
+          "-67% Fire Rate",
+          "-6 Mag Size",
+          "-2 Burst Count"
+        ]
+      },
+      {
+        "name": "Mag_3",
+        "modifiers": [
+          "+6 Mag Size",
+          "-30% Reload Speed",
+          "-10% Equip Speed"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock None",
+        "modifiers": [
+          "-20% Max Inaccuracy",
+          "+100% Recoil Recovery",
+          "+30% Reload Speed",
+          "+40% Swap Speed",
+          "-50% Max Accuracy",
+          "+40% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_1",
+        "modifiers": [
+          "-30% Max Inaccuracy",
+          "+20% Recoil Recovery",
+          "-30% Recoil",
+          "+20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "2.5x Zoom",
+          "-35% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "3.0x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "3.5x Zoom",
+          "-30% Spread (aiming)",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "5.3x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "7.1x Zoom",
+          "-70% Spread (aiming)"
+        ]
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Intense",
+        "modifiers": [
+          "+50% Crit Damage",
+          "+40% Accuracy",
+          "-15% Spread",
+          "+2 Element Level"
+        ]
+      },
+      {
+        "name": "Deathly",
+        "modifiers": [
+          "+20% Damage",
+          "-25% Recoil",
+          "-25% Recoil Recovery"
+        ]
+      },
+      {
+        "name": "Fire",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Shock",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Corrosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Explosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      }
+    ],
+    "Material": [
+      {
+        "name": "Tediore_1",
+        "modifiers": [
+          "+70% Reload Speed",
+          "-20% Damage",
+          "+35% Spread"
+        ]
+      },
+      {
+        "name": "Tediore_2",
+        "modifiers": [
+          "+85% Reload Speed",
+          "-10% Damage",
+          "+25% Spread"
+        ]
+      },
+      {
+        "name": "Tediore_3",
+        "modifiers": [
+          "+100% Reload Speed",
+          "-5% Damage",
+          "+15% Spread"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 471,
+    "accuracy": 90.4,
+    "fire_rate": 7.7,
+    "mag_size": 18,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "AR Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

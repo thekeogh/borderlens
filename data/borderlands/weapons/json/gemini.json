@@ -1,0 +1,248 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/gemini.png",
+    "card": "../img/card/gemini.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/gemini-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Gemini_(pistol)"
+  },
+  "name": "Gemini",
+  "type": "Repeater",
+  "description": "The Gemini is a Legendary S&S Munitions Repeater from Base Game. It is known for large magazine, tighter spread, burst-fire behavior. It fires in bursts.",
+  "manufacturer": [
+    "S&S Munitions"
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "Double Whammy.",
+    "description": "Boosts large magazine, tighter spread, burst-fire behavior. It fires in bursts."
+  },
+  "ranges": {
+    "damage": [
+      109.0,
+      339.0
+    ],
+    "accuracy": [
+      78.7,
+      92.8
+    ],
+    "rate": [
+      2.6,
+      4.6
+    ],
+    "mag": [
+      36.0,
+      42.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+2 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      }
+    ],
+    "Barrel": [
+      {
+        "name": "Barrel_0",
+        "modifiers": [
+          "-50%Max Inaccuracy",
+          "-12% Recoil",
+          "-12% Max Accuracy",
+          "-13% Damage",
+          "+20% Spread"
+        ]
+      },
+      {
+        "name": "Barrel_1",
+        "modifiers": [
+          "-4% Damage"
+        ]
+      },
+      {
+        "name": "Barrel_2",
+        "modifiers": [
+          "-20% Max Inaccuracy",
+          "+15% Damage",
+          "-20% Max Accuracy",
+          "+28% Spread",
+          "+20% Recoil"
+        ]
+      },
+      {
+        "name": "Barrel_3",
+        "modifiers": [
+          "+30% Accuracy",
+          "+10% Damage",
+          "-50% Spread",
+          "+2 Element Level"
+        ]
+      },
+      {
+        "name": "Barrel_4",
+        "modifiers": [
+          "-10% Max Inaccuracy",
+          "+40% Max Accuracy",
+          "+30% Damage",
+          "-30% Spread",
+          "+1 Element Level",
+          "+35% Recoil"
+        ]
+      },
+      {
+        "name": "Barrel_5",
+        "modifiers": [
+          "-40% Max Inaccuracy",
+          "+150% Max Accuracy",
+          "+15% Damage",
+          "-130% Spread",
+          "-50% Recoil"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_1",
+        "modifiers": [
+          "+30% Reload Speed",
+          "+20% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_2",
+        "modifiers": [
+          "+4 Mag Size"
+        ]
+      },
+      {
+        "name": "Mag_2a",
+        "modifiers": [
+          "+6 Mag Size",
+          "+50% Reload Speed"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight None",
+        "modifiers": [
+          "-50% Move Speed (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "1.9x Zoom",
+          "-15% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "2.3x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "2.7x Zoom",
+          "-30% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "4.1x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "5.5x Zoom",
+          "-70% Spread (aiming)",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Material": [
+      {
+        "name": "S&S_1",
+        "modifiers": [
+          "+40% Mag Size",
+          "+1 Element Level",
+          "-19% Reload Speed"
+        ]
+      },
+      {
+        "name": "S&S_2",
+        "modifiers": [
+          "+5% Damage",
+          "+42% Mag Size",
+          "-200% Max Inaccuracy",
+          "+1 Element Level",
+          "-19% Reload Speed",
+          "-100% Recoil Recovery"
+        ]
+      },
+      {
+        "name": "S&S_3",
+        "modifiers": [
+          "+10% Damage",
+          "+50% Mag Size",
+          "+2 Element Level"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 291,
+    "accuracy": 87.2,
+    "fire_rate": 5.5,
+    "mag_size": 42,
+    "multiplier": 2,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "Repeater Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

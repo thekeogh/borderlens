@@ -1,0 +1,51 @@
+{
+  "images": {
+    "card": "../img/card/shredder.png"
+  },
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Shredder"
+  },
+  "name": "Shredder",
+  "type": "Shotgun",
+  "description": "Shredders are used much like Matadors but are weaker overall. They fire fewer pellets (11 instead of 12) and have wider spread, and because all Shredders also qualify for the Matador title, they are typically inferior to a true Matador.",
+  "notes": "The Shredder effect comes from the Title_Projectiles1_Shredder title granted by the barrel2_Shredder barrel. The barrel otherwise behaves like a standard barrel2, so the title is what creates the effect. See stat modifiers for details.",
+  "manufacturer": [
+    "Atlas",
+    "Dahl",
+    "Jakobs",
+    "Tediore",
+    "Torgue"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    2.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      66.0
+    ],
+    "accuracy": [
+      0.0,
+      48.4
+    ],
+    "rate": [
+      0.4,
+      1.8
+    ],
+    "mag": [
+      2.0,
+      13.0
+    ]
+  }
+}
