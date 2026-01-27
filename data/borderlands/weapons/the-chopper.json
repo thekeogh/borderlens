@@ -1,0 +1,219 @@
+{
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "images": {
+    "item": "../img/item/the-chopper.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/the-chopper-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/The_Chopper"
+  },
+  "name": "The Chopper",
+  "type": "Assault Rifle",
+  "description": "The Chopper is an Epic Vladof assault rifle from The Secret Armory of General Knoxx that fires nonstop once triggered, emptying the magazine unless interrupted by reload, melee, or weapon swap. It hits hard but burns ammo quickly and has low accuracy, so it favors close-to-mid range and ammo regeneration.",
+  "manufacturer": [
+    "Vladof"
+  ],
+  "rarity": [
+    "Epic"
+  ],
+  "special": {
+    "red": "RAR!  BRAR BRAR!",
+    "description": "Fires four bullets for six ammo with a very broad spread, increases fire rate and magazine size, and unloads the whole magazine per trigger pull unless interrupted; it never spawns with an element."
+  },
+  "ranges": {
+    "damage": [
+      108.0,
+      370.0
+    ],
+    "accuracy": [
+      0.0,
+      47.1
+    ],
+    "rate": [
+      11.6,
+      18.0
+    ],
+    "mag": [
+      518.0,
+      548.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+2 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      },
+      {
+        "name": "Body_5",
+        "modifiers": [
+          "+20% Damage",
+          "+50% Fire Rate",
+          "-20% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Barrel": [
+      {
+        "name": "Barrel_2",
+        "modifiers": [
+          "+15% Max Accuracy",
+          "-20% Spread",
+          "-20% Max Accuracy",
+          "+20% Recoil",
+          "+28% Spread"
+        ]
+      },
+      {
+        "name": "Barrel_3",
+        "modifiers": [
+          "+10% Damage",
+          "+30% Accuracy",
+          "-50% Spread",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Barrel_4",
+        "modifiers": [
+          "+30% Damage",
+          "-10% Max Inaccuracy",
+          "+40% Max Accuracy",
+          "-30% Spread",
+          "+35% Recoil"
+        ]
+      },
+      {
+        "name": "Barrel_5",
+        "modifiers": [
+          "+15% Damage",
+          "-40% Max Inaccuracy",
+          "+150% Max Accuracy",
+          "-50% Recoil",
+          "-130% Spread"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "+15% Damage",
+          "+12 Mag Size",
+          "-25% Reload Speed",
+          "-30% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_5",
+        "modifiers": [
+          "+18% Damage",
+          "+24 Mag Size",
+          "+1 Element Level",
+          "-35% Reload Speed",
+          "-50% Equip Speed"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight None",
+        "modifiers": [
+          "-50% Move Speed (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "3.2x Zoom",
+          "-35% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "2.5x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 364,
+    "accuracy": 6.4,
+    "fire_rate": 18,
+    "mag_size": 536,
+    "multiplier": 4,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Motor Head",
+      "tags": [
+        "Unique Enemy",
+        "The Ridgeway"
+      ]
+    }
+  ]
+}

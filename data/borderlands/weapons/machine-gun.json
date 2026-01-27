@@ -1,0 +1,41 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Machine_Gun_(Title)"
+  },
+  "name": "Machine Gun",
+  "type": "Assault Rifle",
+  "description": "Machine Gun is a support machine gun title that is generally balanced but often underwhelming. Stronger SMGs usually carry more distinctive titles like Mauler, Havoc, or Massacre.",
+  "manufacturer": [
+    "Atlas",
+    "S&S Munitions",
+    "Torgue",
+    "Vladof"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    2.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "accuracy": [
+      67.4
+    ],
+    "rate": [
+      9.8
+    ],
+    "mag": [
+      33.0,
+      86.0
+    ]
+  }
+}

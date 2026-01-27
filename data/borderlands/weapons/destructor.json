@@ -1,0 +1,37 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Destructor"
+  },
+  "name": "Destructor",
+  "type": "Launcher",
+  "description": "Destructor is a rocket launcher title that increases damage. It can appear with single-shot, burst-fire, or helix firing modes, usually with a one-round magazine, and it can roll with any element.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    4.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      1090.0
+    ],
+    "accuracy": [
+      93.3
+    ],
+    "rate": [
+      1.0
+    ],
+    "mag": [
+      1.0,
+      3.0
+    ]
+  }
+}

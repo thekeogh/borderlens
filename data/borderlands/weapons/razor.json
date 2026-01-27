@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Razor"
+  },
+  "name": "Razor",
+  "type": "Revolver",
+  "description": "Razors are revolvers with a bladed accessory that makes them only average guns but excellent melee weapons. The blade triples melee damage after other bonuses are applied, so they are best treated as a melee sidearm that also shoots.",
+  "notes": "The Razor accessory takes place of a possible elemental accessory, therefore you won't find Maliwan -made Razors.\nThe title \"Razor\" only appears should the revolver fail to qualify for a more prestigious title, such as Law , Justice or Viper .\nAll Razors have the highest-quality revolver melee accessory. Revolvers with the lower-quality double-damage melee accessory are in its place can roll the Bladed prefix.\nCritical hits in melee with the Razor will enjoy an additional 100% damage bonus not shown on the weapon's gun card. This bonus is applied alongside all other critical bonuses, but before the Razor tripling.\nAll pistols with melee accessories, including Razors, have a slower attack animation, requiring about 1.25 seconds for each melee strike. If the player presses the melee button while the animation is still playing, they may lose an attack round, and must wait for the duration of an attack until another melee swing becomes possible. To use them effectively, a player must not spam the melee button, but rather time the button presses carefully. Shotguns with melee accessories do not suffer from this problem.\nRazor is a Title( Title_Acc1_Razor ) that is granted to Revolvers with a top-rank blade accessory (or acc1_Razor ). Revolvers with the lesser double-damage accessory ( acc1_Bladed ) are in its place can roll the Bladed prefix. The characteristic of the weapon are granted by the accessory itself, not the title, which only appears should no other title be available. Please see stat modifiers for an explanation on how to interpret these modifiers.",
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      110.0,
+      1410.0
+    ],
+    "mag": [
+      2.0,
+      6.0
+    ]
+  }
+}

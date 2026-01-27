@@ -1,0 +1,30 @@
+{
+  "name": "borderlens",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "clear && open-cli https://dev.borderlens.tools:3000 && next dev --experimental-https --experimental-https-key .certs/key.pem --experimental-https-cert .certs/cert.pem",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.563.0",
+    "next": "16.1.5",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^5.7.1",
+    "@types/node": "^25.0.10",
+    "@types/react": "^19.2.10",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^9.39.2",
+    "eslint-config-next": "16.1.5",
+    "eslint-plugin-perfectionist": "^5.4.0",
+    "eslint-plugin-tsdoc": "^0.5.0",
+    "open-cli": "^8.0.0",
+    "typescript": "^5.9.3"
+  }
+}

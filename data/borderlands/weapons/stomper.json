@@ -1,0 +1,36 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Stomper_(Borderlands)"
+  },
+  "name": "Stomper",
+  "type": "Assault Rifle",
+  "description": "Stompers are high-damage shotguns with solid accuracy but slow projectile velocity, making them most effective up close. They excel in cover-heavy fights where you can dump a full magazine into a single target, then reload safely.",
+  "notes": "Stompers are only made by Dahl and Tediore; Hyperion does not produce them. They never spawn with elemental accessories. Because the Stomper effect is tied to a title, unique, legendary, and pearlescent weapons cannot have it. Lilith's High Velocity can help compensate for the slow projectile. The Stomper title (Title_Damage2_Stomper) is given to high-damage combat rifles, greatly increases damage, and significantly reduces bullet velocity. The Cobra title prevents Stompers with accuracy above about 93% from spawning. See stat modifiers for details.",
+  "manufacturer": [
+    "Dahl",
+    "Tediore"
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      273.0,
+      609.0
+    ],
+    "accuracy": [
+      87.0,
+      91.7
+    ],
+    "rate": [
+      7.7,
+      15.0
+    ],
+    "mag": [
+      12.0,
+      18.0
+    ]
+  }
+}

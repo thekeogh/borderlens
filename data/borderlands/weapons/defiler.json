@@ -1,0 +1,304 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/defiler.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/defiler-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Defiler_(revolver)"
+  },
+  "name": "Defiler",
+  "type": "Revolver",
+  "description": "The Defiler is a Legendary Maliwan revolver from the base game with a strong corrosive accessory and unusually high raw damage. It is effective at any range and is especially lethal against armored enemies like Crimson Lance, with corrosive damage that can spread via increased contagion to nearby targets.",
+  "manufacturer": [
+    "Maliwan"
+  ],
+  "elements": [
+    "Corrosive"
+  ],
+  "multiplier": [
+    4.0
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "Give Sick",
+    "description": "Massively increases damage with corrosive element level and chance; its corrosive shots can spread to nearby enemies through enhanced contagion."
+  },
+  "ranges": {
+    "damage": [
+      152.0,
+      1380.0
+    ],
+    "accuracy": [
+      89.3,
+      96.7
+    ],
+    "rate": [
+      1.0,
+      2.1
+    ],
+    "mag": [
+      2.0,
+      6.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "+1 Element Level",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      },
+      {
+        "name": "Body_5",
+        "modifiers": [
+          "+20% Damage",
+          "+50% Fire Rate",
+          "-20% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Barrel": [
+      {
+        "name": "Barrel_1",
+        "modifiers": [
+          "-4% Damage"
+        ]
+      },
+      {
+        "name": "Barrel_2",
+        "modifiers": [
+          "-20% Max Inaccuracy",
+          "+15% Damage",
+          "-20% Max Accuracy",
+          "+28% Spread",
+          "+20% Recoil"
+        ]
+      },
+      {
+        "name": "Barrel_3",
+        "modifiers": [
+          "+30% Accuracy",
+          "+10% Damage",
+          "-50% Spread",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Barrel_4",
+        "modifiers": [
+          "-10% Max Inaccuracy",
+          "+40% Max Accuracy",
+          "+30% Damage",
+          "-30% Spread",
+          "+1 Element Level",
+          "+35% Recoil"
+        ]
+      },
+      {
+        "name": "Barrel_5",
+        "modifiers": [
+          "-40% Max Inaccuracy",
+          "+150% Max Accuracy",
+          "+15% Damage",
+          "-130% Spread",
+          "-50% Recoil"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_1",
+        "modifiers": [
+          "+30% Reload Speed",
+          "+50% Equip Speed",
+          "-18% Damage"
+        ]
+      },
+      {
+        "name": "Mag_2",
+        "modifiers": []
+      },
+      {
+        "name": "Mag_3",
+        "modifiers": [
+          "+15% Reload Speed",
+          "+3 Element Level",
+          "-3 Mag Size"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "+21% Fire Rate",
+          "+10% Reload Speed",
+          "+15% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_5",
+        "modifiers": [
+          "+102% Damage",
+          "+50% Reload Speed",
+          "+30% Equip Speed",
+          "+2 Element Level",
+          "-4 Mag Size"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock None",
+        "modifiers": [
+          "-20% Max Inaccuracy",
+          "+100% Recoil Recovery",
+          "+30% Reload Speed",
+          "+40% Swap Speed",
+          "-50% Max Accuracy",
+          "+40% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_1",
+        "modifiers": [
+          "+30% Accuracy",
+          "+20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "+30% Swap Speed",
+          "-30% Reload Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight None",
+        "modifiers": [
+          "-50% Move Speed (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "2.1x Zoom",
+          "-15% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "2.6x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "3.0x Zoom",
+          "-30% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "4.6x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "6.1x Zoom",
+          "-70% Spread (aiming)"
+        ]
+      }
+    ],
+    "Material": [
+      {
+        "name": "Maliwan_1",
+        "modifiers": [
+          "+4 Element Level"
+        ]
+      },
+      {
+        "name": "Maliwan_2",
+        "modifiers": [
+          "+5% Damage",
+          "+11% Reload Speed",
+          "-11% Spread",
+          "+4 Element Level"
+        ]
+      },
+      {
+        "name": "Maliwan_3",
+        "modifiers": [
+          "+10% Damage",
+          "+25% Reload Speed",
+          "-25% Spread",
+          "+5 Element Level"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 1405,
+    "accuracy": 94.6,
+    "fire_rate": 1.9,
+    "mag_size": 2,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "Revolver Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

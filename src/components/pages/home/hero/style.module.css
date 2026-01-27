@@ -1,0 +1,58 @@
+.root {
+
+  /* Background flare */
+  .flare {
+    filter: blur(100px);
+    background-image: linear-gradient(to right, var(--color-orange-500), var(--color-orange-400), var(--color-orange-500));
+    top: -2rem;
+    right: -2rem;
+    bottom: -2rem;
+    left: -2rem;
+    position: absolute;
+    opacity: .3;
+    z-index: -1;
+  }
+
+  /* Logo */
+  h1 {
+    margin-bottom: var(--spacing-md);
+    .logo {
+      filter: drop-shadow(0 0 50px rgba(250, 115, 21, .8));
+      width: 100%;
+      height: auto;
+      margin: 0 auto;
+    }
+  }
+
+  /* Tagline */
+  .tagline {
+    margin-bottom: var(--spacing-md);
+    font-family: var(--font-family-title);
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-md);
+    color: var(--color-zinc-100);
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.1;
+  }
+
+}
+
+/*
+|------------------------------------------------------------------------------
+| Responsive
+|------------------------------------------------------------------------------
+*/
+
+/*
+ * Small phones
+ *
+ * Covers most iPhones, small Android devices
+ */
+@media (max-width: 480px) {
+  .root {
+    .tagline {
+      font-size: var(--font-size-md);
+    }
+  }
+}

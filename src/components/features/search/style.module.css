@@ -1,0 +1,32 @@
+.root {
+  position: relative;
+
+  /* Input */
+  .control {
+    --shadow: rgba(250, 115, 21, .5);
+    transition: all .2s ease-in-out;
+    filter: drop-shadow(0 0 10px var(--shadow));
+    width: 100%;
+    padding: var(--spacing-xs);
+    padding-left: calc(var(--spacing-xs) * 2 + var(--spacing-xs));
+    background-color: var(--color-zinc-900);
+    font-size: var(--font-size-base);
+    border: solid 2px var(--shadow);
+    &:focus, &:active {
+      filter: drop-shadow(0 0 10px var(--color-orange-500));
+      border-color: var(--color-orange-500);
+    }
+  }
+
+  /* Search icon to left of input */
+  .magnify {
+    transform: translateY(-50%);
+    color: var(--color-orange-600);
+    left: var(--spacing-xs);
+    top: 50%;
+    position: absolute;
+    z-index: 2;
+    opacity: .8;
+  }
+
+}

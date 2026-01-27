@@ -1,7 +1,33 @@
 # Borderlens
 
-Borderlens is a weapon database and reference site for the Borderlands series, built to make sense of how weapons actually work. It focuses on clear, accurate data around weapon stats, part combinations, and legendary behaviour, without the noise.
+A weapon database for the Borderlands series with clear data on stats, parts, and legendary behaviour. Currently focused on Borderlands 1, with a Claptrap-powered AI assistant to help explore weapons, compare stats, and understand part effects.
 
-The site currently centres on Borderlands 1, providing full weapon breakdowns, stat ranges driven by parts, and reliable drop source information. Whether you are planning a build, farming a specific legendary, or trying to understand why a weapon rolled the way it did, Borderlens aims to give you answers quickly.
+## Architecture
 
-To support that, Borderlens includes a Claptrap-powered AI assistant that helps you explore the data more easily. It can look up weapons, compare stats, explain part effects, and help reason about perfect rolls, all without breaking your flow.
+- **Stack**: Next.js 16, TypeScript, deployed to Vercel using Server Actions and Client Components.
+- **Data structure**: Individual JSON files in `data/` are compiled at build time into single `*.json` files per category stored in `src/database/*`.
+- **Validation**: A single Zod schema validates all data during the build process and `infer`'s types across the application.
+- **Querying**: Server Components use pure TypeScript to query the database for listing/detail pages. Interactive features (search) use Server Actions with `Fuse.js` for fuzzy matching.
+- **Build process**: `npm run build` → Validate with Zod → Compile JSONs → `next build`. Invalid data fails the build in both local and CI/CD environments.
+
+### Project Structure
+
+For a detailed breakdown of the application architecture, folder organisation, and code examples, see [STRUCTURE.md](./STRUCTURE.md).
+
+## Setup
+
+### Development SSL
+
+> [!IMPORTANT]
+> You must complete this setup before running the development server. The server only works over HTTPS and will only serve on `dev.borderlens.tools`.
+
+**Install mkcert:**
+```bash
+brew install mkcert
+```
+
+**Generate development certificates:**
+```bash
+mkdir -p .certs
+mkcert -key-file .certs/key.pem -cert-file .certs/cert.pem "dev.borderlens.tools" localhost 127.0.0.1
+```

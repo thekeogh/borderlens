@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/The_Big_Toe"
+  },
+  "name": "The Big Toe",
+  "type": "Launcher",
+  "description": "The Big Toe is a unique launcher that behaves more like a grenade launcher, excelling against groups or a single tough target. It always fires incendiary, arcing shots that detonate after impact.",
+  "notes": "Due to being scrapped, this weapon has no animation when the player is sprinting.",
+  "manufacturer": [
+    "Dahl"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ]
+}

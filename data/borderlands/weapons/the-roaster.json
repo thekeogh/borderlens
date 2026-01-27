@@ -1,0 +1,263 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/the-roaster.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/the-roaster-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/The_Roaster"
+  },
+  "name": "The Roaster",
+  "type": "Launcher",
+  "description": "The Roaster is an Epic Maliwan launcher from the base game that is always incendiary but otherwise has no special mechanics. It should be used according to its barrel type, as it is generally only as good as a comparable non-unique launcher.",
+  "manufacturer": [
+    "Maliwan"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "multiplier": [
+    4.0
+  ],
+  "rarity": [
+    "Epic"
+  ],
+  "special": {
+    "red": "Gonna cook someone today",
+    "description": "Always incendiary with increased element level, tighter spread, and faster reloads; it can merge with the Rhino to form the Rhino Roaster hybrid."
+  },
+  "ranges": {
+    "damage": [
+      357.0,
+      1479.0
+    ],
+    "accuracy": [
+      79.7,
+      93.2
+    ],
+    "rate": [
+      0.7,
+      5.0
+    ],
+    "mag": [
+      1.0,
+      6.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_5",
+        "modifiers": [
+          "+50% Fire Rate",
+          "+20% Damage",
+          "+1 Element Level",
+          "-20% Recoil"
+        ]
+      }
+    ],
+    "Barrel": [
+      {
+        "name": "1 Shot",
+        "modifiers": [
+          "+25% Damage",
+          "-1 Mag Size"
+        ]
+      },
+      {
+        "name": "2 Shot",
+        "modifiers": []
+      },
+      {
+        "name": "3 Shot",
+        "modifiers": [
+          "+1 Mag Size",
+          "-20% Damage"
+        ]
+      },
+      {
+        "name": "Helix",
+        "modifiers": [
+          "+1 Mag Size",
+          "+2 Projectiles",
+          "-20% Damage",
+          "3 Rockets follow",
+          "Helix Pattern"
+        ]
+      },
+      {
+        "name": "Spread",
+        "modifiers": [
+          "5-Round Burst",
+          "+3 Mag Size",
+          "+600% Fire Rate",
+          "-20% Damage"
+        ]
+      },
+      {
+        "name": "Triple",
+        "modifiers": [
+          "3-Round Burst",
+          "+1 Mag Size",
+          "+300% Fire Rate",
+          "-20% Damage",
+          "+200% Spread"
+        ]
+      },
+      {
+        "name": "Rhino",
+        "modifiers": [
+          "+4 Element Level",
+          "Consecutive Explosions",
+          "along flight path"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_1",
+        "modifiers": [
+          "+10% Reload Speed",
+          "-10% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_2",
+        "modifiers": [
+          "+20% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_3",
+        "modifiers": [
+          "+30% Reload Speed",
+          "+25% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "+15% Damage",
+          "-30% Reload Speed",
+          "-20% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_5",
+        "modifiers": [
+          "+25% Mag Size",
+          "+40% Reload Speed",
+          "+20% Equip Speed"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "1.8x Zoom",
+          "-15% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "2.2x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "2.6x Zoom",
+          "-30% Spread (aiming)",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "3.9x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "5.2x Zoom",
+          "-70% Spread (aiming)"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 2076,
+    "accuracy": 93.2,
+    "fire_rate": 2.5,
+    "mag_size": 6,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Taylor Kobb",
+      "tags": [
+        "Unique Enemy",
+        "Rust Commons East"
+      ]
+    }
+  ]
+}

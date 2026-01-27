@@ -1,0 +1,264 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/reavers-edge.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/reavers-edge-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Reaver%27s_Edge"
+  },
+  "name": "Reaver's Edge",
+  "type": "Sniper",
+  "description": "Reaver's Edge is an Epic Dahl sniper rifle from the base game with very high zoom and tech, second only to the Cyclops. Its strong scope makes it awkward up close, and its flexible part pool means its role can vary widely by roll.",
+  "manufacturer": [
+    "DAHL"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    2.0,
+    3.0
+  ],
+  "rarity": [
+    "Epic"
+  ],
+  "special": {
+    "red": "The cutting edge",
+    "description": "Adds magazine size and element level at the cost of damage, plus high zoom; it can merge with the Penetrator to form the Reaver's Penetrator hybrid."
+  },
+  "ranges": {
+    "damage": [
+      200.0,
+      721.0
+    ],
+    "accuracy": [
+      92.8,
+      97.8
+    ],
+    "rate": [
+      1.2,
+      2.1
+    ],
+    "mag": [
+      7.0,
+      9.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "+1 Element Level",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_5",
+        "modifiers": [
+          "+20% Damage",
+          "+50% Fire Rate",
+          "-20% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Barrel": [
+      {
+        "name": "Barrel_1",
+        "modifiers": [
+          "-4% Damage"
+        ]
+      },
+      {
+        "name": "Barrel_2",
+        "modifiers": [
+          "+15% Damage",
+          "-20% Max Inaccuracy",
+          "+1 Element Level",
+          "-20% Max Accuracy",
+          "+20% Recoil",
+          "+28% Spread"
+        ]
+      },
+      {
+        "name": "Barrel_3",
+        "modifiers": [
+          "+10% Damage",
+          "+30% Accuracy",
+          "-50% Spread"
+        ]
+      },
+      {
+        "name": "Barrel_4",
+        "modifiers": [
+          "+30% Damage",
+          "-10% Max Inaccuracy",
+          "+40% Max Accuracy",
+          "-30% Spread",
+          "+2 Element Level",
+          "+35% Recoil"
+        ]
+      },
+      {
+        "name": "Barrel_5",
+        "modifiers": [
+          "+15% Damage",
+          "-40% Max Inaccuracy",
+          "+150% Max Accuracy",
+          "-50% Recoil",
+          "-130% Spread"
+        ]
+      },
+      {
+        "name": "Penetrator",
+        "modifiers": [
+          "Full-Auto",
+          "+150% Fire Rate",
+          "+3 Mag Size",
+          "-150% Recoil",
+          "+2 Element Level"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_2",
+        "modifiers": []
+      },
+      {
+        "name": "Mag_5",
+        "modifiers": [
+          "+2 Mag Size",
+          "+50% Reload Speed",
+          "+21% Fire Rate",
+          "+15% Equip Speed"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock_1",
+        "modifiers": [
+          "-30% Max Inaccuracy",
+          "-30% Recoil",
+          "+20% Recoil Recovery",
+          "+20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil"
+        ]
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Brisk",
+        "modifiers": [
+          "+50% Fire Rate",
+          "+50% Reload Speed",
+          "+50% Swap Speed"
+        ]
+      },
+      {
+        "name": "Deep",
+        "modifiers": [
+          "+30% Damage"
+        ]
+      },
+      {
+        "name": "Sober",
+        "modifiers": [
+          "+40% Accuracy",
+          "+50% Recoil Recovery",
+          "-30% Spread",
+          "+2 Element Level"
+        ]
+      },
+      {
+        "name": "Fire",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Shock",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Corrosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Explosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 997,
+    "accuracy": 94.3,
+    "fire_rate": 4.6,
+    "mag_size": 12,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Reaver",
+      "tags": [
+        "Unique Enemy",
+        "Krom's Canyon"
+      ]
+    }
+  ]
+}

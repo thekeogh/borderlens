@@ -1,0 +1,32 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Masher"
+  },
+  "name": "Masher",
+  "type": "Revolver",
+  "description": "Mashers are revolvers with a shotgun-like multi-projectile effect that lowers accuracy but can cluster tightly at range compared with shotguns. With the right parts they can be extremely powerful for critical hits, and the Masher effect can appear on legendary revolvers because it comes from the accessory rather than the title.",
+  "notes": "Mordecai is especially suited for using Mashers. For example, a level 15 Hunter with the Gunslinger talents can outdamage guns 10 or more levels higher. Trespass and a decent Masher are especially effective against Guardians as they have low health and every one of the high-damaging bullets will penetrate the shields , particularly with a scope to provide range. The Gun Crazy skill offers a chance to double the amount of projectiles, so you can shoot 14 projectiles for a single bullet of revolver ammo. This can lead to most impressive damage.\nSince the Masher accessory takes the place of any possible elemental accessory, you won't find Maliwan-made mashers.\nMasher is a Title ( Title_Acc2_Masher ) which is given to Revolvers with the Masher accessory ( acc2_Masher ). The actual effect comes from the accessory, which increases the amount of projectiles to 7, as well as greatly increasing Recoil and Spread. Please see stat modifiers for an explanation on how to interpret all of these modifiers.",
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      53.0,
+      545.0
+    ],
+    "accuracy": [
+      67.7,
+      91.7
+    ],
+    "rate": [
+      0.6,
+      2.3
+    ],
+    "mag": [
+      2.0,
+      6.0
+    ]
+  }
+}

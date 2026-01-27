@@ -1,0 +1,54 @@
+{
+  "content": "Enhanced",
+  "dlc": true,
+  "images": {
+    "item": "../img/item/sucker-punch.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/sucker-punch-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Sucker_Punch"
+  },
+  "name": "Sucker Punch",
+  "type": "Repeater",
+  "description": "The Sucker Punch is a Legendary Gearbox repeater from Borderlands 1 Enhanced Edition. It plays like a standard repeater but adds a massive melee bonus, making it a strong sidearm for melee-focused builds.",
+  "manufacturer": [
+    "Gearbox"
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "Your shoelace is untied...",
+    "description": "Grants +500% melee damage with increased gun damage and faster reloads."
+  },
+  "max": {
+    "damage": 224,
+    "accuracy": 83.3,
+    "fire_rate": 10.8,
+    "mag_size": 28,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Raid Boss",
+        "Craw's Lair"
+      ]
+    },
+    {
+      "name": "Destroyer Chest",
+      "tags": [
+        "Chest",
+        "The Vault"
+      ]
+    },
+    {
+      "name": "Skagzilla",
+      "tags": [
+        "Unique Enemy",
+        "DAHL Headland"
+      ]
+    }
+  ]
+}

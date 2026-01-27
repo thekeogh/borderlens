@@ -1,0 +1,62 @@
+{
+  "content": "Enhanced",
+  "dlc": true,
+  "images": {
+    "item": "../img/item/mug-shot.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/mug-shot-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Mug_Shot"
+  },
+  "name": "Mug Shot",
+  "type": "Assault Rifle",
+  "description": "The Mug Shot is a Legendary Gearbox assault rifle from Borderlands 1 Enhanced Edition. It is a 3-round burst rifle with a significant zoom boost, giving it a punchy mid-range feel despite its straightforward stats.",
+  "manufacturer": [
+    "Gearbox"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "Does your face hurt? It's killin' me...",
+    "description": "3-round burst rifle with increased damage and a notably higher weapon zoom."
+  },
+  "ranges": {
+    "mag": [
+      18.0
+    ]
+  },
+  "max": {
+    "damage": 544,
+    "accuracy": 95.3,
+    "fire_rate": 7.7,
+    "mag_size": 18,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Raid Boss",
+        "Craw's Lair"
+      ]
+    },
+    {
+      "name": "Destroyer Chest",
+      "tags": [
+        "Chest",
+        "The Vault"
+      ]
+    },
+    {
+      "name": "Skagzilla",
+      "tags": [
+        "Unique Enemy",
+        "DAHL Headland"
+      ]
+    }
+  ]
+}

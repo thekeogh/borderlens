@@ -1,0 +1,54 @@
+.root {
+  position: relative;
+
+  /* Padding */
+  &.padding-sm {
+    padding-top: var(--spacing-sm);
+    padding-bottom: var(--spacing-sm);
+  }
+  &.padding-md {
+    padding-top: var(--spacing-md);
+    padding-bottom: var(--spacing-md);
+  }
+  &.padding-lg {
+    padding-top: var(--spacing-lg);
+    padding-bottom: var(--spacing-lg);
+  }
+
+  /* Internal container (max-width) */
+  & > div {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    &.wide {
+      max-width: var(--dimension-container-wide);
+    }
+    &.narrow {
+      max-width: var(--dimension-container-narrow);
+    }
+  }
+
+  /* Bottom border/separator */
+  &.separator {
+    --border-height: 4px;
+    margin-bottom: var(--border-height);
+    &::after {
+      content: "";
+      height: 4px;
+      background-image: linear-gradient(
+        to right,
+        transparent 0%,
+        transparent 5%,
+        var(--color-orange-500) 50%,
+        transparent 95%,
+        transparent 100%
+      );
+      left: 0;
+      right: 0;
+      bottom: calc(-1 * var(--border-height));
+      position: absolute;
+    }
+  }
+
+}

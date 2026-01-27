@@ -1,0 +1,274 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/bastard.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/bastard-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Bastard"
+  },
+  "name": "Bastard",
+  "type": "Assault Rifle",
+  "description": "The Bastard is a Legendary Torgue assault rifle from the base game. It embodies Torgue firepower with very high damage and a larger magazine, but lower accuracy and heavier recoil, making it best for medium-to-close support fire and recoil-control builds.",
+  "manufacturer": [
+    "Torgue"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    2.0
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "TORGUE!  Bastard Guns for Bastard People!",
+    "description": "Greatly boosts damage, magazine size, and element level at the cost of worse recoil and accuracy."
+  },
+  "ranges": {
+    "damage": [
+      79.0,
+      598.0
+    ],
+    "accuracy": [
+      65.0,
+      67.0
+    ],
+    "rate": [
+      5.2,
+      11.5
+    ],
+    "mag": [
+      31.0,
+      76.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+2 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      },
+      {
+        "name": "Body_5",
+        "modifiers": [
+          "+20% Damage",
+          "+50% Fire Rate",
+          "-20% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_2",
+        "modifiers": [
+          "+15% Reload Speed",
+          "+25% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "+15% Damage",
+          "+12 Mag Size",
+          "-25% Reload Speed",
+          "-30% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_5",
+        "modifiers": [
+          "+18% Damage",
+          "+24 Mag Size",
+          "+1 Element Level",
+          "-35% Reload Speed",
+          "-50% Equip Speed"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight None",
+        "modifiers": [
+          "-50% Move Speed (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "3.2x Zoom",
+          "-35% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "2.5x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Frantic",
+        "modifiers": [
+          "+30% Fire Rate",
+          "+60% Reload Speed"
+        ]
+      },
+      {
+        "name": "Shattering",
+        "modifiers": [
+          "+30% Damage",
+          "+60% Reload Speed"
+        ]
+      },
+      {
+        "name": "Deathly",
+        "modifiers": [
+          "+20% Damage",
+          "-25% Recoil",
+          "-25% Recoil Recovery"
+        ]
+      },
+      {
+        "name": "Fire",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Shock",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Corrosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Explosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      }
+    ],
+    "Material": [
+      {
+        "name": "Torgue_1",
+        "modifiers": [
+          "+20% Damage",
+          "+16% Fire Rate",
+          "+54% Recoil",
+          "+35% Spread"
+        ]
+      },
+      {
+        "name": "Torgue_2",
+        "modifiers": [
+          "+25% Damage",
+          "+16% Fire Rate",
+          "+54% Recoil",
+          "+35% Spread"
+        ]
+      },
+      {
+        "name": "Torgue_3",
+        "modifiers": [
+          "+30% Damage",
+          "+16% Fire Rate",
+          "+54% Recoil",
+          "+35% Spread"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 609,
+    "accuracy": 67,
+    "fire_rate": 9.8,
+    "mag_size": 62,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "AR Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

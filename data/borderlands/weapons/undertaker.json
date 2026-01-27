@@ -1,0 +1,287 @@
+{
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "images": {
+    "item": "../img/item/undertaker.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/undertaker-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Undertaker"
+  },
+  "name": "Undertaker",
+  "type": "Launcher",
+  "description": "The Undertaker is a Pearlescent Torgue launcher from The Secret Armory of General Knoxx and one of the strongest rocket launchers in the game. It is always a single-shot launcher with huge damage, fire rate, and blast radius, rivaled only by the Redemption for per-shot damage.",
+  "manufacturer": [
+    "Torgue"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive"
+  ],
+  "multiplier": [
+    4.0
+  ],
+  "rarity": [
+    "Pearlescent"
+  ],
+  "special": {
+    "red": "Take 'em UNDER.",
+    "description": "Greatly increases damage, fire rate, magazine size, and explosion radius with a tighter spread."
+  },
+  "ranges": {
+    "damage": [
+      1808.0,
+      3152.0
+    ],
+    "accuracy": [
+      88.8,
+      97.2
+    ],
+    "rate": [
+      1.3,
+      1.6
+    ],
+    "mag": [
+      8.0,
+      10.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_5",
+        "modifiers": [
+          "+50% Fire Rate",
+          "+20% Damage",
+          "+1 Element Level",
+          "-20% Recoil"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_1",
+        "modifiers": [
+          "+10% Reload Speed",
+          "-10% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_2",
+        "modifiers": [
+          "+20% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_3",
+        "modifiers": [
+          "+30% Reload Speed",
+          "+25% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "+15% Damage",
+          "-30% Reload Speed",
+          "-20% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_5",
+        "modifiers": [
+          "+25% Mag Size",
+          "+40% Reload Speed",
+          "+20% Equip Speed"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "1.8x Zoom",
+          "-15% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "2.2x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "2.6x Zoom",
+          "-30% Spread (aiming)",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "3.9x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "5.2x Zoom",
+          "-70% Spread (aiming)"
+        ]
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Recoiless",
+        "modifiers": [
+          "-300% Spread",
+          "-300% Recoil",
+          "+50% Max Accuracy"
+        ]
+      },
+      {
+        "name": "Evil",
+        "modifiers": [
+          "+100% Max Accuracy",
+          "+50% Projectile Speed",
+          "+30% Fire Rate",
+          "+2 Element Level"
+        ]
+      },
+      {
+        "name": "Devastating",
+        "modifiers": [
+          "+35% Damage",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Fire",
+        "modifiers": [
+          "+2 Element Level"
+        ]
+      },
+      {
+        "name": "Shock",
+        "modifiers": [
+          "+2 Element Level"
+        ]
+      },
+      {
+        "name": "Corrosive",
+        "modifiers": [
+          "+2 Element Level"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 4670,
+    "accuracy": 88.8,
+    "fire_rate": 0.8,
+    "mag_size": 10,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Badass Rocketeer",
+      "tags": [
+        "Enemy",
+        "Deep Fathoms"
+      ]
+    },
+    {
+      "name": "Badass Infantry",
+      "tags": [
+        "Enemy",
+        "Road's End"
+      ]
+    },
+    {
+      "name": "Badass Bruiser",
+      "tags": [
+        "Enemy",
+        "Deep Fathoms"
+      ]
+    },
+    {
+      "name": "Drifter",
+      "tags": [
+        "Enemy",
+        "Sunken Sea"
+      ]
+    },
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Raid Boss",
+        "Craw's Lair"
+      ]
+    },
+    {
+      "name": "Lance Chest",
+      "tags": [
+        "Chest",
+        "Crimson Armory"
+      ]
+    }
+  ]
+}

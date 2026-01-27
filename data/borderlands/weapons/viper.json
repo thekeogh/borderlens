@@ -1,0 +1,42 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Viper"
+  },
+  "name": "Viper",
+  "type": "Revolver",
+  "description": "Viper revolvers are highly accurate but otherwise average. They can roll any accessory and are best used at mid range for critical hits against exposed targets.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    4.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "ranges": {
+    "damage": [
+      49.0,
+      570.0
+    ],
+    "accuracy": [
+      95.1,
+      96.7
+    ],
+    "rate": [
+      1.0,
+      1.9
+    ],
+    "mag": [
+      3.0,
+      6.0
+    ]
+  }
+}

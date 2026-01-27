@@ -1,0 +1,41 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Justice"
+  },
+  "name": "Justice",
+  "type": "Revolver",
+  "description": "Justice revolvers are defined by enhanced damage and can roll any elemental accessory. They still play like classic mid-range revolvers, rewarding exposed critical hits, and their high damage and accuracy make them viable stand-ins for sniper rifles.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    0.0,
+    4.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      666.0,
+      1490.0
+    ],
+    "accuracy": [
+      94.2,
+      97.0
+    ],
+    "rate": [
+      0.7,
+      1.9
+    ],
+    "mag": [
+      2.0,
+      6.0
+    ]
+  }
+}

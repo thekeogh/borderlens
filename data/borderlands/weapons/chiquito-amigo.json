@@ -1,0 +1,246 @@
+{
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "images": {
+    "item": "../img/item/chiquito-amigo.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/chiquito-amigo-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Chiquito_Amigo"
+  },
+  "name": "Chiquito Amigo",
+  "type": "Repeater",
+  "description": "The Chiquito Amigo is an Epic Tediore repeater from The Secret Armory of General Knoxx. It focuses on sustained fire with a larger magazine, high fire rate, and reduced recoil, but it pays for that with lower damage per shot.",
+  "manufacturer": [
+    "Tediore"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    3.0
+  ],
+  "rarity": [
+    "Epic"
+  ],
+  "special": {
+    "red": "Say \"Hello\"",
+    "description": "Increases fire rate, magazine size, element level, and recoil control while reducing damage; it can merge with the Protector repeater to create the Amigo Protector hybrid."
+  },
+  "ranges": {
+    "damage": [
+      95.0,
+      169.0
+    ],
+    "accuracy": [
+      80.8
+    ],
+    "rate": [
+      5.1,
+      8.9
+    ],
+    "mag": [
+      42.0,
+      63.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+2 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      },
+      {
+        "name": "Protector",
+        "modifiers": [
+          "+25% Damage",
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_1",
+        "modifiers": [
+          "+30% Reload Speed",
+          "+20% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_2",
+        "modifiers": [
+          "+4 Mag Size"
+        ]
+      },
+      {
+        "name": "Mag_2a",
+        "modifiers": [
+          "+6 Mag Size",
+          "+50% Reload Speed"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight None",
+        "modifiers": [
+          "-50% Move Speed (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "1.9x Zoom",
+          "-15% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "2.3x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "2.7x Zoom",
+          "-30% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "4.1x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "5.5x Zoom",
+          "-70% Spread (aiming)",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Fanged",
+        "modifiers": [
+          "+100% Melee Damage"
+        ]
+      },
+      {
+        "name": "Lacerator",
+        "modifiers": [
+          "+200% Melee Damage",
+          "+100% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stabilizer",
+        "modifiers": [
+          "+100% Recoil Recovery",
+          "-100% Recoil"
+        ]
+      },
+      {
+        "name": "Laser Sight",
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "+120% Max Accuracy",
+          "-100% Spread"
+        ]
+      },
+      {
+        "name": "Double Shot",
+        "modifiers": [
+          "+1 Projectile",
+          "+20% Mag Size",
+          "+1 Shot Cost",
+          "+75% Spread",
+          "-18% Damage"
+        ]
+      },
+      {
+        "name": "Fire",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Shock",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Corrosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Explosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 184,
+    "accuracy": 68.3,
+    "fire_rate": 8.9,
+    "mag_size": 66,
+    "multiplier": 2,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Purple Juice!",
+      "tags": [
+        "Quest",
+        "Sunken Sea"
+      ]
+    }
+  ]
+}

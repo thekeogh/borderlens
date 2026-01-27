@@ -1,0 +1,69 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/nailer.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/nailer-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Nailer"
+  },
+  "name": "Nailer",
+  "type": "Sniper",
+  "description": "The Nailer is a Rare Dahl sniper rifle from the base game. It is a semi-auto rifle with slightly increased damage but part restrictions that keep its overall rolls from becoming exceptional.",
+  "manufacturer": [
+    "DAHL"
+  ],
+  "elements": [
+    "Incendiary",
+    "Corrosive",
+    "Shock",
+    "Explosive"
+  ],
+  "rarity": [
+    "Rare"
+  ],
+  "special": {
+    "red": "Thwack!",
+    "description": "Slightly increased damage compared to standard semi-auto snipers."
+  },
+  "ranges": {
+    "damage": [
+      202.0,
+      865.0
+    ],
+    "accuracy": [
+      96.0,
+      96.7
+    ],
+    "rate": [
+      1.4
+    ],
+    "mag": [
+      7.0
+    ]
+  },
+  "max": {
+    "damage": 897,
+    "accuracy": 96,
+    "fire_rate": 1.4,
+    "mag_size": 7,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Bleeder",
+      "tags": [
+        "Unique Enemy",
+        "Trash Coast"
+      ]
+    },
+    {
+      "name": "House Hunting",
+      "tags": [
+        "Quest",
+        "Rust Commons East"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Massacre"
+  },
+  "name": "Massacre",
+  "type": "Assault Rifle",
+  "description": "Massacre is a long-range support machine gun title built around high accuracy and strong recoil reduction, making it effective for sustained fire at distance and mixed critical/body hits. The title is lower priority than Havoc, so it cannot reach the very highest fire-rate rolls.",
+  "notes": "Torgue and Vladof cannot manufacture Massacres because their best Support Machine Guns top out around 88.3 and 88.5 accuracy. The Massacre title (Accuracy1_Massacre) is awarded to high-accuracy Support Machine Guns and further improves recoil reduction.",
+  "manufacturer": [
+    "Atlas",
+    "S&S Munitions"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    2.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      43.0,
+      373.0
+    ],
+    "accuracy": [
+      91.3,
+      93.9
+    ],
+    "rate": [
+      4.5,
+      9.4
+    ],
+    "mag": [
+      34.0,
+      124.0
+    ]
+  }
+}

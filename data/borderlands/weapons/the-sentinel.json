@@ -1,0 +1,72 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/the-sentinel.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/the-sentinel-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/The_Sentinel_(rifle)"
+  },
+  "name": "The Sentinel",
+  "type": "Assault Rifle",
+  "description": "The Sentinel is an Uncommon Hyperion assault rifle from the base game with mostly fixed parts. It offers medium damage, low fire rate, and mediocre accuracy, and its strong scope is undercut by increased spread, so it often feels underwhelming.",
+  "manufacturer": [
+    "Hyperion"
+  ],
+  "elements": [
+    "Incendiary",
+    "Corrosive",
+    "Shock",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0
+  ],
+  "rarity": [
+    "Uncommon"
+  ],
+  "special": {
+    "red": "A watchful eye",
+    "description": "3-round burst rifle with improved reload speed and high zoom, but lower damage and accuracy/spread."
+  },
+  "ranges": {
+    "damage": [
+      70.0,
+      183.0
+    ],
+    "accuracy": [
+      90.3,
+      91.1
+    ],
+    "rate": [
+      7.7
+    ],
+    "mag": [
+      12.0
+    ]
+  },
+  "max": {
+    "damage": 324,
+    "accuracy": 90.3,
+    "fire_rate": 7.7,
+    "mag_size": 12,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Rakkinishu",
+      "tags": [
+        "Unique Enemy",
+        "Rust Commons West"
+      ]
+    },
+    {
+      "name": "Jack's Other Eye",
+      "tags": [
+        "Quest",
+        "New Haven"
+      ]
+    }
+  ]
+}

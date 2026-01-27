@@ -1,0 +1,38 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Fury"
+  },
+  "name": "Fury",
+  "type": "Repeater",
+  "description": "Fury machine pistols trade accuracy for extremely high fire rate. Heavy recoil makes them best in short bursts at mid range or spray-and-pray up close, and they chew through ammo quickly, so ammo regeneration helps. Many players use them to rapidly apply elemental damage before swapping weapons.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon"
+  ],
+  "ranges": {
+    "damage": [
+      7.0
+    ],
+    "accuracy": [
+      50.0,
+      79.1
+    ],
+    "rate": [
+      13.4,
+      18.1
+    ],
+    "mag": [
+      20.0,
+      32.0
+    ]
+  }
+}

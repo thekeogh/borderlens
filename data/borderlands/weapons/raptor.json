@@ -1,0 +1,47 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Raptor"
+  },
+  "name": "Raptor",
+  "type": "Repeater",
+  "description": "Raptor repeaters trade higher recoil for increased damage, making sustained fire difficult beyond medium-close range. They still excel at mid range and can roll any elemental accessory like other generic repeaters.",
+  "manufacturer": [
+    "Atlas",
+    "Dahl",
+    "Eridian",
+    "Hyperion",
+    "Maliwan",
+    "S&S Munitions",
+    "Tediore",
+    "Torgue",
+    "Vladof"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon"
+  ],
+  "ranges": {
+    "damage": [
+      8.0,
+      349.0
+    ],
+    "accuracy": [
+      85.0,
+      90.2
+    ],
+    "rate": [
+      3.9,
+      4.2
+    ],
+    "mag": [
+      12.0,
+      30.0
+    ]
+  }
+}

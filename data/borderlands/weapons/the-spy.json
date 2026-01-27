@@ -1,0 +1,75 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/the-spy.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/the-spy-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/The_Spy"
+  },
+  "name": "The Spy",
+  "type": "SMG",
+  "description": "The Spy is an Uncommon Hyperion SMG from the base game that trades damage and handling for a critical bonus. It offers a small crit boost but worse damage, reload speed, and spread, plus a heavier movement penalty while scoped.",
+  "manufacturer": [
+    "Hyperion"
+  ],
+  "elements": [
+    "Incendiary",
+    "Corrosive",
+    "Shock",
+    "Explosive"
+  ],
+  "multiplier": [
+    2.0,
+    3.0
+  ],
+  "rarity": [
+    "Uncommon"
+  ],
+  "special": {
+    "red": "I spy with my little eye...",
+    "description": "Adds about +35% critical damage but lowers damage and reload speed with wider spread, and doubles the movement-speed penalty while scoped."
+  },
+  "ranges": {
+    "damage": [
+      36.0,
+      220.0
+    ],
+    "accuracy": [
+      78.3,
+      86.7
+    ],
+    "rate": [
+      6.9,
+      16.3
+    ],
+    "mag": [
+      36.0,
+      43.0
+    ]
+  },
+  "max": {
+    "damage": 170,
+    "accuracy": 86.7,
+    "fire_rate": 8.3,
+    "mag_size": 36,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "King Wee Wee",
+      "tags": [
+        "Unique Enemy",
+        "Tetanus Warrens"
+      ]
+    },
+    {
+      "name": "King Tossing",
+      "tags": [
+        "Quest",
+        "New Haven"
+      ]
+    }
+  ]
+}

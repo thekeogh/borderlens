@@ -1,0 +1,48 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Wrath"
+  },
+  "name": "Wrath",
+  "type": "Sniper",
+  "description": "Wrath is a semi-auto sniper rifle title for high-quality rifles with strong damage and high tech. It usually indicates a powerful elemental accessory, and the title further boosts damage and tech level.",
+  "notes": "The Wrath title (Title_Tech1_Wrath) is granted to high-tech semi-auto sniper rifles. It generally indicates an elemental accessory, but rare non-elemental rolls can still qualify. The part boosts damage and further increases tech. See stat modifiers for details.",
+  "manufacturer": [
+    "Dahl",
+    "Hyperion",
+    "S&S Munitions",
+    "Torgue"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    2.0,
+    4.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "ranges": {
+    "damage": [
+      239.0,
+      1251.0
+    ],
+    "accuracy": [
+      96.2,
+      97.8
+    ],
+    "rate": [
+      1.4,
+      3.0
+    ],
+    "mag": [
+      5.0,
+      10.0
+    ]
+  }
+}

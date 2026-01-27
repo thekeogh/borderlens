@@ -1,0 +1,261 @@
+{
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "images": {
+    "item": "../img/item/kyros-power.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/kyros-power-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Kyros%27_Power"
+  },
+  "name": "Kyros' Power",
+  "type": "Sniper",
+  "description": "Kyros' Power is an Epic Atlas sniper rifle from The Secret Armory of General Knoxx that focuses on high explosive damage with transfusion effects. It behaves like a standard high-damage sniper, with its special behavior mainly coming from the transfusion trails when it hits health.",
+  "manufacturer": [
+    "Atlas"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "multiplier": [
+    0.0,
+    3.0
+  ],
+  "rarity": [
+    "Epic"
+  ],
+  "special": {
+    "red": "Good Touch",
+    "description": "Boosts damage, fire rate, magazine size, element level, and recoil control; when it hits health it can spawn two to three slow homing transfusion orbs that heal you, and it can merge with the Cyclops to form the Cyclops' Power hybrid."
+  },
+  "ranges": {
+    "damage": [
+      442.0,
+      1512.0
+    ],
+    "accuracy": [
+      95.7,
+      98.6
+    ],
+    "rate": [
+      0.5,
+      0.9
+    ],
+    "mag": [
+      3.0,
+      6.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "+1 Element Level",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      }
+    ],
+    "Barrel": [
+      {
+        "name": "Barrel_1",
+        "modifiers": [
+          "-4% Damage"
+        ]
+      },
+      {
+        "name": "Barrel_2",
+        "modifiers": [
+          "+15% Damage",
+          "-20% Max Inaccuracy",
+          "+1 Element Level",
+          "-20% Max Accuracy",
+          "+20% Recoil",
+          "+28% Spread"
+        ]
+      },
+      {
+        "name": "Barrel_3",
+        "modifiers": [
+          "+10% Damage",
+          "+30% Accuracy",
+          "-50% Spread"
+        ]
+      },
+      {
+        "name": "Barrel_4",
+        "modifiers": [
+          "+30% Damage",
+          "-10% Max Inaccuracy",
+          "+40% Max Accuracy",
+          "-30% Spread",
+          "+2 Element Level",
+          "+35% Recoil"
+        ]
+      },
+      {
+        "name": "Barrel_5",
+        "modifiers": [
+          "+15% Damage",
+          "-40% Max Inaccuracy",
+          "+150% Max Accuracy",
+          "-50% Recoil",
+          "-130% Spread"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_1",
+        "modifiers": []
+      },
+      {
+        "name": "Mag_3",
+        "modifiers": [
+          "+21% Damage",
+          "+15% Reload Speed",
+          "+3 Element Level",
+          "-3 Mag Size"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "+21% Fire Rate",
+          "+40% Reload Speed",
+          "+15% Equip Speed"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock_1",
+        "modifiers": [
+          "-30% Max Inaccuracy",
+          "-30% Recoil",
+          "+20% Recoil Recovery",
+          "+20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "3.3x Zoom",
+          "-15% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "4.0x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "4.7x Zoom",
+          "-30% Spread (aiming)",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "7.1x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "9.4x Zoom",
+          "-70% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Cyclops",
+        "modifiers": [
+          "21.3x Zoom",
+          "-100% Spread (aiming)",
+          "+3 Element Level",
+          "+100% Projectile Speed",
+          "+80% Crit Damage",
+          "+100% Max Accuracy"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 1495,
+    "accuracy": 97.4,
+    "fire_rate": 0.6,
+    "mag_size": 6,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Commander Kyros",
+      "tags": [
+        "Unique Enemy",
+        "The Ridgeway"
+      ]
+    }
+  ]
+}

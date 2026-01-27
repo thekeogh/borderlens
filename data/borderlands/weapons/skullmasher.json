@@ -1,0 +1,249 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/skullmasher.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/skullmasher-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Skullmasher_(Borderlands)"
+  },
+  "name": "Skullmasher",
+  "type": "Sniper",
+  "description": "The Skullmasher is a Legendary Jakobs sniper rifle from the base game that behaves like a scoped shotgun. It fires six pellets per shot with reduced accuracy per pellet but high overall damage and strong knockback, making close-to-medium range crits devastating.",
+  "manufacturer": [
+    "Jakobs"
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "Makes their brain hurt",
+    "description": "Fires six projectiles per shot with reduced accuracy and per-pellet damage, but high total damage and strong knockback (especially on XX variants)."
+  },
+  "ranges": {
+    "damage": [
+      82.0,
+      499.0
+    ],
+    "accuracy": [
+      91.3,
+      95.6
+    ],
+    "rate": [
+      0.3,
+      0.7
+    ],
+    "mag": [
+      3.0,
+      6.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "+1 Element Level",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_1",
+        "modifiers": []
+      },
+      {
+        "name": "Mag_3",
+        "modifiers": [
+          "+21% Damage",
+          "+15% Reload Speed",
+          "+3 Element Level",
+          "-3 Mag Size"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "+21% Fire Rate",
+          "+40% Reload Speed",
+          "+15% Equip Speed"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock_1",
+        "modifiers": [
+          "-30% Max Inaccuracy",
+          "-30% Recoil",
+          "+20% Recoil Recovery",
+          "+20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "3.3x Zoom",
+          "-15% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "4.0x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "4.7x Zoom",
+          "-30% Spread (aiming)",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "7.1x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "9.4x Zoom",
+          "-70% Spread (aiming)"
+        ]
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Rolling",
+        "modifiers": [
+          "+100% Reload Speed"
+        ]
+      },
+      {
+        "name": "Heavy",
+        "modifiers": [
+          "+18% Damage",
+          "+1 Element Level",
+          "+18% Recoil"
+        ]
+      },
+      {
+        "name": "Long",
+        "modifiers": [
+          "-25% Spread",
+          "+2 Element Level"
+        ]
+      }
+    ],
+    "Material": [
+      {
+        "name": "Jakobs_1",
+        "modifiers": [
+          "+35% Damage",
+          "-50% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Jakobs_2",
+        "modifiers": [
+          "+25% Damage",
+          "-50% Spread",
+          "+15% Zoom",
+          "-50% Fire Rate",
+          "+28% Recoil"
+        ]
+      },
+      {
+        "name": "Jakobs_3",
+        "modifiers": [
+          "+50% Damage",
+          "+600% Knockback",
+          "-50% Fire Rate",
+          "+45% Recoil",
+          "+60% Spread"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 507,
+    "accuracy": 91.3,
+    "fire_rate": 0.4,
+    "mag_size": 6,
+    "multiplier": 6,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "Sniper Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

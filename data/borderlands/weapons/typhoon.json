@@ -1,0 +1,296 @@
+{
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "images": {
+    "item": "../img/item/typhoon.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/typhoon-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Typhoon"
+  },
+  "name": "Typhoon",
+  "type": "SMG",
+  "description": "The Typhoon is an Epic Dahl SMG from The Secret Armory of General Knoxx. Its bullets ricochet and split into two zig-zagging shots after a short time, creating a spreading pattern while trading off some raw damage.",
+  "manufacturer": [
+    "DAHL"
+  ],
+  "rarity": [
+    "Epic"
+  ],
+  "special": {
+    "red": "Phooon!",
+    "description": "Fires a bullet that splits into two diverging, wiggly bullets while keeping full damage per shot, with faster reload speed but reduced damage."
+  },
+  "ranges": {
+    "damage": [
+      69.0,
+      216.0
+    ],
+    "accuracy": [
+      76.2,
+      91.7
+    ],
+    "rate": [
+      10.1,
+      16.3
+    ],
+    "mag": [
+      28.0,
+      55.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "+1 Element Level",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      },
+      {
+        "name": "Body_5",
+        "modifiers": [
+          "+50% Fire Rate",
+          "+20% Damage",
+          "-20% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Barrel": [
+      {
+        "name": "Barrel_1",
+        "modifiers": [
+          "-4% Damage"
+        ]
+      },
+      {
+        "name": "Barrel_2",
+        "modifiers": [
+          "+15% Damage",
+          "-20% Max Inaccuracy",
+          "-20% Max Accuracy",
+          "+20% Recoil",
+          "+28% Spread"
+        ]
+      },
+      {
+        "name": "Barrel_3",
+        "modifiers": [
+          "+10% Damage",
+          "+30% Accuracy",
+          "-50% Spread",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Barrel_4",
+        "modifiers": [
+          "+30% Damage",
+          "-10% Max Inaccuracy",
+          "+40% Max Accuracy",
+          "-30% Spread",
+          "+35% Recoil"
+        ]
+      },
+      {
+        "name": "Barrel_5",
+        "modifiers": [
+          "+15% Damage",
+          "-40% Max Inaccuracy",
+          "+150% Max Accuracy",
+          "-50% Recoil",
+          "-130% Spread"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Thumper",
+        "modifiers": [
+          "+70% Damage",
+          "+25% Reload Speed",
+          "+20% Equip Speed",
+          "-10 Mag Size",
+          "-200% Fire Rate"
+        ]
+      },
+      {
+        "name": "Mag_2",
+        "modifiers": [
+          "+15% Reload Speed"
+        ]
+      },
+      {
+        "name": "Mag_3",
+        "modifiers": [
+          "+8 Mag Size",
+          "+20% Reload Speed",
+          "+2 Element Level",
+          "-10% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "+27 Mag Size",
+          "-60% Reload Speed",
+          "-50% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_5",
+        "modifiers": [
+          "+18 Mag Size",
+          "+1 Element Level",
+          "-40% Reload Speed",
+          "-20% Equip Speed"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock None",
+        "modifiers": [
+          "-20% Max Inaccuracy",
+          "+100% Recoil Recovery",
+          "+30% Reload Speed",
+          "+40% Swap Speed",
+          "-50% Max Accuracy",
+          "+40% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_1",
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-30% Max Inaccuracy",
+          "-30% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight None",
+        "modifiers": [
+          "-50% Move Speed (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "2.1x Zoom",
+          "-15% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "2.5x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "2.9x Zoom",
+          "-30% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "4.4x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "5.9x Zoom",
+          "-70% Spread (aiming)"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 258,
+    "accuracy": 85.3,
+    "fire_rate": 16.3,
+    "mag_size": 36,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Commander Typhon",
+      "tags": [
+        "Unique Enemy",
+        "The Ridgeway"
+      ]
+    }
+  ]
+}

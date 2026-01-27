@@ -1,0 +1,121 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/rider.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/rider-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Rider"
+  },
+  "name": "Rider",
+  "type": "Sniper",
+  "description": "The Rider is a Rare Gearbox sniper rifle from the base game that never spawns with a scope. It has a large magazine and high fire rate but reduced base damage, making it a mid-range, scope-less sniper that is often considered weak due to limited farming windows.",
+  "manufacturer": [
+    "Gearbox"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0
+  ],
+  "rarity": [
+    "Rare"
+  ],
+  "special": {
+    "red": "Careful... you might put someone's eye out.",
+    "description": "Large magazine and high fire rate with reduced damage, and it never spawns with a scope."
+  },
+  "ranges": {
+    "damage": [
+      79.0,
+      155.0
+    ],
+    "accuracy": [
+      93.6,
+      95.1
+    ],
+    "rate": [
+      3.6,
+      4.3
+    ],
+    "mag": [
+      20.0
+    ]
+  },
+  "parts": {
+    "Accessory": [
+      {
+        "name": "Brisk",
+        "modifiers": [
+          "+50% Fire Rate",
+          "+50% Reload Speed",
+          "+50% Swap Speed"
+        ]
+      },
+      {
+        "name": "Deep",
+        "modifiers": [
+          "+30% Damage"
+        ]
+      },
+      {
+        "name": "Sober",
+        "modifiers": [
+          "+40% Accuracy",
+          "+50% Recoil Recovery",
+          "-30% Spread",
+          "+2 Element Level"
+        ]
+      },
+      {
+        "name": "Fire",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Shock",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Corrosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Explosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 189,
+    "accuracy": 93.6,
+    "fire_rate": 3.6,
+    "mag_size": 20,
+    "level": 39
+  },
+  "source": [
+    {
+      "name": "Hidden Basement",
+      "tags": [
+        "Easter Egg",
+        "New Haven"
+      ]
+    }
+  ]
+}

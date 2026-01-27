@@ -1,0 +1,50 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Needler"
+  },
+  "name": "Needler",
+  "type": "Repeater",
+  "description": "Needlers are pistol variants that sit between repeaters and machine pistols. They trade some damage for easier control and lower recoil, making them more manageable at close to mid range, though they still favor closer engagements due to accuracy limits.",
+  "notes": "The Needler effect is derived from the title Title_Firerate1_Needler . It is given to repeater pistols with high fire rates, granting them less recoil and larger magazine size. Although not a significant boost, the extra magazine size and reduced recoil work well with high fire rates.",
+  "manufacturer": [
+    "Atlas",
+    "Dahl",
+    "Eridian",
+    "Hyperion",
+    "Maliwan",
+    "S&S Munitions",
+    "Tediore",
+    "Torgue",
+    "Vladof"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "ranges": {
+    "damage": [
+      7.0,
+      234.0
+    ],
+    "accuracy": [
+      85.3,
+      94.7
+    ],
+    "rate": [
+      5.5,
+      7.4
+    ],
+    "mag": [
+      14.0,
+      22.0
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/wildcat.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/wildcat-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Wildcat"
+  },
+  "name": "Wildcat",
+  "type": "SMG",
+  "description": "The Wildcat is a Legendary Dahl SMG from the base game with an extended magazine but very poor accuracy. It offers little damage or fire-rate payoff for the accuracy loss, making it mostly a close-range spray weapon with strong elemental effect when present.",
+  "manufacturer": [
+    "DAHL"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    4.0
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "The ultimate close quarters feline.",
+    "description": "Increases magazine size and element level but widens spread and slows reload speed."
+  },
+  "ranges": {
+    "damage": [
+      30.0,
+      241.0
+    ],
+    "accuracy": [
+      0.0,
+      65.8
+    ],
+    "rate": [
+      6.9,
+      16.3
+    ],
+    "mag": [
+      70.0,
+      84.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "+1 Element Level",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      },
+      {
+        "name": "Body_5",
+        "modifiers": [
+          "+50% Fire Rate",
+          "+20% Damage",
+          "-20% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Barrel": [
+      {
+        "name": "Barrel_1",
+        "modifiers": [
+          "-4% Damage"
+        ]
+      },
+      {
+        "name": "Barrel_2",
+        "modifiers": [
+          "+15% Damage",
+          "-20% Max Inaccuracy",
+          "-20% Max Accuracy",
+          "+20% Recoil",
+          "+28% Spread"
+        ]
+      },
+      {
+        "name": "Barrel_3",
+        "modifiers": [
+          "+10% Damage",
+          "+30% Accuracy",
+          "-50% Spread",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Twisted",
+        "modifiers": [
+          "+10% Damage",
+          "+30% Accuracy",
+          "-50% Spread",
+          "+4 Element Level"
+        ]
+      },
+      {
+        "name": "Barrel_4",
+        "modifiers": [
+          "+30% Damage",
+          "-10% Max Inaccuracy",
+          "+40% Max Accuracy",
+          "-30% Spread",
+          "+35% Recoil"
+        ]
+      },
+      {
+        "name": "Barrel_5",
+        "modifiers": [
+          "+15% Damage",
+          "-40% Max Inaccuracy",
+          "+150% Max Accuracy",
+          "-50% Recoil",
+          "-130% Spread"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock None",
+        "modifiers": [
+          "-20% Max Inaccuracy",
+          "+100% Recoil Recovery",
+          "+30% Reload Speed",
+          "+40% Swap Speed",
+          "-50% Max Accuracy",
+          "+40% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_1",
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-30% Max Inaccuracy",
+          "-30% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "-30% Reload Speed",
+          "-30% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil",
+          "+1 Element Level"
+        ]
+      },
+      {
+        "name": "Stock_4",
+        "modifiers": [
+          "+100% Accuracy",
+          "+60% Recoil Recovery",
+          "-120% Recoil",
+          "-20% Reload Speed",
+          "-20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_5",
+        "modifiers": [
+          "+140% Accuracy",
+          "+80% Recoil Recovery",
+          "-150% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight None",
+        "modifiers": [
+          "-50% Move Speed (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "2.1x Zoom",
+          "-15% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "2.5x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "2.9x Zoom",
+          "-30% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "4.4x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "5.9x Zoom",
+          "-70% Spread (aiming)"
+        ]
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Relentless",
+        "modifiers": [
+          "+20% Fire Rate"
+        ]
+      },
+      {
+        "name": "Ruthless",
+        "modifiers": [
+          "-45% Recoil",
+          "+53% Reload Speed"
+        ]
+      },
+      {
+        "name": "Vector",
+        "modifiers": [
+          "+45% Fire Rate",
+          "-200% Recoil",
+          "+53% Reload Speed"
+        ]
+      },
+      {
+        "name": "Double",
+        "modifiers": [
+          "+1 Projectile",
+          "+20% Mag Size",
+          "-18% Damage",
+          "+75% Spread",
+          "+1 Shot Cost"
+        ]
+      },
+      {
+        "name": "Fire",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Shock",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Corrosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Explosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-20% Damage"
+        ]
+      }
+    ],
+    "Material": [
+      {
+        "name": "Dahl_1",
+        "modifiers": [
+          "-60% Max Inaccuracy",
+          "-30% Recoil",
+          "-23% Recoil Recovery",
+          "+20% Spread",
+          "-15% Max Accuracy"
+        ]
+      },
+      {
+        "name": "Dahl_2",
+        "modifiers": [
+          "+5% Damage",
+          "+24% Reload Speed",
+          "-60% Max Inaccuracy",
+          "-40% Recoil",
+          "-23% Recoil Recovery",
+          "+15% Spread",
+          "-10% Max Accuracy"
+        ]
+      },
+      {
+        "name": "Dahl_3",
+        "modifiers": [
+          "+10% Damage",
+          "-60% Max Inaccuracy",
+          "-80% Recoil",
+          "-23% Recoil Recovery",
+          "+15% Spread"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 230,
+    "accuracy": 25,
+    "fire_rate": 12.5,
+    "mag_size": 84,
+    "multiplier": 2,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "SMG Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

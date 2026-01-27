@@ -1,0 +1,41 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Rocket_Launcher_(Title)"
+  },
+  "name": "Rocket Launcher",
+  "type": "Launcher",
+  "description": "Rocket Launchers are explosive heavy weapons whose barrels determine firing patterns like burst, spread, or helix. Burst and spread models consume multiple rockets per shot, while helix barrels fire multiple mini-rockets for better damage per ammo. They excel against tightly packed enemies at long range where splash damage is maximized.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    4.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "ranges": {
+    "damage": [
+      319.0,
+      2034.0
+    ],
+    "accuracy": [
+      72.1,
+      98.3
+    ],
+    "rate": [
+      0.7,
+      5.0
+    ],
+    "mag": [
+      1.0,
+      6.0
+    ]
+  }
+}

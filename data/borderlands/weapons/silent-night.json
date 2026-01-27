@@ -1,0 +1,69 @@
+{
+  "content": "Enhanced",
+  "dlc": true,
+  "images": {
+    "item": "../img/item/silent-night.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/silent-night-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Silent_Night"
+  },
+  "name": "Silent Night",
+  "type": "Sniper",
+  "description": "The Silent Night is a Legendary Gearbox sniper rifle from Borderlands 1 Enhanced Edition with the highest critical bonus in the game. Its fixed parts, small magazine, and lack of elements limit its flexibility, but it can deliver huge crits when supported by magazine and accuracy boosts.",
+  "manufacturer": [
+    "Gearbox"
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "It knows when you're awake",
+    "description": "Enormous critical hit bonus (around +700\u2013800% pre-add)."
+  },
+  "ranges": {
+    "damage": [
+      47.0,
+      1065.0
+    ],
+    "accuracy": [
+      97.8
+    ],
+    "rate": [
+      0.8
+    ],
+    "mag": [
+      3.0
+    ]
+  },
+  "max": {
+    "damage": 1065,
+    "accuracy": 97.8,
+    "fire_rate": 0.8,
+    "mag_size": 3,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Raid Boss",
+        "Craw's Lair"
+      ]
+    },
+    {
+      "name": "Destroyer Chest",
+      "tags": [
+        "Chest",
+        "The Vault"
+      ]
+    },
+    {
+      "name": "Skagzilla",
+      "tags": [
+        "Unique Enemy",
+        "DAHL Headland"
+      ]
+    }
+  ]
+}

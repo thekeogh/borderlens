@@ -1,0 +1,42 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Law_(Borderlands)"
+  },
+  "name": "Law",
+  "type": "Revolver",
+  "description": "Law revolvers have a faster fire rate than other revolver titles and can roll any accessory. They still perform best at mid range with careful critical hits, with their accessory choice dictating their optimal role.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    0.0,
+    4.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "ranges": {
+    "damage": [
+      135.0,
+      1233.0
+    ],
+    "accuracy": [
+      88.1,
+      92.3
+    ],
+    "rate": [
+      1.6,
+      1.9
+    ],
+    "mag": [
+      2.0,
+      6.0
+    ]
+  }
+}

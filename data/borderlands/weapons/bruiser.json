@@ -1,0 +1,42 @@
+{
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Bruiser_(Title)"
+  },
+  "name": "Bruiser",
+  "type": "SMG",
+  "notes": "After killing Dr. Ned (the first time), he will drop a version of the Bruiser called the RF440 Relentless Bruiser. It is an SMG with the twisted barrel, giving it bullets that travel in a spiral trajectory and ricochet off of solid surfaces. It comes with a 55 round magazine and a distinct green and red color scheme.\nThe Bruiser effect comes from the Title_Damage1_Bruiser title. It is given to Submachine Guns that already have high damage, and further increases that damage by 15%. Note that the Stinger title has higher priority. Please see stat modifiers for an explanation on how to interpret all of these modifiers.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1.0,
+    4.0
+  ],
+  "rarity": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "ranges": {
+    "damage": [
+      10.0
+    ],
+    "accuracy": [
+      72.5,
+      94.9
+    ],
+    "rate": [
+      6.9,
+      12.1
+    ],
+    "mag": [
+      28.0,
+      66.0
+    ]
+  },
+  "description": "Bruiser is a title for SMGs that already have high damage, further boosting that damage by about 15%. It can appear on weapons from several manufacturers, and the Stinger title can override it for eligible rolls."
+}

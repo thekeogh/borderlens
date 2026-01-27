@@ -1,0 +1,115 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/whittings-elephant-gun.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/whittings-elephant-gun-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Whitting%27s_Elephant_Gun"
+  },
+  "name": "Whitting's Elephant Gun",
+  "type": "Sniper",
+  "description": "Whitting's Elephant Gun is an Epic Jakobs sniper rifle from the base game with extremely high accuracy and damage but no scope. It is a guaranteed quest reward, making it a reliable mid-range sniper option even without long-range zoom.",
+  "manufacturer": [
+    "Jakobs"
+  ],
+  "rarity": [
+    "Epic"
+  ],
+  "special": {
+    "red": "Why don't you go shoot yourself an elephant?",
+    "description": "Increased damage and fire rate with knockback, but broader spread and it never spawns with a scope."
+  },
+  "ranges": {
+    "damage": [
+      247.0,
+      2003.0
+    ],
+    "accuracy": [
+      98.3,
+      98.5
+    ],
+    "rate": [
+      0.5,
+      0.8
+    ],
+    "mag": [
+      6.0
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "+1 Element Level",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Rolling",
+        "modifiers": [
+          "+100% Reload Speed"
+        ]
+      },
+      {
+        "name": "Heavy",
+        "modifiers": [
+          "+18% Damage",
+          "+1 Element Level",
+          "+18% Recoil"
+        ]
+      },
+      {
+        "name": "Long",
+        "modifiers": [
+          "-25% Spread",
+          "+2 Element Level"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 2003,
+    "accuracy": 98.3,
+    "fire_rate": 0.5,
+    "mag_size": 6,
+    "level": 68
+  },
+  "source": [
+    {
+      "name": "Skagzilla",
+      "tags": [
+        "Unique Enemy",
+        "DAHL Headland"
+      ]
+    },
+    {
+      "name": "Big Game Hunter",
+      "tags": [
+        "Quest",
+        "DAHL Headland"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "content": "Base Game",
+  "dlc": false,
+  "images": {
+    "item": "../img/item/anaconda.png"
+  },
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/anaconda-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Anaconda_(Borderlands)"
+  },
+  "name": "Anaconda",
+  "type": "Revolver",
+  "description": "The Anaconda is a Legendary Dahl revolver from the base game with excellent damage and accuracy. It can roll a wide mix of scopes, elements, magazines, and bodies, and it performs best at mid range without any extra gimmicks beyond its raw stats.",
+  "manufacturer": [
+    "Dahl"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "multiplier": [
+    1,
+    3
+  ],
+  "rarity": [
+    "Legendary"
+  ],
+  "special": {
+    "red": "Long and Strong",
+    "description": "Its unique effect increases damage and accuracy while raising element level and reducing recoil."
+  },
+  "ranges": {
+    "damage": [
+      212,
+      1455
+    ],
+    "accuracy": [
+      85.2,
+      94.7
+    ],
+    "rate": [
+      1.0,
+      2.1
+    ],
+    "mag": [
+      2,
+      6
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_2",
+        "modifiers": [
+          "+10% Damage",
+          "-20% Fire Rate",
+          "+30% Recoil"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "+1 Element Level",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      },
+      {
+        "name": "Body_5",
+        "modifiers": [
+          "+20% Damage",
+          "+50% Fire Rate",
+          "-20% Recoil",
+          "+1 Element Level"
+        ]
+      }
+    ],
+    "Magazine": [
+      {
+        "name": "Mag_1",
+        "modifiers": [
+          "+30% Reload Speed",
+          "+50% Equip Speed",
+          "-18% Damage"
+        ]
+      },
+      {
+        "name": "Mag_2",
+        "modifiers": []
+      },
+      {
+        "name": "Mag_3",
+        "modifiers": [
+          "+15% Reload Speed",
+          "+3 Element Level",
+          "-3 Mag Size"
+        ]
+      },
+      {
+        "name": "Mag_4",
+        "modifiers": [
+          "+21% Fire Rate",
+          "+10% Reload Speed",
+          "+15% Equip Speed"
+        ]
+      },
+      {
+        "name": "Mag_5",
+        "modifiers": [
+          "+102% Damage",
+          "+50% Reload Speed",
+          "+30% Equip Speed",
+          "+2 Element Level",
+          "-4 Mag Size"
+        ]
+      }
+    ],
+    "Stock": [
+      {
+        "name": "Stock None",
+        "modifiers": [
+          "-20% Max Inaccuracy",
+          "+100% Recoil Recovery",
+          "+30% Reload Speed",
+          "+40% Swap Speed",
+          "-50% Max Accuracy",
+          "+40% Recoil"
+        ]
+      },
+      {
+        "name": "Stock_1",
+        "modifiers": [
+          "+30% Accuracy",
+          "+20% Swap Speed"
+        ]
+      },
+      {
+        "name": "Stock_2",
+        "modifiers": [
+          "+40% Accuracy",
+          "+20% Recoil Recovery",
+          "-60% Recoil",
+          "+30% Swap Speed",
+          "-30% Reload Speed"
+        ]
+      },
+      {
+        "name": "Stock_3",
+        "modifiers": [
+          "+70% Accuracy",
+          "+40% Recoil Recovery",
+          "-60% Recoil"
+        ]
+      }
+    ],
+    "Sight": [
+      {
+        "name": "Sight None",
+        "modifiers": [
+          "-50% Move Speed (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_1",
+        "modifiers": [
+          "2.1x Zoom",
+          "-15% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_2",
+        "modifiers": [
+          "2.6x Zoom",
+          "-20% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_3",
+        "modifiers": [
+          "3.0x Zoom",
+          "-30% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_4",
+        "modifiers": [
+          "4.6x Zoom",
+          "-50% Spread (aiming)"
+        ]
+      },
+      {
+        "name": "Sight_5",
+        "modifiers": [
+          "6.1x Zoom",
+          "-70% Spread (aiming)"
+        ]
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Bladed",
+        "modifiers": [
+          "+100% Melee Damage"
+        ]
+      },
+      {
+        "name": "Razor",
+        "modifiers": [
+          "+200% Melee Damage",
+          "+100% Swap Speed"
+        ]
+      },
+      {
+        "name": "Masher",
+        "modifiers": [
+          "+6 Projectiles",
+          "+200% Spread",
+          "-200% Damage",
+          "+100% Recoil"
+        ]
+      },
+      {
+        "name": "Stabilized",
+        "modifiers": [
+          "+50% Recoil Recovery",
+          "-20% Recoil"
+        ]
+      },
+      {
+        "name": "Fire",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Shock",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Corrosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      },
+      {
+        "name": "Explosive",
+        "modifiers": [
+          "+6 Element Level",
+          "-40% Damage"
+        ]
+      }
+    ],
+    "Material": [
+      {
+        "name": "Dahl_1",
+        "modifiers": [
+          "-60% Max Inaccuracy",
+          "-30% Recoil",
+          "-23% Recoil Recovery",
+          "+20% Spread",
+          "-15% Max Accuracy"
+        ]
+      },
+      {
+        "name": "Dahl_2",
+        "modifiers": [
+          "+5% Damage",
+          "+24% Reload Speed",
+          "-60% Max Inaccuracy",
+          "-40% Recoil",
+          "-23% Recoil Recovery",
+          "+15% Spread",
+          "-10% Max Accuracy"
+        ]
+      },
+      {
+        "name": "Dahl_3",
+        "modifiers": [
+          "+10% Damage",
+          "-60% Max Inaccuracy",
+          "-80% Recoil",
+          "-23% Recoil Recovery",
+          "+15% Spread"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 494,
+    "accuracy": 85.4,
+    "fire_rate": 1.9,
+    "mag_size": 2,
+    "multiplier": 7,
+    "level": 69
+  },
+  "source": [
+    {
+      "name": "Revolver Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}
