@@ -1,0 +1,41 @@
+.root {
+  color: var(--color-zinc-100);
+  letter-spacing: -.025em;
+  text-transform: uppercase;
+
+  span {
+    color: var(--color-orange-400)
+  }
+  p {
+    font-family: var(--font-family-base);
+    color: var(--color-zinc-500);
+    letter-spacing: .025rem;
+    line-height: 1.5;
+  }
+
+  &.h2 {
+    margin-bottom: vaR(--spacing-md);
+    font-size: var(--font-size-xl);
+    p {
+      margin-top: 0.25rem;
+      font-size: 1.125rem;
+    }
+  }
+
+}
+
+/*
+|------------------------------------------------------------------------------
+| Responsive
+|------------------------------------------------------------------------------
+*/
+
+@media (max-width: 768px) {
+  .root {
+    &.h2 {
+    p {
+      font-size: var(--font-size-base);
+    }
+  }
+  }
+}
