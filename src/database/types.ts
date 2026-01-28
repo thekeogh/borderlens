@@ -20,17 +20,17 @@ export type Type = Schema["type"];
 /**
  * Type representing the weapon manufacturer.
  */
-export type Manufacturer = Schema["manufacturer"];
+export type Manufacturer = Schema["manufacturer"][number];
 
 /**
  * Type representing the weapon element.
  */
-export type Element = Schema["elements"];
+export type Element = NonNullable<Schema["elements"]>[number];
 
 /**
  * Type representing the weapon rarity.
  */
-export type Rarity = Schema["rarity"];
+export type Rarity = Schema["rarity"][number];
 
 /**
  * Type representing the weapon special properties.

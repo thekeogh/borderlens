@@ -1,88 +1,4 @@
 /**
- * Variables
- */
-:root {
-
-  /* Colors */
-  --color-orange-400: #fb923c;
-  --color-orange-500: #f97316;
-  --color-zinc-900: #000;
-  --color-zinc-600: #52525b;
-  --color-zinc-500: #71717a;
-  --color-zinc-300: #d4d4d8;
-  --color-zinc-100: #f4f4f5;
-  --color-rarity-common: #9ca3af;
-  --color-rarity-uncommon: #22c55e;
-  --color-rarity-rare: #3b82f6;
-  --color-rarity-epic: #a855f7;
-  --color-rarity-legendary: #fb8c00;
-  --color-rarity-pearlescent: #06b6d4;
-  --color-element-incendiary: #ff5722;
-  --color-element-shock: #1e88e5;
-  --color-element-corrosive: #10b981;
-  --color-element-explosive: #ffd600;
-  --color-background: var(--color-zinc-900);
-  --color-foreground: var(--color-zinc-300);
-  --color-title: var(--color-zinc-100);
-  --color-mute: var(--color-zinc-500);
-
-  /* Font families */
-  --font-family-base: var(--font-family-inter);
-  --font-family-title: var(--font-family-rajdhani);
-  --font-family-mono: var(--font-family-space);
-
-  /* Font sizes */
-  --font-size-base: 1rem; /* 16px */
-  --font-size-xs: 0.625rem; /* 10px */
-  --font-size-sm: 0.75rem; /* 12px */
-  --font-size-md: 1.875rem; /* 30px */
-  --font-size-lg: 3rem; /* 48px */
-  --font-size-xl: 3.75rem; /* 60px */
-
-  /* Font weights */
-  --font-weight-base: 400;
-  --font-weight-medium: 700;
-  --font-weight-bold: 900;
-
-  /* Spacing */
-  --spacing-xs: 1rem; /* 16px */
-  --spacing-sm: 1.25rem; /* 20px */
-  --spacing-md: 3.125rem; /* 50px */
-  --spacing-lg: 15rem; /* 230px */
-
-  /* Dimensions */
-  --dimension-container-wide: 80rem; /* 1280px */
-  --dimension-container-narrow: 48rem; /* 768px */
-
-}
-
-/**
- * CSS reset
- */
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-html{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility;-webkit-text-size-adjust:100%;hanging-punctuation:first last}
-body{min-height:100vh;line-height:1.5;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif}
-h1,h2,h3,h4,h5,h6{text-wrap:balance;line-height:1.1}
-p,li,figcaption{max-width:65ch;text-wrap:pretty}
-a{text-decoration-skip-ink:auto;color:inherit}
-a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:2px solid currentColor;outline-offset:2px}
-img,picture,video,canvas,svg{display:block;max-width:100%;height:auto}
-input,button,textarea,select{font: inherit;color: inherit;background: none;border: none;appearance: none;-webkit-appearance: none;-moz-appearance: none;}
-input:focus,textarea:focus,select:focus{outline:none}
-input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-results-button,input[type="search"]::-webkit-search-results-decoration{display:none}
-input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}
-input[type="number"]{appearance: textfield;-moz-appearance:textfield}
-input:-webkit-autofill,input:-webkit-autofill:hover,input:-webkit-autofill:focus,textarea:-webkit-autofill,textarea:-webkit-autofill:hover,textarea:-webkit-autofill:focus,select:-webkit-autofill,select:-webkit-autofill:hover,select:-webkit-autofill:focus{-webkit-box-shadow:0 0 0 1000px transparent inset;box-shadow:0 0 0 1000px transparent inset;-webkit-text-fill-color:inherit;transition:background-color 5000s ease-in-out 0s}
-button,[role="button"]{cursor:pointer;touch-action:manipulation}
-button:disabled,[role="button"]:disabled{cursor:not-allowed}
-textarea{resize:vertical}
-select{cursor:pointer}
-select:disabled{cursor:not-allowed}
-ul[role="list"],ol[role="list"]{list-style:none}
-table{border-collapse:collapse;border-spacing:0}
-@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:0.01ms !important;animation-iteration-count:1 !important;transition-duration:0.01ms !important;scroll-behavior:auto !important}}
-
-/**
  * Structure
  */
 body {
@@ -116,6 +32,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 
+
 /*
 |------------------------------------------------------------------------------
 | Responsive
@@ -131,27 +48,5 @@ h1, h2, h3, h4, h5, h6 {
   body {
     padding-left: var(--spacing-sm);
     padding-right: var(--spacing-sm);
-  }
-}
-
-/*
- * Tablets and small laptops
- *
- * Covers iPad landscape, smaller laptops
- */
-@media (max-width: 1024px) {
-  :root {
-    --spacing-lg: 7rem;
-  }
-}
-
-/*
- * Large phones and tablets portrait
- *
- * Covers iPad portrait, large Android phones, iPhone Plus/Pro Max
- */
-@media (max-width: 768px) {
-  :root {
-    --font-size-xl: 3rem;
   }
 }

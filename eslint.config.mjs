@@ -56,6 +56,7 @@ const eslintConfig = defineConfig([...nextVitals, ...nextTs, {
         "external",
         "core-group",
         "database-group",
+        "utils-group",
         "components-group",
         ["parent", "sibling", "index"],
         "type",
@@ -70,6 +71,11 @@ const eslintConfig = defineConfig([...nextVitals, ...nextTs, {
           groupName: "database-group",
           modifiers: ["value"],
           elementNamePattern: "^#(database)$",
+        },
+        {
+          groupName: "utils-group",
+          modifiers: ["value"],
+          elementNamePattern: "^#(utils)$",
         },
         {
           groupName: "components-group",

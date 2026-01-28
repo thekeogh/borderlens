@@ -14,9 +14,9 @@ interface Props {
   name: string;
   image: string;
   type: Types.Type;
-  manufacturer: Types.Manufacturer;
-  rarity: Types.Rarity;
-  elements?: Types.Element;
+  manufacturer: Types.Manufacturer[];
+  rarity: Types.Rarity[];
+  elements?: Types.Element[];
   special?: Types.Special;
   ranges?: Types.Ranges;
   className?: string;

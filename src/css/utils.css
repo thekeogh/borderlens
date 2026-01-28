@@ -1,0 +1,67 @@
+/**
+ * Rarities
+ */
+.rarity-common-color {
+  color: var(--color-rarity-common)
+}
+.rarity-uncommon-color {
+  color: var(--color-rarity-uncommon)
+}
+.rarity-rare-color {
+  color: var(--color-rarity-rare)
+}
+.rarity-epic-color {
+  color: var(--color-rarity-epic)
+}
+.rarity-legendary-color {
+  color: var(--color-rarity-legendary)
+}
+.rarity-pearlescent-color {
+  color: var(--color-rarity-pearlescent)
+}
+.rarity-common-background {
+  background-color: var(--color-rarity-common)
+}
+.rarity-uncommon-background {
+  background-color: var(--color-rarity-uncommon)
+}
+.rarity-rare-background {
+  background-color: var(--color-rarity-rare)
+}
+.rarity-epic-background {
+  background-color: var(--color-rarity-epic)
+}
+.rarity-legendary-background {
+  background-color: var(--color-rarity-legendary)
+}
+.rarity-pearlescent-background {
+  background-color: var(--color-rarity-pearlescent)
+}
+
+/**
+ * Elements
+ */
+.element-incendiary-color {
+  color: var(--color-element-incendiary)
+}
+.element-shock-color {
+  color: var(--color-element-shock)
+}
+.element-corrosive-color {
+  color: var(--color-element-corrosive)
+}
+.element-explosive-color {
+  color: var(--color-element-explosive)
+}
+.element-incendiary-background {
+  background-color: var(--color-element-incendiary)
+}
+.element-shock-background {
+  background-color: var(--color-element-shock)
+}
+.element-corrosive-background {
+  background-color: var(--color-element-corrosive)
+}
+.element-explosive-background {
+  background-color: var(--color-element-explosive)
+}

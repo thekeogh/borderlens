@@ -5,7 +5,10 @@ import { Config } from "#config";
 import type { Metadata } from "next";
 import type { Viewport } from "next";
 
+import "#css/variables.css";
+import "#css/reset.css";
 import "#css/globals.css";
+import "#css/utils.css";
 
 /**
  * Font configuration for the application.
