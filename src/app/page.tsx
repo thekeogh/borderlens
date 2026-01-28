@@ -14,15 +14,12 @@ export default function Home() {
       {/* Legendary weapons  */}
       <Ui.Section padding="md">
         <H2 subtitle="The guns that made Pandora famous">Legendary <span>Weapons</span></H2>
-
         <Ui.Grid>
           <Ui.Grid.Row>
-            <Ui.Grid.Column>
-              COL
-            </Ui.Grid.Column>
+            <Ui.Grid.Column>Left</Ui.Grid.Column>
+            <Ui.Grid.Column>Right</Ui.Grid.Column>
           </Ui.Grid.Row>
         </Ui.Grid>
-
       </Ui.Section>
 
     </>

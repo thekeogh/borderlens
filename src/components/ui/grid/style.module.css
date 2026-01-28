@@ -1,4 +1,6 @@
 .root {
   background-color: green;
+  row-gap: var(--spacing-sm);
+  flex-direction: column;
   display: flex;
 }

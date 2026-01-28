@@ -1,3 +1,20 @@
 .root {
-  background-color: blue;
+  background-color: green;
+  column-gap: var(--spacing-sm);
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  display: flex;
+}
+
+/*
+ * Tablets and small laptops
+ *
+ * Covers iPad landscape, smaller laptops
+ */
+@media (max-width: 1024px) {
+  .root {
+    row-gap: var(--spacing-sm);
+    flex-direction: column;
+  }
 }
