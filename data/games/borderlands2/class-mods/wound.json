@@ -1,0 +1,50 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Psycho Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/wound.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/wound-krieg-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Wound"
+  },
+  "name": "Wound",
+  "slug": "wound",
+  "type": "Psycho",
+  "description": "Wound is a common (white) class mod for Krieg in Borderlands 2. Made by Bandit, it can drop from any appropriate loot source.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Blood Twitch",
+    "Taste of Blood",
+    "Boiling Blood"
+  ],
+  "sources": [
+    {
+      "name": "Krieg Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Krieg class mods, including Wound, were added to the loot pool on 18 April 2013.",
+  "special": {
+    "description": "At maximum level: On kill, gain +30% fire rate for 8 seconds. Kill Skill duration bonuses do not extend this effect."
+  },
+  "abilities": [
+    "+4 Taste of Blood Skill",
+    "+4 Boiling Blood Skill"
+  ],
+  "max": {
+    "fire_rate": 307,
+    "level": 90
+  }
+}

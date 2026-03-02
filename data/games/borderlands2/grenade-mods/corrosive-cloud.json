@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/corrosive-cloud.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Corrosive_Cloud"
+  },
+  "name": "Corrosive Cloud",
+  "slug": "corrosive-cloud",
+  "type": "Area of Effect",
+  "description": "Detonates into a lingering green corrosive cloud that damages anything inside the area for several seconds. Even targets resistant or immune to corrosive damage still take damage from the cloud, but they will not suffer the usual corrosive damage-over-time status effect.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Corrosive"
+  ],
+  "notes": "The cloud can look less dangerous than it is. Avoid walking through it, as it can quickly injure or kill you.",
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

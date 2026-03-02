@@ -1,0 +1,60 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/SMG_(Title)"
+  },
+  "name": "SMG",
+  "slug": "smg",
+  "type": "SMG",
+  "description": "SMG is the default title for submachine guns that do not qualify for Bruiser, Stinger, or Thumper. As a result, they tend to have moderate damage and fire rate.",
+  "notes": "The Title__SMG title does not have any effect on the weapon.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      1
+    ],
+    "accuracy": [
+      72.1,
+      94.9
+    ],
+    "rate": [
+      7.7,
+      12.1
+    ],
+    "mag": [
+      31,
+      66
+    ]
+  },
+  "manufacturers": [
+    "Dahl",
+    "Hyperion",
+    "Maliwan",
+    "Tediore",
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "image": "/img/games/borderlands/weapons/smg.png",
+  "sources": [
+    {
+      "name": "SMG Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

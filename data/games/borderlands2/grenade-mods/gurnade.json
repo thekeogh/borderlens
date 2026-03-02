@@ -1,0 +1,39 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/gurnade.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Gurnade"
+  },
+  "name": "Gurnade",
+  "slug": "gurnade",
+  "type": "Standard",
+  "description": "A basic thrown grenade that explodes after a short fuse, dealing damage in an area around the blast.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "notes": "This mod can appear under the names Gurnade or GUrnade. All variants are deliberate misspellings of \"Grenade\".",
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag",
+    "Explosive"
+  ]
+}

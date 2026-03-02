@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/tactician.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/tactician-axton-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Tactician_(Borderlands_2)"
+  },
+  "name": "Tactician",
+  "slug": "tactician",
+  "type": "Commando",
+  "description": "Tactician is a common Commando class mod for Axton in Borderlands 2, made by Anshin. It is a world drop and can appear from most appropriate loot sources.",
+  "manufacturers": [
+    "Anshin"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Battlefront",
+    "Resourceful",
+    "Preparation"
+  ],
+  "sources": [
+    {
+      "name": "Axton Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At maximum level, it boosts team shield recharge rate by 58% and reduces team shield recharge delay by 37%."
+  },
+  "notes": "",
+  "max": {
+    "level": 90,
+    "recharge_rate": 58
+  },
+  "abilities": [
+    "+5 Battlefront Skill",
+    "+4 Resourceful Skill",
+    "+4 Preparation Skill"
+  ]
+}

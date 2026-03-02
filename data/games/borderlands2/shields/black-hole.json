@@ -1,0 +1,58 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/black-hole.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/black-hole-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Black_Hole"
+  },
+  "name": "Black Hole",
+  "slug": "black-hole",
+  "type": "Nova",
+  "description": "The Black Hole is a legendary Maliwan shield. When it breaks completely, it generates a powerful singularity that yanks nearby enemies towards you, then follows up with a shock nova. It is best used to disrupt crowds, drag targets out of cover, and set up quick Second Winds.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "sources": [
+    {
+      "name": "Foreman Jasper",
+      "tags": [
+        "Unique Enemy",
+        "Opportunity"
+      ]
+    },
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "elements": [
+    "None",
+    "Shock"
+  ],
+  "notes": "Its effect only activates on a full shield break. The ensuing shock nova can hit extremely hard, making it excellent for mobbing.\n\nIt can roll the Grounded prefix via a Maliwan capacitor (shock immunity), but cannot spawn with other elemental immunities.\n\nNotable synergies include Gaige, Krieg and Maya. In TPS, the Doppelganger can pass it to Digi-Jacks for area control, though despawning may prevent the nova.\n\nThe pull can affect the Cara-Van, and triggering it point-blank can damage you.",
+  "special": {
+    "description": "On break: spawns a large singularity that drags in nearby enemies, then detonates a shock nova.\n\nBoosts shield capacity and nova damage, but lowers nova radius.",
+    "title": "You are the center of the universe."
+  },
+  "max": {
+    "capacity": 3945272,
+    "damage": 19008168,
+    "level": 90,
+    "recharge_delay": 3.5,
+    "recharge_rate": 668015
+  },
+  "abilities": [
+    "Releases a Shock Nova blast when depleted.",
+    "Must fully recharge between Novas.",
+    "Grants immunity to elemental damage."
+  ]
+}

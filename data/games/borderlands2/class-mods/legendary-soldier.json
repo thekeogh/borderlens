@@ -1,0 +1,83 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/legendary-soldier.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-soldier-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Soldier"
+  },
+  "name": "Legendary Soldier",
+  "slug": "legendary-soldier",
+  "type": "Commando",
+  "description": "Legendary Soldier is a Legendary Commando class mod made by Dahl. It can drop from most appropriate loot sources, with higher drop chances from Vermivorous the Invincible, Pete the Invincible, and Voracidous the Invincible.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Sentry",
+    "Ready",
+    "Impact",
+    "Expertise",
+    "Healthy",
+    "Preparation"
+  ],
+  "sources": [
+    {
+      "name": "Vermivorous",
+      "tags": [
+        "Raid Boss",
+        "Wam Bam Island"
+      ]
+    },
+    {
+      "name": "Dexiduous",
+      "tags": [
+        "Raid Boss",
+        "Hunter's Grotto"
+      ]
+    },
+    {
+      "name": "Voracidous",
+      "tags": [
+        "Raid Boss",
+        "Candlerakk's Crag"
+      ]
+    },
+    {
+      "name": "Omnd-Omnd-Ohk",
+      "tags": [
+        "Rare Enemy",
+        "Hunter's Grotto"
+      ]
+    },
+    {
+      "name": "Axton Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "A one-time Legendary Soldier can be taken from the Diamond Plate Loot Chest. The item card caption reads: \"The power of the Atlas Crimson Lance meets the accuracy of Dahl's special forces.\"\n\nIts flavour line references a Roland quote from Borderlands when opening a chest.",
+  "special": {
+    "description": "Max-level bonuses: +51% cooldown rate, +41.8% gun damage, +36.8% fire rate. The item card may show an incorrect fire rate value.\n\nRed text: \"It's like Christmas.\" This mod boosts 6 skills rather than the usual 5 for most legendary class mods.",
+    "title": "\"It's like Christmas.\""
+  },
+  "max": {
+    "cooldown_rate_bonus": 51,
+    "fire_rate": 277,
+    "gun_damage_bonus": 42,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Ready Skill",
+    "+5 Impact Skill",
+    "+5 Expertise Skill",
+    "+5 Healthy Skill"
+  ]
+}

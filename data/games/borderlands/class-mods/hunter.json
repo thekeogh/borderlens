@@ -1,0 +1,40 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/hunter-mordecai-bl1"
+  },
+  "name": "Hunter",
+  "slug": "hunter",
+  "type": "Hunter",
+  "skills": [
+    "Aerial Impact",
+    "Swift Strike",
+    "Out For Blood"
+  ],
+  "description": "The Hunter strengthens Bloodwing damage for Mordecai. Material parts may provide additional bonuses depending on the roll.",
+  "manufacturers": [
+    "Jakobs",
+    "Vladof"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Increases Bloodwing damage."
+  },
+  "sources": [
+    {
+      "name": "Mordecai Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/hunter.png"
+}

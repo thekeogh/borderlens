@@ -1,0 +1,39 @@
+{
+  "game": "borderlands",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/longbow-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Longbow_(grenade)"
+  },
+  "name": "Longbow",
+  "slug": "longbow",
+  "description": "A Hyperion longbow grenade from the base game. Instead of arcing like a normal grenade, it travels in a near-instant straight line to your aim point—pinpoint accuracy at any range.\n\nSighting a target with a scoped weapon and triggering the grenade is an excellent way to deliver Longbows to distant enemies. It explodes a second or so after release. Thrown at the ground, it barely bounces. Thrown at a wall or enemy, it impacts and falls before detonating—aiming at a wall behind grouped foes can cause disarray even if they survive the blast. Longbows stick to the ground when thrown straight down, making them ideal for grenade jumping. There is effectively no distance limit, though some indoor areas have invisible walls.",
+  "special": {
+    "description": "Teleports to the aimed destination, then explodes after 1.2s."
+  },
+  "type": "Standard",
+  "elements": [
+    "Corrosive",
+    "Explosive",
+    "Incendiary",
+    "Shock"
+  ],
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/grenade-mods/longbow.png"
+}

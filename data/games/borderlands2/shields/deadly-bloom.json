@@ -1,0 +1,53 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/deadly-bloom.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/deadly-bloom-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Deadly_Bloom"
+  },
+  "name": "Deadly Bloom",
+  "slug": "deadly-bloom",
+  "type": "Nova",
+  "description": "Deadly Bloom is a Torgue shield built for in-your-face fighting. Its explosive nova on break strips nearby shields and helps finish off close targets, making it a strong fit for melee-focused setups such as Krieg. The extra blast can also help you clutch a Second Wind by tagging enemies you cannot immediately reach.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Epic"
+  ],
+  "sources": [
+    {
+      "name": "The Overlooked: This is Only a Test",
+      "tags": [
+        "Quest",
+        "The Highlands"
+      ]
+    },
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "elements": [
+    "None",
+    "Explosive"
+  ],
+  "notes": "Entering Fight For Your Life triggers the nova even if the shield has not recharged.\n\nIt shows as purple in your inventory, but it is handled as a legendary for drops and the Grinder, so it can appear in the general legendary pool and be made by grinding legendary shields.\n\nThe purple display is down to an internal rarity bug.",
+  "special": {
+    "description": "When the shield breaks, it releases an explosive nova that damages nearby enemies. The same nova also triggers when you enter Fight For Your Life.",
+    "title": "What do you mean... theoretically?"
+  },
+  "max": {
+    "capacity": 3613548,
+    "damage": 14387794,
+    "level": 90,
+    "recharge_delay": 3.78,
+    "recharge_rate": 1532145
+  }
+}

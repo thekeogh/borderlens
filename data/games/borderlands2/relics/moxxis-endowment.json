@@ -1,0 +1,40 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/relics/moxxis-endowment.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/bonus-item/moxxis-endowment-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Moxxi's_Endowment"
+  },
+  "name": "Moxxi's Endowment",
+  "slug": "moxxis-endowment",
+  "type": "Universal",
+  "description": "Moxxi's Endowment is a unique blue relic made by Eridian in Borderlands 2. It is awarded for completing the mission The Good, the Bad, and the Mordecai.\n\nIt boosts combat experience gained from enemy kills, helping you level faster. The XP bonus scales with the relic level, so later on you may need to weigh the extra XP against losing other relic stat bonuses.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "The Good, The Bad and the Mordecai",
+      "tags": [
+        "Quest",
+        "The Dust"
+      ]
+    }
+  ],
+  "special": {
+    "description": "Increases Combat XP gained from killing enemies (e.g. +11.6% at this level)."
+  },
+  "notes": "",
+  "abilities": [
+    "Increases experience gained by killing enemies."
+  ],
+  "max": {
+    "level": 90
+  }
+}

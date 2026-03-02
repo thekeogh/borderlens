@@ -1,0 +1,272 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/tinderbox.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/tinderbox-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Tinderbox"
+  },
+  "name": "Tinderbox",
+  "slug": "tinderbox",
+  "type": "Pistol",
+  "description": "The Tinderbox is a rare Bandit pistol from the Borderlands 2 base game. It is often the first unique gun players find and serves as an early introduction to incendiary damage, making it strong against flesh targets. Its locked fire element, slow arcing shots and poor ammo economy limit its all round value. It is most useful early on, particularly during The Road to Sanctuary, but is usually replaced quickly by more dependable weapons.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "+4 Mag Size",
+          "+30% Reload Speed",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-14% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-10% Recoil Recovery",
+          "-6% Damage"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "2.2x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "3.0x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "5.3x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "4.5x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "3.9x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "2.8x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "2.4x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "3.2x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+28% Mag Size",
+          "+2 Mag Size",
+          "+60% Projectiles",
+          "+0.4 Projectiles",
+          "-15% Damage",
+          "-30% Fire Rate",
+          "+1 Shot Cost",
+          "-25% Max Accuracy",
+          "+25% Spread",
+          "+1 Spread",
+          "+4 Recoil"
+        ],
+        "name": "Double"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "-30% Recoil",
+          "-35% Max Inaccuracy",
+          "-15% Spread"
+        ],
+        "name": "Stock"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+56% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+25% Accuracy",
+          "+20% Projectile Speed",
+          "-40% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "Captain Flynt",
+      "tags": [
+        "Boss",
+        "Southern Shelf",
+        "Drop rate: 100%"
+      ]
+    },
+    {
+      "name": "Sparky Flynt",
+      "tags": [
+        "Unique Enemy",
+        "Wam Bam Island",
+        "Drop rate: 33%"
+      ]
+    },
+    {
+      "name": "Snowman in Tundra Express",
+      "tags": [
+        "Easter Egg",
+        "Tundra Express"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Good for starting fires.",
+    "description": "Fires slow, arcing rounds that explode on contact, dealing splash damage. The blast adds +100% weapon damage as splash, and this portion is boosted by grenade damage.\n\nAlways incendiary. Lower direct bullet damage and reduced fire rate. Higher elemental effect chance. Uses 2 ammo per shot."
+  },
+  "notes": "While A Train to Catch is active, shooting the snowmans head in the southern Tundra Express (by the vending machines) makes a Tinderbox drop. After you pick it up or finish the mission, it will not spawn there again.\nThis one off drop is a safety net so players are likely to have a fire weapon; Roland notes he stashed it.\nAppears as a mission weapon in Clan War: Trailer Trashing, but you do not need it to complete the objective.\nIts splash damage scales with grenade damage bonuses.",
+  "max": {
+    "accuracy": 82.4,
+    "damage": 651561,
+    "fire_rate": 3.9,
+    "level": 90,
+    "mag_size": 68,
+    "reload_speed": 2.5,
+    "status_chance": 24,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "2.2x Weapon Zoom",
+    "Consumes 2 ammo per shot.",
+    "Highly effective vs Flesh."
+  ]
+}

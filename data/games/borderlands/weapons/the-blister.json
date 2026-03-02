@@ -1,0 +1,67 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/the-blister-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/The_Blister"
+  },
+  "name": "The Blister",
+  "slug": "the-blister",
+  "type": "Shotgun",
+  "description": "The Blister is a Rare Torgue shotgun from the base game with a predefined corrosive build. It is essentially a standard corrosive shotgun with slightly higher damage but otherwise average performance despite its Torgue label.",
+  "elements": [
+    "Corrosive"
+  ],
+  "special": {
+    "description": "Predefined corrosive build with extra damage; it improves accuracy/spread and recoil control but reduces fire rate and damage compared to typical rolls.",
+    "title": "It's a painful thing"
+  },
+  "ranges": {
+    "damage": [
+      35,
+      81
+    ],
+    "accuracy": [
+      56.7
+    ],
+    "rate": [
+      0.8,
+      1.4
+    ],
+    "mag": [
+      6
+    ]
+  },
+  "max": {
+    "damage": 167,
+    "accuracy": 56.7,
+    "fire_rate": 0.9,
+    "mag_size": 6,
+    "level": 68
+  },
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Mothrakk",
+      "tags": [
+        "Unique Enemy",
+        "Arid Badlands"
+      ]
+    },
+    {
+      "name": "Like A Moth To Flame",
+      "tags": [
+        "Quest",
+        "New Haven"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/weapons/the-blister.png"
+}

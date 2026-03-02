@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/amplify-shield.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Amplify_Shield"
+  },
+  "name": "Amplify Shield",
+  "slug": "amplify-shield",
+  "type": "Amplify",
+  "description": "Amplify Shields are Hyperion shields that spend some of their capacity to increase the damage of your next projectile when the shield is fully charged. They favour measured gunplay, rewarding you for timing shots between recharges rather than spraying at close range.",
+  "notes": "They perform best when you can keep distance and allow the shield to refill before taking the next boosted shot. Weapons that fire multiple projectiles, and some version-to-version behaviour changes, can affect how reliably the bonus applies and how much value you get per trigger pull.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "When the shield is full, your next projectile deals extra damage and consumes a portion of the shield."
+  },
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

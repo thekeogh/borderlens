@@ -1,0 +1,257 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/thunderball-fists.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/thunderball-fists-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Thunderball_Fists"
+  },
+  "name": "Thunderball Fists",
+  "slug": "thunderball-fists",
+  "type": "Pistol",
+  "description": "Thunderball Fists is a legendary Maliwan pistol from Borderlands 2.\n\nIt excels at stripping shields thanks to strong shock output and the extra damage from its lightning orbs. Gaige can get particular value from it in the Little Big Trouble tree, as the two-part hit can roll status effects more than once and the splash can tag groups for better crowd control.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance",
+          "+3 Mag Size",
+          "+30% Reload Speed"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-14% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-10% Recoil Recovery",
+          "-6% Damage"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.2x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.0x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "5.3x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "4.5x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "3.9x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "2.8x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.4x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "3.2x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "+28% Mag Size",
+          "+2 Mag Size",
+          "+60% Projectiles",
+          "+0.4 Projectiles",
+          "-15% Damage",
+          "-30% Fire Rate",
+          "+1 Shot Cost",
+          "-25% Max Accuracy",
+          "+25% Spread",
+          "+1 Spread",
+          "+4 Recoil"
+        ],
+        "name": "Double"
+      },
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "-30% Recoil",
+          "-35% Max Inaccuracy",
+          "-15% Spread"
+        ],
+        "name": "Stock"
+      },
+      {
+        "modifiers": [
+          "+56% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "+25% Accuracy",
+          "+20% Projectile Speed",
+          "-40% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Shock"
+  ],
+  "sources": [
+    {
+      "name": "Captain Flynt",
+      "tags": [
+        "Boss",
+        "Southern Shelf",
+        "Drop rate: 5%"
+      ]
+    },
+    {
+      "name": "Sparky Flynt",
+      "tags": [
+        "Unique Enemy",
+        "Wam Bam Island",
+        "Drop rate: 5%"
+      ]
+    },
+    {
+      "name": "Pistol Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "title": "I can have such a thing?",
+    "description": "Always shock.\n\nShots detonate on impact for splash damage, then spawn a lightning orb that bounces upward and explodes again. The first blast deals 100% weapon damage as splash (boosted by grenade damage); the follow-up explosion deals 150% additional splash and is not boosted by grenade damage."
+  },
+  "notes": "As a shock weapon, it can damage the user. With The Transformer, self-hits can refill the shield and may be absorbed as rocket launcher ammo.\nWith other absorb shields, absorbed shots only have a chance to convert into rocket launcher ammo.\nThe second detonation can be amplified by amp shields.\nThe initial impact adds 100% weapon damage as splash and is boosted by grenade damage bonuses.\nThe rising orb deals 150% additional splash but does not benefit from grenade damage bonuses.\nThe orb only pops up if the first hit connects with an enemy or a ledge/edge.",
+  "max": {
+    "accuracy": 94.5,
+    "damage": 1429204,
+    "fire_rate": 3,
+    "level": 90,
+    "mag_size": 17,
+    "reload_speed": 1.6,
+    "status_chance": 22.1,
+    "status_damage_per_sec": 684677.1
+  },
+  "abilities": [
+    "High elemental effect chance.",
+    "Consumes 2 ammo per shot.",
+    "Deals bonus elemental damage."
+  ]
+}

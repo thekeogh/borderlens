@@ -1,0 +1,34 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/green.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Green"
+  },
+  "name": "Green",
+  "slug": "green",
+  "type": "SMG",
+  "description": "The Green is a Tediore SMG from a small set that always rolls a fixed-element Maliwan barrel. That barrel boosts status effect chance and damage over time, giving it stronger elemental performance than typical SMGs. Because its parts are locked in, it drops far less often than its item colour suggests, usually as green and only occasionally as blue or purple. Despite the modest rarity, it can carry you well until you find a rarer standout weapon.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Corrosive"
+  ],
+  "notes": "Other Tediore SMGs in this set are Chaff (slag), Kindle (incendiary), and Spark (shock).\n\nThe Green can only appear at green rarity or above.\n\nIt is a world drop from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/pooshka.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Pooshka"
+  },
+  "name": "Pooshka",
+  "slug": "pooshka",
+  "type": "Sniper",
+  "description": "Pooshka sniper rifles are semi-auto weapons built for steady follow-up shots. They offer strong all-round performance with no major drawbacks, combining low recoil with an average magazine size. Damage generally sits below Jakobs snipers, but the high accuracy and controllable kick make it easy to keep sights on target and land multiple hits quickly.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": ""
+}

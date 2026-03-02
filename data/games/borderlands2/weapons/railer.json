@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/railer.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Railer"
+  },
+  "name": "Railer",
+  "slug": "railer",
+  "type": "Sniper",
+  "description": "Railer sniper rifles fire at a much higher rate than most, using 2 sniper rounds per trigger pull. Shots ricochet off surfaces and pass through targets.\n\nThey hit harder than same-level snipers but suffer a strong reduction to critical hit damage, so builds relying on big crit bonuses get less value. This makes them weak on Zer0, but more workable on non-traditional snipers like Axton.\n\nManufacturer traits: Maliwan boosts status chance and adds a small splash on impact. Dahl fires in burst while scoped.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Dropped at random from appropriate loot sources.\n\nZer0s B0re will not trigger because the Railer already pierces, preventing B0re from applying.\n\nGaiges Close Enough can activate after a shot passes through a target; it cannot hit the first enemy again, but can bounce to and damage other enemies as normal.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

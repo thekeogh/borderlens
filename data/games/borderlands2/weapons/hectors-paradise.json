@@ -1,0 +1,179 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Commander Lilith & the Fight for Sanctuary",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/hectors-paradise.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/hectors-paradise-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Hector's_Paradise"
+  },
+  "name": "Hector's Paradise",
+  "slug": "hectors-paradise",
+  "type": "Pistol",
+  "description": "Hector's Paradise is a Legendary DAHL pistol added in the Fight for Sanctuary DLC for Borderlands 2.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+3 Mag Size",
+          "+30% Reload Speed",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-14% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-10% Recoil Recovery",
+          "-6% Damage"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.2x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.0x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "5.3x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "4.5x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "3.9x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "2.8x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.4x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "3.2x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ]
+  },
+  "elements": [
+    "Shock"
+  ],
+  "sources": [
+    {
+      "name": "Echoes of the Past",
+      "tags": [
+        "Quest",
+        "Mt. Scarab Research Center"
+      ]
+    }
+  ],
+  "special": {
+    "title": "The whip at the New Pandoran's backs.",
+    "description": "Always Shock.\nShots explode on impact, dealing splash damage. The explosion deals 80% of listed weapon damage as splash and is boosted by grenade damage bonuses.\nWhile aiming down sights, it fires a 6-round burst.\nLower bullet damage and accuracy. Higher elemental effect chance. Fixed blade for melee."
+  },
+  "notes": "Always spawns with the bladed accessory.\nDoes not roll a prefix.",
+  "max": {
+    "accuracy": 82,
+    "damage": 927267,
+    "fire_rate": 125,
+    "level": 90,
+    "mag_size": 28,
+    "reload_speed": 1.4,
+    "status_chance": 15,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "T e whip at the New",
+    "+507 Melee Damage"
+  ]
+}

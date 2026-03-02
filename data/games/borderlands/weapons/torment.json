@@ -1,0 +1,50 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Torment_(Borderlands)"
+  },
+  "name": "Torment",
+  "slug": "torment",
+  "type": "Repeater",
+  "description": "Torment is a machine pistol title with very high fire rate and good accuracy, but heavy recoil. It rewards controlled bursts at centre mass and can walk into headshots, though it is not ideal for precision crit play.",
+  "ranges": {
+    "damage": [
+      89,
+      400
+    ],
+    "accuracy": [
+      73.5,
+      92.8
+    ],
+    "rate": [
+      7.6,
+      15
+    ],
+    "mag": [
+      18,
+      42
+    ]
+  },
+  "manufacturers": [
+    "Hyperion",
+    "S&S Munitions",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "image": "/img/games/borderlands/weapons/torment.png",
+  "sources": [
+    {
+      "name": "Repeater Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

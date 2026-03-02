@@ -1,0 +1,52 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-nurse.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-nurse-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Nurse"
+  },
+  "name": "Legendary Nurse",
+  "slug": "legendary-nurse",
+  "type": "Siren",
+  "description": "Legendary Nurse is a legendary Siren class mod for Maya, made by Anshin in Borderlands 2. It can drop from chubby enemies from level 62 onwards in Ultimate Vault Hunter Mode.",
+  "manufacturers": [
+    "Anshin"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Restoration",
+    "Elated",
+    "Sweet Release",
+    "Sustenance",
+    "Suspension"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Added with Ultimate Vault Hunter Upgrade Pack Two and unavailable without that DLC.\n\nThe class mod emblem references Liliths Phasewalk action skill.",
+  "special": {
+    "description": "Max level bonus: Team health regeneration per second +40,398.\n\nProvides team health regen up to +30,467 depending on roll.\n\nMay roll up to +5 in Restoration, Elated, Sweet Release, Sustenance and Suspension.\n\nFlavour text: A friend in need is a friend indeed.",
+    "title": "\"A friend in need is a friend indeed.\""
+  },
+  "abilities": [
+    "+5 Restoration Skill",
+    "+5 Elated Skill",
+    "+5 Sweet Release Skill",
+    "+5 Sustenance Skill",
+    "+5 Suspension Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

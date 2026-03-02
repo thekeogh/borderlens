@@ -1,0 +1,43 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/nova-shield.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Nova_Shield"
+  },
+  "name": "Nova Shield",
+  "slug": "nova-shield",
+  "type": "Nova",
+  "description": "Nova Shields detonate when their capacity hits zero, releasing an elemental burst around you that damages nearby foes. They suit close-range builds that stay on top of enemies and can turn shield breaks into crowd damage or a quick Second Wind setup.",
+  "notes": "A nova cannot trigger again until the shield has fully recharged, so recharge delay, recharge rate and staying in range determine how often it pays off.",
+  "manufacturers": [
+    "Maliwan",
+    "Torgue"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "On break, unleashes an elemental nova that damages enemies close to the wearer."
+  },
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

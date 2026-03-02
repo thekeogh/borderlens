@@ -1,0 +1,248 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/bane.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/bane-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Bane"
+  },
+  "name": "Bane",
+  "slug": "bane",
+  "type": "SMG",
+  "description": "Bane is a unique SMG with standout damage, built around a harsh drawback. Holding it drastically cuts your movement speed and it constantly blares loud spoken lines. It works best when you can stay in cover, fight slow enemies, shoot from a vehicle seat, or use it as a high-power emergency option to secure Second Wind.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "+4 Mag Size",
+          "+30% Reload Speed",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "2.4x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "3.4x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "5.9x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "4.3x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "3.1x Zoom"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Element": [
+      {
+        "modifiers": [
+          "-20% Damage"
+        ],
+        "name": "Fire"
+      },
+      {
+        "modifiers": [
+          "-20% Damage"
+        ],
+        "name": "Shock"
+      },
+      {
+        "modifiers": [
+          "-20% Damage"
+        ],
+        "name": "Corrosive"
+      },
+      {
+        "modifiers": [
+          "-20% Damage"
+        ],
+        "name": "Slag"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+18% Damage",
+          "+15% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+12% Fire Rate",
+          "+50% Projectile Speed"
+        ],
+        "name": "Bullet Speed"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "-25% Max Inaccuracy",
+          "-25% Recoil"
+        ],
+        "name": "Stability"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+5% Mag Size",
+          "+25% Reload Speed"
+        ],
+        "name": "Reload"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+25% Max Accuracy",
+          "-25% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "The Bane",
+      "tags": [
+        "Quest",
+        "Sanctuary"
+      ]
+    }
+  ],
+  "special": {
+    "title": "in Spain, stays mainly on the plain.",
+    "description": "Big boosts to damage and magazine size, offset by a severe movement speed penalty. While equipped it uses a persistent voice module that continuously shouts lines."
+  },
+  "notes": "Its chatter may still be audible even with low game volume. Aim and turn speed are not reduced like movement. A bug can cause its voice lines to carry over to other guns after swapping; changing areas, getting into a vehicle, or restarting the session usually fixes it. Bane always rolls with an elemental capacitor.",
+  "max": {
+    "accuracy": 85.7,
+    "damage": 976703,
+    "fire_rate": 9.7,
+    "level": 90,
+    "mag_size": 52,
+    "reload_speed": 2.1
+  },
+  "abilities": [
+    "+2007 Weapon Accuracy",
+    "Sustained fire increases accuracy."
+  ]
+}

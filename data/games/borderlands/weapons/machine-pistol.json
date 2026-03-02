@@ -1,0 +1,56 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Machine_Pistol_(Title)"
+  },
+  "name": "Machine Pistol",
+  "slug": "machine-pistol",
+  "type": "Repeater",
+  "description": "Machine Pistols fire at very high rates of fire compared to repeaters, delivering heavy damage in short bursts. Their lower accuracy and high recoil make them best used at close range or in controlled bursts aimed at centre mass.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      31,
+      421
+    ],
+    "accuracy": [
+      87.2,
+      92.2
+    ],
+    "rate": [
+      8.3,
+      16
+    ],
+    "mag": [
+      16,
+      39
+    ]
+  },
+  "manufacturers": [
+    "Hyperion",
+    "S&S Munitions",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "image": "/img/games/borderlands/weapons/machine-pistol.png",
+  "sources": [
+    {
+      "name": "Repeater Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

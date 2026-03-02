@@ -1,0 +1,49 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-killer.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-killer-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Killer"
+  },
+  "name": "Legendary Killer",
+  "slug": "legendary-killer",
+  "type": "Assassin",
+  "description": "Legendary Killer is a Legendary class mod for Zer0 in Borderlands 2.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Headsh0t",
+    "Killer",
+    "Vel0city",
+    "Ambush",
+    "Tw0Fang"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Added with Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. It cannot be obtained without this DLC.\n\nIts red text is a shortened, commonly memed version of a line from Anchorman.",
+  "special": {
+    "description": "At max level: Team critical hit damage +62%.",
+    "title": "\"Well, that escalated quickly.\""
+  },
+  "abilities": [
+    "+5 Killer Skill",
+    "+5 HeadshOt Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

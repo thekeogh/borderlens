@@ -1,0 +1,211 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Sir Hammerlock's Big Game Hunt",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/yellow-jacket.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/yellow-jacket-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Yellow_Jacket"
+  },
+  "name": "Yellow Jacket",
+  "slug": "yellow-jacket",
+  "type": "SMG",
+  "description": "Yellow Jacket is a Hyperion E-Tech SMG from Sir Hammerlock's Big Game Hunt. It always deals shock damage, stripping shields extremely quickly, and its strong base damage keeps it effective versus many enemies. Its rounds start slow, speed up over distance, and fade from view, so it performs best at close to mid range rather than long range.\n\nElemental-focused builds such as Gaige (Little Big Trouble), Maya (Cataclysm) and Krieg (Hellborn) can get excellent value from it.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "+4 Mag Size",
+          "+30% Reload Speed",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.4x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.4x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "5.9x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "4.3x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "3.1x Zoom"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+18% Damage",
+          "+15% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "+50% Projectile Speed"
+        ],
+        "name": "Bullet Speed"
+      },
+      {
+        "modifiers": [
+          "-25% Max Inaccuracy",
+          "-25% Recoil"
+        ],
+        "name": "Stability"
+      },
+      {
+        "modifiers": [
+          "+5% Mag Size",
+          "+25% Reload Speed"
+        ],
+        "name": "Reload"
+      },
+      {
+        "modifiers": [
+          "+25% Max Accuracy",
+          "-25% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Shock"
+  ],
+  "sources": [
+    {
+      "name": "Jackenstein",
+      "tags": [
+        "Boss",
+        "Terminus",
+        "Drop rate: 33%"
+      ]
+    }
+  ],
+  "special": {
+    "title": "By the people. For the people.",
+    "description": "Always shock. Increased damage, magazine size and projectile size.\n\nFires slow-moving bolts that accelerate; after a set distance they become invisible. Each bolt ricochets off the first surface it hits, then detonates on impact to deal splash damage in a small radius.\n\nThe explosion deals 70% of weapon damage as splash and is increased by grenade damage bonuses. Hyperion trait: sustained fire improves accuracy and reduces recoil."
+  },
+  "notes": "Only E-Tech SMG that can roll with a bladed attachment.\nRounds cause explosions that deal +70% weapon damage as splash, and this splash is boosted by grenade damage bonuses. This is 20% higher than typical E-Tech SMGs.",
+  "max": {
+    "accuracy": 95.6,
+    "damage": 954918,
+    "fire_rate": 3.7,
+    "level": 90,
+    "mag_size": 65,
+    "reload_speed": 2.1,
+    "status_chance": 13,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "33% Weapon Recoil Reduction",
+    "Consumes 2 ammo per shot."
+  ]
+}

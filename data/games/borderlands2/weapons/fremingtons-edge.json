@@ -1,0 +1,240 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/fremingtons-edge.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/fremingtons-edge-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Fremington's_Edge"
+  },
+  "name": "Fremington's Edge",
+  "slug": "fremingtons-edge",
+  "type": "Sniper",
+  "description": "Fremington's Edge is a rare Hyperion sniper rifle from Borderlands 2.\n\nIts standout trait is an extreme 11.4x scope, making it excellent for very long-range shots but awkward up close. On paper its damage sits above other blue Hyperion snipers yet trails many higher-tier or non-Hyperion options, while its accuracy is only a modest improvement.\n\nThe real power is hidden: while scoped, critical hits gain +75% extra crit damage (taking the usual +100% to +175%). A scoped crit deals 5.5x card damage before other bonuses.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "+3 Mag Size",
+          "+30% Reload Speed",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Element": [
+      {
+        "modifiers": [
+          "Chance: 20%",
+          "-20% Damage"
+        ],
+        "name": "Fire"
+      },
+      {
+        "modifiers": [
+          "Chance: 20%",
+          "-20% Damage"
+        ],
+        "name": "Shock"
+      },
+      {
+        "modifiers": [
+          "Chance: 20%",
+          "-20% Damage"
+        ],
+        "name": "Corrosive"
+      },
+      {
+        "modifiers": [
+          "Chance: 20%",
+          "-20% Damage"
+        ],
+        "name": "Slag"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+20% Crit Damage",
+          "+10% Max Accuracy",
+          "-15% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Crit Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "-35% Max Inaccuracy",
+          "-30% Recoil",
+          "+25% Spread"
+        ],
+        "name": "Foregrip"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+35% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+25% Max Accuracy",
+          "-25% Spread",
+          "+25% Recoil"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "Assassin Reeth",
+      "tags": [
+        "Unique Enemy",
+        "Southpaw S&P",
+        "Drop rate: 33%"
+      ]
+    },
+    {
+      "name": "Digi. Assassins",
+      "tags": [
+        "Mini-Boss",
+        "Digistruct Peak"
+      ]
+    }
+  ],
+  "special": {
+    "title": "I can see my house from here.",
+    "description": "One of the highest zoom levels in the game (11.4x) and always rolls a Hyperion scope.\n\nWhile scoped: +75% critical hit damage (total +175% vs the normal +100% on snipers).\n\nHyperion trait: sustained fire tightens accuracy and reduces recoil.\n\nRed text: I can see my house from here."
+  },
+  "notes": "During the Borderlands 2 $100,000 Loot Hunt, Day 5 tasked players with farming Wilhelm for Fremington's Edge.\n\nA 16 October 2013 hotfix slightly boosted its accuracy and increased its scoped critical hit bonus from +150% to +175%, later rolled into a permanent update.",
+  "max": {
+    "accuracy": 96.2,
+    "damage": 2317768,
+    "fire_rate": 1,
+    "level": 90,
+    "mag_size": 10,
+    "reload_speed": 3.1
+  },
+  "abilities": [
+    "11.4x Weapon Zoom",
+    "+100. Critical Hit Damage",
+    "Sustained fire and aiming down the sights increases accuracy."
+  ]
+}

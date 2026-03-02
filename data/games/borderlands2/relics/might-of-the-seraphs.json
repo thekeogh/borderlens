@@ -1,0 +1,40 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Mr. Torgue's Campaign of Carnage",
+  "dlc": true,
+  "image": "/img/games/borderlands2/relics/might-of-the-seraphs.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/bonus-item/might-of-the-seraphs-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Might_of_the_Seraphs"
+  },
+  "name": "Might of the Seraphs",
+  "slug": "might-of-the-seraphs",
+  "type": "Offense",
+  "description": "Seraph-grade Eridian relic from Borderlands 2: Campaign of Carnage. Obtained by trading with the Seraph Vendor in the Badass Crater of Badassitude.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Seraph"
+  ],
+  "sources": [
+    {
+      "name": "Crater Seraph Shop",
+      "tags": [
+        "Vendor",
+        "Badass Crater of Badassitude"
+      ]
+    }
+  ],
+  "notes": "A level 61 Very Rare (purple) Strength Relic can equal the stat boost of a level 50 Might of the Seraphs, but at the same level this relic provides stronger bonuses.\n\nThe tagline nods to the classic \"unstoppable force\" versus \"immovable object\" paradox.",
+  "special": {
+    "description": "Grants up to +51% melee damage and up to +51% cooldown rate for melee override skills.\n\nAffected overrides include: Hellfire Halitosis (Krieg) 15s to 9.9s, Scorn (Maya) 18s to 11.9s, Fistful of Hurt (Salvador) 15s to 9.9s.",
+    "title": "Become the unstoppable force!"
+  },
+  "max": {
+    "cooldown_rate_bonus": 51,
+    "damage": 451,
+    "level": 90
+  }
+}

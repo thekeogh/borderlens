@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/spy.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/spy-zer0-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Spy"
+  },
+  "name": "Spy",
+  "slug": "spy",
+  "type": "Assassin",
+  "description": "Spy is a common Maliwan class mod for Zer0 in Borderlands 2.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Vel0city",
+    "Ambush",
+    "Unf0rseen"
+  ],
+  "sources": [
+    {
+      "name": "Zer0 Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At maximum level, Spy increases action skill cooldown rate by 17%."
+  },
+  "notes": "",
+  "max": {
+    "cooldown_rate_bonus": 17,
+    "level": 90
+  },
+  "abilities": [
+    "+4 Ambush Skill",
+    "+4 UnfOreseen Skill",
+    "Increases Action Skill"
+  ]
+}

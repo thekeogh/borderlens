@@ -1,0 +1,61 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Mechromancer Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-mechromancer.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-mechromancer-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Mechromancer"
+  },
+  "name": "Legendary Mechromancer",
+  "slug": "legendary-mechromancer",
+  "type": "Mechromancer",
+  "description": "Legendary Mechromancer is a legendary Hyperion class mod for Gaige in Borderlands 2. It can world drop from any appropriate loot source, with boosted drop odds from Vermivorous the Invincible, Pete the Invincible, Voracidous the Invincible, and the Ancient Dragons of Destruction.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "More Pep",
+    "Strength of Five Gorillas",
+    "Cooking Up Trouble",
+    "Smaller, Lighter, Faster",
+    "20% Cooler",
+    "The Better Half"
+  ],
+  "sources": [
+    {
+      "name": "Vermivorous",
+      "tags": [
+        "Raid Boss",
+        "Wam Bam Island"
+      ]
+    },
+    {
+      "name": "Gaige Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "In normal play it is notable for lacking a unique in-game red flavour line. A special SHiFT reward version includes the red text \"I am such a B.A.\" plus an extra caption about the lunch box holding more than sandwiches. That variant is available via a SHiFT code included with the Diamond Plate Loot Chest.",
+  "special": {
+    "description": "Max level bonus: +51% action skill cooldown rate.",
+    "title": "\"I am such a B.A.\""
+  },
+  "max": {
+    "cooldown_rate_bonus": 5,
+    "level": 90
+  },
+  "abilities": [
+    "+5 More Pep Skill",
+    "+5 Cooking Up Trouble Skill",
+    "+5 Smaller Lighter Faster Skill",
+    "+5 20x Cooler Skill",
+    "+5 The Better Half Skill"
+  ]
+}

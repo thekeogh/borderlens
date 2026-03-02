@@ -1,0 +1,41 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Commander Lilith & the Fight for Sanctuary",
+  "dlc": true,
+  "image": "/img/games/borderlands2/relics/hard-carry.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/bonus-item/hard-carry-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Hard_Carry"
+  },
+  "name": "Hard Carry",
+  "slug": "hard-carry",
+  "type": "Unique",
+  "description": "Hard Carry is an Eridian-made Effervescent relic introduced in the Fight for Sanctuary DLC for Borderlands 2.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Effervescent"
+  ],
+  "sources": [
+    {
+      "name": "Haderax",
+      "tags": [
+        "Raid Boss",
+        "Writhing Deep"
+      ]
+    }
+  ],
+  "special": {
+    "description": "When paired with the Easy Mode shield, this relic massively boosts maximum health and greatly extends Fight For Your Life duration, but only while on Digistruct Peak.\n\nTagline: Tough to lose when you are this broken.",
+    "title": "Tough to lose when you're this broken."
+  },
+  "notes": "",
+  "abilities": [
+    "Increases Fight For Your Life Time and Max Health while in the Raid on Digistruct Peak with the Easy Mode"
+  ],
+  "max": {
+    "level": 90
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/impaler.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/impaler-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Impaler"
+  },
+  "name": "Impaler",
+  "slug": "impaler",
+  "type": "Spike",
+  "description": "Impaler is a legendary Maliwan shield that mixes spike retaliation with a ranged counter. Melee attackers take corrosive damage on hit. When you are struck by bullets, the shield launches a slow, homing corrosive spike back towards the shooter. The projectile can drift wide, struggle to hit very close targets, switch to a nearer enemy while travelling, and is blocked by solid cover.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "sources": [
+    {
+      "name": "The Warrior",
+      "tags": [
+        "Boss",
+        "Vault of the Warrior"
+      ]
+    },
+    {
+      "name": "Handsome Sorcerer",
+      "tags": [
+        "Boss",
+        "Dragon Keep"
+      ]
+    },
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "elements": [
+    "None",
+    "Corrosive"
+  ],
+  "notes": "Only bullet impacts launch the spike; most other ranged damage will not. Reflected rounds that hit you can still trigger it.\n\nThe launched spike deals corrosive splash damage and benefits from grenade damage bonuses. Spike kills can activate Blood Bath, but they do not progress the Game of Thorns challenge.\n\nThe spike can damage you if it detonates too close. Impaler can spawn with the Alkaline prefix for corrosive immunity, but it cannot roll other elemental immunities.",
+  "special": {
+    "description": "Bullet hit (shield up or down): launches a homing corrosive spike.\n\nMelee hit (shield up or down): retaliates with corrosive damage.",
+    "title": "Vlad would be proud."
+  },
+  "max": {
+    "capacity": 3830361,
+    "damage": 6607373,
+    "level": 90,
+    "recharge_delay": 2.36,
+    "recharge_rate": 668015
+  },
+  "abilities": [
+    "Launches Corrosive homing spikes when damaged with bullets.",
+    "Deals Corrosive Spike Damage to melee attackers.",
+    "Grants immunity to elemental damage."
+  ]
+}

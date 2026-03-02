@@ -1,0 +1,59 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Havoc"
+  },
+  "name": "Havoc",
+  "slug": "havoc",
+  "type": "Assault Rifle",
+  "description": "Havoc is a support machine gun title defined by very high fire rate and a larger magazine. Its damage and accuracy can vary widely, but the class is strongest in short, brutal firefights against mobs or a single tough target.",
+  "notes": "The Havoc title (Title_Firerate1_Havoc) is granted only to Support Machine Guns with fire rate above 10.0 and increases magazine capacity to offset the heavy ammo consumption.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      41,
+      411
+    ],
+    "accuracy": [
+      68,
+      91.3
+    ],
+    "rate": [
+      10,
+      15
+    ],
+    "mag": [
+      28,
+      96
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "S&S Munitions",
+    "Torgue",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/havoc.png",
+  "sources": [
+    {
+      "name": "AR Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

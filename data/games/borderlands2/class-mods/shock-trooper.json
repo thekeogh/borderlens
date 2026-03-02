@@ -1,0 +1,50 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/shock-trooper.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/shock-trooper-axton-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Shock_Trooper_(class_mod)"
+  },
+  "name": "Shock Trooper",
+  "slug": "shock-trooper",
+  "type": "Commando",
+  "description": "Shock Trooper is a common Commando class mod made by Maliwan in Borderlands 2. It focuses on shock-oriented defence and damage support.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Quick Charge",
+    "Onslaught",
+    "Metal Storm"
+  ],
+  "sources": [
+    {
+      "name": "Axton Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Distinct from most Commando class mods, Shock Trooper boosts three Kill Skills. It can drop randomly from any appropriate loot source.",
+  "special": {
+    "description": "At maximum level, it provides +34% Shock Resistance and +58% Electrocution Damage."
+  },
+  "abilities": [
+    "+5 Quick noe Skill",
+    "+4 Onslaught Skill",
+    "+4 Metal Storm Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

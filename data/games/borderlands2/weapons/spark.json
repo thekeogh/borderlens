@@ -1,0 +1,37 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/spark.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Spark_(SMG)"
+  },
+  "name": "Spark",
+  "slug": "spark",
+  "type": "SMG",
+  "description": "Spark is a rare sub-type of SMG that always spawns with a fixed-element Maliwan barrel. That barrel gives unusually high elemental status chance and damage over time, letting it punch above its rarity in early to mid game.\n\nBecause the parts are locked, these guns drop far less often than their colour suggests, so players may overlook or sell them. Maliwan-made SMGs with the same barrel are much more common and can appear from white through purple.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "aliases": [
+    "Spark (SMG)"
+  ],
+  "elements": [
+    "Shock"
+  ],
+  "notes": "Related Tediore SMGs in this family are Chaff (slag), Green (corrosive) and Kindle (incendiary).\n\nSpark only appears at green rarity or higher.\n\nWorld drop from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/singularity-grenade.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Singularity_Grenade"
+  },
+  "name": "Singularity Grenade",
+  "slug": "singularity-grenade",
+  "type": "Singularity",
+  "description": "Creates a brief singularity that drags nearby foes towards the point of impact, then detonates. Strong crowd control against groups, especially when paired with splash-damage weapons.\n\nTypically not found in the very early game.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "You are not affected by the initial pull, but the final blast can still damage you.\n\nPull strength drops off with distance, and heavier enemies are less affected. Even when the blast does not catch everyone, the suction can interrupt or stagger enemies long enough to escape or reposition.\n\nThe pull can drag enemies over ledges or into hazards.\n\nIn Borderlands 3, Singularity appears as a grenade mod payload.\n\nThe effect is themed around a gravitational singularity.",
+  "special": {
+    "description": "Forms a singularity just before detonation, pulling nearby enemies inward."
+  },
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag",
+    "Explosive"
+  ]
+}

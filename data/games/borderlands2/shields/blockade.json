@@ -1,0 +1,47 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/shields/blockade.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/blockade-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Blockade"
+  },
+  "name": "Blockade",
+  "slug": "blockade",
+  "type": "Adaptive",
+  "description": "Blockade is a Seraph shield from Anshin introduced in the Dragon Keep add-on. It is valued for its reliable defensive stats and an always-on damage reduction effect. The reduction helps blunt heavy incoming damage, including explosive hits and raid boss attacks.",
+  "manufacturers": [
+    "Anshin"
+  ],
+  "rarities": [
+    "Seraph"
+  ],
+  "sources": [
+    {
+      "name": "Ancient Dragons",
+      "tags": [
+        "Raid Boss",
+        "The Winged Storm"
+      ]
+    }
+  ],
+  "notes": "The damage reduction does not work as shown on the card. The reduction is a fixed percentage based on level and parts and it applies even when the shield is depleted.\n\nAt OP8, the highest reduction achievable with Hyperion parts is about 45.7%, slightly under an optimal Antagonist at roughly 49%.\n\nIt cannot spawn with Maliwan parts. Despite being branded Anshin, it uses a Hyperion-style model, does not provide the usual Anshin maximum health bonus, and is the only Anshin shield that is not Adaptive.",
+  "special": {
+    "description": "Provides constant damage reduction. The listed extra reduction while the shield is full is bugged and does not apply.\n\nPassive reduction: 0.5% x shield level + 7.5%. Intended full-shield bonus: 5% x shield level. Damage taken is calculated as damage / (1 + damage reduction).",
+    "title": "Am I living or am I dying?"
+  },
+  "elements": [
+    "None"
+  ],
+  "max": {
+    "capacity": 4749648,
+    "level": 90,
+    "recharge_delay": 1.79,
+    "recharge_rate": 870258
+  },
+  "abilities": [
+    "Provides major damage resistance when fully charged, and moderate damage resistance when not fully charged."
+  ]
+}

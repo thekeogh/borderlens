@@ -1,0 +1,230 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Sir Hammerlock's Big Game Hunt",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/damned-cowboy.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/damned-cowboy-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Damned_Cowboy"
+  },
+  "name": "Damned Cowboy",
+  "slug": "damned-cowboy",
+  "type": "Assault Rifle",
+  "description": "The Damned Cowboy is a Jakobs assault rifle tuned for careful shooting, closer to a mid-range marksman rifle than a spray-and-pray AR. It rewards precise hits with solid single-shot impact and critical-focused damage. Its slower tempo makes it less effective for clearing groups or snapping between multiple targets.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "+15% Spread",
+          "-10% Reload Speed"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "-6% Damage",
+          "+15% Max Inaccuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "+2 Mag Size",
+          "+30% Reload Speed",
+          "-0.2 Recoil",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "-10% Reload Speed",
+          "+10% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "-30% Max Inaccuracy",
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "3.1x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "4.1x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "5.7x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "3.4x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "4.3x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+21% Damage",
+          "-12% Fire Rate",
+          "+35% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+21% Damage",
+          "+12% Fire Rate",
+          "+120% Spread"
+        ],
+        "name": "Wild"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "-40% Recoil",
+          "+25% Recoil Recovery"
+        ],
+        "name": "Stability"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+3 Mag Size",
+          "+35% Mag Size"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "-25% Spread",
+          "+25% Max Accuracy"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Bloodtail",
+      "tags": [
+        "Unique Enemy",
+        "Candlerakk's Crag",
+        "Drop rate: 33%"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Speak Softly. Carry This.",
+    "description": "Increased critical hit damage and improved projectile speed support a measured, accurate mid-range approach."
+  },
+  "notes": "It normally spawns with the prefix \"Sir Hammerlock's\", but standard accessory rolls can replace it.",
+  "elements": [
+    "None"
+  ],
+  "max": {
+    "accuracy": 86.4,
+    "damage": 2594112,
+    "fire_rate": 22,
+    "level": 90,
+    "mag_size": 15,
+    "reload_speed": 3.2
+  },
+  "abilities": [
+    "3.1x Weapon Zoom"
+  ]
+}

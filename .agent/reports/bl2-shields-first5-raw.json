@@ -1,0 +1,229 @@
+[
+  {
+    "name": "1340 Shield",
+    "lootlemon_url": "https://www.lootlemon.com/shield/1340-shield-bl2",
+    "wiki_title": "1340 Shield",
+    "wiki_url": "https://borderlands.fandom.com/wiki/1340_Shield",
+    "lootlemon": {
+      "content": "Base Game",
+      "type": "Absorb",
+      "rarity": "Rare",
+      "manufacturer": "Vladof",
+      "elements": [
+        "Non-Elemental",
+        "Fire",
+        "Shock",
+        "Corrosive",
+        "Explosive"
+      ],
+      "red_text": "If you can't beat 'em, join 'em.",
+      "about": "The Rare Shield 1340 Shield is manufactured by Vladof and comes from the Borderlands 2 Base Game. The shield speaks to the player, but has no other noteworthy effects.",
+      "unique": "The shield speaks to the player, but has no other noteworthy effects.",
+      "sources": [
+        {
+          "name": "Out of Body Experience",
+          "tags": [
+            "Quest",
+            "Bloodshot Ramparts"
+          ]
+        }
+      ]
+    },
+    "wiki": {
+      "manufacturer": "Vladof",
+      "rarity": "Unique",
+      "color": "",
+      "type": "",
+      "in_game_description": "",
+      "special_effects": "",
+      "usage_description": "",
+      "notes": "",
+      "trivia": "",
+      "image_src": "",
+      "image_srcset": ""
+    }
+  },
+  {
+    "name": "Aequitas",
+    "lootlemon_url": "https://www.lootlemon.com/shield/aequitas-bl2",
+    "wiki_title": "Aequitas",
+    "wiki_url": "https://borderlands.fandom.com/wiki/Aequitas",
+    "lootlemon": {
+      "content": "Base Game",
+      "type": "Absorb",
+      "rarity": "Rare",
+      "manufacturer": "Vladof",
+      "elements": [
+        "Non-Elemental",
+        "Fire",
+        "Shock",
+        "Corrosive",
+        "Explosive"
+      ],
+      "red_text": "The second is better.",
+      "about": "The Rare Shield Aequitas is manufactured by Vladof and comes from the Borderlands 2 Base Game. For every Veritas Pistol or Aequitas Shield equipped in your group: +10% Fight for your Life duration",
+      "unique": "For every Veritas Pistol or Aequitas Shield equipped in your group: +10% Fight for your Life duration",
+      "sources": [
+        {
+          "name": "Clan War: Wakey Wakey",
+          "tags": [
+            "Quest",
+            "The Holy Spirits"
+          ]
+        }
+      ]
+    },
+    "wiki": {
+      "manufacturer": "Vladof",
+      "rarity": "Unique",
+      "color": "",
+      "type": "",
+      "in_game_description": "",
+      "special_effects": "",
+      "usage_description": "",
+      "notes": "",
+      "trivia": "",
+      "image_src": "",
+      "image_srcset": ""
+    }
+  },
+  {
+    "name": "Antagonist",
+    "lootlemon_url": "https://www.lootlemon.com/shield/antagonist-bl2",
+    "wiki_title": "Antagonist",
+    "wiki_url": "https://borderlands.fandom.com/wiki/Antagonist",
+    "lootlemon": {
+      "content": "Dragon Keep",
+      "type": "Reflect",
+      "rarity": "Seraph",
+      "manufacturer": "Maliwan",
+      "elements": [
+        "Non-Elemental"
+      ],
+      "red_text": "I'm rubber, you're glue.",
+      "about": "The Seraph Shield Antagonist is manufactured by Maliwan and comes from the Borderlands 2 Dragon Keep DLC. The Shield still deflects bullets when depleted, but won't shoot slag balls. The Homing Slag Balls will be shot at any enemy that deals damage to the player.",
+      "unique": "The Shield still deflects bullets when depleted, but won't shoot slag balls. The Homing Slag Balls will be shot at any enemy that deals damage to the player.",
+      "sources": [
+        {
+          "name": "Refuge Seraph Shop",
+          "tags": [
+            "Vendor",
+            "Flamerock Refuge"
+          ]
+        }
+      ]
+    },
+    "wiki": {
+      "manufacturer": "Maliwan",
+      "rarity": "Seraph",
+      "color": "Seraph",
+      "type": "Shield",
+      "in_game_description": "",
+      "special_effects": "",
+      "usage_description": "",
+      "notes": "",
+      "trivia": "",
+      "image_src": "",
+      "image_srcset": ""
+    }
+  },
+  {
+    "name": "Big Boom Blaster",
+    "lootlemon_url": "https://www.lootlemon.com/shield/big-boom-blaster-bl2",
+    "wiki_title": "Big Boom Blaster (Borderlands 2)",
+    "wiki_url": "https://borderlands.fandom.com/wiki/Big_Boom_Blaster_(Borderlands_2)",
+    "lootlemon": {
+      "content": "Campaign of Carnage",
+      "type": "Booster",
+      "rarity": "Seraph",
+      "manufacturer": "Torgue",
+      "elements": [
+        "Non-Elemental",
+        "Fire",
+        "Shock",
+        "Corrosive",
+        "Explosive"
+      ],
+      "red_text": "For all your big boom blasting needs!",
+      "about": "The Seraph Shield Big Boom Blaster is manufactured by Torgue and comes from the Borderlands 2 Campaign of Carnage DLC. Shield Boosters replenish 1 Grenade and 1 Rocket Launcher Ammo on picked up.",
+      "unique": "Shield Boosters replenish 1 Grenade and 1 Rocket Launcher Ammo on picked up.",
+      "sources": [
+        {
+          "name": "Pyro Pete",
+          "tags": [
+            "Raid Boss",
+            "Pyro Pete's Bar"
+          ]
+        },
+        {
+          "name": "Crater Seraph Shop",
+          "tags": [
+            "Vendor",
+            "Badass Crater of Badassitude"
+          ]
+        }
+      ]
+    },
+    "wiki": {
+      "manufacturer": "Torgue",
+      "rarity": "Seraph",
+      "color": "",
+      "type": "",
+      "in_game_description": "",
+      "special_effects": "",
+      "usage_description": "",
+      "notes": "",
+      "trivia": "",
+      "image_src": "",
+      "image_srcset": ""
+    }
+  },
+  {
+    "name": "Black Hole",
+    "lootlemon_url": "https://www.lootlemon.com/shield/black-hole-bl2",
+    "wiki_title": "Black Hole",
+    "wiki_url": "https://borderlands.fandom.com/wiki/Black_Hole",
+    "lootlemon": {
+      "content": "Base Game",
+      "type": "Nova",
+      "rarity": "Legendary",
+      "manufacturer": "Maliwan",
+      "elements": [
+        "Non-Elemental",
+        "Shock"
+      ],
+      "red_text": "You are the center of the universe.",
+      "about": "The Legendary Shield Black Hole is manufactured by Maliwan and comes from the Borderlands 2 Base Game. On Shield break: Creates a large Singularity that pulls in enemies. Afterwards the Black Hole triggers a Shock Nova that damages all nearby enemies.",
+      "unique": "On Shield break: Creates a large Singularity that pulls in enemies. Afterwards the Black Hole triggers a Shock Nova that damages all nearby enemies.",
+      "sources": [
+        {
+          "name": "Foreman Jasper",
+          "tags": [
+            "Unique Enemy",
+            "Opportunity"
+          ]
+        },
+        {
+          "name": "Shield Pool",
+          "tags": [
+            "Loot Pool",
+            "World Wide"
+          ]
+        }
+      ]
+    },
+    "wiki": {
+      "manufacturer": "Maliwan",
+      "rarity": "Legendary",
+      "color": "",
+      "type": "",
+      "in_game_description": "",
+      "special_effects": "",
+      "usage_description": "",
+      "notes": "",
+      "trivia": "",
+      "image_src": "",
+      "image_srcset": ""
+    }
+  }
+]

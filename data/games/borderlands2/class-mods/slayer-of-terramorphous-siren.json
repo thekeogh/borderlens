@@ -1,0 +1,56 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/slayer-of-terramorphous-siren.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/slayer-of-terramorphous-bl2-siren",
+    "wiki": "https://borderlands.fandom.com/wiki/Slayer_Of_Terramorphous"
+  },
+  "name": "Slayer Of Terramorphous",
+  "slug": "slayer-of-terramorphous-siren",
+  "type": "Siren",
+  "description": "Slayer of Terramorphous is a legendary class mod available in Borderlands 2. It can roll for any character class and is made by Dahl, Jakobs, Maliwan or Bandit. It is a guaranteed drop from Terramorphous the Invincible, but the class you get is random. Compared with most legendary class mods it typically grants slightly smaller skill boosts, but makes up for it with a broader spread of stat bonuses.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Ward",
+    "Accelerate",
+    "Mind's Eye",
+    "Sweet Release",
+    "Flicker",
+    "Sentry",
+    "Ready",
+    "Impact",
+    "Expertise",
+    "Healthy"
+  ],
+  "sources": [
+    {
+      "name": "Terramorphous",
+      "tags": [
+        "Raid Boss",
+        "Terramorphous Peak"
+      ]
+    }
+  ],
+  "notes": "Terramorphous always drops one, but the character version is random.\n\nThe Assassin variant was previously bugged and boosted the wrong skill, leaving it with fewer bonuses; this was corrected in a later hotfix.\n\nSeveral variants use themed artwork inspired by other Borderlands skills or characters. The Psycho variant is the only one styled with a lowercase o in of.",
+  "special": {
+    "description": "At max level, Maya's Slayer of Terramorphous grants: +37% Burn Damage, +37% Ignite Chance, +1,101,229 Health."
+  },
+  "max": {
+    "damage": 37,
+    "level": 90
+  },
+  "abilities": [
+    "+4 Accelerate Skill",
+    "+4 Mind's Eye Skill",
+    "+4 Sweet Release Skill",
+    "+4 Flicker Skill"
+  ]
+}

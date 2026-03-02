@@ -1,0 +1,41 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Captain Scarlett and Her Pirate's Booty",
+  "dlc": true,
+  "image": "/img/games/borderlands2/relics/blood-of-the-seraphs.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/bonus-item/blood-of-the-seraphs-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Blood_of_the_Seraphs"
+  },
+  "name": "Blood of the Seraphs",
+  "slug": "blood-of-the-seraphs",
+  "type": "Survivability",
+  "description": "Blood of the Seraphs is an Eridian Seraph relic in Borderlands 2 (Captain Scarlett and her Pirate's Booty). It is purchased from the Seraph Vendor in Oasis.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Seraph"
+  ],
+  "sources": [
+    {
+      "name": "Oasis Seraph Shop",
+      "tags": [
+        "Vendor",
+        "Oasis"
+      ]
+    }
+  ],
+  "notes": "Since the 2 April 2013 update, variant rolls are fixed. From patch v1.6.0 (29 August 2013) onwards, the bonus health and health regeneration scale with the relic's level.",
+  "special": {
+    "description": "Boosts maximum health and regenerates a percentage of your max health each second.\n\nExample stats: +42% Health, +1.1% Max Health Regen per second (values vary by level from v1.6.0 onwards).",
+    "title": "Their power courses through you..."
+  },
+  "abilities": [
+    "Increases max health."
+  ],
+  "max": {
+    "level": 90
+  }
+}

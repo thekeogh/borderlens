@@ -1,0 +1,59 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Carnage_(Borderlands)"
+  },
+  "name": "Carnage",
+  "slug": "carnage",
+  "type": "Shotgun",
+  "description": "Carnage shotguns fire slow, powerful rockets, with each shell launching a single projectile that always procs an elemental effect, defaulting to explosive. Any elemental accessory can change the element but reduces listed damage, even explosive accessories. Their splash radius is small and accuracy is poor, so it is best to aim near clustered targets; accurate Jakobs and Hydra-variant Carnages can roll the Hunter's prefix for extra damage without losing pellets.",
+  "notes": "Lilith's High Velocity skill makes Carnage rounds much more practical by reducing the slow projectile weakness, and elemental tech or class mods can turn them into brutal burst weapons. As with normal rockets, Roland's Impact skill does not affect Carnage projectiles. The Carnage effect comes from the barrel3_Carnage barrel, which grants the Title_Barrel3_Carnage title; it behaves like a standard barrel3 but with higher damage, and its reduced tech is irrelevant because the projectiles are treated as rockets. See stat modifiers for details.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      122,
+      1102
+    ],
+    "accuracy": [
+      42.2,
+      72.9
+    ],
+    "rate": [
+      0.5,
+      1.8
+    ],
+    "mag": [
+      2,
+      13
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "Dahl",
+    "Jakobs",
+    "Tediore",
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "image": "/img/games/borderlands/weapons/carnage.png",
+  "sources": [
+    {
+      "name": "Shotgun Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

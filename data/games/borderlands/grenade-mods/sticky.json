@@ -1,0 +1,39 @@
+{
+  "game": "borderlands",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/sticky-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Sticky_Grenade"
+  },
+  "name": "Sticky",
+  "slug": "sticky",
+  "description": "An S&S Munitions sticky grenade from the base game. Does not bounce—it sticks to any surface it hits: walls, ground, or enemies. Detonates a few seconds after being thrown.\n\nPlace Sticky grenades at spawn points or along paths enemies will take to weaken or kill them before they engage. Attaching one directly to a weak point—a skag's open mouth, a human's head—deals critical damage when it explodes, making it effective for sticking to bosses or priority targets. Reliable and predictable for timed traps.",
+  "special": {
+    "description": "Sticks to anything on impact and explodes 3.3s after being thrown."
+  },
+  "type": "Standard",
+  "elements": [
+    "Corrosive",
+    "Explosive",
+    "Incendiary",
+    "Shock"
+  ],
+  "manufacturers": [
+    "S&S Munitions"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/grenade-mods/sticky.png"
+}

@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/booster-shield.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Booster_Shield"
+  },
+  "name": "Booster Shield",
+  "slug": "booster-shield",
+  "type": "Booster",
+  "description": "Booster Shields, most often made by Dahl, can spawn shield booster pickups when you take hits. Grabbing a booster replenishes a portion of your shield, helping you stay topped up during longer firefights where steady incoming damage keeps boosters appearing.",
+  "notes": "Boosters are temporary and will shrink and vanish, so you need to move to collect them quickly. In co-op, their value depends on which player is able to pick up the drops when they appear.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "When damaged, may drop booster batteries that restore shield capacity when collected."
+  },
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

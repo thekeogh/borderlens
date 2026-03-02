@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/dart.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Dart"
+  },
+  "name": "Dart",
+  "slug": "dart",
+  "type": "Pistol",
+  "description": "Dart pistols launch slow, guided spikes that latch onto targets and detonate after a short delay. They typically cannot score critical hits and do not deal instant on-hit damage, but the tracking makes them dependable against fast-moving or flying foes. If no lock is found, shots can bounce and may still acquire a nearby enemy, helping keep damage output steady despite the slower feel.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Some effects that rely on hit timing only count when the dart explodes, not when it sticks. In rare cases, unusual Hyperion part combinations can create non-elemental E-tech dart or spiker variants that behave more like explosive detonations and may appear visually atypical.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

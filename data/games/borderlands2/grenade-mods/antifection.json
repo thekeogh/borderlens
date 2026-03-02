@@ -1,0 +1,44 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Commander Lilith & the Fight for Sanctuary",
+  "dlc": true,
+  "image": "/img/games/borderlands2/grenade-mods/antifection.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/antifection-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Antifection"
+  },
+  "name": "Antifection",
+  "slug": "antifection",
+  "type": "Area of Effect",
+  "description": "Antifection is an Effervescent grenade mod made by Vladof, introduced in the Fight for Sanctuary add-on for Borderlands 2.\n\nIt always deals incendiary damage and covers a wide area, making it strongest when clearing packs of unshielded foes, especially human enemies and ground-based creatures.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Effervescent"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "Cassius Leclemaine",
+      "tags": [
+        "Boss",
+        "Mt. Scarab Research Center"
+      ]
+    }
+  ],
+  "notes": "Its behaviour is comparable to the Fire Bee. A second, unused variant exists with an identical item card but without the extra flame spawns; it is not obtainable through normal play.\n\nThe red text references Ragnaros from the Warcraft series.\n\nThe rocket impacts use a smaller version of the Nukem explosion.\n\nCan damage allies via friendly fire.",
+  "special": {
+    "description": "Always incendiary. Emits a rotating ring of flame while launching explosive fire rockets in all directions that detonate on impact.\n\nRed text: By fire be purged!",
+    "title": "By fire be purged!"
+  },
+  "max": {
+    "blast_radius": 400,
+    "fuse_time": 0,
+    "grenade_damage": 4093639,
+    "level": 90
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/mongol.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/mongol-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Mongol_(Borderlands_2)"
+  },
+  "name": "Mongol",
+  "slug": "mongol",
+  "type": "Launcher",
+  "description": "The Mongol is a legendary Vladof rocket launcher from Borderlands 2. Based on the Vanquisher, it trades heavy ammo use for wide coverage: a large main rocket hits a tight area, while numerous smaller rockets scatter along the flight path to blanket a broader zone. It performs well against big enemies, clustered mobs, and fast targets that are hard to tag with a single projectile.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+50% Melee Damage",
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-6% Damage",
+          "-10% Mag Size"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damge",
+          "+10% Reload Speed",
+          "+15% Recoil",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "+1 Mag Size",
+          "+30% Reload Speed",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Exhaust": [
+      {
+        "modifiers": [
+          "+20% Mag Size",
+          "-10% Max Accuracy"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+160% Projectile Speed",
+          "+10% Burst Recoil"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-6% Fire Rate"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-20% Zoom"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.3x Zoom",
+          "-20% Max Inaccuracy"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.9x Zoom",
+          "+20% Projectile Speed",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "2.8x Zoom",
+          "+20% Reload Speed"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.5x Zoom",
+          "+20% Max Accuracy",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "3.2x Zoom",
+          "+12% Fire Rate",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Element": [
+      {
+        "modifiers": [
+          "Chance: 7.1%",
+          "-20% Damage"
+        ],
+        "name": "Fire"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.1%",
+          "-20% Damage"
+        ],
+        "name": "Shock"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.1%",
+          "-20% Damage"
+        ],
+        "name": "Corrosive"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.1%",
+          "-20% Damage"
+        ],
+        "name": "Slag"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+21% Damage",
+          "-15% Fire Rate",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "+10% Reload Speed",
+          "+150% Swap Speed"
+        ],
+        "name": "Swap Speed"
+      },
+      {
+        "modifiers": [
+          "+280% Projectile Speed",
+          "+20% Zoom"
+        ],
+        "name": "Rocket Speed"
+      },
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "+30% Reload Speed"
+        ],
+        "name": "Reload Speed"
+      },
+      {
+        "modifiers": [
+          "+50% Zoom",
+          "+80% Projectile Speed",
+          "+15% Accuracy",
+          "-25% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Explosive",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "Dukino's Mom",
+      "tags": [
+        "Unique Enemy",
+        "Lynchwood",
+        "Drop rate: 5%"
+      ]
+    },
+    {
+      "name": "Digi. Dukino's Mom",
+      "tags": [
+        "Mini-Boss",
+        "Digistruct Peak",
+        "Drop rate: 5%"
+      ]
+    },
+    {
+      "name": "Launcher Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "title": "The Horde will always return!",
+    "description": "Consumes 2 ammo per shot. Fires one large rocket that detonates on impact for [weapon element] launcher damage. While in flight, it sheds multiple smaller rockets at random angles; these arc downward and explode on impact for 60% explosive launcher damage."
+  },
+  "notes": "If the main rocket is elemental, only that projectile applies the element; the spawned rockets are always explosive.\nThe item card jokes about reduced ammo use, but it does not get the usual Vladof free-shot behaviour and instead spends 2 ammo per trigger pull.\nA Loot Hunt hotfix (Day 27) increased damage and reload speed for the Mongol and other Vladof launchers.",
+  "max": {
+    "accuracy": 80.2,
+    "damage": 15139502,
+    "fire_rate": 2,
+    "level": 90,
+    "mag_size": 6,
+    "reload_speed": 2.7
+  },
+  "abilities": [
+    "2.4x Weapon Zoom",
+    "Consumes reduced ammo per shot.",
+    "ust kidding, no it doesn't.",
+    "Deals bonus explosive damage."
+  ]
+}

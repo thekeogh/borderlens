@@ -1,0 +1,38 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/sharpshooter-mordecai-bl1"
+  },
+  "name": "Sharpshooter",
+  "slug": "sharpshooter",
+  "type": "Hunter",
+  "skills": [
+    "Focus",
+    "Riotous Remedy",
+    "Killer"
+  ],
+  "description": "The Sharpshooter boosts Hyperion weapon damage for Mordecai. Material parts may add reduced recharge delay or grenade damage.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Increases Hyperion weapon damage."
+  },
+  "sources": [
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Craw's Lair"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/sharpshooter.png"
+}

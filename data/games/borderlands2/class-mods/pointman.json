@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/pointman.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Pointman"
+  },
+  "name": "Pointman",
+  "slug": "pointman",
+  "type": "Commando",
+  "description": "Pointman is a class mod for the Commando in Borderlands 2.",
+  "manufacturers": [
+    "Pangolin"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Last Ditch Effort",
+    "Pressure",
+    "Grit"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "name": "Axton Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

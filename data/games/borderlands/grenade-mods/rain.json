@@ -1,0 +1,39 @@
+{
+  "game": "borderlands",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/rain-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Rain_Grenade"
+  },
+  "name": "Rain",
+  "slug": "rain",
+  "description": "An Atlas Rain grenade from the base game. After its fuse expires, it pops up roughly ten to twelve feet and showers elemental damage downward—electric bolts, acid, flames, or explosive blasts depending on the element.\n\nRain grenades have a relatively small cone-shaped radius but deal massive elemental damage to a concentrated area. They are extremely effective against stationary enemies and clustered groups. Overhead obstructions will block the pop-up and prevent detonation, so use them in open areas, high-ceiling caverns, or outdoors. Explosive Rains are an exception—their blasts fall to the ground regardless of height. Less useful against airborne enemies since detonation is fuse-based.",
+  "special": {
+    "description": "Launches into the air after 2.5s and deals elemental damage to all enemies beneath it."
+  },
+  "type": "Area of Effect",
+  "elements": [
+    "Corrosive",
+    "Explosive",
+    "Incendiary",
+    "Shock"
+  ],
+  "manufacturers": [
+    "Atlas"
+  ],
+  "rarities": [
+    "Epic"
+  ],
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/grenade-mods/rain.png"
+}

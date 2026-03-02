@@ -1,0 +1,96 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Commander Lilith & the Fight for Sanctuary",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/hot-mama.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/hot-mama-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Hot_Mama"
+  },
+  "name": "Hot Mama",
+  "slug": "hot-mama",
+  "type": "Sniper",
+  "description": "Hot Mama is an Effervescent Jakobs sniper rifle from the Fight for Sanctuary DLC in Borderlands 2.\n\nWhen scoped, it becomes perfectly accurate, making it a strong pick for Gaige builds with high Anarchy where normal accuracy suffers.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Effervescent"
+  ],
+  "parts": {
+    "Stock": [
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ]
+  },
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "Lt. Hoffman",
+      "tags": [
+        "Unique Enemy",
+        "Mt. Scarab Research Center",
+        "Drop rate: 20%"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Sniper is a lonely occupation.",
+    "description": "Always Incendiary. Fires bullets that leave a heart trail.\n\nAiming down sights sets accuracy to 100%.\n\nCritical hits or critical kills grant a stack that increases critical hit damage by 50%. Stacks have no cap, but each lasts 12 seconds and you can only gain one stack every 5 seconds.\n\nHas unique voice lines while equipped."
+  },
+  "notes": "It only rolls with a Maliwan scope, a Dahl grip and the bladed accessory.\n\nIts critical bonus can only add a new stack once every 5 seconds. Each stack lasts 12 seconds and expires on its own timer.",
+  "max": {
+    "accuracy": 96.4,
+    "damage": 3048329,
+    "fire_rate": 13,
+    "level": 90,
+    "mag_size": 6,
+    "reload_speed": 3.7,
+    "status_chance": 30.07,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "6.1x Weapon Zoom",
+    "+507 Melee Damage",
+    "Highly effective vs Flesh."
+  ]
+}

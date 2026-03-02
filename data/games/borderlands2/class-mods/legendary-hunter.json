@@ -1,0 +1,82 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/legendary-hunter.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-hunter-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Hunter"
+  },
+  "name": "Legendary Hunter",
+  "slug": "legendary-hunter",
+  "type": "Assassin",
+  "description": "Legendary Hunter is a legendary class mod for Zer0, made by Jakobs. It can drop from most appropriate loot sources, with better odds from Vermivorous the Invincible, Pete the Invincible, Voracidous the Invincible, and the Ancient Dragons of Destruction.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Headsh0t",
+    "Fast Hands",
+    "C0unter Strike",
+    "Killing Bl0w",
+    "Ir0n Hand"
+  ],
+  "sources": [
+    {
+      "name": "Vermivorous",
+      "tags": [
+        "Raid Boss",
+        "Wam Bam Island"
+      ]
+    },
+    {
+      "name": "Dexiduous",
+      "tags": [
+        "Raid Boss",
+        "Hunter's Grotto"
+      ]
+    },
+    {
+      "name": "Voracidous",
+      "tags": [
+        "Raid Boss",
+        "Candlerakk's Crag"
+      ]
+    },
+    {
+      "name": "Omnd-Omnd-Ohk",
+      "tags": [
+        "Rare Enemy",
+        "Hunter's Grotto"
+      ]
+    },
+    {
+      "name": "Zer0 Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "A SHiFT code that awards a Legendary Hunter to one character is included with the Diamond Plate Loot Chest.\n\nItem card caption: \"Precision. Deadliness. Cool face masks.\"\n\nThe red flavour text references a Mordecai line when he is downed in Borderlands.",
+  "special": {
+    "description": "At max level it boosts cooldown rate by 51%, critical hit damage by 41.8%, and reload speed by 36.8%.\n\nUnique effect: activating Decepti0n restores 10% of max health.\n\nKnown issue: the item card can show an incorrect reload speed value.",
+    "title": "\"I never die.\""
+  },
+  "max": {
+    "cooldown_rate_bonus": 5,
+    "level": 90,
+    "reload_speed": 2.77
+  },
+  "abilities": [
+    "+5 HeadshOt Skill",
+    "+5 Fast Hands Skill",
+    "+5 COunter Strike Skill",
+    "+5 Killing BlOw Skill",
+    "Using Deception instantly restores 10% of your Max Health."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Mechromancer Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/slayer-of-terramorphous-mechromancer.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/slayer-of-terramorphous-bl2-mechromancer",
+    "wiki": "https://borderlands.fandom.com/wiki/Slayer_Of_Terramorphous"
+  },
+  "name": "Slayer Of Terramorphous",
+  "slug": "slayer-of-terramorphous-mechromancer",
+  "type": "Mechromancer",
+  "description": "Slayer Of Terramorphous is a legendary class mod set with variants for every Vault Hunter, including Gaige. It can drop from Terramorphous the Invincible, with the character type chosen at random. Compared with most legendary class mods, it trades slightly smaller skill boosts for a broader spread of extra bonuses such as survivability and damage-related stats.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Fancy Mathematics",
+    "Made of Sterner Stuff",
+    "Evil Enchantress",
+    "Interspersed Outburst",
+    "Preshrunk Cyberpunk",
+    "Sentry",
+    "Ready",
+    "Impact",
+    "Expertise",
+    "Healthy"
+  ],
+  "sources": [
+    {
+      "name": "Terramorphous",
+      "tags": [
+        "Raid Boss",
+        "Terramorphous Peak"
+      ]
+    }
+  ],
+  "notes": "Terramorphous always drops one, but the specific Vault Hunter version is random.\n\nThe Assassin variant was previously misassigned and later corrected.\n\nEach character version uses different themed artwork; the Psycho one is notable for using a lowercase o in \"of\".",
+  "special": {
+    "description": "At max level, Gaige's Slayer Of Terramorphous grants:\nBurn Damage +37%\nIgnite Chance +37%\nHealth +1,101,229"
+  },
+  "abilities": [
+    "+4 Interspersed Outburst Skill",
+    "+4 Evil Enchantress Skill",
+    "+4 Made of Sterner otuff Skill",
+    "+4 Fancy Mathematics Skill",
+    "+4 Preshrunk Cyberpunk Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

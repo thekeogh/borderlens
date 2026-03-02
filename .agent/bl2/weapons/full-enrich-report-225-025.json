@@ -1,0 +1,212 @@
+{
+  "completedAt": "2026-02-26T12:42:24.227Z",
+  "entries": [
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "rubi.json",
+      "name": "Rubi"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "sand-hawk.json",
+      "name": "Sand Hawk"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "sawbar.json",
+      "name": "Sawbar"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "scarab.json",
+      "name": "Scarab"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "scattergun.json",
+      "name": "Scattergun"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "scorpio.json",
+      "name": "Scorpio"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "scorpion.json",
+      "name": "Scorpion"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "scout.json",
+      "name": "Scout"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "seeker.json",
+      "name": "Seeker"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "seraphim.json",
+      "name": "Seraphim"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "shoky.json",
+      "name": "Shoky"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "shotgun-1340.json",
+      "name": "Shotgun 1340"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "shotgun-supreme.json",
+      "name": "Shotgun Supreme!"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "shredifier.json",
+      "name": "Shredifier"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "skatergun.json",
+      "name": "Skatergun"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "skullmasher.json",
+      "name": "Skullmasher"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "slagga.json",
+      "name": "Slagga"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "slagy.json",
+      "name": "Slagy"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "slapper.json",
+      "name": "Slapper"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "sledges-shotgun.json",
+      "name": "Sledge's Shotgun"
+    },
+    {
+      "changed": [
+        "special",
+        "description"
+      ],
+      "file": "sloth.json",
+      "name": "Sloth"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "slow-hand.json",
+      "name": "Slow Hand"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "smg.json",
+      "name": "SMG"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "smig.json",
+      "name": "Smig"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "snider.json",
+      "name": "Snider"
+    }
+  ],
+  "limit": 25,
+  "offset": 225,
+  "processed": 25,
+  "updated": 25
+}

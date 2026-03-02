@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/falcon.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Falcon"
+  },
+  "name": "Falcon",
+  "slug": "falcon",
+  "type": "SMG",
+  "description": "A Hyperion barrel boosts accuracy but reduces damage and magazine size. Since Dahl SMGs are already very accurate thanks to burst fire, the trade-off is usually poor, though it can help you land quick critical hits.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/spitter.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Spitter"
+  },
+  "name": "Spitter",
+  "slug": "spitter",
+  "type": "Assault Rifle",
+  "description": "Instead of the usual Vladof spin-up, the Spitter's rate of fire fluctuates while you hold the trigger, speeding up and slowing down unpredictably. It can also occasionally double-tap, firing two rounds in rapid succession.\n\nAccuracy is poor, but recoil is low. Spitters only appear at green rarity or above.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/specialist.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/specialist-axton-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Specialist"
+  },
+  "name": "Specialist",
+  "slug": "specialist",
+  "type": "Commando",
+  "description": "Specialist is an Epic Class Mod for Axton in Borderlands 2.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Duty Calls",
+    "Ready",
+    "Forbearance"
+  ],
+  "sources": [
+    {
+      "name": "Axton Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Drops randomly from any suitable loot source.",
+  "special": {
+    "description": "At maximum level, grants +57.5% SMG maximum accuracy and -57.5% SMG spread.\n\nNote: the item card may show incorrect values."
+  },
+  "max": {
+    "accuracy": 37.7,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Duty Calls Skill",
+    "+4 Ready Skill",
+    "+4 Forbearance Skill"
+  ]
+}

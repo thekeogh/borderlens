@@ -1,0 +1,56 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/ogre-brick-bl1"
+  },
+  "name": "Ogre",
+  "slug": "ogre",
+  "type": "Berserker",
+  "skills": [
+    "Rapid Reload",
+    "Revenge",
+    "Diehard"
+  ],
+  "description": "The Ogre raises shotgun fire rate for Brick. Material parts may add damage or ammo regeneration.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Increases shotgun fire rate."
+  },
+  "sources": [
+    {
+      "name": "CoD: Corporal",
+      "tags": [
+        "Circle of Duty"
+      ]
+    },
+    {
+      "name": "Devastator",
+      "tags": [
+        "Road's End"
+      ]
+    },
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Craw's Lair"
+      ]
+    },
+    {
+      "name": "Lance Chest",
+      "tags": [
+        "Crimson Armory"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/ogre.png"
+}

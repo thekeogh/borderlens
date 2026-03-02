@@ -1,0 +1,262 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/chere-amie.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/chere-amie-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Ch%C3%A8re-amie"
+  },
+  "name": "Chere-amie",
+  "slug": "chere-amie",
+  "type": "Sniper",
+  "description": "Chere-amie is a Moxxi sniper rifle that grants life steal while it is in your hands. The healing applies to most damage you deal, not just bullets, and its own shots also return extra health in a transfusion-like effect. It suits builds that can keep firing regularly for steady sustain.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance",
+          "+3 Mag Size",
+          "+30% Reload Speed"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "4.5x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "7.8x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "6.6x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "5.7x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "4.8x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Element": [
+      {
+        "modifiers": [
+          "-20% Damage"
+        ],
+        "name": "Fire"
+      },
+      {
+        "modifiers": [
+          "-20% Damage"
+        ],
+        "name": "Shock"
+      },
+      {
+        "modifiers": [
+          "-20% Damage"
+        ],
+        "name": "Corrosive"
+      },
+      {
+        "modifiers": [
+          "-20% Damage"
+        ],
+        "name": "Slag"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+20% Crit Damage",
+          "+10% Max Accuracy",
+          "-15% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Crit Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "-35% Max Inaccuracy",
+          "-30% Recoil",
+          "+25% Spread"
+        ],
+        "name": "Foregrip"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+35% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+25% Max Accuracy",
+          "-25% Spread",
+          "+25% Recoil"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "Hyperion Slaughter: Round 5",
+      "tags": [
+        "Quest",
+        "Ore Chasm"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Je suis enchante, Ou est le bibliotheque?",
+    "description": "While equipped, it provides Moxxi-style life steal and an additional heal triggered by its own gun damage. It also features increased critical hit damage."
+  },
+  "notes": "",
+  "max": {
+    "accuracy": 95.6,
+    "damage": 2067198,
+    "fire_rate": 1.4,
+    "level": 90,
+    "mag_size": 3,
+    "reload_speed": 3.1
+  },
+  "abilities": [
+    "Deals bonus elemental damage."
+  ]
+}

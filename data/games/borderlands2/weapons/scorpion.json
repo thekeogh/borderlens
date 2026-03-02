@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/scorpion.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Scorpion"
+  },
+  "name": "Scorpion",
+  "slug": "scorpion",
+  "type": "SMG",
+  "description": "Scorpion is a Dahl SMG from a small set that always spawns with a fixed-element Maliwan barrel. This gives it unusually strong elemental damage over time and a higher status chance than typical SMGs.\n\nBecause its parts are locked, it drops far less often than its green (and occasional blue or purple) rarity suggests, and is easy to overlook. Even so, its reliable elemental output can carry you well until you find a rarer or more specialised weapon.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "elements": [
+    "Corrosive"
+  ],
+  "notes": "Drops randomly from any suitable loot source. Only appears at green rarity or above. Other Dahl SMGs in the same fixed-element Maliwan-barrel group are Beetle, Eel, Jackal, and Yeti.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

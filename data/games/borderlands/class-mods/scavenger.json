@@ -1,0 +1,40 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/scavenger-mordecai-bl1"
+  },
+  "name": "Scavenger",
+  "slug": "scavenger",
+  "type": "Hunter",
+  "skills": [
+    "Swipe",
+    "Ransack",
+    "Out For Blood"
+  ],
+  "description": "The Scavenger grants the team bonus scavenge extra items for Mordecai. Material parts may add team health regeneration.",
+  "manufacturers": [
+    "Pangolin",
+    "Tediore"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Grants the team bonus scavenge extra items."
+  },
+  "sources": [
+    {
+      "name": "Mordecai Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/scavenger.png"
+}

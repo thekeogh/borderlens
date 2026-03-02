@@ -1,0 +1,187 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Captain Scarlett and Her Pirate's Booty",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/greed.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/greed-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Greed"
+  },
+  "name": "Greed",
+  "slug": "greed",
+  "type": "Pistol",
+  "description": "Greed is a unique Jakobs pistol from the Pirate's Booty add-on for Borderlands 2. It is notable for being one of the few Jakobs uniques that can roll with an element, and for letting you aim down sights without the usual movement speed slowdown. In practice its performance is average, and being locked to a single element makes it less flexible, though it can do well against flesh targets compared with similar Jakobs revolvers.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "+1 Mag Size",
+          "+30% Reload Speed",
+          "-0.2 Recoil",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "+15% Reload Speed",
+          "-10% Recoil Recovery",
+          "-6% Damage"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+18% Fire Rate",
+          "+2 Ricochets",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+28% Mag Size",
+          "+2 Mag Size",
+          "+60% Projectiles",
+          "+0.4 Projectiles",
+          "-15% Damage",
+          "-30% Fire Rate",
+          "+1 Shot Cost",
+          "-25% Max Accuracy",
+          "+25% Spread",
+          "+1 Spread",
+          "+4 Recoil"
+        ],
+        "name": "Double"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "-30% Recoil",
+          "-35% Max Inaccuracy",
+          "-15% Spread"
+        ],
+        "name": "Stock"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+56% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+25% Accuracy",
+          "+20% Projectile Speed",
+          "-40% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "Roscoe",
+      "tags": [
+        "Boss",
+        "The Leviathan's Lair",
+        "Drop rate: 100%"
+      ]
+    }
+  ],
+  "special": {
+    "description": "Aiming down sights does not reduce movement speed.\n\nManufacturer: Jakobs\nJakobs pistols gain +50% critical hit damage.\n\nRed text: Thief.\nAlways incendiary. Cannot spawn with a sight.",
+    "title": "Thief."
+  },
+  "notes": "Its full-speed ADS behaviour comes from having no scope part at all (NULL) rather than the usual Scope_None; forcing NULL on other guns produces the same effect. Only Greed and the Interfacer can spawn with this setup. With enough Expertise (and skill-boosting class mods), a Commando can move extremely fast while aiming. It can be repeatedly farmed by re-entering The Leviathan's Lair and using co-op join/respawn tricks to spawn inside the Leviathan, then killing Roscoe; save-quit returns you inside for another run.",
+  "max": {
+    "accuracy": 96,
+    "damage": 1773139,
+    "fire_rate": 14.1,
+    "level": 90,
+    "mag_size": 9,
+    "reload_speed": 2.1,
+    "status_chance": 12.07,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "Highly effective vs Flesh.",
+    "Fires as fast as you can pull the trigger. ixxoss RI"
+  ]
+}

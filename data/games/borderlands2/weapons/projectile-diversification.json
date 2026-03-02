@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/projectile-diversification.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Projectile_Diversification"
+  },
+  "name": "Projectile Diversification",
+  "slug": "projectile-diversification",
+  "type": "Shotgun",
+  "description": "Uses a Tediore barrel, trading a small amount of accuracy for this setup.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "elements": [
+    "None"
+  ],
+  "notes": "Dropped at random from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

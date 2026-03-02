@@ -1,0 +1,211 @@
+{
+  "completedAt": "2026-02-26T12:41:49.270Z",
+  "entries": [
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "grenadier.json",
+      "name": "Grenadier"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "grog-nozzle.json",
+      "name": "Grog Nozzle"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "gub.json",
+      "name": "Gub"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "guerrilla.json",
+      "name": "Guerrilla"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "gunerang.json",
+      "name": "Gunerang"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "gwens-head.json",
+      "name": "Gwen's Head"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "hail.json",
+      "name": "Hail"
+    },
+    {
+      "changed": [
+        "special",
+        "description"
+      ],
+      "file": "hammer-buster.json",
+      "name": "Hammer Buster"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "hand-cannon.json",
+      "name": "Hand Cannon"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "handgun.json",
+      "name": "Handgun"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "hawk-eye.json",
+      "name": "Hawk Eye"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "heart-breaker.json",
+      "name": "Heart Breaker"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "hectors-paradise.json",
+      "name": "Hector's Paradise"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "hed-shoter.json",
+      "name": "Hed Shoter!"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "hellfire.json",
+      "name": "Hellfire"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "hero.json",
+      "name": "Hero"
+    },
+    {
+      "changed": [
+        "special",
+        "description"
+      ],
+      "file": "hive.json",
+      "name": "Hive"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "hole-puncher.json",
+      "name": "Hole Puncher"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "home-security.json",
+      "name": "Home Security"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "hornet.json",
+      "name": "Hornet"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "horrorshow.json",
+      "name": "Horrorshow"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "hot-mama.json",
+      "name": "Hot Mama"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "hulk.json",
+      "name": "Hulk"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "hybridfication.json",
+      "name": "Hybridfication"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "hydra.json",
+      "name": "Hydra"
+    }
+  ],
+  "limit": 25,
+  "offset": 100,
+  "processed": 25,
+  "updated": 25
+}

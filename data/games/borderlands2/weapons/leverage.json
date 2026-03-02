@@ -1,0 +1,39 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/leverage.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Leverage"
+  },
+  "name": "Leverage",
+  "slug": "leverage",
+  "type": "Pistol",
+  "description": "Hyperion repeater pistols tighten their aim the longer you keep firing, making them most accurate during sustained trigger holds rather than on the first shot. The Leverage uses a long, high-powered precision barrel, trading fire rate for strong damage and dependable long-range performance. It pairs this with Hyperion's standard medium-to-high capacity magazine, letting you keep shooting for extended bursts.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "In Borderlands: The Pre-Sequel, Leverage variants often use Hyperion's newer materials and prefix set, matching Borderlands 2. A related counterpart exists as the Attitude, produced by the older Hyperion line. Because it uses the Jakobs long barrel, it only appears at green rarity or higher. The Leverage is a random drop from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "game": "borderlands",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/mirv-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/MIRV_Grenade_(Borderlands)"
+  },
+  "name": "MIRV",
+  "slug": "mirv",
+  "description": "A Torgue MIRV grenade from the base game. After its fuse expires, the initial detonation deals damage and disperses six bomblets that scatter under gravity, bounce off surfaces and enemies, then explode after a short delay.\n\nMIRVs excel in both open and enclosed spaces—the bomblets spread across a large radius and can ricochet into awkward angles. They will bounce off walls and roll along the ground before detonating, making them versatile for any terrain. The trade-off: bomblets are gravity-based with their own fuse, so MIRVs are less effective against airborne foes than faster options like Bouncing Betties or Contact grenades.",
+  "special": {
+    "description": "Explodes after 2.5s and spawns 6 child grenades that explode nearby."
+  },
+  "type": "MIRV",
+  "elements": [
+    "Corrosive",
+    "Explosive",
+    "Incendiary",
+    "Shock"
+  ],
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/grenade-mods/mirv.png"
+}

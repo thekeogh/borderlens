@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/phobia.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Phobia"
+  },
+  "name": "Phobia",
+  "slug": "phobia",
+  "type": "Pistol",
+  "description": "Phobia is identified by its Hyperion barrel, which increases critical hit damage.\n\nIts shots also create an extra 80% splash damage component, and this splash portion scales with any grenade damage bonuses.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": ""
+}

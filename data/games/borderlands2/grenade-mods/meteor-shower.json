@@ -1,0 +1,47 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Mr. Torgue's Campaign of Carnage",
+  "dlc": true,
+  "image": "/img/games/borderlands2/grenade-mods/meteor-shower.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/meteor-shower-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Meteor_Shower"
+  },
+  "name": "Meteor Shower",
+  "slug": "meteor-shower",
+  "type": "MIRV",
+  "description": "Meteor Shower is a Torgue Seraph grenade mod from the Campaign of Carnage DLC for Borderlands 2.\n\nOn detonation it bursts into a large cluster of child grenades, blanketing a wide area with explosions. It can wipe groups quickly, and in tight spaces the overlapping blasts can deal extreme damage.\n\nIt is effectively an upgraded Bonus Package. At the same level and with comparable parts it has higher damage per grenade and throws out more child grenades: typically 10 to 12 rather than 8 to 10.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Seraph"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "Crater Seraph Shop",
+      "tags": [
+        "Vendor",
+        "Badass Crater of Badassitude"
+      ]
+    }
+  ],
+  "notes": "Works with any delivery type.",
+  "special": {
+    "description": "Each child grenade creates another child grenade when it explodes.",
+    "title": "Not just for wishing on!"
+  },
+  "max": {
+    "blast_radius": 489,
+    "fuse_time": 0.8,
+    "grenade_damage": 904922912,
+    "level": 90
+  },
+  "abilities": [
+    "Spawns 12 child grenades upon detonating."
+  ]
+}

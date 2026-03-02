@@ -1,0 +1,68 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/grenade-mods/fireball.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/fireball-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Fireball"
+  },
+  "name": "Fireball",
+  "slug": "fireball",
+  "type": "Standard",
+  "description": "Fireball is a rare Maliwan grenade mod from Tiny Tina's Assault on Dragon Keep. It fires a slow incendiary projectile in a straight line that detonates the moment it hits an enemy or surface. Because it moves slowly, it is most reliable in tight spaces or against sluggish targets such as treants and stumpies. While equipped, it regenerates 1 grenade every 25 seconds.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "Fire Mage",
+      "tags": [
+        "Enemy",
+        "Lair of Infinite Agony"
+      ]
+    },
+    {
+      "name": "Handsome Sorcerer",
+      "tags": [
+        "Boss",
+        "Dragon Keep"
+      ]
+    },
+    {
+      "name": "Handsome Dragon",
+      "tags": [
+        "Boss",
+        "Hatred's Shadow"
+      ]
+    },
+    {
+      "name": "Necromancer",
+      "tags": [
+        "Enemy",
+        "Lair of Infinite Agony"
+      ]
+    }
+  ],
+  "notes": "Fire Storm is the legendary variant of Fireball.\n\nThe name references the Fireball spell from Dungeons and Dragons.\n\nIts red text nods to the dubbed G.I. Joe PSA parody where a firefighter shouts, Porkchop sandwiches.\n\nWith Fireball equipped, Axton may call out Fireball when deploying his Sabre Turret.",
+  "special": {
+    "description": "Launches a slow, straight flying fireball that explodes on impact and always deals incendiary damage.\n\nRegenerates grenade ammo over time.\n\nPlays a unique throw sound, and characters may shout Fireball while in Tiny Tina's Assault on Dragon Keep.",
+    "title": "Porkchop sandwiches!"
+  },
+  "max": {
+    "blast_radius": 84,
+    "fuse_time": 0,
+    "grenade_damage": 6801068,
+    "level": 90
+  },
+  "abilities": [
+    "Slowly regenerates grenade ammo over time."
+  ]
+}

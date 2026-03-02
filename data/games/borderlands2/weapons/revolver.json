@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/revolver.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Revolver_(Borderlands_2)"
+  },
+  "name": "Revolver",
+  "slug": "revolver",
+  "type": "Pistol",
+  "description": "The Revolver is an early-game handgun and is guaranteed to drop from Knuckle Dragger on first kill. As a Jakobs pistol, it fires at the rate you can pull the trigger, complete with the signature fanning-style firing animation.\n\nBase performance depends on the barrel: Tediore gives no change; Maliwan slightly boosts accuracy; Bandit/Scav raises damage but lowers accuracy; Dahl improves accuracy and recoil recovery while reducing damage, and also cuts recoil.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "notes": "Can also appear from any appropriate loot source. Blue rarity versions are called the Wheelgun and use the same part pool. The gun cannot roll elemental damage, but a Maliwan barrel still increases elemental status effect damage bonuses.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ],
+  "elements": [
+    "None"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/beast.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/beast-salvador-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Beast"
+  },
+  "name": "Beast",
+  "slug": "beast",
+  "type": "Gunzerker",
+  "description": "Beast is an Epic class mod for Salvador in Borderlands 2 (base game).",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Just Got Real",
+    "Incite",
+    "Sexual Tyrannosaurus"
+  ],
+  "sources": [
+    {
+      "name": "Salvador Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "The Altered prefix is a nod to the 1988 game Altered Beast.",
+  "special": {
+    "description": "At max level, this class mod boosts Reload Speed by 57.5% and increases Health by 1,101,229. The item card may show an incorrect Reload Speed value."
+  },
+  "max": {
+    "level": 90,
+    "reload_speed": 3.77
+  },
+  "abilities": [
+    "+5 Just Got Real Skill",
+    "+4 Incite Skill",
+    "+4 Sexual Tyrannosaurus Skill"
+  ]
+}

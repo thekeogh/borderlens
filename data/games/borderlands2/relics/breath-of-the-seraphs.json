@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Sir Hammerlock's Big Game Hunt",
+  "dlc": true,
+  "image": "/img/games/borderlands2/relics/breath-of-the-seraphs.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/bonus-item/breath-of-the-seraphs-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Breath_of_the_Seraphs"
+  },
+  "name": "Breath of the Seraphs",
+  "slug": "breath-of-the-seraphs",
+  "type": "Unique",
+  "description": "A Seraph relic from Borderlands 2 (Big Game Hunt). After you score a kill to get Second Wind, it triggers a short buff that boosts damage and rapidly regenerates health, helping you stabilise after being revived. With the damage boost, it can also be used to push aggressively straight after getting back on your feet.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Seraph"
+  ],
+  "sources": [
+    {
+      "name": "Grotto Seraph Shop",
+      "tags": [
+        "Vendor",
+        "Hunter's Grotto"
+      ]
+    }
+  ],
+  "special": {
+    "description": "On Second Wind (kill while in Fight For Your Life), gain a buff for about 15 seconds:\n+55% damage\n+8.2% of maximum health regenerated per second",
+    "title": "Their return is to be feared..."
+  },
+  "notes": "",
+  "max": {
+    "level": 90
+  }
+}

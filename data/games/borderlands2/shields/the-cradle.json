@@ -1,0 +1,58 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/the-cradle.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/the-cradle-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/The_Cradle"
+  },
+  "name": "The Cradle",
+  "slug": "the-cradle",
+  "type": "Standard",
+  "description": "The Cradle is a legendary Tediore shield in Borderlands 2. When the shield is depleted, it is thrown like a Tediore reload and detonates on impact, while also releasing an explosive nova. It generally comes with lower shield capacity in exchange for quicker recharge.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "sources": [
+    {
+      "name": "Henry",
+      "tags": [
+        "Unique Enemy",
+        "The Highlands"
+      ]
+    },
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "notes": "Enemies killed by the thrown shield blast count towards the Boomerbang challenge.\n\nThe nova damage benefits from grenade damage boosts.\n\nIn TVHM and UVHM its damage falls behind due to enemy health scaling.\n\nIts name and flavour text nod to the phrase \"from the cradle to the grave\", fitting the idea of the shield being tossed away when it runs out.\n\nElemental prefixes can read oddly because they appear before \"The\" (eg \"Blast Proof The Cradle\").",
+  "special": {
+    "description": "From the cradle...\n\nWhen depleted, the shield is thrown and explodes on impact and also triggers an explosive nova. Lower capacity, faster recharge. At OP10 the thrown explosion is extremely weak (around 18,000 damage).",
+    "title": "... to the grave."
+  },
+  "max": {
+    "capacity": 1589362,
+    "level": 90,
+    "recharge_delay": 1.9,
+    "recharge_rate": 3260404
+  },
+  "abilities": [
+    "Shield is disposed of upon depletion, with explosive results. SOMICGIS,"
+  ]
+}

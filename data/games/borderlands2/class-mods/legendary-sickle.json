@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-sickle.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-sickle-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Sickle"
+  },
+  "name": "Legendary Sickle",
+  "slug": "legendary-sickle",
+  "type": "Psycho",
+  "description": "Legendary Sickle is a legendary Psycho class mod. It was added with the Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge and only drops from Tubby enemies in Ultimate Vault Hunter Mode at level 62 or higher.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Taste of Blood",
+    "Fuel the Blood",
+    "Empty the Rage",
+    "Silence the Voices",
+    "Pain is Power"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Below-level-50 versions would show reduced bonuses instead of +5, but cannot be obtained legitimately.\n\nRequires the Digistruct Peak Challenge add-on.\n\nAlthough it is the legendary Sickle, it uses the Meat class mod model.\n\nThe red flavour line quotes Walter Sobchak from The Big Lebowski.",
+  "special": {
+    "description": "At maximum level: +61% melee damage.\n\nThe standard Sickle is strictly worse than the legendary variant in all stats. Some displays may use the regular Sickle texture to help differentiate it.",
+    "title": "\"You're entering a world of pain.\""
+  },
+  "abilities": [
+    "+5 Empty the Rage Skill",
+    "+5 Silence the Voices Skill",
+    "+5 Taste of Blood Skill",
+    "+5 Pain is Power Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

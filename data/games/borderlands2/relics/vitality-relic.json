@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/relics/vitality-relic.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Vitality_Relic"
+  },
+  "name": "Vitality Relic",
+  "slug": "vitality-relic",
+  "type": "Vitality",
+  "description": "Vitality Relic is a common Eridian relic in Borderlands 2.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "Its health boost also appears on Blood of the Ancients, which adds the same max health increase alongside extra ammo capacity.",
+  "special": {
+    "description": "Raises maximum health by a percentage of your character's base health."
+  },
+  "sources": [
+    {
+      "name": "Relic Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

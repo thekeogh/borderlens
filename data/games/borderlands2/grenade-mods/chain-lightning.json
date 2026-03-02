@@ -1,0 +1,61 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/grenade-mods/chain-lightning.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/chain-lightning-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Chain_Lightning"
+  },
+  "name": "Chain Lightning",
+  "slug": "chain-lightning",
+  "type": "Unique",
+  "description": "A Maliwan legendary spell grenade from Tiny Tina's Assault on Dragon Keep.\n\nInstead of an arcing throw, it fires a straight lightning bolt that detonates when it hits a solid surface or reaches its maximum travel distance. The bolt can slip through some geometry, letting you tag targets at extreme range. Even if you miss, landing the blast near an enemy can still zap them as the electricity chains to nearby foes. The strike point is offset from the centre of your crosshair, so it is worth practising.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "elements": [
+    "Shock"
+  ],
+  "sources": [
+    {
+      "name": "Sorcerer",
+      "tags": [
+        "Enemy",
+        "Lair of Infinite Agony"
+      ]
+    },
+    {
+      "name": "Handsome Sorcerer",
+      "tags": [
+        "Boss",
+        "Dragon Keep"
+      ]
+    },
+    {
+      "name": "Handsome Dragon",
+      "tags": [
+        "Boss",
+        "Hatred's Shadow"
+      ]
+    }
+  ],
+  "notes": "Works especially well on Gaige with Little Big Trouble skills such as Wires Don't Talk, Electrical Burn and Myelin. The chaining also helps land damage at range when high Anarchy makes gunfire inaccurate.\n\nPairs well with Moxxi weapons like the Grog Nozzle or Rubi for rapid healing, as the damage applies almost instantly and can hit several enemies at once. Useful as an emergency heal in close to mid range.\n\nThe flavour line twists the idea of paying it forward, and the name references a classic tabletop RPG spell. The ammo pick-up sound plays whenever a grenade regenerates.",
+  "special": {
+    "description": "Fires a lightning bolt from your hand that can chain between nearby enemies. Grenades regenerate over time.",
+    "title": "Don't pay it back, pay it forward."
+  },
+  "max": {
+    "blast_radius": 387,
+    "fuse_time": 0,
+    "grenade_damage": 6682214,
+    "level": 90
+  },
+  "abilities": [
+    "Slowly regenerates grenade ammo over time."
+  ]
+}

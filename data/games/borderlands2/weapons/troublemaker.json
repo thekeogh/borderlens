@@ -1,0 +1,39 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/troublemaker.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Troublemaker"
+  },
+  "name": "Troublemaker",
+  "slug": "troublemaker",
+  "type": "Pistol",
+  "description": "A fully automatic Vladof pistol that pairs strong per shot damage with a very fast fire rate. Its magazine is smaller than many Bandit pistols, but it is generally more accurate, and the recoil, while punchy, is easier to manage.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Drops randomly from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

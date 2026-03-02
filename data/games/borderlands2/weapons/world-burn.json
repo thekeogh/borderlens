@@ -1,0 +1,225 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Commander Lilith & the Fight for Sanctuary",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/world-burn.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/world-burn-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/World_Burn"
+  },
+  "name": "World Burn",
+  "slug": "world-burn",
+  "type": "Launcher",
+  "description": "World Burn is an Effervescent Torgue rocket launcher from the Fight for Sanctuary DLC. It launches incendiary rockets on a steep arc, detonating for huge damage and a wide splash, often dropping foes in one or two hits and helping secure Second Wind. The blast can also catch you at close range, so keep distance and use cover. The arc limits long-range use but lets you lob shots over obstacles and into enemies behind cover.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Effervescent"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+50% Melee Damage",
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-6% Damage",
+          "-10% Mag Size"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damge",
+          "+1 Mag Size",
+          "+40% Reload Speed",
+          "+15% Recoil",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Exhaust": [
+      {
+        "modifiers": [
+          "+20% Mag Size",
+          "-10% Max Accuracy"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+160% Projectile Speed",
+          "+10% Burst Recoil"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-6% Fire Rate"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-20% Zoom"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.3x Zoom",
+          "-20% Max Inaccuracy"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.9x Zoom",
+          "+20% Projectile Speed",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "2.8x Zoom",
+          "+20% Reload Speed"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.5x Zoom",
+          "+20% Max Accuracy",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "3.2x Zoom",
+          "+12% Fire Rate",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+21% Damage",
+          "-15% Fire Rate",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "+10% Reload Speed",
+          "+150% Swap Speed"
+        ],
+        "name": "Swap Speed"
+      },
+      {
+        "modifiers": [
+          "+280% Projectile Speed",
+          "+20% Zoom"
+        ],
+        "name": "Rocket Speed"
+      },
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "+30% Reload Speed"
+        ],
+        "name": "Reload Speed"
+      },
+      {
+        "modifiers": [
+          "+50% Zoom",
+          "+80% Projectile Speed",
+          "+15% Accuracy",
+          "-25% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "Lt. Bolson",
+      "tags": [
+        "Unique Enemy",
+        "DAHL Abandon",
+        "Drop rate: 20%"
+      ]
+    }
+  ],
+  "special": {
+    "title": "War does not compute.",
+    "description": "War does not compute. Always incendiary. Fires arcing rockets that detonate into a mushroom-cloud explosion. Higher damage and magazine size, but slower reload speed."
+  },
+  "notes": "Shares its core behaviour with the Nukem, but World Burn is always incendiary, consumes 1 rocket per shot, and generally offers higher base damage, a larger magazine, and slower reloads. It can roll different accessories but never gets a prefix. A rocket-velocity part boosts effective range while flattening the arc, making indirect shots over cover harder. Maya's Accelerate and Zer0's Vel0city help at medium to long range. Lt. Bolson has a 20% drop chance.",
+  "max": {
+    "accuracy": 73.3,
+    "damage": 56557676,
+    "fire_rate": 0.8,
+    "level": 90,
+    "mag_size": 6,
+    "reload_speed": 4.8,
+    "status_chance": 20,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "2.4x Weapon Zoom",
+    "Highly effective vs Flesh."
+  ]
+}

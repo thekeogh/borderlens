@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-cat.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-cat-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Cat"
+  },
+  "name": "Legendary Cat",
+  "slug": "legendary-cat",
+  "type": "Siren",
+  "description": "Legendary class mod for Maya in Borderlands 2. Manufactured by Hyperion.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Accelerate",
+    "Mind's Eye",
+    "Wreck",
+    "Foresight",
+    "Reaper"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Added with Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. Unavailable without this DLC.",
+  "special": {
+    "description": "Boosts SMG damage heavily in exchange for reduced accuracy.\n\nAt max level: +142.5% SMG damage, -40% SMG accuracy.\n\nAcross all versions (up to): +141% SMG damage, -43% SMG accuracy.\n\nPossible skill bonuses (up to +5): Mind's Eye, Wreck, Accelerate, Reaper, Foresight.",
+    "title": "\"Rawr.\""
+  },
+  "max": {
+    "gun_damage_bonus": 1437,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Accelerate Skill",
+    "+5 Reaper Skill",
+    "+5 Foresight Skill"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-engineer.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-engineer-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Engineer"
+  },
+  "name": "Legendary Engineer",
+  "slug": "legendary-engineer",
+  "type": "Commando",
+  "description": "Legendary Engineer is a Legendary class mod for Axton in Borderlands 2. It is part of Ultimate Vault Hunter Upgrade Pack Two, the Digistruct Peak Challenge. Built around turret-focused play, it provides stronger bonuses than the standard Engineer variant.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Battlefront",
+    "Resourceful",
+    "Sentry",
+    "Impact",
+    "Able"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Any version shown below level 50 with reduced skill bonuses (under +5) is not obtainable through normal play. This class mod requires the Digistruct Peak content from Ultimate Vault Hunter Upgrade Pack Two and cannot be used without that add-on.",
+  "special": {
+    "description": "At maximum level, it grants +54% action skill cooldown rate. In-game, it uses the standard Engineer appearance to help differentiate it from other legendary mods.",
+    "title": "\"Engineered for perfection.\""
+  },
+  "max": {
+    "cooldown_rate_bonus": 54,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Battlefront Skill",
+    "+5 Resourceful Skill",
+    "+5 Impact Skill",
+    "+5 Able Skill",
+    "Increases Action Skill"
+  ]
+}

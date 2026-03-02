@@ -1,0 +1,39 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/jumpin-biddy.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Jumpin_Biddy"
+  },
+  "name": "Jumpin Biddy",
+  "slug": "jumpin-biddy",
+  "type": "Bouncing Betty",
+  "description": "After landing, it repeatedly bounces while firing bursts of bullets around itself for a short time. Individual hits are low damage, but enemies can be struck many times as it moves. It triggers a small blast on activation or detonation and does not harm allies. Useful for area denial and flushing targets from behind low cover, as it slowly homes towards nearby enemies while sweeping a wide zone.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "notes": "Some versions can roll with the alternate name \"Jumpin Bitty\". Both names reference the Bouncing Betty mine.",
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag",
+    "Explosive"
+  ]
+}

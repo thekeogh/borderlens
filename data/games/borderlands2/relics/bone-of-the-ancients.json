@@ -1,0 +1,41 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Ultimate Vault Hunter Upgrade Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/relics/bone-of-the-ancients.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/bonus-item/bone-of-the-ancients-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Bone_of_the_Ancients"
+  },
+  "name": "Bone of the Ancients",
+  "slug": "bone-of-the-ancients",
+  "type": "Offense",
+  "description": "E-tech relic made by Eridian. It boosts damage for one element and also shortens Action Skill cooldown, making it strong for builds that lean on matching elements.\n\nVariants roll Incendiary, Shock, or Corrosive. In Ultimate Vault Hunter Mode it is obtained from Legendary Loot Midgets only.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "sources": [
+    {
+      "name": "Loot Midget",
+      "tags": [
+        "Rare Enemy",
+        "DAHL Abandon"
+      ]
+    }
+  ],
+  "notes": "At OP10 the Action Skill cooldown bonus can reach 51.0%, and the elemental damage bonus can reach 42.0%.",
+  "special": {
+    "description": "Rolls with a single elemental damage bonus: Incendiary, Shock, or Corrosive.\n\nGrants increased damage for the rolled element and faster Action Skill recharge. The elemental damage boost is multiplicative rather than additive like most gun damage bonuses."
+  },
+  "max": {
+    "cooldown_rate_bonus": 51,
+    "level": 90
+  },
+  "abilities": [
+    "Improves elemental damage and action skill"
+  ]
+}

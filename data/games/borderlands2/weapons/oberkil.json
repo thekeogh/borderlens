@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/oberkil.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Oberkil!"
+  },
+  "name": "Oberkil!",
+  "slug": "oberkil",
+  "type": "Shotgun",
+  "description": "With a Torgue barrel, the Oberkil! fires a huge cluster of pellets for massive close-range damage. It kicks hard, spreads widely, and shoots very slowly while consuming 4 shells per trigger pull. Precision is effectively impossible, and it is unreliable beyond point-blank range. Used up close, it can blanket the area ahead with pellets and tear through targets without careful aiming.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "None"
+  ],
+  "notes": "Only appears at blue rarity or higher.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

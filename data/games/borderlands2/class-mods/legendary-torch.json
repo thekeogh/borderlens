@@ -1,0 +1,52 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-torch.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-torch-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Torch"
+  },
+  "name": "Legendary Torch",
+  "slug": "legendary-torch",
+  "type": "Psycho",
+  "description": "Legendary Torch is a legendary Psycho class mod made by Bandit. It can drop from Tubby enemies at level 62 and above in Ultimate Vault Hunter Mode.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Embrace the Pain",
+    "Burn, Baby, Burn",
+    "Fuel the Fire",
+    "Elemental Elation",
+    "Flame Flare"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Added with Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. Unavailable without the DLC.\n\nUses the standard Meat class mod appearance.",
+  "special": {
+    "description": "At maximum level, grants +65% burn damage.\n\nShares the regular Torch texture for easier identification.",
+    "title": "\"Embrace the deep dark warmth.\""
+  },
+  "abilities": [
+    "+5 Burn, aoe Burn Skill",
+    "+5 Fuel the Fire Skill",
+    "+5 Flame Flare Skill",
+    "+5 Elemental Elation Skill",
+    "+5 Embrace the Pain Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

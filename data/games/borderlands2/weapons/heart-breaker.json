@@ -1,0 +1,204 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/heart-breaker.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/heart-breaker-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Heart_Breaker"
+  },
+  "name": "Heart Breaker",
+  "slug": "heart-breaker",
+  "type": "Shotgun",
+  "description": "Hyperion rare shotgun. Fires 10 pellets for 1 ammo (12 with Practicable plus foregrip), giving strong damage per shot. Pellets form a fixed heart pattern and the gun has an innate critical hit damage bonus, letting it compete above its rarity. Always incendiary: excellent versus flesh, weaker into shields and armour.\n\nAs a Miss Moxxi weapon it returns a portion of damage as health, suiting close-range play. Hyperion recoil settles with sustained fire, but the heart pattern does not tighten.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "+1 Mag Size",
+          "+30% Reload Speed",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "+10% Recoil",
+          "-25% Recoil Recovery"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+30% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Moon Clip"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+3% Damage",
+          "+3% Fire Rate",
+          "+5% Mag Size",
+          "+5% Reload Speed"
+        ],
+        "name": "Shotgun Shell"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+12% Fire Rate",
+          "-40% Spread",
+          "+39% Zoom",
+          "-15% Damage"
+        ],
+        "name": "Tech_1"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Crit Damage",
+          "-10% Spread",
+          "+39% Zoom"
+        ],
+        "name": "Tech_2"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+6% Fire Rate",
+          "+10% Mag Size",
+          "+25% Reload Speed",
+          "-3% Damage"
+        ],
+        "name": "Tech_3"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+2 Projectiles",
+          "+21% Fire Rate",
+          "-30% Max Inaccuracy",
+          "-15% Max Accuracy",
+          "+30% Spread"
+        ],
+        "name": "Vertical Grip"
+      }
+    ]
+  },
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "Safe and Sound",
+      "tags": [
+        "Quest",
+        "Caustic Caverns"
+      ]
+    }
+  ],
+  "special": {
+    "title": "I don't want to set the world on fire...",
+    "description": "Always incendiary. Fires in a heart-shaped pattern.\n\nBonuses and traits:\n- +50% critical hit damage (scales)\n- Increased pellet count and fire rate\n- Reduced pellet damage and magazine size\n- Moxxi: heals for 2% of all damage dealt while equipped\n- Hyperion: sustained fire reduces recoil; accuracy behaviour does not change the fixed spread pattern\n\nRed text: I don't want to set the world on fire..."
+  },
+  "notes": "With the Critical prefix it can reach +100% critical hit damage, as the accessory stacks with the innate bonus.\n\nCannot spawn with a sight.\n\nLimited-time SHiFT distributions (Valentines Day 2013; reissued 2014 and 2020) granted a level-matched copy to the first character loaded after redemption.\n\nA level 30 Krieg starts with a free Heart Breaker.",
+  "max": {
+    "accuracy": 63.6,
+    "damage": 456053,
+    "fire_rate": 43,
+    "level": 90,
+    "mag_size": 9,
+    "reload_speed": 2.7,
+    "status_chance": 8,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "+50, Critical Hit Damage",
+    "Highly effective vs Flesh.",
+    "Sustained fire increases accuracy."
+  ]
+}

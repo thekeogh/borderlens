@@ -1,0 +1,52 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Mechromancer Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/anarchist.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/anarchist-gaige-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Anarchist_(class_mod)"
+  },
+  "name": "Anarchist",
+  "slug": "anarchist",
+  "type": "Mechromancer",
+  "description": "Epic Anarchist is a class mod for Gaige the Mechromancer in Borderlands 2.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Annoyed Android",
+    "Fancy Mathematics",
+    "Death From Above"
+  ],
+  "sources": [
+    {
+      "name": "Gaige Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At the level cap, this class mod increases gun damage by 58% but reduces accuracy by 46%."
+  },
+  "notes": "",
+  "max": {
+    "gun_damage_bonus": 58,
+    "level": 90,
+    "weapon_accuracy_bonus": -46
+  },
+  "abilities": [
+    "+5 Annoyed Android Skill",
+    "+4 Fancy Mathematics Skill",
+    "+4 Death from Above Skill"
+  ]
+}

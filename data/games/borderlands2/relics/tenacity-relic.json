@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/relics/tenacity-relic.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Tenacity_Relic"
+  },
+  "name": "Tenacity Relic",
+  "slug": "tenacity-relic",
+  "type": "Tenacity",
+  "description": "The Tenacity Relic is a common Eridian-made relic in Borderlands 2.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "Its bonus overlaps with the Heart of the Ancients, which effectively pairs Aggression and Tenacity effects in one relic.",
+  "special": {
+    "description": "Extends the time you can stay in Fight For Your Life before dying.\n\nSome versions also boost the health you regain after getting a Second Wind."
+  },
+  "sources": [
+    {
+      "name": "Relic Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

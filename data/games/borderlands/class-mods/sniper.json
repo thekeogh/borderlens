@@ -1,0 +1,40 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/sniper-mordecai-bl1"
+  },
+  "name": "Sniper",
+  "slug": "sniper",
+  "type": "Hunter",
+  "skills": [
+    "Focus",
+    "Caliber",
+    "Carrion Call"
+  ],
+  "description": "The Sniper boosts sniper crit damage for Mordecai. Material parts may add accuracy or ammo regeneration.",
+  "manufacturers": [
+    "Hyperion",
+    "Jakobs"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Increases sniper crit damage."
+  },
+  "sources": [
+    {
+      "name": "Mordecai Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/sniper.png"
+}

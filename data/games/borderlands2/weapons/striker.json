@@ -1,0 +1,247 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/striker.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/striker-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Striker_(Borderlands_2)"
+  },
+  "name": "Striker",
+  "slug": "striker",
+  "type": "Shotgun",
+  "description": "Legendary Jakobs shotgun. Semi-auto with a small magazine, high accuracy and strong crit damage, but heavy recoil can walk shots off target. Very tight pellet cluster that drifts together, making it less forgiving than wider-spread shotguns. Lower pellet count means many other shotguns can beat it up close, even some lower-rarity Jakobs.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "+1 Mag Size",
+          "-0.2 Recoil",
+          "+30% Reload Speed",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "+10% Recoil",
+          "-25% Recoil Recovery"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "1.8x Zoom",
+          "-25% Spread (aiming)"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "4.4x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "3.7x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "2.3x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.0x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+30% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Moon Clip"
+      },
+      {
+        "modifiers": [
+          "+3% Damage",
+          "+3% Fire Rate",
+          "+5% Mag Size",
+          "+5% Reload Speed"
+        ],
+        "name": "Shotgun Shell"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-40% Spread",
+          "+39% Zoom",
+          "-15% Damage"
+        ],
+        "name": "Tech_1"
+      },
+      {
+        "modifiers": [
+          "+50% Crit Damage",
+          "-10% Spread",
+          "+39% Zoom"
+        ],
+        "name": "Tech_2"
+      },
+      {
+        "modifiers": [
+          "+6% Fire Rate",
+          "+10% Mag Size",
+          "+25% Reload Speed",
+          "-3% Damage"
+        ],
+        "name": "Tech_3"
+      },
+      {
+        "modifiers": [
+          "+2 Projectiles",
+          "+21% Fire Rate",
+          "-30% Max Inaccuracy",
+          "-15% Max Accuracy",
+          "+30% Spread"
+        ],
+        "name": "Vertical Grip"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Old Slappy",
+      "tags": [
+        "Unique Enemy",
+        "Highlands Outwash",
+        "Drop rate: 10%"
+      ]
+    },
+    {
+      "name": "Master Gee",
+      "tags": [
+        "Raid Boss",
+        "Hayter's Folly",
+        "Drop rate: 1.7%"
+      ]
+    },
+    {
+      "name": "Shotgun Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Fandir? Thirteen.",
+    "description": "Adds extra critical hit damage (scales) on top of Jakobs shotgun crit.\n\nExtremely accurate with increased ADS zoom and a tiny spread, but notably higher recoil and slightly reduced base damage."
+  },
+  "notes": "Zer0 gains little over a same-level purple Scattergun, but the precision helps land pellets on weak points.\n\nSalvador: reliable ranged damage even when firing from the hip.\n\nGaige: strong with Anarchy; mag size can hit 1 for easy stacking, accuracy offsets penalties, and it can proc frequent novas with Shock and AAAGGGGHHH!.\n\nAxton: likes recoil control (eg Metal Storm, Steady).\n\nJakobs grip can reach 4 rounds, handy for crystalisks.\n\nHigh crit suits Nisha's Showdown; some Luneshine rolls can push crit further.",
+  "elements": [
+    "None"
+  ],
+  "max": {
+    "accuracy": 83.8,
+    "damage": 305881,
+    "fire_rate": 18.7,
+    "level": 90,
+    "mag_size": 4,
+    "reload_speed": 2.3
+  },
+  "abilities": [
+    "4.6x Weapon Zoom",
+    "Fires as fast as you can pull the trigger."
+  ]
+}

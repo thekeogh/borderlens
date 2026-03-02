@@ -1,0 +1,32 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/hazmat-shield-bl1"
+  },
+  "name": "Hazmat Shield",
+  "slug": "hazmat-shield",
+  "description": "A Dahl resistance shield tuned for corrosive damage. Can roll up to 66.6% corrosive resistance.",
+  "special": {
+    "description": "Up to 66.6% corrosive resistance."
+  },
+  "type": "Resistance",
+  "rarities": [
+    "Epic"
+  ],
+  "manufacturers": [
+    "Dahl"
+  ],
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/hazmat-shield.png"
+}

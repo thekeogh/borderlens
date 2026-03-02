@@ -1,0 +1,44 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Commander Lilith & the Fight for Sanctuary",
+  "dlc": true,
+  "image": "/img/games/borderlands2/grenade-mods/the-electric-chair.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/the-electric-chair-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/The_Electric_Chair"
+  },
+  "name": "The Electric Chair",
+  "slug": "the-electric-chair",
+  "type": "Area of Effect",
+  "description": "The Electric Chair is an Effervescent grenade mod made by Vladof, introduced in the Fight for Sanctuary DLC.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Effervescent"
+  ],
+  "elements": [
+    "Shock"
+  ],
+  "sources": [
+    {
+      "name": "Uranus",
+      "tags": [
+        "Boss",
+        "Helios Fallen"
+      ]
+    }
+  ],
+  "notes": "Uranus has a 10% chance to drop The Electric Chair.\n\nIts behaviour is a stronger take on Storm Front, swapping in child grenades that leave a long shock trail as they move.",
+  "special": {
+    "description": "On impact, it triggers a shock blast, then fires 8 lightning bolts upward, each dealing 45% of the grenade damage. It also scatters 8 sticky child grenades around the landing point; they arc outward, zap nearby enemies like Tesla grenades, then detonate when their duration ends with a smaller radius than the initial blast.",
+    "title": "The truth is often one's best shield."
+  },
+  "max": {
+    "blast_radius": 700,
+    "fuse_time": 0,
+    "grenade_damage": 4093699,
+    "level": 90
+  }
+}

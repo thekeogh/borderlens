@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/strike.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Strike"
+  },
+  "name": "Strike",
+  "slug": "strike",
+  "type": "Sniper",
+  "description": "This Dahl sniper rifle commonly spawns with a Hyperion component, which tends to reduce magazine size. That is a drawback for burst fire, as you burn through rounds quickly. It also typically deals lower damage than many other Dahl sniper rifles.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": ""
+}

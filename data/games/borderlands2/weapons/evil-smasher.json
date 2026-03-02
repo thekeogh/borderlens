@@ -1,0 +1,236 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/evil-smasher.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/evil-smasher-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Evil_Smasher"
+  },
+  "name": "Evil Smasher",
+  "slug": "evil-smasher",
+  "type": "Assault Rifle",
+  "description": "Evil Smasher is a rare Torgue assault rifle. Its base performance is poor: tiny magazine, and roughly half the damage and fire rate of a comparable blue Torgue rifle. On reload it can randomly power up, signalled by a harmless self-explosion and a distinct sound at the start of the reload. Because the buff is unreliable, it is mostly a novelty unless you force the proc.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "+15% Spread",
+          "-10% Reload Speed"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "-6% Damage",
+          "+15% Max Inaccuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+4 Mag Size",
+          "+30% Reload Speed",
+          "-10% Reload Speed",
+          "+10% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "-30% Max Inaccuracy",
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "2.4x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "3.4x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "5.0x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "2.7x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "3.6x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+21% Damage",
+          "-12% Fire Rate",
+          "+35% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+21% Damage",
+          "+12% Fire Rate",
+          "+120% Spread"
+        ],
+        "name": "Wild"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+100% Projectile Speed",
+          "+15% Fire Rate"
+        ],
+        "name": "Bullet Speed"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "-40% Recoil",
+          "+25% Recoil Recovery"
+        ],
+        "name": "Stability"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+3 Mag Size",
+          "+35% Mag Size"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "-25% Spread",
+          "+25% Max Accuracy"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "The Chosen One",
+      "tags": [
+        "Quest",
+        "Sawtooth Cauldron"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Evil will be SMASHED!!! WITH SMASHING!!! EVIL!!! SMASH!!! ER!!!",
+    "description": "Shots explode on impact, dealing 90% grenade-type splash damage. Each reload has a 7% chance to buff the next magazine: +900% damage, +100% projectile speed, +60% fire rate, +17 mag size, -50% max inaccuracy, +200% max accuracy, +200% recoil recovery, -150% recoil, -200% spread. Assault rifles (except Jakobs) have -20% crit damage scaling."
+  },
+  "notes": "Like other Torgue rifles, shots explode on impact for +80% splash damage that scales with grenade damage bonuses. This bonus is applied after internal calculations, so effects like Anarchy do not boost it, while external modifiers (e.g. Death Mark) do. The reload power-up can rarely chain, stacking the stat boost. Mag size changes from skills/class mods affect both base and buffed mags. The proc happens before reload finishes, so you can cancel reload (melee/swap) to retry until it triggers. An old buff-glitch can still be abused by Gunzerker while dual-wielding.",
+  "max": {
+    "accuracy": 61.4,
+    "damage": 932215,
+    "fire_rate": 14.85,
+    "level": 90,
+    "mag_size": 9,
+    "reload_speed": 3.8
+  },
+  "abilities": [
+    "Deals bonus explosive damage."
+  ]
+}

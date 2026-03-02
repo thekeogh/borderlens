@@ -1,0 +1,241 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Captain Scarlett and Her Pirate's Booty",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/retcher.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/retcher-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Retcher"
+  },
+  "name": "Retcher",
+  "slug": "retcher",
+  "type": "Shotgun",
+  "description": "The Retcher is a Tediore Seraph shotgun from Pirate's Booty. It fires corrosive orbs in a low arc, which makes landing shots at close range easier but sharply limits reach. Unlike E-tech Splatguns it only spends 1 ammo per shot, so it keeps a healthier magazine and better damage per ammo, but it also misses out on the boosted status chance those guns get.\n\nReloading throws the gun as a grenade. It also lobs two small child grenades high upwards; they detonate on contact and are usually awkward to use indoors. Despite their green look, the child blasts deal explosive damage.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Seraph"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "+2 Mag Size",
+          "-0.15s Reload Time",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "+10% Recoil",
+          "-25% Recoil Recovery"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "1.8x Zoom",
+          "-25% Spread (aiming)"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "4.4x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "3.7x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "2.3x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.0x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+30% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Moon Clip"
+      },
+      {
+        "modifiers": [
+          "+3% Damage",
+          "+3% Fire Rate",
+          "+5% Mag Size",
+          "+5% Reload Speed"
+        ],
+        "name": "Shotgun Shell"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-40% Spread",
+          "+39% Zoom",
+          "-15% Damage"
+        ],
+        "name": "Tech_1"
+      },
+      {
+        "modifiers": [
+          "+50% Crit Damage",
+          "-10% Spread",
+          "+39% Zoom"
+        ],
+        "name": "Tech_2"
+      },
+      {
+        "modifiers": [
+          "+6% Fire Rate",
+          "+10% Mag Size",
+          "+25% Reload Speed",
+          "-3% Damage"
+        ],
+        "name": "Tech_3"
+      },
+      {
+        "modifiers": [
+          "+2 Projectiles",
+          "+21% Fire Rate",
+          "-30% Max Inaccuracy",
+          "-15% Max Accuracy",
+          "+30% Spread"
+        ],
+        "name": "Vertical Grip"
+      }
+    ]
+  },
+  "elements": [
+    "Corrosive"
+  ],
+  "sources": [
+    {
+      "name": "Hyperius",
+      "tags": [
+        "Raid Boss",
+        "Washburne Refinery",
+        "Drop rate: 0.29%"
+      ]
+    },
+    {
+      "name": "Oasis Seraph Shop",
+      "tags": [
+        "Vendor",
+        "Oasis"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Ewww",
+    "description": "Fires arcing corrosive orbs that explode on impact for area damage.\n\nReload: thrown Tediore explosive triggers on enemy contact or after 1.7s. Reload blast scales with unused ammo and has damage falloff by distance. It also launches 2 child grenades that detonate on impact; the child explosions deal explosive damage."
+  },
+  "notes": "Both the weapon's direct damage and its thrown-reload explosion scale with grenade damage bonuses.",
+  "max": {
+    "accuracy": 13,
+    "damage": 2411883,
+    "fire_rate": 18,
+    "level": 90,
+    "mag_size": 7,
+    "reload_speed": 2.6,
+    "status_chance": 8,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "2 7% Weapon Reload Speed",
+    "Highly effective vs Armor.",
+    "Explodes like a grenade when reloaded. Tore BIA IOICIOIBIE,"
+  ]
+}

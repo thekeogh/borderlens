@@ -1,0 +1,35 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/fire-nova-shield-bl1"
+  },
+  "name": "Fire Nova Shield",
+  "slug": "fire-nova-shield",
+  "description": "A Vladof nova shield that, when broken after a full recharge, releases a fire nova. Damage is modest but can ignite nearby foes.",
+  "special": {
+    "description": "On shield break after a full recharge, creates a fire nova that deals light damage to nearby enemies."
+  },
+  "type": "Nova",
+  "rarities": [
+    "Epic"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "manufacturers": [
+    "Vladof"
+  ],
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/fire-nova-shield.png"
+}

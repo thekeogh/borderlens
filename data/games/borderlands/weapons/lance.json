@@ -1,0 +1,56 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Lance_(sniper_rifle)"
+  },
+  "name": "Lance",
+  "slug": "lance",
+  "type": "Sniper",
+  "description": "Lance is a Hyperion semi-auto sniper rifle title reserved for the highest-accuracy rolls. It always uses the most accurate barrel and boosts damage, knockback, and tech, resulting in extremely precise long-range rifles that are not Invaders.",
+  "notes": "Only the most accurate Hyperion rifles can roll the Lance title, sometimes producing a Crimson prefix that nods to the Crimson Lance. The title (Title_Accuracy1_Lance) requires barrel5, Hyperion manufacture, and excludes the Invader; it boosts damage, knockback, and tech. See stat modifiers for details.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      656,
+      1270
+    ],
+    "accuracy": [
+      98.3,
+      98.6
+    ],
+    "rate": [
+      1.2,
+      3.4
+    ],
+    "mag": [
+      5,
+      7
+    ]
+  },
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/lance.png",
+  "sources": [
+    {
+      "name": "Sniper Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

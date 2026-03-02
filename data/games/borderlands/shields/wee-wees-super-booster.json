@@ -1,0 +1,33 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/wee-wees-super-booster-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Wee_Wee%27s_Super_Booster"
+  },
+  "name": "Wee Wee's Super Booster",
+  "slug": "wee-wees-super-booster",
+  "description": "A Pangolin heal shield dropped by King Wee Wee. Grants +15% max health and passive health regeneration similar to the Panacea. The health boost and regen let you treat health as a recoverable buffer alongside your shield.",
+  "special": {
+    "description": "Increases max health by 15% and provides continuous health regeneration at a rate matching the Tediore Panacea."
+  },
+  "type": "Heal",
+  "rarities": [
+    "Epic"
+  ],
+  "manufacturers": [
+    "Pangolin"
+  ],
+  "sources": [
+    {
+      "name": "King Wee Wee",
+      "tags": [
+        "Named Enemy",
+        "Tetanus Warrens"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/wee-wees-super-booster.png"
+}

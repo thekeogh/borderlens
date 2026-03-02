@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/roboteer.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Roboteer"
+  },
+  "name": "Roboteer",
+  "slug": "roboteer",
+  "type": "Mechromancer",
+  "description": "Roboteer is a common Mechromancer class mod made by Hyperion in Borderlands 2. It can drop at random from any appropriate loot source.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Made of Sterner Stuff",
+    "Potent as a Pony",
+    "Strength of Five Gorillas"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "name": "Gaige Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

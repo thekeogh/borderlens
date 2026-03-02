@@ -1,0 +1,52 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/tank.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/tank-salvador-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Tank_(class_mod)"
+  },
+  "name": "Tank",
+  "slug": "tank",
+  "type": "Gunzerker",
+  "description": "Epic class mod for Salvador in Borderlands 2.",
+  "manufacturers": [
+    "Pangolin"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "I'm the Juggernaut",
+    "Hard to Kill",
+    "Asbestos"
+  ],
+  "sources": [
+    {
+      "name": "Salvador Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At the level cap, Tank provides two bonuses:\n\n- Shield Capacity: +1,580,024\n- Shield Recharge Rate: +58%"
+  },
+  "notes": "",
+  "max": {
+    "capacity": 1580024,
+    "level": 90,
+    "recharge_rate": 58
+  },
+  "abilities": [
+    "+5 I'm the prea. Skill",
+    "+4 Hard to ill",
+    "+4 Asbestos Skill"
+  ]
+}

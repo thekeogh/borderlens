@@ -1,0 +1,52 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-reaper.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-reaper-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Reaper"
+  },
+  "name": "Legendary Reaper",
+  "slug": "legendary-reaper",
+  "type": "Psycho",
+  "description": "Legendary Reaper is a legendary Psycho (Krieg) class mod. It is included with the Digistruct Peak upgrade content and can only drop from Tubby enemies once you have reached level 61.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Taste of Blood",
+    "Blood Overdrive",
+    "Blood Bath",
+    "Thrill of the Kill",
+    "Fuel the Fire"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Low level (below 50) versions would show smaller skill bonuses than +5, but these cannot be obtained legitimately.\n\nThis class mod is only available if you own the Digistruct Peak upgrade content. It has no optional prefixes.",
+  "special": {
+    "description": "Grants up to +99% team kill skill duration. At endgame this extends the standard 7s kill skill timer to 13.9s, benefiting Krieg skills including Blood Bath, Blood Overdrive, Blood Twitch, Fuel the Blood, Fuel the Fire and Nervous Blood.\n\nAlso boosts skills: +5 Thrill of the Kill, +5 Fuel the Fire, +5 Blood Overdrive, +5 Blood Bath, +5 Taste of Blood.",
+    "title": "\"This is gonna get ugly.\""
+  },
+  "abilities": [
+    "+5 Thrill of the Kill Skill",
+    "+5 Fuel the Fire Skill",
+    "+5 Blood Overdrive Skill",
+    "+5 Blood Bath Skill",
+    "+5 Taste of Blood Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

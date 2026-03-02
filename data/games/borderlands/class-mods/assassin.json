@@ -1,0 +1,40 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/assassin-mordecai-bl1"
+  },
+  "name": "Assassin",
+  "slug": "assassin",
+  "type": "Hunter",
+  "skills": [
+    "Deadly",
+    "Lethal Strike",
+    "Killer"
+  ],
+  "description": "The Assassin amplifies corrosive damage for Hunter builds. Depending on material parts, it may also grant corrosive resistance or improved corrosive chance.",
+  "manufacturers": [
+    "Hyperion",
+    "Maliwan"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Increases corrosive damage dealt."
+  },
+  "sources": [
+    {
+      "name": "Mordecai Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/assassin.png"
+}

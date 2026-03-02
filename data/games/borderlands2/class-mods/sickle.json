@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/sickle.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Sickle"
+  },
+  "name": "Sickle",
+  "slug": "sickle",
+  "type": "Psycho",
+  "description": "Sickle is a common (white) Psycho class mod in Borderlands 2, made by Bandit. It can drop randomly from any appropriate loot source.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Fuel the Blood",
+    "Empty the Rage",
+    "Silence the Voices"
+  ],
+  "notes": "Began appearing in loot drops on 18 April 2013.",
+  "sources": [
+    {
+      "name": "Krieg Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

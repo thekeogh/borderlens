@@ -1,0 +1,34 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/boom.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Boom"
+  },
+  "name": "Boom",
+  "slug": "boom",
+  "type": "Launcher",
+  "description": "Boom is a common Torgue rocket launcher geared for early progression. It fires standard rockets that detonate on impact, offering reliable explosive damage. Parts and muzzle options can nudge stats like handling and damage, but it largely plays like a no-frills, direct-fire launcher.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": ""
+}

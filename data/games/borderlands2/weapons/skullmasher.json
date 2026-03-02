@@ -1,0 +1,245 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/skullmasher.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/skullmasher-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Skullmasher_(Borderlands_2)"
+  },
+  "name": "Skullmasher",
+  "slug": "skullmasher",
+  "type": "Sniper",
+  "description": "Skullmasher is a legendary Jakobs sniper rifle in Borderlands 2. It fires more quickly than its earlier incarnation but shoots five pellets rather than six, with a wider spread. When all five projectiles land, its single-shot damage can outstrip most other snipers. The trade-off is poor accuracy for the class, so it performs best at mid range or against large or airborne targets where multiple hits are easier to land.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "+1 Mag Size",
+          "+30% Reload Speed",
+          "-0.2 Recoil",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "+15% Reload Speed",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "4.7x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "8.4x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "7.0x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "6.1x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "5.1x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+18% Fire Rate",
+          "+2 Ricochets",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+20% Crit Damage",
+          "+10% Max Accuracy",
+          "-15% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Crit Damage"
+      },
+      {
+        "modifiers": [
+          "-35% Max Inaccuracy",
+          "-30% Recoil",
+          "+25% Spread"
+        ],
+        "name": "Foregrip"
+      },
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "+25% Max Accuracy",
+          "-25% Spread",
+          "+25% Recoil"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Son of Mothrakk",
+      "tags": [
+        "Boss",
+        "Wildlife Exploitation Preserve",
+        "Drop rate: 5%"
+      ]
+    },
+    {
+      "name": "Rakkanoth",
+      "tags": [
+        "Unique Enemy",
+        "Scylla's Grove",
+        "Drop rate: 5%"
+      ]
+    },
+    {
+      "name": "Sniper Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Makes your brain hurt.",
+    "description": "Fires five projectiles per shot in a tight cluster. Consumes 1 ammo per shot. Low accuracy, and each pellet deals reduced damage compared with a single-projectile sniper round. Jakobs sniper rifles gain increased critical hit damage."
+  },
+  "notes": "A single trigger pull can score several critical hits, which helps with the Longshot Headshot challenge.\nBecause one shot can crit multiple times, it can grant Zer0 multiple Critical Ascensi0n stacks from a single round.",
+  "elements": [
+    "None"
+  ],
+  "max": {
+    "accuracy": 85.5,
+    "damage": 1404466,
+    "fire_rate": 2.6,
+    "level": 90,
+    "mag_size": 9,
+    "reload_speed": 4
+  },
+  "abilities": [
+    "66% Weapon Damage"
+  ]
+}

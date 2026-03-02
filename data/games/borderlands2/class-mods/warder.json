@@ -1,0 +1,49 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/warder.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/warder-maya-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Warder"
+  },
+  "name": "Warder",
+  "slug": "warder",
+  "type": "Siren",
+  "description": "Warder is a common Siren class mod in Borderlands 2, made by Anshin. It can drop at random from any appropriate loot source.",
+  "manufacturers": [
+    "Anshin"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Wreck",
+    "Ward",
+    "Recompense"
+  ],
+  "sources": [
+    {
+      "name": "Maya Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At maximum level, Warder boosts Shield Capacity by 1,484,265."
+  },
+  "notes": "",
+  "max": {
+    "capacity": 1484265,
+    "level": 90
+  },
+  "abilities": [
+    "+4 Recompense Skill"
+  ]
+}

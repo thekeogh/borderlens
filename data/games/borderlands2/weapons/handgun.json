@@ -1,0 +1,40 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/handgun.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Handgun_(Tediore)"
+  },
+  "name": "Handgun",
+  "slug": "handgun",
+  "type": "Pistol",
+  "description": "Alongside the trademark explosive reload, the barrel fitted changes the pistol's handling:\n- Bandit or Scav (side rail): Slight damage boost, but worse accuracy.\n- Dahl (large front sight): Much lower recoil and faster recovery, traded for reduced damage and increased spread.\n- Maliwan (finned): Better accuracy and stronger elemental damage if the gun is elemental.\n- Tediore (boxy): Higher damage on Tediore weapons.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "aliases": [
+    "Handgun (Tediore)"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Dropped at random from appropriate loot sources.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

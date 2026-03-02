@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/devastator.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/devastator-salvador-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Devastator_(class_mod)"
+  },
+  "name": "Devastator",
+  "slug": "devastator",
+  "type": "Gunzerker",
+  "description": "Devastator is an Epic class mod for Salvador in Borderlands 2.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Filled to the Brim",
+    "Just Got Real",
+    "Divergent Likeness"
+  ],
+  "sources": [
+    {
+      "name": "Salvador Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At maximum level, Devastator increases team magazine size by 58%."
+  },
+  "notes": "",
+  "max": {
+    "level": 90,
+    "mag_size": 58
+  },
+  "abilities": [
+    "+5 Filled to the Brim Skill",
+    "+4 Just Got Real Skill",
+    "+4 Divergent Likeness Skill"
+  ]
+}

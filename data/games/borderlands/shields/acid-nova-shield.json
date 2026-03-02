@@ -1,0 +1,35 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/acid-nova-shield-bl1"
+  },
+  "name": "Acid Nova Shield",
+  "slug": "acid-nova-shield",
+  "description": "An S&S Munitions Epic nova shield from the base game. When fully recharged and then broken, it unleashes a corrosive nova blast on nearby enemies—damage is modest but useful for applying DoT or finishing weakened foes.",
+  "special": {
+    "description": "On shield break after a full recharge, creates a corrosive nova that deals light damage to nearby enemies."
+  },
+  "type": "Nova",
+  "elements": [
+    "Corrosive"
+  ],
+  "manufacturers": [
+    "S&S Munitions"
+  ],
+  "rarities": [
+    "Epic"
+  ],
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/acid-nova-shield.png"
+}

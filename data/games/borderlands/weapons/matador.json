@@ -1,0 +1,59 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Matador"
+  },
+  "name": "Matador",
+  "slug": "matador",
+  "type": "Shotgun",
+  "description": "Matador is a combat shotgun title that adds a large pellet count and high damage potential at close range, but its wide spread makes ranged combat ineffective. It is especially strong against large or clustered enemies like spiderants, skags, psychos, and zombies, and can also work against grouped rakk.",
+  "notes": "The Matador effect comes from the Title_HighSpread2_Matador title and is given to shotguns with accuracy below 33.3% and rarity above 6. The effect adds 3 pellets and increases fire rate by 25%. Shotguns with low accuracy but not enough rarity for Matador use the Scattergun title instead. Because the effect comes from the title, unique/legendary Matadors cannot appear. See stat modifiers for how to interpret these modifiers.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      21
+    ],
+    "accuracy": [
+      0,
+      33.4
+    ],
+    "rate": [
+      0.3,
+      2
+    ],
+    "mag": [
+      2,
+      13
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "Dahl",
+    "Jakobs",
+    "Tediore",
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/matador.png",
+  "sources": [
+    {
+      "name": "Shotgun Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

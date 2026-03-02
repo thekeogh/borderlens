@@ -1,0 +1,33 @@
+{
+  "aliasesBackfilled": 0,
+  "completedAt": "2026-02-26T11:23:40.039Z",
+  "dryRun": true,
+  "renamed": 0,
+  "removed": 0,
+  "scannedWikiOnly": 174,
+  "renamedItems": [],
+  "removedItems": [],
+  "aliasBackfilledItems": [],
+  "skippedRenames": [
+    {
+      "file": "ass-beeter-pistol.json",
+      "name": "Ass Beeter! (pistol)",
+      "reason": "multiple variants share base (Ass Beeter!)"
+    },
+    {
+      "file": "ass-beeter-rifle.json",
+      "name": "Ass Beeter! (rifle)",
+      "reason": "multiple variants share base (Ass Beeter!)"
+    },
+    {
+      "file": "launcher-common.json",
+      "name": "Launcher (common)",
+      "reason": "multiple variants share base (Launcher)"
+    },
+    {
+      "file": "launcher-e-tech.json",
+      "name": "Launcher (E-tech)",
+      "reason": "multiple variants share base (Launcher)"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/legendary-berserker.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-berserker-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Berserker"
+  },
+  "name": "Legendary Berserker",
+  "slug": "legendary-berserker",
+  "type": "Gunzerker",
+  "description": "Legendary Berserker is a legendary Bandit class mod for Salvador (Gunzerker) in Borderlands 2. It can world drop from any appropriate loot source, with boosted drop odds from Vermivorous and Voracidous the Invincible.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Locked and Loaded",
+    "Quick Draw",
+    "Filled to the Brim",
+    "Hard to Kill",
+    "Incite"
+  ],
+  "sources": [
+    {
+      "name": "Vermivorous",
+      "tags": [
+        "Raid Boss",
+        "Wam Bam Island"
+      ]
+    },
+    {
+      "name": "Dexiduous",
+      "tags": [
+        "Raid Boss",
+        "Hunter's Grotto"
+      ]
+    },
+    {
+      "name": "Voracidous",
+      "tags": [
+        "Raid Boss",
+        "Candlerakk's Crag"
+      ]
+    },
+    {
+      "name": "Omnd-Omnd-Ohk",
+      "tags": [
+        "Rare Enemy",
+        "Hunter's Grotto"
+      ]
+    },
+    {
+      "name": "Salvador Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "During Gunzerking, the fire rate bonus only affects the right-hand weapon.\n\nDo not confuse this with the Legendary Gunzerker class mod.\n\nA SHiFT reward version exists via the Diamond Plate Loot Chest. The red flavour text references one of Brick's kill quotes.\n\nThe item card may show an incorrect fire rate value.",
+  "special": {
+    "description": "Max-level bonuses: +57.5% cooldown rate, +50.6% fire rate (right hand only while Gunzerking), and +52.25% melee damage.\n\nUnique effect: while Gunzerking, Salvador also gains +20% movement speed.",
+    "title": "\"Never look at my fist.\""
+  },
+  "max": {
+    "cooldown_rate_bonus": 58,
+    "fire_rate": 34,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Filled to the Brim Skill",
+    "+5 Hard to Kill Skill",
+    "+5 Incite Skill",
+    "Increases Movement Speed by 20, while Gunzerking."
+  ]
+}

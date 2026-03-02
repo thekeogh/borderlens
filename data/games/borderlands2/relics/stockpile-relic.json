@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/relics/stockpile-relic.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Stockpile_Relic"
+  },
+  "name": "Stockpile Relic",
+  "slug": "stockpile-relic",
+  "type": "Stockpile",
+  "description": "The Stockpile Relic is a common Eridian relic in Borderlands 2.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "Increases carrying capacity for up to three ammo types, and can also raise your maximum grenades.\n\nIts ammo bonus overlaps with Blood of the Ancients, which also includes a health boost.",
+  "special": {
+    "description": "Up to +6 grenades.\n\nUp to +78.5% ammo capacity for a single ammo type."
+  },
+  "sources": [
+    {
+      "name": "Relic Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

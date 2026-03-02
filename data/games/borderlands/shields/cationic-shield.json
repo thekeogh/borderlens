@@ -1,0 +1,32 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/cationic-shield-bl1"
+  },
+  "name": "Cationic Shield",
+  "slug": "cationic-shield",
+  "description": "An Atlas resistance shield that specialises in shock protection. Can roll up to 66.6% shock resistance, ideal for areas heavy with electrical damage.",
+  "special": {
+    "description": "Up to 66.6% shock resistance."
+  },
+  "type": "Resistance",
+  "rarities": [
+    "Epic"
+  ],
+  "manufacturers": [
+    "Atlas"
+  ],
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/cationic-shield.png"
+}

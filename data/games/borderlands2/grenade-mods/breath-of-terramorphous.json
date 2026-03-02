@@ -1,0 +1,44 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/breath-of-terramorphous.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/breath-of-terramorphous-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Breath_of_Terramorphous"
+  },
+  "name": "Breath of Terramorphous",
+  "slug": "breath-of-terramorphous",
+  "type": "Area of Effect",
+  "description": "An E-Tech grenade mod made by Vladof. On impact it triggers several fire geysers that deal sustained incendiary damage. It is best for clearing out weaker, unarmoured enemies and can melt targets quickly if they are slagged. The geyser spawns are scattered, so its damage can be inconsistent at range or against mobile foes.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "Terramorphous",
+      "tags": [
+        "Raid Boss",
+        "Terramorphous Peak"
+      ]
+    }
+  ],
+  "notes": "Salvador can use Double Your Fun to throw two for the cost of one, improving coverage and reliability. Any Vault Hunter can stack throws in the same spot to blanket an area with geysers.\n\nKrieg benefits from the self-immolation synergies in his skill trees, making this grenade effective even in tight spaces.\n\nIt uses the Vladof_5_Legendary skin. Alongside the other Terramorphous drops, its red text forms part of a short poem.\n\nThis is the only E-Tech rarity grenade mod.",
+  "special": {
+    "description": "Creates fire geysers around the point of impact.",
+    "title": "His breath was of fire..."
+  },
+  "max": {
+    "blast_radius": 300,
+    "fuse_time": 0,
+    "grenade_damage": 6164488,
+    "level": 90
+  }
+}

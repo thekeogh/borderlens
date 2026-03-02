@@ -1,0 +1,32 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/macho-shield-bl1"
+  },
+  "name": "Macho Shield",
+  "slug": "macho-shield",
+  "description": "A Torgue standard shield that boosts max health by up to 60%. Favoured by builds that prioritise survivability over raw shield stats.",
+  "special": {
+    "description": "Up to 60% max health increase."
+  },
+  "type": "Standard",
+  "rarities": [
+    "Epic"
+  ],
+  "manufacturers": [
+    "Torgue"
+  ],
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/macho-shield.png"
+}

@@ -1,0 +1,226 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Captain Scarlett and Her Pirate's Booty",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/12-pounder.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/12-pounder-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/12_Pounder"
+  },
+  "name": "12 Pounder",
+  "slug": "12-pounder",
+  "type": "Launcher",
+  "description": "The 12 Pounder is a Rare Torgue rocket launcher that favours point-blank bursts over accurate long-range fire. It hits very hard per trigger pull and reloads quickly, but the magazine is tiny, limiting sustained damage.",
+  "elements": [
+    "Explosive"
+  ],
+  "special": {
+    "title": "Nec Pluribus Impar, Bitches.",
+    "description": "Launches arcing cannonballs. They detonate on hitting an enemy, or after one bounce if they strike a second surface. The weapon trades a steep cut to magazine size for increased damage and faster reloads."
+  },
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+50% Melee Damage",
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-6% Damage",
+          "-10% Mag Size"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damge",
+          "+1 Mag Size",
+          "+40% Reload Speed",
+          "+15% Recoil",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Exhaust": [
+      {
+        "modifiers": [
+          "+20% Mag Size",
+          "-10% Max Accuracy"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+160% Projectile Speed",
+          "+10% Burst Recoil"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-6% Fire Rate"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-20% Zoom"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.3x Zoom",
+          "-20% Max Inaccuracy"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.9x Zoom",
+          "+20% Projectile Speed",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "2.8x Zoom",
+          "+20% Reload Speed"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.5x Zoom",
+          "+20% Max Accuracy",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "3.2x Zoom",
+          "+12% Fire Rate",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+21% Damage",
+          "-15% Fire Rate",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+10% Reload Speed",
+          "+150% Swap Speed"
+        ],
+        "name": "Swap Speed"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+280% Projectile Speed",
+          "+20% Zoom"
+        ],
+        "name": "Rocket Speed"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+35% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+30% Reload Speed"
+        ],
+        "name": "Reload Speed"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Zoom",
+          "+80% Projectile Speed",
+          "+15% Accuracy",
+          "-25% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "notes": "The usual one-shot magazine can clash with Gaige's Smaller, Lighter, Faster. With the right parts, the mag can increase to 2 or 3 rounds, making those builds far easier to run.",
+  "sources": [
+    {
+      "name": "Big Sleep",
+      "tags": [
+        "Boss",
+        "Hayter's Folly",
+        "Drop rate: 33%"
+      ]
+    }
+  ],
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "max": {
+    "accuracy": 71,
+    "damage": 47089500,
+    "fire_rate": 6.05,
+    "level": 90,
+    "mag_size": 2,
+    "reload_speed": 2.7
+  }
+}

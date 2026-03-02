@@ -1,0 +1,254 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Sir Hammerlock's Big Game Hunt",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/twister.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/twister-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Twister"
+  },
+  "name": "Twister",
+  "slug": "twister",
+  "type": "Shotgun",
+  "description": "Twister is a rare Jakobs shotgun. It is always Shock, making it ideal for stripping shields. It fires like a close-range shotgun, but the projectiles spiral into a short, tornado-like column, helping more pellets land on large targets.\n\nIt is very ammo-hungry, consuming 4 shells per shot despite the item card.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "+1 Mag Size",
+          "-0.2 Recoil",
+          "+30% Reload Speed",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "+10% Recoil",
+          "-25% Recoil Recovery"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "1.8x Zoom",
+          "-25% Spread (aiming)"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "4.4x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "3.7x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "2.3x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "2.0x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "Chance: 66.7%",
+          "-25% Spread (aiming)"
+        ],
+        "name": "None"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+30% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Moon Clip"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+3% Damage",
+          "+3% Fire Rate",
+          "+5% Mag Size",
+          "+5% Reload Speed"
+        ],
+        "name": "Shotgun Shell"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+12% Fire Rate",
+          "-40% Spread",
+          "+39% Zoom",
+          "-15% Damage"
+        ],
+        "name": "Tech_1"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Crit Damage",
+          "-10% Spread",
+          "+39% Zoom"
+        ],
+        "name": "Tech_2"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+6% Fire Rate",
+          "+10% Mag Size",
+          "+25% Reload Speed",
+          "-3% Damage"
+        ],
+        "name": "Tech_3"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+2 Projectiles",
+          "+21% Fire Rate",
+          "-30% Max Inaccuracy",
+          "-15% Max Accuracy",
+          "+30% Spread"
+        ],
+        "name": "Vertical Grip"
+      }
+    ]
+  },
+  "elements": [
+    "Shock"
+  ],
+  "sources": [
+    {
+      "name": "Omnd-Omnd-Ohk",
+      "tags": [
+        "Rare Enemy",
+        "Hunter's Grotto",
+        "Drop rate: 33%"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Putting trouble on the run.",
+    "description": "Always Shock. Fires multiple orbs that rapidly converge into a short tornado. Pellets explode on impact, dealing splash equal to 40% of weapon damage per pellet; this splash is treated as grenade damage and scales with grenade damage bonuses.\n\nPutting trouble on the run."
+  },
+  "notes": "A Jakobs shotgun with an elemental capacitor, unusual for the brand.\n\nThe spiral path can let Zer0 score multiple hits with B0re.\n\nEach pellet also creates its own splash hit worth 40% of weapon damage. This splash counts as grenade damage, can trigger Blood Bath, and benefits from grenade damage bonuses.\n\nStrong on Gaige: the pattern can proc The Nth Degree repeatedly, then chain via Close Enough; aiming at the ground or a second target can increase procs.",
+  "max": {
+    "accuracy": 90.2,
+    "damage": 1464156,
+    "fire_rate": 18,
+    "level": 90,
+    "mag_size": 6,
+    "reload_speed": 2.3,
+    "status_chance": 8,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "3.7x Weapon Zoom",
+    "+1007 Weapon Damage",
+    "Fires as fast as you can pull the ving uae"
+  ]
+}

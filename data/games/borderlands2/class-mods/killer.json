@@ -1,0 +1,48 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/killer.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/killer-zer0-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Killer_(class_mod)"
+  },
+  "name": "Killer",
+  "slug": "killer",
+  "type": "Assassin",
+  "description": "Epic class mod for Zer0 in Borderlands 2.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Fearless",
+    "Killer",
+    "Ambush"
+  ],
+  "sources": [
+    {
+      "name": "Zer0 Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At maximum level, grants: Team critical hit damage +59%."
+  },
+  "notes": "",
+  "abilities": [
+    "+5 Fearless Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

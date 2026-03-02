@@ -1,0 +1,3281 @@
+{
+  "completedAt": "2026-02-26T14:23:45.649Z",
+  "failed": [],
+  "processed": 313,
+  "scanned": 313,
+  "updated": 313,
+  "warnings": [],
+  "entries": [
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "acurate-smgg.json",
+      "lootlemon": false,
+      "name": "Acurate smgg",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "ace.json",
+      "lootlemon": false,
+      "name": "Ace",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "actualizer.json",
+      "lootlemon": true,
+      "name": "Actualizer",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "aegis.json",
+      "lootlemon": false,
+      "name": "Aegis",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "aimshot.json",
+      "lootlemon": false,
+      "name": "Aimshot",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "12-pounder.json",
+      "lootlemon": true,
+      "name": "12 Pounder",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "ahab.json",
+      "lootlemon": true,
+      "name": "Ahab",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "amigo-sincero.json",
+      "lootlemon": true,
+      "name": "Amigo Sincero",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "anaconda.json",
+      "lootlemon": false,
+      "name": "Anaconda",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "anarchist.json",
+      "lootlemon": false,
+      "name": "Anarchist",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "apparatus.json",
+      "lootlemon": false,
+      "name": "Apparatus",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "area-efect.json",
+      "lootlemon": false,
+      "name": "Area efect",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "animosity.json",
+      "lootlemon": false,
+      "name": "Animosity",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "ass-beeter-pistol.json",
+      "lootlemon": false,
+      "name": "Ass Beeter! (pistol)",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "assassin.json",
+      "lootlemon": false,
+      "name": "Assassin",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "avenger.json",
+      "lootlemon": true,
+      "name": "Avenger",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "backburner.json",
+      "lootlemon": false,
+      "name": "Backburner",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "ass-beeter-rifle.json",
+      "lootlemon": false,
+      "name": "Ass Beeter! (rifle)",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "badaboom.json",
+      "lootlemon": true,
+      "name": "Badaboom",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "bangstick.json",
+      "lootlemon": false,
+      "name": "Bangstick",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "bad-touch.json",
+      "lootlemon": true,
+      "name": "Bad Touch",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "bane.json",
+      "lootlemon": true,
+      "name": "Bane",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "baby-maker.json",
+      "lootlemon": true,
+      "name": "Baby Maker",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "basic-repeater.json",
+      "lootlemon": false,
+      "name": "Basic Repeater",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "barfy.json",
+      "lootlemon": false,
+      "name": "Barfy",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "bazooka.json",
+      "lootlemon": false,
+      "name": "Bazooka",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "bearcat.json",
+      "lootlemon": true,
+      "name": "Bearcat",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "beetle.json",
+      "lootlemon": false,
+      "name": "Beetle",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "biggun.json",
+      "lootlemon": false,
+      "name": "Biggun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "bitch.json",
+      "lootlemon": true,
+      "name": "Bitch",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "bekah.json",
+      "lootlemon": true,
+      "name": "Bekah",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "blasster.json",
+      "lootlemon": false,
+      "name": "BlASSter",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "blaaa.json",
+      "lootlemon": false,
+      "name": "Blaaa",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "blaster.json",
+      "lootlemon": false,
+      "name": "Blaster",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "bombabarbardeer.json",
+      "lootlemon": false,
+      "name": "Bombabarbardeer",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "blockhead.json",
+      "lootlemon": true,
+      "name": "Blockhead",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "bone-shredder.json",
+      "lootlemon": true,
+      "name": "Bone Shredder",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "bratchny.json",
+      "lootlemon": false,
+      "name": "Bratchny",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "boom-puppy.json",
+      "lootlemon": true,
+      "name": "Boom Puppy",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "buffalo.json",
+      "lootlemon": true,
+      "name": "Buffalo",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "boom.json",
+      "lootlemon": false,
+      "name": "Boom",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "bunny.json",
+      "lootlemon": true,
+      "name": "Bunny",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "bushwack.json",
+      "lootlemon": false,
+      "name": "Bushwack",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "burny.json",
+      "lootlemon": false,
+      "name": "Burny",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "callipeen.json",
+      "lootlemon": false,
+      "name": "Callipeen",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "butcher.json",
+      "lootlemon": true,
+      "name": "Butcher",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "cannon.json",
+      "lootlemon": false,
+      "name": "Cannon",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "carbene.json",
+      "lootlemon": false,
+      "name": "Carbene",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "carbine.json",
+      "lootlemon": false,
+      "name": "Carbine",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "carnage.json",
+      "lootlemon": true,
+      "name": "Carnage",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "chaff.json",
+      "lootlemon": false,
+      "name": "Chaff",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "chinook.json",
+      "lootlemon": false,
+      "name": "Chinook",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "chere-amie.json",
+      "lootlemon": true,
+      "name": "Chère-amie",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "chopper.json",
+      "lootlemon": true,
+      "name": "CHOPPER",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "chulainn.json",
+      "lootlemon": true,
+      "name": "Chulainn",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "coach-gun.json",
+      "lootlemon": false,
+      "name": "Coach Gun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "cobra.json",
+      "lootlemon": true,
+      "name": "Cobra",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "competition.json",
+      "lootlemon": false,
+      "name": "Competition",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "commerce.json",
+      "lootlemon": true,
+      "name": "Commerce",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "corinthian.json",
+      "lootlemon": false,
+      "name": "Corinthian",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "conference-call.json",
+      "lootlemon": true,
+      "name": "Conference Call",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "crit.json",
+      "lootlemon": true,
+      "name": "Crit",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "creamer.json",
+      "lootlemon": true,
+      "name": "Creamer",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "crowdsourcing.json",
+      "lootlemon": false,
+      "name": "Crowdsourcing",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "damned-cowboy.json",
+      "lootlemon": true,
+      "name": "Damned Cowboy",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "dart.json",
+      "lootlemon": false,
+      "name": "Dart",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "defender.json",
+      "lootlemon": false,
+      "name": "Defender",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "deee.json",
+      "lootlemon": false,
+      "name": "Deee!",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "dahlminator.json",
+      "lootlemon": true,
+      "name": "Dahlminator",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "deliverance.json",
+      "lootlemon": true,
+      "name": "Deliverance",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "development.json",
+      "lootlemon": false,
+      "name": "Development",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "diaub.json",
+      "lootlemon": false,
+      "name": "Diaub",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "dispatch.json",
+      "lootlemon": false,
+      "name": "Dispatch",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "devastator.json",
+      "lootlemon": true,
+      "name": "Devastator",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "double-barrels.json",
+      "lootlemon": false,
+      "name": "Double Barrels!",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "dog.json",
+      "lootlemon": true,
+      "name": "Dog",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "duuurp.json",
+      "lootlemon": false,
+      "name": "Duuurp!",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "droog.json",
+      "lootlemon": false,
+      "name": "Droog",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "eel.json",
+      "lootlemon": false,
+      "name": "Eel",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "face-time.json",
+      "lootlemon": false,
+      "name": "Face Time",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "error-message.json",
+      "lootlemon": false,
+      "name": "ERROR MESSAGE",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "evil-smasher.json",
+      "lootlemon": true,
+      "name": "Evil Smasher",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "elephant-gun.json",
+      "lootlemon": true,
+      "name": "Elephant Gun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "emperor.json",
+      "lootlemon": true,
+      "name": "Emperor",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "falcon.json",
+      "lootlemon": false,
+      "name": "Falcon",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "fighter.json",
+      "lootlemon": false,
+      "name": "Fighter",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "fibber.json",
+      "lootlemon": true,
+      "name": "Fibber",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "fire-infinity.json",
+      "lootlemon": false,
+      "name": "Fire Infinity",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "flakker.json",
+      "lootlemon": true,
+      "name": "Flakker",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "florentine.json",
+      "lootlemon": true,
+      "name": "Florentine",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "fire-drill.json",
+      "lootlemon": false,
+      "name": "Fire Drill",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "gatling-gun.json",
+      "lootlemon": false,
+      "name": "Gatling Gun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "fox.json",
+      "lootlemon": false,
+      "name": "Fox",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "glory.json",
+      "lootlemon": false,
+      "name": "Glory",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "godfinger.json",
+      "lootlemon": true,
+      "name": "Godfinger",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "fremingtons-edge.json",
+      "lootlemon": true,
+      "name": "Fremington's Edge",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "gospel.json",
+      "lootlemon": false,
+      "name": "Gospel",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "good-touch.json",
+      "lootlemon": true,
+      "name": "Good Touch",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "greed.json",
+      "lootlemon": true,
+      "name": "Greed",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "grenadier.json",
+      "lootlemon": false,
+      "name": "Grenadier",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "grog-nozzle.json",
+      "lootlemon": true,
+      "name": "Grog Nozzle",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "green.json",
+      "lootlemon": false,
+      "name": "Green",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "gub.json",
+      "lootlemon": true,
+      "name": "Gub",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "gunerang.json",
+      "lootlemon": true,
+      "name": "Gunerang",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "guerrilla.json",
+      "lootlemon": false,
+      "name": "Guerrilla",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "hail.json",
+      "lootlemon": true,
+      "name": "Hail",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "handgun.json",
+      "lootlemon": false,
+      "name": "Handgun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "hand-cannon.json",
+      "lootlemon": false,
+      "name": "Hand Cannon",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "gwens-head.json",
+      "lootlemon": true,
+      "name": "Gwen's Head",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "hammer-buster.json",
+      "lootlemon": true,
+      "name": "Hammer Buster",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "hawk-eye.json",
+      "lootlemon": true,
+      "name": "Hawk Eye",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "hed-shoter.json",
+      "lootlemon": false,
+      "name": "Hed Shoter!",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "heart-breaker.json",
+      "lootlemon": true,
+      "name": "Heart Breaker",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "hellfire.json",
+      "lootlemon": true,
+      "name": "Hellfire",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "hive.json",
+      "lootlemon": true,
+      "name": "Hive",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "home-security.json",
+      "lootlemon": false,
+      "name": "Home Security",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "hero.json",
+      "lootlemon": false,
+      "name": "Hero",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "hectors-paradise.json",
+      "lootlemon": true,
+      "name": "Hector's Paradise",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "horrorshow.json",
+      "lootlemon": false,
+      "name": "Horrorshow",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "hole-puncher.json",
+      "lootlemon": false,
+      "name": "Hole Puncher",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "hot-mama.json",
+      "lootlemon": true,
+      "name": "Hot Mama",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "hybridfication.json",
+      "lootlemon": false,
+      "name": "Hybridfication",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "impact.json",
+      "lootlemon": false,
+      "name": "Impact",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "hulk.json",
+      "lootlemon": false,
+      "name": "Hulk",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "infection.json",
+      "lootlemon": true,
+      "name": "Infection",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "hydra.json",
+      "lootlemon": true,
+      "name": "Hydra",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "hornet.json",
+      "lootlemon": true,
+      "name": "Hornet",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "infinity.json",
+      "lootlemon": true,
+      "name": "Infinity",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "infection-cleaner.json",
+      "lootlemon": true,
+      "name": "Infection Cleaner",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "injector.json",
+      "lootlemon": false,
+      "name": "Injector",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "jackal.json",
+      "lootlemon": false,
+      "name": "Jackal",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "invader.json",
+      "lootlemon": true,
+      "name": "Invader",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "interfacer.json",
+      "lootlemon": true,
+      "name": "Interfacer",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "iron.json",
+      "lootlemon": false,
+      "name": "Iron",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "jericho.json",
+      "lootlemon": false,
+      "name": "Jericho",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "jolly-roger.json",
+      "lootlemon": true,
+      "name": "Jolly Roger",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "judge.json",
+      "lootlemon": true,
+      "name": "Judge",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "kerblaster.json",
+      "lootlemon": true,
+      "name": "KerBlaster",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "lance.json",
+      "lootlemon": false,
+      "name": "Lance",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "kindle.json",
+      "lootlemon": false,
+      "name": "Kindle",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "kitten.json",
+      "lootlemon": true,
+      "name": "Kitten",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "landscaper.json",
+      "lootlemon": true,
+      "name": "Landscaper",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "lady-fist.json",
+      "lootlemon": true,
+      "name": "Lady Fist",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "launcher-e-tech.json",
+      "lootlemon": false,
+      "name": "Launcher (E-tech)",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "launcher-common.json",
+      "lootlemon": false,
+      "name": "Launcher (common)",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "leverage.json",
+      "lootlemon": false,
+      "name": "Leverage",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "lascaux.json",
+      "lootlemon": true,
+      "name": "Lascaux",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "lead-storm.json",
+      "lootlemon": true,
+      "name": "Lead Storm",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "little-evie.json",
+      "lootlemon": true,
+      "name": "Little Evie",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "law.json",
+      "lootlemon": true,
+      "name": "Law",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "longarm.json",
+      "lootlemon": false,
+      "name": "Longarm",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "logans-gun.json",
+      "lootlemon": true,
+      "name": "Logan's Gun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "longbow.json",
+      "lootlemon": true,
+      "name": "Longbow",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "longer-ragne-kilier.json",
+      "lootlemon": false,
+      "name": "Longer ragne kilier",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "longrider.json",
+      "lootlemon": false,
+      "name": "Longrider",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "madhous.json",
+      "lootlemon": true,
+      "name": "Madhous!",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "magamum.json",
+      "lootlemon": false,
+      "name": "Magamum!",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "m2828-thumpson.json",
+      "lootlemon": true,
+      "name": "M2828 Thumpson",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "lyudmila.json",
+      "lootlemon": true,
+      "name": "Lyudmila",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "maggie.json",
+      "lootlemon": true,
+      "name": "Maggie",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "magnum.json",
+      "lootlemon": false,
+      "name": "Magnum",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "mashine-gun.json",
+      "lootlemon": false,
+      "name": "Mashine Gun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "minigun.json",
+      "lootlemon": false,
+      "name": "Minigun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "moloko.json",
+      "lootlemon": false,
+      "name": "Moloko",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "negotiator.json",
+      "lootlemon": false,
+      "name": "Negotiator",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "muckamuck.json",
+      "lootlemon": false,
+      "name": "Muckamuck",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "mongol.json",
+      "lootlemon": true,
+      "name": "Mongol",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "morningstar.json",
+      "lootlemon": true,
+      "name": "Morningstar",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "nirvana.json",
+      "lootlemon": true,
+      "name": "Nirvana",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "oberkil.json",
+      "lootlemon": false,
+      "name": "Oberkil!",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "norfleet.json",
+      "lootlemon": true,
+      "name": "Norfleet",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "nukem.json",
+      "lootlemon": true,
+      "name": "Nukem",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "octo.json",
+      "lootlemon": true,
+      "name": "Octo",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "ogre.json",
+      "lootlemon": true,
+      "name": "Ogre",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "orc.json",
+      "lootlemon": true,
+      "name": "Orc",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "panorama.json",
+      "lootlemon": false,
+      "name": "Panorama",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "orphan-maker.json",
+      "lootlemon": true,
+      "name": "Orphan Maker",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "omen.json",
+      "lootlemon": true,
+      "name": "Omen",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "overcompensator.json",
+      "lootlemon": true,
+      "name": "Overcompensator",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "pbfg.json",
+      "lootlemon": false,
+      "name": "PBFG",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "peacemaker.json",
+      "lootlemon": false,
+      "name": "Peacemaker",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "patriot.json",
+      "lootlemon": true,
+      "name": "Patriot",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "pistal.json",
+      "lootlemon": false,
+      "name": "Pistal",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "pimpernel.json",
+      "lootlemon": true,
+      "name": "Pimpernel",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "phobia.json",
+      "lootlemon": false,
+      "name": "Phobia",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "peak-opener.json",
+      "lootlemon": true,
+      "name": "Peak Opener",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "pitchfork.json",
+      "lootlemon": true,
+      "name": "Pitchfork",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "plasma-caster.json",
+      "lootlemon": false,
+      "name": "Plasma Caster",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "policy.json",
+      "lootlemon": false,
+      "name": "Policy",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "pocket-rocket.json",
+      "lootlemon": true,
+      "name": "Pocket Rocket",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "pooshka.json",
+      "lootlemon": false,
+      "name": "Pooshka",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "power-shot.json",
+      "lootlemon": false,
+      "name": "Power Shot",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "pounder.json",
+      "lootlemon": false,
+      "name": "Pounder",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "prazma-canon.json",
+      "lootlemon": false,
+      "name": "PRAZMA CANON",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "presence.json",
+      "lootlemon": false,
+      "name": "Presence",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "projectile-convergence.json",
+      "lootlemon": false,
+      "name": "Projectile Convergence",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "projectile-diversification.json",
+      "lootlemon": false,
+      "name": "Projectile Diversification",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "provacateur.json",
+      "lootlemon": false,
+      "name": "Provacateur",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "projectile.json",
+      "lootlemon": false,
+      "name": "Projectile",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "punishment.json",
+      "lootlemon": false,
+      "name": "Punishment",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "prowler.json",
+      "lootlemon": false,
+      "name": "Prowler",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "quad.json",
+      "lootlemon": false,
+      "name": "Quad",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "quickshot.json",
+      "lootlemon": false,
+      "name": "Quickshot",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "pyrophobia.json",
+      "lootlemon": true,
+      "name": "Pyrophobia",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "railer.json",
+      "lootlemon": false,
+      "name": "Railer",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "rakehell.json",
+      "lootlemon": false,
+      "name": "Rakehell",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "ratatater.json",
+      "lootlemon": false,
+      "name": "Ratatater!",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "rapier.json",
+      "lootlemon": true,
+      "name": "Rapier",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "ravager.json",
+      "lootlemon": false,
+      "name": "Ravager",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "renegade.json",
+      "lootlemon": false,
+      "name": "Renegade",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "retcher.json",
+      "lootlemon": true,
+      "name": "Retcher",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "repeater.json",
+      "lootlemon": false,
+      "name": "Repeater",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "revenant.json",
+      "lootlemon": false,
+      "name": "Revenant",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "revolver.json",
+      "lootlemon": false,
+      "name": "Revolver",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "rifle.json",
+      "lootlemon": false,
+      "name": "Rifle",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "rex.json",
+      "lootlemon": true,
+      "name": "Rex",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "roaster.json",
+      "lootlemon": true,
+      "name": "Roaster",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "rokgun.json",
+      "lootlemon": false,
+      "name": "Rokgun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "rokets.json",
+      "lootlemon": false,
+      "name": "Rokets!",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "rod.json",
+      "lootlemon": false,
+      "name": "Rod",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "room-clener.json",
+      "lootlemon": false,
+      "name": "Room Clener",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "rocketeer.json",
+      "lootlemon": false,
+      "name": "Rocketeer",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "root.json",
+      "lootlemon": false,
+      "name": "Root",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "rpg.json",
+      "lootlemon": false,
+      "name": "RPG",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "scarab.json",
+      "lootlemon": false,
+      "name": "Scarab",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "roksalt.json",
+      "lootlemon": true,
+      "name": "RokSalt",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "sand-hawk.json",
+      "lootlemon": true,
+      "name": "Sand Hawk",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "rubi.json",
+      "lootlemon": true,
+      "name": "Rubi",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "sawbar.json",
+      "lootlemon": true,
+      "name": "Sawbar",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "scorpio.json",
+      "lootlemon": true,
+      "name": "Scorpio",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "scorpion.json",
+      "lootlemon": false,
+      "name": "Scorpion",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "scout.json",
+      "lootlemon": false,
+      "name": "Scout",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "scattergun.json",
+      "lootlemon": false,
+      "name": "Scattergun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "shoky.json",
+      "lootlemon": false,
+      "name": "Shoky",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "seraphim.json",
+      "lootlemon": true,
+      "name": "Seraphim",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "shotgun-1340.json",
+      "lootlemon": true,
+      "name": "Shotgun 1340",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "seeker.json",
+      "lootlemon": true,
+      "name": "Seeker",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "shredifier.json",
+      "lootlemon": true,
+      "name": "Shredifier",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "shotgun-supreme.json",
+      "lootlemon": false,
+      "name": "Shotgun Supreme!",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "skatergun.json",
+      "lootlemon": false,
+      "name": "Skatergun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "skullmasher.json",
+      "lootlemon": true,
+      "name": "Skullmasher",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "slagga.json",
+      "lootlemon": true,
+      "name": "Slagga",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "slagy.json",
+      "lootlemon": false,
+      "name": "Slagy",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "slapper.json",
+      "lootlemon": false,
+      "name": "Slapper",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "smg.json",
+      "lootlemon": false,
+      "name": "SMG",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "sledges-shotgun.json",
+      "lootlemon": true,
+      "name": "Sledge's Shotgun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "sloth.json",
+      "lootlemon": true,
+      "name": "Sloth",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "slow-hand.json",
+      "lootlemon": true,
+      "name": "Slow Hand",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "sniper.json",
+      "lootlemon": false,
+      "name": "Sniper",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "snider.json",
+      "lootlemon": false,
+      "name": "Snider",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "spark.json",
+      "lootlemon": false,
+      "name": "Spark",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "spinigun.json",
+      "lootlemon": false,
+      "name": "Spinigun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "spiker.json",
+      "lootlemon": false,
+      "name": "Spiker",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "special.json",
+      "lootlemon": false,
+      "name": "Special",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "spitter.json",
+      "lootlemon": false,
+      "name": "Spitter",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "smig.json",
+      "lootlemon": false,
+      "name": "Smig",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "splasher-blashter.json",
+      "lootlemon": false,
+      "name": "Splasher Blashter",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "splatgun.json",
+      "lootlemon": false,
+      "name": "Splatgun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "stalker.json",
+      "lootlemon": true,
+      "name": "Stalker",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "stinger.json",
+      "lootlemon": true,
+      "name": "Stinger",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "sportsman.json",
+      "lootlemon": false,
+      "name": "Sportsman",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "stinkpot.json",
+      "lootlemon": true,
+      "name": "Stinkpot",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "spread.json",
+      "lootlemon": false,
+      "name": "Spread",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "stomper.json",
+      "lootlemon": true,
+      "name": "Stomper",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "stret-sweper.json",
+      "lootlemon": false,
+      "name": "Stret Sweper",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "strike.json",
+      "lootlemon": false,
+      "name": "Strike",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "submalevolent-grace.json",
+      "lootlemon": false,
+      "name": "SubMalevolent Grace",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "striker.json",
+      "lootlemon": true,
+      "name": "Striker",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "subcompact-mg.json",
+      "lootlemon": false,
+      "name": "Subcompact MG",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "storm.json",
+      "lootlemon": true,
+      "name": "Storm",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "tattler.json",
+      "lootlemon": true,
+      "name": "Tattler",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "synergy.json",
+      "lootlemon": false,
+      "name": "Synergy",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "teeth-of-terramorphous.json",
+      "lootlemon": true,
+      "name": "Teeth of Terramorphous",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "terror.json",
+      "lootlemon": false,
+      "name": "Terror",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "swordsplosion.json",
+      "lootlemon": true,
+      "name": "SWORDSPLOSION",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "thinking.json",
+      "lootlemon": false,
+      "name": "Thinking",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "teapot.json",
+      "lootlemon": true,
+      "name": "Teapot",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "thunderball-fists.json",
+      "lootlemon": true,
+      "name": "Thunderball Fists",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "tmp.json",
+      "lootlemon": false,
+      "name": "TMP",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "tidal-wave.json",
+      "lootlemon": true,
+      "name": "Tidal Wave",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "tinderbox.json",
+      "lootlemon": true,
+      "name": "Tinderbox",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "toothpick.json",
+      "lootlemon": true,
+      "name": "Toothpick",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "torpedo.json",
+      "lootlemon": false,
+      "name": "Torpedo",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "topneaa.json",
+      "lootlemon": false,
+      "name": "Topneaa",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "torment.json",
+      "lootlemon": false,
+      "name": "Torment",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "trance.json",
+      "lootlemon": false,
+      "name": "Trance",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "transmurdera.json",
+      "lootlemon": false,
+      "name": "Transmurdera",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "trespasser.json",
+      "lootlemon": true,
+      "name": "Trespasser",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "troublemaker.json",
+      "lootlemon": false,
+      "name": "Troublemaker",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "triquetra.json",
+      "lootlemon": true,
+      "name": "Triquetra",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "triple-barrels.json",
+      "lootlemon": false,
+      "name": "Triple Barrels!",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "transaction.json",
+      "lootlemon": false,
+      "name": "Transaction",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "tunguska.json",
+      "lootlemon": true,
+      "name": "Tunguska",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "umbrage.json",
+      "lootlemon": false,
+      "name": "Umbrage",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "twister.json",
+      "lootlemon": true,
+      "name": "Twister",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "vanquisher.json",
+      "lootlemon": false,
+      "name": "Vanquisher",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "unforgiven.json",
+      "lootlemon": true,
+      "name": "Unforgiven",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "unkempt-harold.json",
+      "lootlemon": true,
+      "name": "Unkempt Harold",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "venom.json",
+      "lootlemon": false,
+      "name": "Venom",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "unicornsplosion.json",
+      "lootlemon": true,
+      "name": "Unicornsplosion",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "vexation.json",
+      "lootlemon": false,
+      "name": "Vexation",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "veruc.json",
+      "lootlemon": true,
+      "name": "Veruc",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "vision.json",
+      "lootlemon": false,
+      "name": "Vision",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "veritas.json",
+      "lootlemon": true,
+      "name": "Veritas",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "weisenheimer.json",
+      "lootlemon": false,
+      "name": "Weisenheimer",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "volcano.json",
+      "lootlemon": true,
+      "name": "Volcano",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "wellness.json",
+      "lootlemon": false,
+      "name": "Wellness",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "widow-maker.json",
+      "lootlemon": false,
+      "name": "Widow Maker",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "wanderlust.json",
+      "lootlemon": true,
+      "name": "Wanderlust",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "wheelgun.json",
+      "lootlemon": false,
+      "name": "Wheelgun",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "yellow-jacket.json",
+      "lootlemon": true,
+      "name": "Yellow Jacket",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes",
+        "special.description"
+      ],
+      "file": "world-burn.json",
+      "lootlemon": true,
+      "name": "World Burn",
+      "wiki": true
+    },
+    {
+      "changed": [
+        "description",
+        "notes"
+      ],
+      "file": "zooka.json",
+      "lootlemon": false,
+      "name": "Zooka!",
+      "wiki": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Psycho Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/meat.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/meat-krieg-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Meat"
+  },
+  "name": "Meat",
+  "slug": "meat",
+  "type": "Psycho",
+  "description": "Meat is an Epic class mod for Krieg in Borderlands 2, introduced with the Psycho Pack.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Empty the Rage",
+    "Embrace the Pain",
+    "Salt the Wound"
+  ],
+  "sources": [
+    {
+      "name": "Krieg Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Meat and the rest of Krieg's class mods were added to the loot pool on 18 April 2013.",
+  "special": {
+    "description": "At max level, Meat provides: +52,368 health regeneration per second and +1.5s shield recharge delay."
+  },
+  "max": {
+    "level": 90,
+    "recharge_delay": 41.5
+  },
+  "abilities": [
+    "+5 Empty the Rage Skill",
+    "+4 Embrace the Pain Skil",
+    "+4 Salt the Wound Skill"
+  ]
+}

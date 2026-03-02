@@ -1,0 +1,57 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Pounder_(Borderlands)"
+  },
+  "name": "Pounder",
+  "slug": "pounder",
+  "type": "Assault Rifle",
+  "description": "Pounders are combat rifles with middling accuracy, low fire rate, and frequent reloads, which makes them unpopular as general-purpose weapons. Their per-shot damage is high for a rifle and they always have a scope, and their lower fire rate can help elemental effects proc more often.",
+  "notes": "The Pounder effect comes from the mag1a_pounder magazine. Non-unique and non-legendary versions also gain the Pounder title (Title_Mag1_Pounder), which adds roughly 10% damage. See stat modifiers for details.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      147,
+      605
+    ],
+    "accuracy": [
+      87.5,
+      96.7
+    ],
+    "rate": [
+      3,
+      6
+    ],
+    "mag": [
+      6
+    ]
+  },
+  "manufacturers": [
+    "Dahl",
+    "Hyperion",
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/pounder.png",
+  "sources": [
+    {
+      "name": "AR Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

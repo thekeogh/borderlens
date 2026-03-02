@@ -1,0 +1,39 @@
+{
+  "game": "borderlands",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/rubberized-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Rubberized_Grenade"
+  },
+  "name": "Rubberized",
+  "slug": "rubberized",
+  "description": "A Pangolin rubberized grenade from the base game. Behaves like a bouncing ball—it keeps bouncing along the ground and off surfaces until it touches an enemy or very close proximity, then explodes. No contact within six seconds and it detonates anyway.\n\nUseful in cramped corridors and closed spaces where the grenade will eventually reach a target. In large, open areas it may never get there—physics can send it in unanticipated directions, and it can even bounce back and damage the thrower. The contact-based trigger does allow use against airborne enemies with careful aim, but missed throws can be dangerous. Best in enclosed fights like Sledge's Safe House or Lockdown Palace.",
+  "special": {
+    "description": "Skips across the ground and explodes on enemy impact or after 6s."
+  },
+  "type": "Standard",
+  "elements": [
+    "Corrosive",
+    "Explosive",
+    "Incendiary",
+    "Shock"
+  ],
+  "manufacturers": [
+    "Pangolin"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/grenade-mods/rubberized.png"
+}

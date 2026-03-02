@@ -1,0 +1,33 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/longarm.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Longarm"
+  },
+  "name": "Longarm",
+  "slug": "longarm",
+  "type": "Pistol",
+  "description": "Longarm is a Jakobs revolver variant built for accuracy. Like other Jakobs revolvers, it gains +33% critical hit damage, letting it serve as a reliable mid-range alternative to a sniper rifle at lower levels. It performs best against targets with large weak spots, such as Constructors.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": "",
+  "elements": [
+    "None"
+  ]
+}

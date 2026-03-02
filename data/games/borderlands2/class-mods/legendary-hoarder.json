@@ -1,0 +1,49 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-hoarder.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-hoarder-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Hoarder"
+  },
+  "name": "Legendary Hoarder",
+  "slug": "legendary-hoarder",
+  "type": "Gunzerker",
+  "description": "Legendary Hoarder is a Legendary class mod for Salvador in Borderlands 2. It is a Vladof mod.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Lay Waste",
+    "5 Shots or 6",
+    "Filled to the Brim",
+    "Locked and Loaded",
+    "Incite"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Added with Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. It cannot be obtained without this DLC.",
+  "special": {
+    "description": "At maximum level it provides a team-wide ammo regeneration bonus of +4.5. The item uses the standard Hoarder skin to help players tell it apart.",
+    "title": "\"Ain't got time for dilly-dally.\""
+  },
+  "abilities": [
+    "+5 Lay Waste Skill",
+    "+5 Filled to the Brim Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

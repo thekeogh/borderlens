@@ -1,0 +1,40 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/tormentor-lilith-bl1"
+  },
+  "name": "Tormentor",
+  "slug": "tormentor",
+  "type": "Siren",
+  "skills": [
+    "Spark",
+    "Radiance",
+    "Striking"
+  ],
+  "description": "The Tormentor improves team element pool regeneration for Lilith. Material parts may add team elemental effect damage or team gun damage.",
+  "manufacturers": [
+    "Atlas",
+    "Hyperion"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Increases team element pool regeneration."
+  },
+  "sources": [
+    {
+      "name": "Lilith Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/tormentor.png"
+}

@@ -1,0 +1,44 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/assassin.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Assassin_(pistol)"
+  },
+  "name": "Assassin",
+  "slug": "assassin",
+  "type": "Pistol",
+  "description": "Assassin is a machine pistol variant fitted with a Hyperion barrel. It offers a small boost to critical hit damage and improves accuracy and stability the longer you keep firing. Best used as a quick sidearm for precise close to mid range fights.",
+  "notes": "Usually found as a standard world drop.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "aliases": [
+    "Assassin (pistol)"
+  ],
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag",
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Thunder"
+  },
+  "name": "Thunder",
+  "slug": "thunder",
+  "type": "Sniper",
+  "description": "Thunder is a high-damage sniper rifle title for both pump-action and semi-auto rifles. The title itself does not alter stats, but it denotes high base damage compared to other sniper titles.",
+  "notes": "Thunder is assigned to sniper rifles with high damage. Pump-action snipers use the Thunder title, while semi-automatic snipers use the Driver title instead, and the name does not affect stats.\nFrom the part naming, a separate Driver title was planned for semi-auto snipers, but those parts still show up in-game as Thunder.",
+  "ranges": {
+    "damage": [
+      30,
+      1701
+    ],
+    "accuracy": [
+      91.8,
+      97.8
+    ],
+    "rate": [
+      0.3,
+      3
+    ],
+    "mag": [
+      3,
+      10
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "Dahl",
+    "Eridian",
+    "Gearbox",
+    "Hyperion",
+    "Jakobs",
+    "Maliwan",
+    "S&S Munitions",
+    "Torgue",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/thunder.png",
+  "sources": [
+    {
+      "name": "Sniper Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

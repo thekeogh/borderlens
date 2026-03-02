@@ -1,0 +1,34 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/scattergun.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Scattergun_(Borderlands_2)"
+  },
+  "name": "Scattergun",
+  "slug": "scattergun",
+  "type": "Shotgun",
+  "description": "The Scattergun is a Jakobs shotgun built for close-quarters fights, delivering strong per-shot damage with a firing speed limited only by the trigger pull. Accuracy is middling to poor, and many variants carry just one or two shells, so you will be reloading often. Versions with a Tediore barrel typically fire fewer pellets, reducing overall damage and leaving them behind other Jakobs shotguns.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "notes": "Drops randomly from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ],
+  "elements": [
+    "None"
+  ]
+}

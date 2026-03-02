@@ -1,0 +1,53 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-ranger.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-ranger-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Ranger"
+  },
+  "name": "Legendary Ranger",
+  "slug": "legendary-ranger",
+  "type": "Commando",
+  "description": "Legendary Ranger is a legendary Class Mod for Axton in Borderlands 2.\n\nMade by Anshin. Orange rarity. Red text: Wanna know how I got these scars?",
+  "manufacturers": [
+    "Anshin"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Ranger",
+    "Quick Charge",
+    "Onslaught",
+    "Impact",
+    "Metal Storm"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Requires the Digistruct Peak Challenge DLC (Ultimate Vault Hunter Upgrade Pack Two) and cannot drop without it.\n\nIts Onslaught bonus is bugged: it only applies if you equip the mod while the kill skill is already active, and you must repeat this each time it ends. In normal play, treat the Onslaught boost as non-functional.\n\nThe red text is a nod to a well-known Joker line, with how swapped in for why.",
+  "special": {
+    "description": "At maximum level it provides team shield bonuses: +60.5% Recharge Rate and -57.5% Recharge Delay.\n\nBug: the Onslaught and Quick Charge boosts only work when the mod is equipped during the active kill skill window. The displayed team recharge delay value may also be incorrect.",
+    "title": "\"Wanna know why I got these scars?\""
+  },
+  "max": {
+    "level": 90,
+    "recharge_rate": 61
+  },
+  "abilities": [
+    "+5 deh Skill",
+    "+5 Quic a Skill",
+    "+5 Onslaught Skill",
+    "+5 Impact Skill",
+    "+5 Metal Storm Skill"
+  ]
+}

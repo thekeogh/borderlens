@@ -1,0 +1,268 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/lyudmila.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/lyuda-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Lyudmila"
+  },
+  "name": "Lyudmila",
+  "slug": "lyudmila",
+  "type": "Sniper",
+  "description": "Legendary Vladof sniper rifle from the Borderlands 2 base game. Based on the Droog, it fires quickly and carries a large magazine. Each shot becomes three rounds while only consuming one sniper ammo, letting it function like a high damage, long range automatic weapon. The horizontal split pattern is consistent but wide, so it is strongest against large targets, clustered enemies, or sustained fire rather than single weak foes.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "aliases": [
+    "Lyuda"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "+3 Mag Size",
+          "+30% Reload Speed",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "4.0x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "7.0x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "5.9x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "5.1x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "4.3x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Element": [
+      {
+        "modifiers": [
+          "Chance: 20%",
+          "-20% Damage"
+        ],
+        "name": "Fire"
+      },
+      {
+        "modifiers": [
+          "Chance: 20%",
+          "-20% Damage"
+        ],
+        "name": "Shock"
+      },
+      {
+        "modifiers": [
+          "Chance: 20%",
+          "-20% Damage"
+        ],
+        "name": "Corrosive"
+      },
+      {
+        "modifiers": [
+          "Chance: 20%",
+          "-20% Damage"
+        ],
+        "name": "Slag"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+20% Crit Damage",
+          "+10% Max Accuracy",
+          "-15% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Crit Damage"
+      },
+      {
+        "modifiers": [
+          "-35% Max Inaccuracy",
+          "-30% Recoil",
+          "+25% Spread"
+        ],
+        "name": "Foregrip"
+      },
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "+25% Max Accuracy",
+          "-25% Spread",
+          "+25% Recoil"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "Gettle",
+      "tags": [
+        "Unique Enemy",
+        "The Dust",
+        "Drop rate: 10%"
+      ]
+    },
+    {
+      "name": "Sniper Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Lyuda",
+    "description": "Man Killer. Fires a shot that splits into three projectiles after a short delay, spreading horizontally; the split point depends on time in flight. Grants increased critical hit damage (about 125 percent total for this weapon) alongside improved accuracy and recoil behaviour from the barrel."
+  },
+  "notes": "Also known as White Death or Lyuda in some versions. Extra rounds deal reduced damage in some variants (often about 75 percent of the card value). The spread briefly collapses after firing but expands again almost instantly, so it mainly helps during continuous fire. Only one Critical Ascensi0n stack can be gained per trigger pull even if multiple rounds crit. Naming differs by platform and patch; Xbox 360 can still show White Death, while later releases commonly use Lyudmila.",
+  "max": {
+    "accuracy": 95.8,
+    "damage": 2501705,
+    "fire_rate": 5.7,
+    "level": 90,
+    "mag_size": 27,
+    "reload_speed": 3.1
+  }
+}

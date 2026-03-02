@@ -1,0 +1,58 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Death"
+  },
+  "name": "Death",
+  "slug": "death",
+  "type": "Shotgun",
+  "description": "Death shotguns are defined by high accuracy (at least 67%), letting them perform at medium and even long range. At close range they grant a 15% critical damage bonus on headshots, while at longer distances they behave like a classic shotgun by keeping the target inside the reticle.",
+  "notes": "The critical bonus does not apply to melee critical hits, so a Spiked Death is no better in melee than other Spiked shotguns. The Death title (Title_Spread_Death) is granted to high-accuracy shotguns (67% or more); see stat modifiers for how the title changes the weapon.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      1
+    ],
+    "accuracy": [
+      68.5,
+      82.3
+    ],
+    "rate": [
+      1,
+      2.8
+    ],
+    "mag": [
+      5,
+      10
+    ]
+  },
+  "manufacturers": [
+    "Hyperion",
+    "Maliwan",
+    "S&S Munitions",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/death.png",
+  "sources": [
+    {
+      "name": "Shotgun Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

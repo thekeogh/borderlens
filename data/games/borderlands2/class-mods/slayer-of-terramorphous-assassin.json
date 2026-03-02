@@ -1,0 +1,56 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/slayer-of-terramorphous-assassin.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/slayer-of-terramorphous-bl2-assasin",
+    "wiki": "https://borderlands.fandom.com/wiki/Slayer_Of_Terramorphous"
+  },
+  "name": "Slayer Of Terramorphous",
+  "slug": "slayer-of-terramorphous-assassin",
+  "type": "Assassin",
+  "description": "Slayer Of Terramorphous is a legendary class mod from Borderlands 2. It is tied to Terramorphous the Invincible, who always drops one, but the character variant is random. Compared with other legendary class mods, its skill bonuses cap at +4 rather than +5, but it typically makes up for this with a broader mix of additional stat boosts.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Headsh0t",
+    "0ptics",
+    "Fast Hands",
+    "C0unter Strike",
+    "Ir0n Hand",
+    "Sentry",
+    "Ready",
+    "Impact",
+    "Expertise",
+    "Healthy"
+  ],
+  "sources": [
+    {
+      "name": "Terramorphous",
+      "tags": [
+        "Raid Boss",
+        "Terramorphous Peak"
+      ]
+    }
+  ],
+  "notes": "Terramorphous always drops one of these class mods, but you cannot choose which class version you get.\n\nOlder versions had an issue with the Assassin variant granting the wrong skill bonus, reducing the total number of bonuses; this was later corrected.\n\nSeveral variants use distinctive themed artwork (for example, the Gunzerker, Siren and Mechromancer designs), and the Psycho name styling is unique within the set.",
+  "special": {
+    "description": "At max level, Zer0s Slayer Of Terramorphous grants: +37% burn damage, +37% ignite chance, and +1,101,229 health."
+  },
+  "abilities": [
+    "+4 HeadshOt Skill",
+    "+4 Optics Skill",
+    "+4 Fast Hands Skill",
+    "+4 COunter Strike Skill",
+    "+4 IrOn Hand Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

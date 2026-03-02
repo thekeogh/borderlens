@@ -1,0 +1,240 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/dahlminator.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/dahlminator-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Dahlminator"
+  },
+  "name": "Dahlminator",
+  "slug": "dahlminator",
+  "type": "Pistol",
+  "description": "The Dahlminator is a Dahl E-tech dart pistol locked to corrosive. It launches homing darts that can ricochet and detonate after a brief delay, letting you tag targets hiding behind cover. Corrosive damage and the delayed blast make it a strong pick for stripping armour. It can also perform well in stack-focused setups, although heavy accuracy penalties may cause the tracking to miss more often.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+3 Mag Size",
+          "+30% Reload Speed",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-14% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-10% Recoil Recovery",
+          "-6% Damage"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.2x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.0x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "5.3x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "4.5x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "3.9x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "2.8x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.4x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "3.2x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "+28% Mag Size",
+          "+2 Mag Size",
+          "+60% Projectiles",
+          "+0.4 Projectiles",
+          "-15% Damage",
+          "-30% Fire Rate",
+          "+1 Shot Cost",
+          "-25% Max Accuracy",
+          "+25% Spread",
+          "+1 Spread",
+          "+4 Recoil"
+        ],
+        "name": "Double"
+      },
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "-30% Recoil",
+          "-35% Max Inaccuracy",
+          "-15% Spread"
+        ],
+        "name": "Stock"
+      },
+      {
+        "modifiers": [
+          "+56% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "+25% Accuracy",
+          "+20% Projectile Speed",
+          "-40% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Corrosive"
+  ],
+  "sources": [
+    {
+      "name": "The Lost Treasure",
+      "tags": [
+        "Quest",
+        "Sawtooth Cauldron"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Dodge this.",
+    "description": "Shoots slow tracking darts that stick to surfaces or enemies, then explode shortly after. Aiming down sights triggers Dahl-style burst fire."
+  },
+  "notes": "As an E-tech pistol, it does not score normal critical hits. A later hotfix buffed Dahl pistols, improving stability and magazine size, which also benefits this weapon.",
+  "max": {
+    "accuracy": 92.1,
+    "damage": 1469104,
+    "fire_rate": 8.2,
+    "level": 90,
+    "mag_size": 28,
+    "reload_speed": 1.4,
+    "status_chance": 14.435,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "Burst fire while zoomed.",
+    "Consumes 2 ammo per shot. Highly effective vs Armor."
+  ]
+}

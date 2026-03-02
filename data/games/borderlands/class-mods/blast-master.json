@@ -1,0 +1,40 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/blast-master-brick-bl1"
+  },
+  "name": "Blast Master",
+  "slug": "blast-master",
+  "type": "Berserker",
+  "skills": [
+    "Liquidate",
+    "Revenge",
+    "Master Blaster"
+  ],
+  "description": "The Blast Master amplifies explosive damage for Brick. Material parts may provide further bonuses depending on the roll.",
+  "manufacturers": [
+    "Dahl",
+    "Torgue"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Increases explosive damage dealt."
+  },
+  "sources": [
+    {
+      "name": "Brick Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/blast-master.png"
+}

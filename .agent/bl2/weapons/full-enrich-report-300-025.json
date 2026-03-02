@@ -1,0 +1,115 @@
+{
+  "completedAt": "2026-02-26T12:42:42.805Z",
+  "entries": [
+    {
+      "changed": [
+        "special",
+        "description"
+      ],
+      "file": "veritas.json",
+      "name": "Veritas"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "veruc.json",
+      "name": "Veruc"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "vexation.json",
+      "name": "Vexation"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "vision.json",
+      "name": "Vision"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "volcano.json",
+      "name": "Volcano"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "wanderlust.json",
+      "name": "Wanderlust"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "weisenheimer.json",
+      "name": "Weisenheimer"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "wellness.json",
+      "name": "Wellness"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "wheelgun.json",
+      "name": "Wheelgun"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "widow-maker.json",
+      "name": "Widow Maker"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "world-burn.json",
+      "name": "World Burn"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "yellow-jacket.json",
+      "name": "Yellow Jacket"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "zooka.json",
+      "name": "Zooka!"
+    }
+  ],
+  "limit": 25,
+  "offset": 300,
+  "processed": 13,
+  "updated": 13
+}

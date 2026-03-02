@@ -1,0 +1,70 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/the-dove-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/The_Dove"
+  },
+  "name": "The Dove",
+  "slug": "the-dove",
+  "type": "Repeater",
+  "description": "The Dove is an Uncommon Dahl repeater from the base game with the unique ability to consume no ammo. It has mostly fixed parts and lower damage, so it is best used as a backup or to finish weakened targets when your main weapon runs dry.",
+  "elements": [
+    "Incendiary",
+    "Corrosive",
+    "Shock",
+    "Explosive"
+  ],
+  "special": {
+    "description": "Does not consume ammo but has lower damage and higher recoil.",
+    "title": "Sometimes, I forget to reload."
+  },
+  "ranges": {
+    "damage": [
+      45,
+      214
+    ],
+    "accuracy": [
+      87.2
+    ],
+    "rate": [
+      3.7
+    ],
+    "mag": [
+      12,
+      14
+    ]
+  },
+  "max": {
+    "damage": 193,
+    "accuracy": 87.2,
+    "fire_rate": 3.7,
+    "mag_size": 12,
+    "level": 68
+  },
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Uncommon"
+  ],
+  "sources": [
+    {
+      "name": "Slither",
+      "tags": [
+        "Unique Enemy",
+        "Rust Commons East"
+      ]
+    },
+    {
+      "name": "Altar Ego: Godless Monsters",
+      "tags": [
+        "Quest",
+        "Rust Commons East"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/weapons/the-dove.png"
+}

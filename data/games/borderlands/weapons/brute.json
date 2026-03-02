@@ -1,0 +1,52 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Brute_(shotgun)"
+  },
+  "name": "Brute",
+  "slug": "brute",
+  "type": "Shotgun",
+  "description": "Brute shotguns have no special mechanics beyond exceptionally high damage. Hyperion long-barrel versions can reach unusually high accuracy for a shotgun (around 82%), and with Scattershot plus a strong Commando COM they can become effective at medium-to-long range.",
+  "notes": "Maliwan does not make Brutes because the damage threshold is too high. The Brute title (Title_Damage1_Brute) is granted to assault shotguns with very high damage and pushes damage even higher; see stat modifiers for how the title changes the weapon.",
+  "ranges": {
+    "damage": [
+      50,
+      289
+    ],
+    "accuracy": [
+      6.7,
+      82.3
+    ],
+    "rate": [
+      1,
+      3.1
+    ],
+    "mag": [
+      5,
+      10
+    ]
+  },
+  "manufacturers": [
+    "Hyperion",
+    "S&S Munitions",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/brute.png",
+  "sources": [
+    {
+      "name": "Shotgun Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

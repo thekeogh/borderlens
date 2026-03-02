@@ -1,0 +1,252 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Ultimate Vault Hunter Upgrade Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/storm.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/storm-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Storm_(SMG)"
+  },
+  "name": "Storm",
+  "slug": "storm",
+  "type": "Sniper",
+  "description": "Storm is a Pearlescent Maliwan sniper rifle added in the Borderlands 2 Ultimate Upgrade Pack.\n\nIt uses a fixed-element Maliwan barrel, giving it unusually strong elemental chance and damage over time for its type. These bonuses can be pushed further with a Maliwan grip.\n\nEven if the base rarity seems modest, the high proc rate and status damage can carry you effectively until you replace it with a rarer option.",
+  "manufacturers": [
+    "Hyperion",
+    "Maliwan"
+  ],
+  "rarities": [
+    "Pearlescent"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance",
+          "+3 Mag Size",
+          "+30% Reload Speed"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "4.5x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "7.8x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "6.6x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "5.7x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "4.8x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+20% Crit Damage",
+          "+10% Max Accuracy",
+          "-15% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Crit Damage"
+      },
+      {
+        "modifiers": [
+          "-35% Max Inaccuracy",
+          "-30% Recoil",
+          "+25% Spread"
+        ],
+        "name": "Foregrip"
+      },
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "+25% Max Accuracy",
+          "-25% Spread",
+          "+25% Recoil"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Shock"
+  ],
+  "sources": [
+    {
+      "name": "OMGWTH",
+      "tags": [
+        "Mini-Boss",
+        "Digistruct Peak",
+        "Drop rate: 12.5%"
+      ]
+    },
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    },
+    {
+      "name": "Loot Midget",
+      "tags": [
+        "Rare Enemy",
+        "DAHL Abandon"
+      ]
+    },
+    {
+      "name": "Sniper Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "Shots detonate on impact to produce a shock nova that deals shock gun damage.\n\nEach hit also creates 5 Tesla orbs around the impact point. Orbs persist for 0.85 seconds and zap nearby enemies 3 times, each zap dealing 10% shock grenade damage.\n\nSniper bonus: all manufacturers except Jakobs gain +100% critical hit damage (scales)."
+  },
+  "notes": "Random world drop from any appropriate loot source.\nSpawns at green rarity or higher.\nBorderlands: The Pre-Sequel versions commonly use the newer Hyperion materials and prefixes.\nA related Pre-Sequel variant exists called the Brainstorm, produced by the older Hyperion.\nSimilar fixed-element Hyperion SMGs include Backburner (incendiary), Weisenheimer (corrosive), Wellness (slag), and Cooler (cryo).",
+  "max": {
+    "accuracy": 96.8,
+    "damage": 2830877,
+    "fire_rate": 1,
+    "level": 90,
+    "mag_size": 10,
+    "reload_speed": 3.1,
+    "status_chance": 61.9,
+    "status_damage_per_sec": 478795.4
+  },
+  "abilities": [
+    "Tut, tut, it looks like rain.",
+    "5.7x Weapon Zoom",
+    "Deals bonus elemental damage. SO OIOIG,"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/error-message.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/ERROR_MESSAGE"
+  },
+  "name": "ERROR MESSAGE",
+  "slug": "error-message",
+  "type": "Launcher",
+  "description": "Error Message is a hacked rocket launcher that cannot be obtained normally. It only functions once the Captain Scarlett and Her Pirate's Booty DLC is installed, and is typically added via save editing or acquired through trades.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "notes": "Access is limited to save editors, mods, or trading, and the Captain Scarlett and Her Pirate's Booty DLC must be present.\n\nIt is treated as a Torgue launcher but uses a purple Tediore-style skin.\n\nIts behaviour matches the Ahab, firing explosive harpoons.\n\nIf spawned with Master Gee, it rolls a random prefix and parts but always has a Maliwan barrel. Its damage largely scales with Master Gee's remaining health, increasing as his health drops.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

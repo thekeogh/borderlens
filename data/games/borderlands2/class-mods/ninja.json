@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/ninja.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Ninja"
+  },
+  "name": "Ninja",
+  "slug": "ninja",
+  "type": "Assassin",
+  "description": "Ninja is a Borderlands 2 class mod for the Assassin class.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Backstab",
+    "Resurgence",
+    "Killing Bl0w"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "name": "Zer0 Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

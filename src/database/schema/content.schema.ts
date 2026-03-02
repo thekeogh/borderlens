@@ -1,0 +1,27 @@
+import { z } from "zod";
+
+export const Content = z.enum([
+  "Base Game",
+  "The Zombie Island of Dr. Ned",
+  "Mad Moxxi's Underdome Riot",
+  "The Secret Armory of General Knoxx",
+  "Claptrap's New Robot Revolution",
+  "Enhanced",
+  "Mechromancer Pack",
+  "Psycho Pack",
+  "Collector's Edition Pack",
+  "Premiere Club",
+  "Captain Scarlett and Her Pirate's Booty",
+  "Mr. Torgue's Campaign of Carnage",
+  "Sir Hammerlock's Big Game Hunt",
+  "Tiny Tina's Assault on Dragon Keep",
+  "Creature Slaughterdome",
+  "Ultimate Vault Hunter Upgrade Pack",
+  "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "T.K. Baha's Bloody Harvest",
+  "The Horrible Hunger of the Ravenous Wattle Gobbler",
+  "How Marcus Saved Mercenary Day",
+  "Mad Moxxi and the Wedding Day Massacre",
+  "Sir Hammerlock vs. the Son of Crawmerax",
+  "Commander Lilith & the Fight for Sanctuary",
+]);

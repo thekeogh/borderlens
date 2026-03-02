@@ -1,0 +1,50 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Psycho Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/crunch.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/crunch-krieg-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Crunch"
+  },
+  "name": "Crunch",
+  "slug": "crunch",
+  "type": "Psycho",
+  "description": "Crunch is an Epic class mod for Krieg in Borderlands 2, introduced with the Psycho Pack.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Taste of Blood",
+    "Blood Trance",
+    "Strip the Flesh"
+  ],
+  "sources": [
+    {
+      "name": "Krieg Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Crunch and the rest of Krieg's class mods were added to the loot pool on 18 April 2013.",
+  "special": {
+    "description": "At maximum level, Crunch increases Explosive Damage by 58%."
+  },
+  "abilities": [
+    "+5 Taste of Blood Skill",
+    "+4 Blood Trance Skill",
+    "+4 Strip the Flesh Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

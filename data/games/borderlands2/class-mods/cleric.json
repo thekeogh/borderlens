@@ -1,0 +1,65 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/cleric.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/cleric-maya-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Cleric"
+  },
+  "name": "Cleric",
+  "slug": "cleric",
+  "type": "Siren",
+  "description": "Cleric is a common Siren class mod for Maya introduced in Tiny Tina's Assault on Dragon Keep. It is made by Bandit and is found only from treasure chests within that DLC area.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Suspension",
+    "Restoration",
+    "Life Tap"
+  ],
+  "sources": [
+    {
+      "name": "Mimic Chest",
+      "tags": [
+        "Chest",
+        "Unassuming Docks"
+      ]
+    },
+    {
+      "name": "Gold Golem",
+      "tags": [
+        "Boss",
+        "Mines of Avarice"
+      ]
+    },
+    {
+      "name": "Sorcerer's Daughter",
+      "tags": [
+        "Boss",
+        "Lair of Infinite Agony"
+      ]
+    }
+  ],
+  "notes": "Earlier versions of the \"Good\" variant applied the opposite reload bonus, increasing reload time instead of improving it. This has since been corrected.\n\nThe name references a tabletop cleric archetype, fitting its focus on mixing combat support with healing, which complements Maya's sustain and support tools.",
+  "special": {
+    "description": "At maximum level, it rolls one bonus from each of two pools.\n\nPool 1: Neutral +58.5% magazine size; Chaotic +58.5% fire rate; Lawful +58.5% maximum accuracy.\n\nPool 2: Neutral +58.5% magazine size; Evil +58.5% critical hit damage; Good +58.5% reload speed.\n\nThe 2x magazine size prefix is True Neutral, giving +93.6% magazine size. The item card may show incorrect fire rate, reload speed, and accuracy values."
+  },
+  "max": {
+    "fire_rate": 377,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Suspension Skill",
+    "+4 Restoration Skill",
+    "+4 Life Tap Skill"
+  ]
+}

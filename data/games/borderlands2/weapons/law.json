@@ -1,0 +1,187 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/law.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/law-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Law_(Borderlands_2)"
+  },
+  "name": "Law",
+  "slug": "law",
+  "type": "Pistol",
+  "description": "Law is a rare Jakobs pistol from Borderlands 2. It always rolls with a fixed bayonet that doubles melee damage, making it a strong pick for melee builds such as Zer0 (Bloodshed) or Krieg (Mania).\n\nWhen aiming down sights it also gains a hidden +100% accuracy boost, giving it near sniper-like precision. This is especially useful on Gaige: the scoped accuracy bonus offsets Anarchy spread, letting you keep perfect accuracy up to 57 Anarchy stacks.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "+1 Mag Size",
+          "+30% Reload Speed",
+          "-0.2 Recoil",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "+15% Reload Speed",
+          "-10% Recoil Recovery",
+          "-6% Damage"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "2.2x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "3.0x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "5.3x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "4.5x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "3.9x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "2.8x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "2.4x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "3.2x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Sheriff of Lynchwood",
+      "tags": [
+        "Unique Enemy",
+        "Lynchwood",
+        "Drop rate: 11%"
+      ]
+    },
+    {
+      "name": "Won't Get Fooled Again",
+      "tags": [
+        "Quest",
+        "Sanctuary"
+      ]
+    }
+  ],
+  "special": {
+    "description": "With the Order shield equipped:\n- +25% melee lifesteal\n- +100% melee damage\n\nAlways spawns with a melee bayonet (+100% melee) and gains +100% accuracy while scoped.",
+    "title": "De Da."
+  },
+  "notes": "Its unique melee accessory does not grant the Bowie prefix; the prefix is determined by the grip instead.",
+  "elements": [
+    "None"
+  ],
+  "max": {
+    "accuracy": 96.8,
+    "damage": 2022431,
+    "fire_rate": 15.3,
+    "level": 90,
+    "mag_size": 6,
+    "reload_speed": 1.7
+  },
+  "abilities": [
+    "+100% Melee Damage",
+    "Fires as fast as you can pull the trigger. SOI IOIBIIB 4"
+  ]
+}

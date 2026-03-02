@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/shoky.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Shoky"
+  },
+  "name": "Shoky",
+  "slug": "shoky",
+  "type": "SMG",
+  "description": "The Shoky is a Bandit SMG from a small set that always rolls with a fixed-element Maliwan barrel. This grants unusually strong elemental damage over time, higher status chance, and improved accuracy compared with typical Bandit SMGs.\n\nBecause the parts are locked, these guns are much rarer than their colour tier suggests, usually appearing as green and only occasionally as blue or purple. Even at low tiers, the elemental performance can carry you well until you replace it with a stronger Unique or Legendary option.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "elements": [
+    "Shock"
+  ],
+  "notes": "Drops randomly from any appropriate loot source.\nOnly appears at green rarity or above.\nRelated Bandit SMGs with the same fixed Maliwan barrel include Barfy (corrosive), Burny (incendiary), and Slagy (slag).\nMaliwan-made SMGs using this barrel are far more common and can roll from white to purple.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

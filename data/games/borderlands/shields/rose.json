@@ -1,0 +1,54 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/rose-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Rose"
+  },
+  "name": "Rose",
+  "slug": "rose",
+  "description": "An Anshin pearlescent heal shield from the General Knoxx DLC. When broken after a full recharge, it instantly restores around 333 health—a lifesaver in tight spots.",
+  "special": {
+    "description": "On shield break after full recharge, restores approximately 333 health. Triggers once per full recharge cycle.",
+    "title": "Beauty and Life"
+  },
+  "type": "Heal",
+  "rarities": [
+    "Pearlescent"
+  ],
+  "manufacturers": [
+    "Anshin"
+  ],
+  "sources": [
+    {
+      "name": "Badass Defender",
+      "tags": [
+        "Enemy",
+        "Road's End"
+      ]
+    },
+    {
+      "name": "Badass Infantry",
+      "tags": [
+        "Enemy",
+        "Road's End"
+      ]
+    },
+    {
+      "name": "Badass Engineer",
+      "tags": [
+        "Enemy",
+        "Road's End"
+      ]
+    },
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Craw's Lair"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/rose.png"
+}

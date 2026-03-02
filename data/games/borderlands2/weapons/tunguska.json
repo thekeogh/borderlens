@@ -1,0 +1,244 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Ultimate Vault Hunter Upgrade Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/tunguska.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/tunguska-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Tunguska"
+  },
+  "name": "Tunguska",
+  "slug": "tunguska",
+  "type": "Launcher",
+  "description": "The Tunguska is a Pearlescent Torgue launcher from the Borderlands 2 Ultimate Upgrade Pack.\n\nIt hits for enormous area damage, but the big hit is delayed. After impact, the rocket pops upward and then detonates; the item card damage reflects this airburst, not the initial impact. It spends 2 launcher rounds per shot and can be awkward to time, so many Legendary launchers can match or beat its output with less danger.\n\nThe blast radius is large enough to down you if fired carelessly.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Pearlescent"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+50% Melee Damage",
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-6% Damage",
+          "-10% Mag Size"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damge",
+          "+1 Mag Size",
+          "+40% Reload Speed",
+          "+15% Recoil",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Exhaust": [
+      {
+        "modifiers": [
+          "+20% Mag Size",
+          "-10% Max Accuracy"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+160% Projectile Speed",
+          "+10% Burst Recoil"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-6% Fire Rate"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-20% Zoom"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.3x Zoom",
+          "-20% Max Inaccuracy"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.9x Zoom",
+          "+20% Projectile Speed",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "2.8x Zoom",
+          "+20% Reload Speed"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.5x Zoom",
+          "+20% Max Accuracy",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "3.2x Zoom",
+          "+12% Fire Rate",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+21% Damage",
+          "-15% Fire Rate",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "+10% Reload Speed",
+          "+150% Swap Speed"
+        ],
+        "name": "Swap Speed"
+      },
+      {
+        "modifiers": [
+          "+280% Projectile Speed",
+          "+20% Zoom"
+        ],
+        "name": "Rocket Speed"
+      },
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "+30% Reload Speed"
+        ],
+        "name": "Reload Speed"
+      },
+      {
+        "modifiers": [
+          "+50% Zoom",
+          "+80% Projectile Speed",
+          "+15% Accuracy",
+          "-25% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "OMGWTH",
+      "tags": [
+        "Mini-Boss",
+        "Digistruct Peak",
+        "Drop rate: 12.5%"
+      ]
+    },
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    },
+    {
+      "name": "Loot Midget",
+      "tags": [
+        "Rare Enemy",
+        "DAHL Abandon"
+      ]
+    },
+    {
+      "name": "Launcher Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "title": "It will split the sky in two.",
+    "description": "Fires a high, mortar-like arc. On impact it deals a small hit, rises briefly, then detonates in a huge airburst.\n\nExtremely high damage and increased splash radius, with a very slow reload. Consumes 2 ammo per shot."
+  },
+  "notes": "Direct impact damage is about one tenth of the later explosion.\nVery high sale value: roughly $2,000,000 at level 61, $18,000,000 at level 80, and $55,000,000 at OP10.",
+  "max": {
+    "accuracy": 73.3,
+    "damage": 30331672,
+    "fire_rate": 1.1,
+    "level": 90,
+    "mag_size": 5,
+    "reload_speed": 4.1
+  },
+  "abilities": [
+    "2.4x Weapon Zoom",
+    "Deals bonus explosive damage."
+  ]
+}

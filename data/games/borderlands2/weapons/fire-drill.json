@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/fire-drill.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Fire_Drill"
+  },
+  "name": "Fire Drill",
+  "slug": "fire-drill",
+  "type": "Pistol",
+  "description": "The Fire Drill is an unused effervescent variant concept tied to the Infinity family, effectively mirroring a fire themed Infinity style weapon.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Effervescent"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "special": {
+    "description": "Always deals incendiary damage. Does not consume ammo and has a fixed magazine size of 1. Fires in a fixed shot pattern that ignores normal recoil. 100 percent status effect chance. Higher damage. Better accuracy while aiming down sights. Reduced fire rate.",
+    "title": "It gets the job done."
+  },
+  "notes": "Uses the Infinity model with the effervescent skin.\n\nOriginally planned as Lt. Angvar's effervescent drop, but it was cut before release and he drops the Infinity instead.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

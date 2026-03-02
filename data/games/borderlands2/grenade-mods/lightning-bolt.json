@@ -1,0 +1,68 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/grenade-mods/lightning-bolt.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/lightning-bolt-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Lightning_Bolt"
+  },
+  "name": "Lightning Bolt",
+  "slug": "lightning-bolt",
+  "type": "Unique",
+  "description": "Lightning Bolt is a rare Maliwan grenade mod introduced in the Tiny Tina's Assault on Dragon Keep DLC for Borderlands 2.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "elements": [
+    "Shock"
+  ],
+  "sources": [
+    {
+      "name": "Sorcerer",
+      "tags": [
+        "Enemy",
+        "Lair of Infinite Agony"
+      ]
+    },
+    {
+      "name": "Handsome Sorcerer",
+      "tags": [
+        "Boss",
+        "Dragon Keep"
+      ]
+    },
+    {
+      "name": "Handsome Dragon",
+      "tags": [
+        "Boss",
+        "Hatred's Shadow"
+      ]
+    },
+    {
+      "name": "Necromancer",
+      "tags": [
+        "Enemy",
+        "Lair of Infinite Agony"
+      ]
+    }
+  ],
+  "notes": "Chain Lightning is the upgraded variant.\n\nIts name nods to the Lightning Bolt spell from Dungeons and Dragons.\n\nThe red text references Back to the Future and the 1.21 gigawatts line. It may also allude to a well known early 2000s LARP clip. While equipped, Axton can occasionally yell \"Lightning Bolt!\", including when deploying his Sabre Turret.",
+  "special": {
+    "description": "Fires a lightning strike from your hand. Grenades regenerate over time.",
+    "title": "What's a jigawatt?"
+  },
+  "max": {
+    "blast_radius": 580,
+    "fuse_time": 0,
+    "grenade_damage": 7600873,
+    "level": 90
+  },
+  "abilities": [
+    "Slowly regenerates grenade ammo over time."
+  ]
+}

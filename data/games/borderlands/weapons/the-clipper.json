@@ -1,0 +1,59 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/the-clipper-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/The_Clipper"
+  },
+  "name": "The Clipper",
+  "slug": "the-clipper",
+  "type": "Repeater",
+  "description": "The Clipper is a Rare Vladof repeater from the base game and the only gun that combines an elemental effect with a melee blade. Its incendiary effect procs often for x1 element, and the blade stuns, making it strong early on—especially against skags—despite average gun stats.",
+  "elements": [
+    "Incendiary"
+  ],
+  "special": {
+    "description": "Grants +100% melee damage with an incendiary element, plus faster reloads but lower damage and fire rate with wider spread and recoil.",
+    "title": "Don't drop it... might lose a toe."
+  },
+  "ranges": {
+    "damage": [
+      8,
+      125
+    ],
+    "accuracy": [
+      71.7
+    ],
+    "rate": [
+      9
+    ],
+    "mag": [
+      20
+    ]
+  },
+  "max": {
+    "damage": 123,
+    "accuracy": 71.7,
+    "fire_rate": 9,
+    "mag_size": 20,
+    "level": 68
+  },
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Nine-Toes",
+      "tags": [
+        "Boss",
+        "Skag Gully"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/weapons/the-clipper.png"
+}

@@ -1,0 +1,50 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Mechromancer Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/zapper.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/zapper-gaige-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Zapper"
+  },
+  "name": "Zapper",
+  "slug": "zapper",
+  "type": "Mechromancer",
+  "description": "Zapper is an Epic Class Mod for Gaige, the Mechromancer, in Borderlands 2.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "More Pep",
+    "Wires Don't Talk",
+    "Electrical Burn"
+  ],
+  "sources": [
+    {
+      "name": "Gaige Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At max level, this Class Mod boosts Electrocution Damage by 37% and increases Electrocute Chance by 37%."
+  },
+  "notes": "",
+  "abilities": [
+    "+5 More Pep Skill",
+    "+4 Llires Don't Talk Skill",
+    "+4 Electrical Burn Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

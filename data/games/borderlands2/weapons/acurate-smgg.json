@@ -1,0 +1,34 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/acurate-smgg.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Acurate_smgg"
+  },
+  "name": "Acurate smgg",
+  "slug": "acurate-smgg",
+  "type": "SMG",
+  "description": "Acurate smgg is a Bandit SMG built with a Hyperion barrel, giving it steadier recoil and more reliable accuracy. In exchange, it typically loses some damage output and magazine capacity. With favourable parts, it can stay effective at longer ranges than most Bandit-made weapons.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "None"
+  ],
+  "notes": "It may roll with the deliberately misspelt Akurate prefix, can appear at green rarity or above, and most commonly shows up as a standard world drop.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

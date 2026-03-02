@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/bangstick.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Bangstick"
+  },
+  "name": "Bangstick",
+  "slug": "bangstick",
+  "type": "Shotgun",
+  "description": "The Bangstick is a low-level Torgue shotgun built for basic use and low running costs. It fires for one shell per trigger pull, but offers little to set it apart and is usually outclassed by other shotguns as you progress. Best treated as a stopgap weapon while levelling until better options turn up.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ],
+  "notes": "It uses an unusual component layout compared with later, higher-grade Torgue shotguns, which helps explain its weaker overall stats and feel."
+}

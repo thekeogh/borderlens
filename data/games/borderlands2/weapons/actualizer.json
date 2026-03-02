@@ -1,0 +1,246 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Captain Scarlett and Her Pirate's Booty",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/actualizer.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/actualizer-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Actualizer"
+  },
+  "name": "Actualizer",
+  "slug": "actualizer",
+  "type": "SMG",
+  "description": "The Actualizer is a Seraph Hyperion SMG from Captain Scarlett and Her Pirate's Booty with extremely high damage per shot for its class. On-paper DPS is strong, but slow bullets, less reliable at-range performance, and a lengthy reload make it harder to keep damage up in real fights.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Seraph"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "+4 Mag Size",
+          "+30% Reload Speed",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.4x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.4x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "5.9x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "4.3x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "3.1x Zoom"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Element": [
+      {
+        "modifiers": [
+          "Chance: 7.1%",
+          "-20% Damage"
+        ],
+        "name": "Fire"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.1%",
+          "-20% Damage"
+        ],
+        "name": "Shock"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.1%",
+          "-20% Damage"
+        ],
+        "name": "Corrosive"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.1%",
+          "-20% Damage"
+        ],
+        "name": "Slag"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+18% Damage",
+          "+15% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "+50% Projectile Speed"
+        ],
+        "name": "Bullet Speed"
+      },
+      {
+        "modifiers": [
+          "-25% Max Inaccuracy",
+          "-25% Recoil"
+        ],
+        "name": "Stability"
+      },
+      {
+        "modifiers": [
+          "+5% Mag Size",
+          "+25% Reload Speed"
+        ],
+        "name": "Reload"
+      },
+      {
+        "modifiers": [
+          "+25% Max Accuracy",
+          "-25% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "Hyperius",
+      "tags": [
+        "Raid Boss",
+        "Washburne Refinery",
+        "Drop rate: 0.29%"
+      ]
+    },
+    {
+      "name": "Oasis Seraph Shop",
+      "tags": [
+        "Vendor",
+        "Oasis"
+      ]
+    }
+  ],
+  "special": {
+    "title": "We need to talk about your DPS report.",
+    "description": "Provides a huge damage boost and a larger magazine. In exchange it suffers reduced projectile speed, slower reloads, and poorer overall accuracy. As a Hyperion weapon, accuracy improves the longer you hold the trigger, so the initial spread tightens quickly during continuous fire."
+  },
+  "notes": "A later balance pass increased both base damage and magazine capacity, but also made the reload even longer. As a result, its sustained output often falls behind other leading SMGs despite the impressive burst.",
+  "max": {
+    "accuracy": 86.7,
+    "damage": 1100152,
+    "fire_rate": 3.7,
+    "level": 90,
+    "mag_size": 43,
+    "reload_speed": 4.2
+  }
+}

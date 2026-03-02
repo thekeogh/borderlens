@@ -1,0 +1,47 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/maylay-shield.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Maylay_Shield"
+  },
+  "name": "Maylay Shield",
+  "aliases": [
+    "Roid Shield"
+  ],
+  "slug": "maylay-shield",
+  "type": "Roid",
+  "description": "The Maylay Shield is built for melee play. When its capacity is broken, it boosts your melee damage, encouraging aggressive close-quarters fighting instead of staying behind a fully charged shield.",
+  "notes": "To get the most from it, you will often keep the shield down on purpose, so plan around healing, damage reduction, or other ways to stay alive while taking hits.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag",
+    "Explosive"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "While depleted, it provides a large melee damage increase, but typically comes with a longer recharge delay, leaving you exposed for longer."
+  },
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

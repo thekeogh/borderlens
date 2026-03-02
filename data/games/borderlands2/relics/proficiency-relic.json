@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/relics/proficiency-relic.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Proficiency_Relic"
+  },
+  "name": "Proficiency Relic",
+  "slug": "proficiency-relic",
+  "type": "Proficiency",
+  "description": "The Proficiency Relic is a common Eridian relic in Borderlands 2.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "The bonus can reach up to 51%.\n\nIts cooldown effect overlaps with Bone of the Ancients, which also provides elemental bonuses.",
+  "special": {
+    "description": "Reduces Action Skill cooldown time."
+  },
+  "sources": [
+    {
+      "name": "Relic Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

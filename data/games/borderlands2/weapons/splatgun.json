@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/splatgun.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Splatgun"
+  },
+  "name": "Splatgun",
+  "slug": "splatgun",
+  "type": "Shotgun",
+  "description": "Splatguns fire arcing energy globes, closer to a grenade launcher than a standard shotgun. They have an increased chance to apply elemental status effects and consume 2 ammo per shot.\n\nTediore versions explode when thrown on reload, scattering extra bomblets like a MIRV. Hyperion shots ricochet off surfaces until they strike an enemy.\n\nBoth makes tend to reload slowly, which makes thrown-reload hits awkward, and the 2-ammo cost can limit how much benefit Hyperion gains from its accuracy stabilisation. Maya's Flicker skill boosts their elemental output further.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Can roll a critical hit damage accessory even though it cannot land critical hits.\n\nCannot roll the vertical grip accessory, or the Gentle (Tediore) and Practicable (Hyperion) prefixes that would grant x3 projectiles.\n\nAbsorb shields can convert absorbed shots into rocket ammo.\n\nThe barrel model is based on a modified grenadier or rocketeer style.\n\nKrieg's Blood Overdrive will not trigger from Tediore Splatguns due to elemental splash, but it will always trigger from Hyperion Splatguns.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

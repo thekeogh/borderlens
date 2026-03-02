@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/splasher-blashter.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Splasher_Blashter"
+  },
+  "name": "Splasher Blashter",
+  "slug": "splasher-blashter",
+  "type": "Shotgun",
+  "description": "The Splasher Blashter is a bandit-made E-tech shotgun. It inherits the usual bandit traits: poor accuracy, slow reloads and a big magazine, while E-tech converts shells into energy charges.\n\nEach trigger pull fires a three-round burst of large, slow energy orbs that arc through the air and hit hard. The weapon burns 4 shotgun ammo per burst, so the oversized magazine matters less. Despite the cost, it is still very efficient and powerful for an E-tech shotgun, though many purple-and-above non E-tech shotguns can outperform it for damage per shot and per ammo.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Can roll a critical hit damage accessory even though it cannot score critical hits.\nCannot roll the vertical grip, and cannot spawn with the Assssult prefix (so it cannot gain a x5 projectile variant).\nJumping and firing at the ground can give a small extra lift, at the cost of moderate self-damage.\nIts projectiles are classed as rockets; Absorb shields that convert shots can return launcher ammo.\nManufacturer: Bandit. Weapon type: E-tech shotgun.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

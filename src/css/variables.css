@@ -1,0 +1,52 @@
+:root {
+
+  /**
+   * Colours
+   */
+  --color-zinc-1000: #000;
+  --color-zinc-0: #fff;
+
+  /**
+   * Font families
+   */
+  --font-family-base: var(--font-family-inter);
+  --font-family-title: var(--font-family-rajdhani);
+  --font-family-mono: var(--font-family-space);
+
+  /**
+   * Font sizes
+   */
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.5rem;
+  --font-size-xl: 2.5rem;
+
+  /**
+   * Font weights
+   */
+  --font-weight-normal: 400;
+  --font-weight-bold: 700;
+  --font-weight-bolder: 900;
+
+  /**
+   * Line heights
+   */
+  --line-height-base: 1.5;
+  --line-height-titles: 1;
+
+  /**
+   * Spacing
+   */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 3rem;
+
+  /**
+   * Dimensions
+   */
+  --dimension-container-md: 80rem;
+
+}

@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/bushwack.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Bushwack"
+  },
+  "name": "Bushwack",
+  "slug": "bushwack",
+  "type": "Shotgun",
+  "description": "The Bushwack is a triple-barrel Jakobs shotgun made for brutal point-blank bursts. Each shot throws out a large number of pellets for excellent damage per trigger pull, but the spread is very wide and it struggles to stay accurate at range. Its distinctive loading style helps you get another blast off quickly, so it excels up close and becomes inconsistent at distance.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "This weapon only spawns at green rarity or above. It can drop as a regular world item from appropriate loot sources.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ],
+  "elements": [
+    "None"
+  ]
+}

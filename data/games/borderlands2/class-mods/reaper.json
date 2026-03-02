@@ -1,0 +1,49 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Psycho Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/reaper.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/reaper-krieg-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Reaper_(class_mod)"
+  },
+  "name": "Reaper",
+  "slug": "reaper",
+  "type": "Psycho",
+  "description": "Reaper is a common Bandit-manufactured class mod for Krieg in Borderlands 2. It can drop randomly from any appropriate loot source.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Blood Twitch",
+    "Fuel the Fire",
+    "Blood Overdrive"
+  ],
+  "sources": [
+    {
+      "name": "Krieg Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Krieg class mods, including this one, were added to the drop pool on 18 April 2013.",
+  "special": {
+    "description": "At maximum level, Reaper increases team Kill Skill duration by 66 percent. Standard Kill Skills last 7 seconds, extending to 11.6 seconds with this mod. Krieg Kill Skills affected include Blood Bath, Blood Overdrive, Blood Twitch, Fuel the Blood, Fuel the Fire, and Nervous Blood."
+  },
+  "abilities": [
+    "+4 Fuel the Fire Skill",
+    "+4 Blood Overdrive Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

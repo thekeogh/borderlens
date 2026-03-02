@@ -1,0 +1,252 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Captain Scarlett and Her Pirate's Booty",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/orphan-maker.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/orphan-maker-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Orphan_Maker"
+  },
+  "name": "Orphan Maker",
+  "slug": "orphan-maker",
+  "type": "Shotgun",
+  "description": "A rare Jakobs shotgun with very high damage per pellet and a low pellet count, making crits and longer-range hits more consistent than most shotguns.\n\nFiring also damages you and delays shield recharge, so prolonged shooting can stop your shield recovering. Best used from cover in short bursts; high-capacity or fast-recharge shields help.\n\nStrong on Gaige (fast reload, Anarchy), Krieg (self-damage synergies), and Maya for burst support with Restoration.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "+1 Mag Size",
+          "-0.2 Recoil",
+          "+30% Reload Speed",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "+10% Recoil",
+          "-25% Recoil Recovery"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "1.8x Zoom",
+          "-25% Spread (aiming)"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "4.4x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "3.7x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "2.3x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "2.0x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "Chance: 66.7%",
+          "-25% Spread (aiming)"
+        ],
+        "name": "None"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+30% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Moon Clip"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+3% Damage",
+          "+3% Fire Rate",
+          "+5% Mag Size",
+          "+5% Reload Speed"
+        ],
+        "name": "Shotgun Shell"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+12% Fire Rate",
+          "-40% Spread",
+          "+39% Zoom",
+          "-15% Damage"
+        ],
+        "name": "Tech_1"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Crit Damage",
+          "-10% Spread",
+          "+39% Zoom"
+        ],
+        "name": "Tech_2"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+6% Fire Rate",
+          "+10% Mag Size",
+          "+25% Reload Speed",
+          "-3% Damage"
+        ],
+        "name": "Tech_3"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+2 Projectiles",
+          "+21% Fire Rate",
+          "-30% Max Inaccuracy",
+          "-15% Max Accuracy",
+          "+30% Spread"
+        ],
+        "name": "Vertical Grip"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Message in a Bottle: Oasis",
+      "tags": [
+        "Quest",
+        "Oasis"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Makes Orphans Often.",
+    "description": "Curse: firing deals 5% of the shot's damage to the wielder.\n\nJakobs: +30% critical hit damage.\n\nUnique: greatly increased damage with reduced pellet count."
+  },
+  "notes": "High per-pellet damage and fewer pellets improve reliability at range but reduce spread coverage.\n\nPairs poorly with amp shields because firing disrupts shield uptime.\n\nListed as Captain Blade's Orphan Maker, though the prefix can vary.\n\nSelf-damage does not apply if held in Salvador's off-hand while Gunzerking.",
+  "elements": [
+    "None"
+  ],
+  "max": {
+    "accuracy": 71,
+    "damage": 5351015,
+    "fire_rate": 18.7,
+    "level": 90,
+    "mag_size": 3,
+    "reload_speed": 1.8
+  },
+  "abilities": [
+    "3.7x Weapon Zoom",
+    "+8507 Weapon Damage",
+    "Consumes 2 ammo per shot.",
+    "Fires as fast as youcan pullthe trigger."
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/chulainn.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/chulainn-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Chulainn"
+  },
+  "name": "Chulainn",
+  "slug": "chulainn",
+  "type": "SMG",
+  "description": "Chulainn is a unique Maliwan SMG built for fast elemental pressure. It deals shock damage while also spreading slag, letting you set up and cash in on slag bonuses without switching weapons. The trade-off is that it can slag you while you are holding it, making you take more damage and turning aggressive play into a higher-risk choice, especially in tougher difficulties.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance",
+          "+4 Mag Size",
+          "+30% Reload Speed"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "2.4x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "3.4x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "5.9x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "4.3x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "3.1x Zoom"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+18% Damage",
+          "+15% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+12% Fire Rate",
+          "+50% Projectile Speed"
+        ],
+        "name": "Bullet Speed"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "-25% Max Inaccuracy",
+          "-25% Recoil"
+        ],
+        "name": "Stability"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+5% Mag Size",
+          "+25% Reload Speed"
+        ],
+        "name": "Reload"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+25% Max Accuracy",
+          "-25% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "Clan War: Zafords vs. Hodunks",
+      "tags": [
+        "Quest",
+        "The Dust"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Riastrad!",
+    "description": "Shoots shock projectiles with extra slag splash damage. While equipped it can apply slag to the user, and the self-slag can linger briefly after swapping away."
+  },
+  "notes": "The self-slag visual effect typically shows up after you start firing rather than the moment you equip it. It works best in elemental-focused setups, but you will need to manage the self-slag drawback carefully in high-damage fights. Later updates adjusted Maliwan SMG body part distribution, which reduced how unusual this gun could feel compared with other Maliwan SMGs.",
+  "max": {
+    "accuracy": 76,
+    "damage": 532461,
+    "fire_rate": 10.6,
+    "level": 90,
+    "mag_size": 42,
+    "reload_speed": 2,
+    "status_chance": 36.67
+  }
+}

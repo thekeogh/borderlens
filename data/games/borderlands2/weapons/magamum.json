@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/magamum.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Magamum!"
+  },
+  "name": "Magamum!",
+  "slug": "magamum",
+  "type": "Pistol",
+  "description": "Magamum! is a true heavy pistol: hard-hitting but unwieldy. It kicks hard and spreads shots widely, so it is unreliable at long range, yet each round hits for strong damage and can drop most basic foes quickly. Its slow rate of fire paired with a large magazine lets you keep shooting for a long time before needing to reload.\n\nIt shines at short to mid range, where accuracy matters less, and benefits greatly from skills that raise fire rate.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": ""
+}

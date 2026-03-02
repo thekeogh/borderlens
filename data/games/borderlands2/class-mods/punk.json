@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Mechromancer Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/punk.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/punk-gaige-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Punk_(class_mod)"
+  },
+  "name": "Punk",
+  "slug": "punk",
+  "type": "Mechromancer",
+  "description": "Punk is a common Mechromancer class mod in Borderlands 2, made by Bandit. It is part of the Mechromancer Pack and can drop at random from most appropriate loot sources.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "The Better Half",
+    "Smaller, Lighter, Faster",
+    "Annoyed Android"
+  ],
+  "sources": [
+    {
+      "name": "Gaige Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "All Punk variants reduce magazine size by at least 1 round. This can drop a weapon to 0 magazine capacity, making some guns unusable, including Infinity, Longrider, Striker, and Coach Gun.",
+  "special": {
+    "description": "At max level, Punk provides +46% fire rate and -29% magazine size. Known issue: the item card may show an incorrect fire rate value."
+  },
+  "max": {
+    "fire_rate": 327,
+    "level": 90
+  },
+  "abilities": [
+    "+5 The Better Half Skill",
+    "+4 Smaller Lighter Faster Ski",
+    "+4 Annoyed Brae Skill"
+  ]
+}

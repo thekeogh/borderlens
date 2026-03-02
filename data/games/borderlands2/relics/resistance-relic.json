@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/relics/resistance-relic.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Resistance_Relic"
+  },
+  "name": "Resistance Relic",
+  "slug": "resistance-relic",
+  "type": "Resistance",
+  "description": "A common Eridian-made relic found in Borderlands 2.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "Can roll up to four separate elemental resistance bonuses.\n\nIts resist effects overlap with Skin of the Ancients, which also includes the benefits of a Protection Relic.",
+  "special": {
+    "description": "Reduces incoming damage from certain elemental types."
+  },
+  "sources": [
+    {
+      "name": "Relic Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

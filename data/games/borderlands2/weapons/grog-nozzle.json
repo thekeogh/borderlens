@@ -1,0 +1,255 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/grog-nozzle.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/grog-nozzle-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Grog_Nozzle"
+  },
+  "name": "Grog Nozzle",
+  "slug": "grog-nozzle",
+  "type": "Pistol",
+  "description": "The Grog Nozzle is a Maliwan pistol from Tiny Tina's Assault on Dragon Keep. It is usually only available while the mission The Beard Makes the Man is active, as it is issued for that quest and is removed when you turn it in.\n\nIts main strength is support, not raw damage: while held, you gain very high lifesteal that applies to all damage you deal, including grenades, melee and other effects. This makes it a powerful off-hand healing tool, even in Fight for Your Life once you secure a Second Wind.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance",
+          "+3 Mag Size",
+          "+30% Reload Speed"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-14% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-10% Recoil Recovery",
+          "-6% Damage"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "2.2x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "3.0x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "5.3x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "4.5x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "3.9x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "2.8x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "2.4x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.6%",
+          "3.2x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+28% Mag Size",
+          "+2 Mag Size",
+          "+60% Projectiles",
+          "+0.4 Projectiles",
+          "-15% Damage",
+          "-30% Fire Rate",
+          "+1 Shot Cost",
+          "-25% Max Accuracy",
+          "+25% Spread",
+          "+1 Spread",
+          "+4 Recoil"
+        ],
+        "name": "Double"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "-30% Recoil",
+          "-35% Max Inaccuracy",
+          "-15% Spread"
+        ],
+        "name": "Stock"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+56% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+25% Accuracy",
+          "+20% Projectile Speed",
+          "-40% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "The Beard Makes the Man",
+      "tags": [
+        "Quest",
+        "Mines of Avarice"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Hand over the keys, Sugar...",
+    "description": "Always Slag. Very low base damage and very high slag application.\n\nWhile held: 65% lifesteal on all damage you deal.\n\nProjectile behaviour: slow shots that detonate three times in flight. Two mid-air blasts at 0.6s and 1.2s deal 50% bullet damage in an area; a final blast at 2.0s deals 80% bullet damage with 60% increased radius.\n\nCrit: +400% critical damage.\n\nDrunk: every 5s, 13% chance to intoxicate you for 5s. While drunk: +5 projectiles, -50% fire rate, worse accuracy, swaying view. Persists through weapon swaps; swapping resets the 5s check.\n\nKnown issue: magazine is 2 larger than shown."
+  },
+  "notes": "Normally it cannot be kept outside the quest, though it has been available briefly as a special event drop.\n\nThe drunken state can carry over after swapping weapons; swapping can also refresh the internal timer and let it trigger sooner.\n\nGrenade damage boosts can increase its damage. Damage dealt by separate entities such as Axton's Sabre Turret does not return healing.\n\nDamaging objects with health bars (for example barrels or fuse boxes) can still heal you.\n\nThe true magazine size is always 2 rounds higher than the card value.",
+  "max": {
+    "accuracy": 93.9,
+    "damage": 201558,
+    "fire_rate": 3,
+    "level": 90,
+    "mag_size": 12,
+    "reload_speed": 1.6,
+    "status_chance": 50.4
+  },
+  "abilities": [
+    "High elemental effect chance.",
+    "Consumes 2 ammo per shot.",
+    "Deals bonus elemental damage."
+  ]
+}

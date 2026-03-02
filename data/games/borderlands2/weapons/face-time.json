@@ -1,0 +1,39 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/face-time.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Face_Time"
+  },
+  "name": "Face Time",
+  "slug": "face-time",
+  "type": "Shotgun",
+  "description": "Face Time uses a Jakobs barrel, boosting pellet count but consuming 2 ammo per shot.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "In The Pre-Sequel, Face Time variants often spawn with Hyperion new-style materials and prefixes matching those in Borderlands 2. The internal name is \"Bilateral Face Time\"; \"Bilateral\" functions as a prefix and may be replaced. It can drop randomly from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

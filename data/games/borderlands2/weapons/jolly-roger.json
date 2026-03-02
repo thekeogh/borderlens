@@ -1,0 +1,279 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Captain Scarlett and Her Pirate's Booty",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/jolly-roger.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/jolly-roger-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Jolly_Roger"
+  },
+  "name": "Jolly Roger",
+  "slug": "jolly-roger",
+  "type": "Shotgun",
+  "description": "Rare Bandit shotgun from the Pirate's Booty DLC. It fires 18 pellets per shot, or 20 with a foregrip, while consuming 3 shells, making it efficient for a triple barrel and closer to quad barrel pellet output. The fixed pellet layout rewards careful positioning, especially against broad targets like skags, spiderants, and loaders. Gaige can get extra value from Close Enough, helping more pellets land for strong damage per ammo spent.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "+3 Mag Size",
+          "+30% Reload Speed",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "+10% Recoil",
+          "-25% Recoil Recovery"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "1.8x Zoom",
+          "-25% Spread (aiming)"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "4.4x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "3.7x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "2.3x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "2.0x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "Chance: 66.7%",
+          "-25% Spread (aiming)"
+        ],
+        "name": "None"
+      }
+    ],
+    "Element": [
+      {
+        "modifiers": [
+          "Chance: 7.1%"
+        ],
+        "name": "Fire"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.1%"
+        ],
+        "name": "Shock"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.1%"
+        ],
+        "name": "Corrosive"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.1%"
+        ],
+        "name": "Slag"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+30% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Moon Clip"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+3% Damage",
+          "+3% Fire Rate",
+          "+5% Mag Size",
+          "+5% Reload Speed"
+        ],
+        "name": "Shotgun Shell"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+12% Fire Rate",
+          "-40% Spread",
+          "+39% Zoom",
+          "-15% Damage"
+        ],
+        "name": "Tech_1"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Crit Damage",
+          "-10% Spread",
+          "+39% Zoom"
+        ],
+        "name": "Tech_2"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+6% Fire Rate",
+          "+10% Mag Size",
+          "+25% Reload Speed",
+          "-3% Damage"
+        ],
+        "name": "Tech_3"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+2 Projectiles",
+          "+21% Fire Rate",
+          "-30% Max Inaccuracy",
+          "-15% Max Accuracy",
+          "+30% Spread"
+        ],
+        "name": "Vertical Grip"
+      }
+    ]
+  },
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "Just Desserts For Desert Deserters",
+      "tags": [
+        "Quest",
+        "Wurmwater"
+      ]
+    }
+  ],
+  "special": {
+    "title": "A Pirate's Life for me!",
+    "description": "Fires a fixed spread that draws a skull and crossbones. Unique red text effect: higher pellet count with a locked pattern."
+  },
+  "notes": "Its in-game name is Captain Scarlett's Jolly Roger, but the Captain Scarlett's prefix is overridden by grip or accessory prefixes. A 14/10/2013 hotfix increased Bandit shotgun magazine size by 1 and slightly improved reload speed, affecting this weapon as well.",
+  "max": {
+    "accuracy": 36,
+    "damage": 70861,
+    "level": 90,
+    "mag_size": 24,
+    "reload_speed": 3.5
+  },
+  "abilities": [
+    "1.8x Weapon Zoom",
+    "+6 Weapon Magazine Size",
+    "Consumes 3 ammo per shot."
+  ]
+}

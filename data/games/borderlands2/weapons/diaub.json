@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/diaub.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Diaub"
+  },
+  "name": "Diaub",
+  "slug": "diaub",
+  "type": "Sniper",
+  "description": "Diaub is a Jakobs sniper type built for a quicker cadence than most bolt action rifles. It retains the high-impact Jakobs feel but fires at a pace closer to a semi-auto, letting you place accurate follow-up shots with less downtime. Best suited to players who want precision without the slow rhythm of traditional sniping.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "A special Diaub branded with Gearbox was included with the Premiere Club pre-order bonus. Regular versions can drop from standard world loot sources.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ],
+  "elements": [
+    "None"
+  ]
+}

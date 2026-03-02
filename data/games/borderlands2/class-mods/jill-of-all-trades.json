@@ -1,0 +1,52 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Mechromancer Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/jill-of-all-trades.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/jill-of-all-trades-gaige-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Jill_of_All_Trades"
+  },
+  "name": "Jill of All Trades",
+  "slug": "jill-of-all-trades",
+  "type": "Mechromancer",
+  "description": "Jill of All Trades is an Epic Class Mod for Gaige in Borderlands 2, included with the Mechromancer character add-on.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "More Pep",
+    "The Better Half",
+    "Smaller, Lighter, Faster"
+  ],
+  "sources": [
+    {
+      "name": "Gaige Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Its name appears to be a gender-flipped take on the phrase \"Jack of all trades\".",
+  "special": {
+    "description": "At max level, this Class Mod boosts assault rifles with +52% AR damage and +59% AR magazine size."
+  },
+  "max": {
+    "gun_damage_bonus": 52,
+    "level": 90,
+    "mag_size": 59
+  },
+  "abilities": [
+    "+5 More Pep Skill",
+    "+4 The Better Half Skill",
+    "+4 Smaller Lighter Faster Skil IEDIORE t j"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/raider.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/raider-salvador-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Raider"
+  },
+  "name": "Raider",
+  "slug": "raider",
+  "type": "Gunzerker",
+  "description": "Epic Raider is a Salvador class mod from the Borderlands 2 base game.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Locked and Loaded",
+    "Money Shot",
+    "Incite"
+  ],
+  "sources": [
+    {
+      "name": "Salvador Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At max level, this class mod provides:\n\n- Assault Rifle max accuracy: +57.5%\n- Assault Rifle spread: +57.5%\n- Shield capacity: -335,157\n\nNote: While Gunzerking, the assault rifle accuracy bonus only applies to the right-hand weapon. The item card also shows an incorrect assault rifle accuracy value."
+  },
+  "notes": "",
+  "max": {
+    "accuracy": 53.7,
+    "level": 90
+  },
+  "abilities": [
+    "+4 Money Shot Skill",
+    "+4 Incite Skill"
+  ]
+}

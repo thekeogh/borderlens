@@ -1,0 +1,55 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Sweeper_(Borderlands)"
+  },
+  "name": "Sweeper",
+  "slug": "sweeper",
+  "type": "Shotgun",
+  "description": "Sweepers are assault shotguns with fewer pellets than Matadors but higher fire rate. The combination leads to high ammo use, heavy recoil, and short burst windows, and they are generally considered weaker than good Matadors.",
+  "notes": "The Sweeper title (Title_HighSpread1_Sweeper) is granted to shotguns with high spread and does little more than add a single projectile. See stat modifiers for details.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      1
+    ],
+    "accuracy": [
+      6.7,
+      23
+    ],
+    "rate": [
+      1.4,
+      3.1
+    ],
+    "mag": [
+      5,
+      7
+    ]
+  },
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/sweeper.png",
+  "sources": [
+    {
+      "name": "Shotgun Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

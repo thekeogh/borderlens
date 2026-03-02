@@ -1,0 +1,38 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/tank-brick-bl1"
+  },
+  "name": "Tank",
+  "slug": "tank",
+  "type": "Berserker",
+  "skills": [
+    "Safeguard",
+    "Diehard",
+    "Unbreakable"
+  ],
+  "description": "The Tank reduces Pangolin shield recharge delay for Brick. Material parts may add recharge rate or shield capacity.",
+  "manufacturers": [
+    "Pangolin"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Reduces Pangolin shield recharge delay."
+  },
+  "sources": [
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Craw's Lair"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/tank.png"
+}

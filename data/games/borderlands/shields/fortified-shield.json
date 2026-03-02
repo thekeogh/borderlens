@@ -1,0 +1,32 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/fortified-shield-bl1"
+  },
+  "name": "Fortified Shield",
+  "slug": "fortified-shield",
+  "description": "A Pangolin standard shield focused on raw capacity. Boasts boosted shield capacity at the cost of a slightly longer recharge delay.",
+  "special": {
+    "description": "Increases shield capacity."
+  },
+  "type": "Standard",
+  "rarities": [
+    "Epic"
+  ],
+  "manufacturers": [
+    "Pangolin"
+  ],
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/fortified-shield.png"
+}

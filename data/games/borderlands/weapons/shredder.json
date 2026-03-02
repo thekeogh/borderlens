@@ -1,0 +1,59 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Shredder"
+  },
+  "name": "Shredder",
+  "slug": "shredder",
+  "type": "Shotgun",
+  "description": "Shredders are used much like Matadors but are weaker overall. They fire fewer pellets and have wider spread, and because they also qualify for Matador, they are usually inferior except for rare high-accuracy Jakobs variants.",
+  "notes": "The Shredder effect comes from the Title_Projectiles1_Shredder title granted by the barrel2_Shredder barrel. The barrel otherwise behaves like a standard barrel2, so the title is what creates the effect. See stat modifiers for details.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      66
+    ],
+    "accuracy": [
+      0,
+      48.4
+    ],
+    "rate": [
+      0.4,
+      1.8
+    ],
+    "mag": [
+      2,
+      13
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "Dahl",
+    "Jakobs",
+    "Tediore",
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/shredder.png",
+  "sources": [
+    {
+      "name": "Shotgun Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

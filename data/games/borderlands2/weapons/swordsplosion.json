@@ -1,0 +1,230 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/swordsplosion.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/swordsplosion-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/SWORDSPLOSION!!!"
+  },
+  "name": "SWORDSPLOSION",
+  "slug": "swordsplosion",
+  "type": "Shotgun",
+  "description": "SWORDSPLOSION!!! is a Torgue E-Tech shotgun from Tiny Tina's Assault on Dragon Keep. It fires slow-moving explosive sword projectiles. Direct hits are easiest up close, but the impact splits into multiple exploding swords, keeping it effective at mid range. Projectile-speed boosts (eg Zer0 Vel0city, Maya Accelerate) make it much easier to land hits. With precise aim, the spawned swords can connect immediately for huge burst damage, especially with the Casual prefix.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+1 Mag Size",
+          "+30% Reload Speed",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "+10% Recoil",
+          "-25% Recoil Recovery"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "1.8x Zoom",
+          "-25% Spread (aiming)"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "4.4x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "3.7x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "2.3x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.0x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+30% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Moon Clip"
+      },
+      {
+        "modifiers": [
+          "+3% Damage",
+          "+3% Fire Rate",
+          "+5% Mag Size",
+          "+5% Reload Speed"
+        ],
+        "name": "Shotgun Shell"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-40% Spread",
+          "+39% Zoom",
+          "-15% Damage"
+        ],
+        "name": "Tech_1"
+      },
+      {
+        "modifiers": [
+          "+50% Crit Damage",
+          "-10% Spread",
+          "+39% Zoom"
+        ],
+        "name": "Tech_2"
+      },
+      {
+        "modifiers": [
+          "+6% Fire Rate",
+          "+10% Mag Size",
+          "+25% Reload Speed",
+          "-3% Damage"
+        ],
+        "name": "Tech_3"
+      },
+      {
+        "modifiers": [
+          "+2 Projectiles",
+          "+21% Fire Rate",
+          "-30% Max Inaccuracy",
+          "-15% Max Accuracy",
+          "+30% Spread"
+        ],
+        "name": "Vertical Grip"
+      }
+    ]
+  },
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "The Sword in The Stoner",
+      "tags": [
+        "Quest",
+        "Unassuming Docks"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Because Mister Torgue Said So.",
+    "description": "Consumes 2 ammo per shot. Fires 1 explosive sword projectile that detonates on impact, dealing gun damage in an area. On impact it also spawns 3 smaller swords that each explode, dealing 70% damage as grenade-type splash."
+  },
+  "notes": "Can roll the Casual prefix (vertical grip), adding 2 extra projectiles without increasing ammo cost.\nCan also roll Juicy (crit bonus), but E-Tech shotguns cannot score critical hits.\nSpawned swordlets deal 70% of the listed card damage as splash and scale with grenade damage bonuses.\nKills from swordlets count as grenade kills and progress Pull the Pin.\nAbsorb Shields do not absorb its projectiles.",
+  "max": {
+    "accuracy": 71.3,
+    "damage": 35866553,
+    "fire_rate": 1,
+    "level": 90,
+    "mag_size": 9,
+    "reload_speed": 3.5
+  },
+  "abilities": [
+    "+5007 Weapon Damage",
+    "Deals bonus explosive damage."
+  ]
+}

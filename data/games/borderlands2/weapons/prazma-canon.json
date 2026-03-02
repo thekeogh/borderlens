@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/prazma-canon.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/PRAZMA_CANON"
+  },
+  "name": "PRAZMA CANON",
+  "slug": "prazma-canon",
+  "type": "Launcher",
+  "description": "Fires three arcing, spiralling purple rounds. Each main round sheds additional mini-projectiles along its path that deal reduced damage. As an E-tech launcher it consumes 2 ammo per trigger pull, and as a Bandit launcher it releases three shots at once.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": "The splitting trail makes it strong against big targets and clustered mobs at range, where more submunitions have time to spawn. Its smaller splash than many E-tech launchers also lets you use it closer in to land all three main rounds on one enemy with less risk of self-damage. You can also fire straight up to carpet a wide area, but stray blasts can strip shields quickly."
+}

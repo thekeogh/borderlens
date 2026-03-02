@@ -1,0 +1,248 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/pyrophobia.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/pyrophobia-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Pyrophobia"
+  },
+  "name": "Pyrophobia",
+  "slug": "pyrophobia",
+  "type": "Launcher",
+  "description": "Pyrophobia is a Legendary rocket launcher made by Maliwan.\n\nIts rocket throws out repeated fire blasts as it travels, so it performs best in tight spaces, on catwalks, or when enemies are lined up. Aim slightly above or beside targets to let the travelling bursts clip multiple foes. The extra blasts trigger by time, not distance, so higher projectile speed reduces the number of bursts over a given stretch.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+50% Melee Damage",
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance",
+          "+1 Mag Size",
+          "+30% Reload Speed"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-6% Damage",
+          "-10% Mag Size"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damge",
+          "+10% Reload Speed",
+          "+15% Recoil",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Exhaust": [
+      {
+        "modifiers": [
+          "+20% Mag Size",
+          "-10% Max Accuracy"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+160% Projectile Speed",
+          "+10% Burst Recoil"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-6% Fire Rate"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-20% Zoom"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.3x Zoom",
+          "-20% Max Inaccuracy"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.9x Zoom",
+          "+20% Projectile Speed",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "2.8x Zoom",
+          "+20% Reload Speed"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.5x Zoom",
+          "+20% Max Accuracy",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "3.2x Zoom",
+          "+12% Fire Rate",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+21% Damage",
+          "-15% Fire Rate",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "+10% Reload Speed",
+          "+150% Swap Speed"
+        ],
+        "name": "Swap Speed"
+      },
+      {
+        "modifiers": [
+          "+280% Projectile Speed",
+          "+20% Zoom"
+        ],
+        "name": "Rocket Speed"
+      },
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "+30% Reload Speed"
+        ],
+        "name": "Reload Speed"
+      },
+      {
+        "modifiers": [
+          "+50% Zoom",
+          "+80% Projectile Speed",
+          "+15% Accuracy",
+          "-25% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "Cryptkeeper Clark",
+      "tags": [
+        "Mini-Boss",
+        "Hallowed Hollow"
+      ]
+    },
+    {
+      "name": "Incinerator Clayton",
+      "tags": [
+        "Unique Enemy",
+        "Frostburn Canyon",
+        "Drop rate: 10%"
+      ]
+    },
+    {
+      "name": "Hyperius",
+      "tags": [
+        "Raid Boss",
+        "Washburne Refinery",
+        "Drop rate: 0.29%"
+      ]
+    },
+    {
+      "name": "Launcher Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "title": "It's actually a fairly rational fear in this case.",
+    "description": "Always incendiary.\n\nFires a rocket that repeatedly detonates in timed fire bursts during flight before the final impact."
+  },
+  "notes": "Maliwan scope and exhaust parts can hinder the weapon by increasing rocket speed, shortening the burst chain.\n\nA Torgue exhaust slows the rocket, producing more mid-air bursts.\n\nThe fire novas can damage you, most often when you fire while moving forwards and the rocket is slow enough for the bursts to catch you.",
+  "max": {
+    "accuracy": 87.6,
+    "damage": 19351304,
+    "fire_rate": 1.05,
+    "level": 90,
+    "mag_size": 5,
+    "reload_speed": 3.2,
+    "status_chance": 36.7,
+    "status_damage_per_sec": 5745542
+  },
+  "abilities": [
+    "Deais bonus elemental damage.",
+    "Highly effective vs Flesh."
+  ]
+}

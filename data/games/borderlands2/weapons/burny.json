@@ -1,0 +1,34 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/burny.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Burny"
+  },
+  "name": "Burny",
+  "slug": "burny",
+  "type": "SMG",
+  "description": "Burny is a Bandit SMG with locked-in incendiary damage. For its rarity it delivers reliable ignite chance and solid damage over time, letting you keep pressure on targets between bursts. It shines against flesh and in busy fights, where quick fire application can tag several enemies while you reposition or focus higher-value threats.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": ""
+}

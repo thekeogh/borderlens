@@ -1,0 +1,50 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/witch.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/witch-maya-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Witch"
+  },
+  "name": "Witch",
+  "slug": "witch",
+  "type": "Siren",
+  "description": "Epic Witch is a class mod for Maya in Borderlands 2 (base game).",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Helios",
+    "Flicker",
+    "Kinetic Reflection"
+  ],
+  "sources": [
+    {
+      "name": "Maya Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At max level it boosts Corrode Chance by 58% and Corrosion Damage by 58%."
+  },
+  "notes": "",
+  "abilities": [
+    "+5 Helios Skill",
+    "+4 Flicker Skill",
+    "+4 Kinetic Reflection Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

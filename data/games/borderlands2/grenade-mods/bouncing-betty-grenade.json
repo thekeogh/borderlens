@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/bouncing-betty-grenade.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Bouncing_Betty_Grenade"
+  },
+  "name": "Bouncing Betty Grenade",
+  "slug": "bouncing-betty-grenade",
+  "type": "Bouncing Betty",
+  "description": "On detonation, Bouncing Betty hops around and fires a spray of bullets for a short duration. Each hit is modest, but the repeated bursts can land multiple times on the same target. It also triggers a small blast when it activates or finishes, and it will not harm allies. The bouncing movement can drift towards nearby enemies, making it useful for area control and for tagging foes tucked behind low cover.\n\nIt is also a solid choice in tight spaces, where wide-area grenades can be risky around team-mates.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "Drops randomly from appropriate loot sources.\n\nGrenade kills with this mod contribute to the Betty Boom challenge.\n\nThe name references the German S-mine, commonly nicknamed the Bouncing Betty.\n\nIn Borderlands 3, Bouncing Betty becomes the Artillery grenade payload.",
+  "special": {
+    "description": "Bouncing Betty"
+  },
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

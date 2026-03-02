@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/shield-tediore.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Shield_(Tediore)"
+  },
+  "name": "Shield (Tediore)",
+  "aliases": [
+    "Shield"
+  ],
+  "slug": "shield-tediore",
+  "type": "Standard",
+  "description": "Tediore standard shields focus on simple protection with no unique perk. Higher quality models tend to recharge rapidly, favouring quick resets over maximum capacity. This suits taking cover, letting the shield come back up, then re-engaging in short bursts.",
+  "notes": "They generally prioritise fast recharge behaviour instead of specialised combat bonuses or large shield capacity.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

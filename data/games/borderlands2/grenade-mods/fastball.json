@@ -1,0 +1,54 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/fastball.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/fastball-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Fastball"
+  },
+  "name": "Fastball",
+  "slug": "fastball",
+  "type": "Standard",
+  "description": "Legendary Tediore grenade mod from Borderlands 2.\n\nFastball is thrown in a shallow arc but travels extremely quickly, letting it reach targets at longer ranges than typical lobbed grenades. It has a 0.0 fuse and will detonate instantly on hitting an enemy or destructible object. If it hits an inert surface, it will bounce and only explode once it comes to rest.\n\nIts blast radius is very small, so it usually hits a single target, but the damage is exceptionally high.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "elements": [
+    "Explosive",
+    "Incendiary",
+    "Shock",
+    "Corrosive"
+  ],
+  "sources": [
+    {
+      "name": "Boll",
+      "tags": [
+        "Unique Enemy",
+        "Three Horns Divide"
+      ]
+    },
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Pairs well with Moxxi healing weapons (eg Grog Nozzle, Rubi), as the huge on-impact damage converts into immediate health return, making it especially effective against larger enemies and raid bosses.\n\nIn Ultimate Vault Hunter Mode, Slag greatly boosts its damage, enabling extreme overkill. This can strongly support Krieg setups such as Bloodsplosion for clearing groups.\n\nKnown issue: damage may be reduced after loading in with it equipped; re-equipping restores normal damage.",
+  "special": {
+    "description": "Slight downward arc and detonates on impact.",
+    "title": "Forgot the curveball Ricky, give him the heater."
+  },
+  "max": {
+    "blast_radius": 105,
+    "fuse_time": 0,
+    "grenade_damage": 91928672,
+    "level": 90
+  }
+}

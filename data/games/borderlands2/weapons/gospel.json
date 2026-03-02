@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/gospel.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Gospel"
+  },
+  "name": "Gospel",
+  "slug": "gospel",
+  "type": "SMG",
+  "description": "Look out, everyone. Things are about to get very lively.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": ""
+}

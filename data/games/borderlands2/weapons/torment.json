@@ -1,0 +1,37 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/torment.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Torment_(Borderlands_2)"
+  },
+  "name": "Torment",
+  "slug": "torment",
+  "type": "Pistol",
+  "description": "Torment is a Maliwan pistol built with a Jakobs long barrel, giving it strong base damage and good accuracy.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Like other pistols using the Jakobs long barrel, Torment cannot spawn below green rarity.\n\nIt is a world drop and can appear from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

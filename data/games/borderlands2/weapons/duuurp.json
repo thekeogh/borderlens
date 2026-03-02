@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/duuurp.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Duuurp!"
+  },
+  "name": "Duuurp!",
+  "slug": "duuurp",
+  "type": "Launcher",
+  "description": "Duuurp! lobs Torgue rockets in a slow, arcing trajectory. The projectiles hit hard but travel sluggishly, and the launcher suffers from low accuracy, a slow reload, and a low fire rate, making it weaker at longer distances. With a full Torgue setup, the Derp prefix and the Thick Exhaust accessory can push damage higher, but at the cost of even slower firing and heavier recoil. It is a standout common launcher and pairs well with Maya, Axton, or Krieg for reliable health sustain.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": ""
+}

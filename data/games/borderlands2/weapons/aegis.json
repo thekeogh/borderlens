@@ -1,0 +1,37 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/aegis.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Aegis"
+  },
+  "name": "Aegis",
+  "slug": "aegis",
+  "type": "Pistol",
+  "description": "Aegis is a Maliwan pistol with a measured fire rate but excellent elemental application and strong damage over time, most notably on Shock, Incendiary and Corrosive versions. Barrel choice heavily alters performance, ranging from steadier, easier handling on Dahl-style builds to harder-hitting but less controlled Bandit-style variants.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Each round carries an extra splash portion worth 80% of the projectile damage, and this splash benefits from grenade damage bonuses. It is primarily obtained as a standard world drop.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

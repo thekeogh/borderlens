@@ -1,0 +1,208 @@
+{
+  "completedAt": "2026-02-26T12:42:31.633Z",
+  "entries": [
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "sniper.json",
+      "name": "Sniper"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "spark.json",
+      "name": "Spark"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "special.json",
+      "name": "Special"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "spiker.json",
+      "name": "Spiker"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "spinigun.json",
+      "name": "Spinigun"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "spitter.json",
+      "name": "Spitter"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "splasher-blashter.json",
+      "name": "Splasher Blashter"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "splatgun.json",
+      "name": "Splatgun"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "sportsman.json",
+      "name": "Sportsman"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "spread.json",
+      "name": "Spread"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "stalker.json",
+      "name": "Stalker"
+    },
+    {
+      "changed": [
+        "special",
+        "description"
+      ],
+      "file": "stinger.json",
+      "name": "Stinger"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "stinkpot.json",
+      "name": "Stinkpot"
+    },
+    {
+      "changed": [
+        "special",
+        "description"
+      ],
+      "file": "stomper.json",
+      "name": "Stomper"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "storm.json",
+      "name": "Storm"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "stret-sweper.json",
+      "name": "Stret Sweper"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "strike.json",
+      "name": "Strike"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "striker.json",
+      "name": "Striker"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "subcompact-mg.json",
+      "name": "Subcompact MG"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "submalevolent-grace.json",
+      "name": "SubMalevolent Grace"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "swordsplosion.json",
+      "name": "SWORDSPLOSION"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "synergy.json",
+      "name": "Synergy"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "tattler.json",
+      "name": "Tattler"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "teapot.json",
+      "name": "Teapot"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "teeth-of-terramorphous.json",
+      "name": "Teeth of Terramorphous"
+    }
+  ],
+  "limit": 25,
+  "offset": 250,
+  "processed": 25,
+  "updated": 25
+}

@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/blasster.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/BlASSter"
+  },
+  "name": "BlASSter",
+  "slug": "blasster",
+  "type": "Assault Rifle",
+  "description": "The BlASSter is a Bandit E-tech assault rifle that launches elemental energy bolts, consuming two rounds per trigger pull. It can roll very large magazines and keeps Bandit-style recoil and reload feel. Downsides include slow projectiles, weaker critical hits, and poor damage per ammo spent, so it tends to fall off quickly and is usually replaced by stronger AR options during progression.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "A standard world drop from appropriate loot sources. A version tied to Medical Mystery: X-Com-municate can bug out and spawn missing typical E-tech parts, such as the capacitor, sight, or accessory.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

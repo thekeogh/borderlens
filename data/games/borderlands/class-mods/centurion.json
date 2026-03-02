@@ -1,0 +1,40 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/centurion-brick-bl1"
+  },
+  "name": "Centurion",
+  "slug": "centurion",
+  "type": "Berserker",
+  "skills": [
+    "Safeguard",
+    "Hardened",
+    "Diehard"
+  ],
+  "description": "The Centurion raises maximum health for Brick and his teammates. Material parts may add team health regeneration or team mag size.",
+  "manufacturers": [
+    "Atlas",
+    "Pangolin"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Increases maximum health for you and your teammates."
+  },
+  "sources": [
+    {
+      "name": "Brick Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/centurion.png"
+}

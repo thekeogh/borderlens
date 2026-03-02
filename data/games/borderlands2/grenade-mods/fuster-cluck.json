@@ -1,0 +1,47 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/fuster-cluck.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/fuster-cluck-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Fuster_Cluck"
+  },
+  "name": "Fuster Cluck",
+  "slug": "fuster-cluck",
+  "type": "MIRV",
+  "description": "Fuster Cluck is a rare Bandit grenade mod from Borderlands 2.\n\nUnlike standard MIRV grenades, its child grenades split almost immediately after being thrown, rather than waiting for a fuse once the main grenade lands or hits an enemy. The wide, scattered spread makes it less reliable at range, but the rapid burst is excellent for clearing tight groups nearby. It pairs well with Salvador, who can throw two grenades for the cost of one while Gunzerking, letting you blanket an area with elemental blasts.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "elements": [
+    "Explosive",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "The Pretty Good Train Robbery",
+      "tags": [
+        "Quest",
+        "Tundra Express"
+      ]
+    }
+  ],
+  "notes": "The name is a pun on \"clusterfuck\", describing a chaotic situation where multiple things go wrong at once.",
+  "special": {
+    "description": "Child grenades split in mid-air almost immediately after the throw.\n\nMake it rain!",
+    "title": "Make it rain!"
+  },
+  "max": {
+    "blast_radius": 379,
+    "fuse_time": 0.4,
+    "level": 90
+  }
+}

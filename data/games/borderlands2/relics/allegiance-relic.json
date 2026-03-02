@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/relics/allegiance-relic.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Allegiance_Relic"
+  },
+  "name": "Allegiance Relic",
+  "slug": "allegiance-relic",
+  "type": "Allegiance",
+  "description": "A common Eridian-made relic in Borderlands 2. It is tied to a single weapon manufacturer and improves that brand's weapon traits.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "Each manufacturer has a set of three possible weapon traits linked to its Allegiance Relic. A relic roll can enhance up to two of those traits.\n\nBurst Delay can only appear on Dahl versions.\n\nMax Accuracy can only appear on Hyperion versions, improving starting accuracy and reaching the listed maximum accuracy faster.",
+  "special": {
+    "description": "Improves weapon traits for one specific manufacturer only.\n\nPossible bonuses depend on the chosen manufacturer and will not apply to other brands."
+  },
+  "sources": [
+    {
+      "name": "Relic Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

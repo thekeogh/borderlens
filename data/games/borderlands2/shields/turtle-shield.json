@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/turtle-shield.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Turtle_Shield"
+  },
+  "name": "Turtle Shield",
+  "slug": "turtle-shield",
+  "type": "Turtle",
+  "description": "Turtle Shields are Pangolin models that trade maximum health for a much larger shield capacity. They suit characters who prefer a bigger shield pool and can play around the health loss with defensive skills, damage reduction, or careful positioning.",
+  "notes": "At higher levels the reduced health can be the main drawback. They work best in builds that can restore, buffer, or otherwise compensate for the lower maximum health.",
+  "manufacturers": [
+    "Pangolin"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Greatly increases shield capacity but reduces maximum health."
+  },
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/rifleman.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/rifleman-axton-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Rifleman_(class_mod)"
+  },
+  "name": "Rifleman",
+  "slug": "rifleman",
+  "type": "Commando",
+  "description": "Rifleman is a Common (white) Dahl class mod for Axton the Commando in Borderlands 2. It is a random world drop from any appropriate loot source.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Impact",
+    "Onslaught",
+    "Battlefront"
+  ],
+  "sources": [
+    {
+      "name": "Axton Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At max level, grants increased assault rifle magazine size (+58%) and assault rifle damage (+51%)."
+  },
+  "notes": "",
+  "max": {
+    "gun_damage_bonus": 5,
+    "level": 90,
+    "mag_size": 58
+  },
+  "abilities": [
+    "+5 Impact Skill",
+    "+4 svt Skill",
+    "+4 Battlefront Skill"
+  ]
+}

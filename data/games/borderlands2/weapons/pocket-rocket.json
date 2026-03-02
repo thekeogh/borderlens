@@ -1,0 +1,241 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Mr. Torgue's Campaign of Carnage",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/pocket-rocket.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/pocket-rocket-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Pocket_Rocket"
+  },
+  "name": "Pocket Rocket",
+  "slug": "pocket-rocket",
+  "type": "Pistol",
+  "description": "Pocket Rocket is a rare Torgue pistol from the Campaign of Carnage DLC in Borderlands 2.\n\nIt burns through pistol ammo quickly, but delivers very high explosive damage and can catch multiple targets more reliably than most Torgue revolvers. Salvador makes especially good use of it thanks to magazine, pistol damage and ammo sustain bonuses, while Axton and Krieg can also benefit from its explosive focus.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-14% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+3 Mag Size",
+          "+30% Reload Speed",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-10% Recoil Recovery",
+          "-6% Damage"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.2x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.0x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "5.3x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "4.5x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "3.9x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "2.8x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.4x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "3.2x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+28% Mag Size",
+          "+2 Mag Size",
+          "+60% Projectiles",
+          "+0.4 Projectiles",
+          "-15% Damage",
+          "-30% Fire Rate",
+          "+1 Shot Cost",
+          "-25% Max Accuracy",
+          "+25% Spread",
+          "+1 Spread",
+          "+4 Recoil"
+        ],
+        "name": "Double"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "-30% Recoil",
+          "-35% Max Inaccuracy",
+          "-15% Spread"
+        ],
+        "name": "Stock"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+56% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+25% Accuracy",
+          "+20% Projectile Speed",
+          "-40% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "Torgue Shop",
+      "tags": [
+        "Vendor",
+        "DLC 2 Wide"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Did you ever have the feeling...",
+    "description": "Shots are explosive gyrojets that detonate on impact, dealing splash damage.\n\nThe blast deals 100 percent of listed weapon damage as splash and is increased by grenade damage bonuses.\n\nRed text effect: higher damage, projectile speed, magazine size and blast radius. Uses 2 ammo per shot."
+  },
+  "notes": "Double Penetrating variants fire two gyrojets at once and use 4 ammo per trigger pull.\nIts damage scales with grenade damage bonuses.",
+  "max": {
+    "accuracy": 88.4,
+    "damage": 2470583,
+    "fire_rate": 2.4,
+    "level": 90,
+    "mag_size": 21,
+    "reload_speed": 3
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/trickster.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/trickster-maya-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Trickster"
+  },
+  "name": "Trickster",
+  "slug": "trickster",
+  "type": "Siren",
+  "description": "Trickster is an Epic class mod for Maya in Borderlands 2.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Life Tap",
+    "Kinetic Reflection",
+    "Chain Reaction"
+  ],
+  "sources": [
+    {
+      "name": "Maya Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At maximum level, Trickster provides up to +52% fire rate. The item card may show an incorrect fire rate value."
+  },
+  "notes": "",
+  "max": {
+    "fire_rate": 34,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Life Tap Skill",
+    "+4 Kinetic Reflection Skill",
+    "+4 Chain Reaction Skill"
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/shotgun-1340.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/shotgun-1340-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Shotgun_1340"
+  },
+  "name": "Shotgun 1340",
+  "slug": "shotgun-1340",
+  "type": "Shotgun",
+  "description": "Shotgun 1340 is a rare Hyperion shotgun from the Borderlands 2 base game. It is essentially a blue Projectile Diversification shotgun fitted with a unique voice module. The voice feature is cosmetic only and does not change damage or handling.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "+1 Mag Size",
+          "+30% Reload Speed",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "+10% Recoil",
+          "-25% Recoil Recovery"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "4.4x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "3.7x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "2.0x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+30% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Moon Clip"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+3% Damage",
+          "+3% Fire Rate",
+          "+5% Mag Size",
+          "+5% Reload Speed"
+        ],
+        "name": "Shotgun Shell"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+12% Fire Rate",
+          "-40% Spread",
+          "+39% Zoom",
+          "-15% Damage"
+        ],
+        "name": "Tech_1"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Crit Damage",
+          "-10% Spread",
+          "+39% Zoom"
+        ],
+        "name": "Tech_2"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+6% Fire Rate",
+          "+10% Mag Size",
+          "+25% Reload Speed",
+          "-3% Damage"
+        ],
+        "name": "Tech_3"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+2 Projectiles",
+          "+21% Fire Rate",
+          "-30% Max Inaccuracy",
+          "-15% Max Accuracy",
+          "+30% Spread"
+        ],
+        "name": "Vertical Grip"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Out of Body Experience",
+      "tags": [
+        "Quest",
+        "Bloodshot Ramparts"
+      ]
+    }
+  ],
+  "special": {
+    "title": "I like being a gun.",
+    "description": "Talks while equipped.\n\nHyperion: sustained fire boosts accuracy and reduces recoil.\n\nUnique voice module: speaks with the voice of Loader 1340.\n\nI like being a gun."
+  },
+  "notes": "The voice module can trigger on firing, reloading, switching to the weapon, aiming down sights, or scoring a kill.\n\nIf you stow it during a line trigger (most often a reload), the voice may continue while other weapons are equipped.\n\nIt can occasionally play multiple voice lines for the same event at once.\n\nIt cannot spawn with an elemental capacitor, or with Bandit or Tediore sights.",
+  "elements": [
+    "None"
+  ],
+  "max": {
+    "accuracy": 63.6,
+    "damage": 499144,
+    "fire_rate": 43,
+    "level": 90,
+    "mag_size": 10,
+    "reload_speed": 2.7
+  },
+  "abilities": [
+    "5.3x Weapon Zoom",
+    "Sustained fire increases accuracy."
+  ]
+}

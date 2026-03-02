@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/jackal.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Jackal_(SMG)"
+  },
+  "name": "Jackal",
+  "slug": "jackal",
+  "type": "SMG",
+  "description": "The Jackal is a Dahl SMG from a small set that always spawns with a fixed-element Maliwan barrel. This gives it unusually strong elemental damage over time and a high status chance. Because the parts are locked, it drops far less often than its colour rarity suggests, typically appearing as green and only occasionally as blue or purple.\n\nEven with its modest rarity, the Jackal can stay effective for a long time thanks to its reliable elemental procs, until you replace it with a stronger rare, unique or legendary option.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "aliases": [
+    "Jackal (SMG)"
+  ],
+  "elements": [
+    "Slag"
+  ],
+  "notes": "Other Dahl SMGs in the same fixed-element group include the Beetle, Eel, and Scorpion.\n\nThe Jackal only appears at green rarity or higher.\n\nIt is a random world drop from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "completedAt": "2026-02-26T12:42:17.306Z",
+  "entries": [
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "punishment.json",
+      "name": "Punishment"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "pyrophobia.json",
+      "name": "Pyrophobia"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "quad.json",
+      "name": "Quad"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "quickshot.json",
+      "name": "Quickshot"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "railer.json",
+      "name": "Railer"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "rakehell.json",
+      "name": "Rakehell"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "rapier.json",
+      "name": "Rapier"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "ratatater.json",
+      "name": "Ratatater!"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "ravager.json",
+      "name": "Ravager"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "renegade.json",
+      "name": "Renegade"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "repeater.json",
+      "name": "Repeater"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "retcher.json",
+      "name": "Retcher"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "revenant.json",
+      "name": "Revenant"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "revolver.json",
+      "name": "Revolver"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "rex.json",
+      "name": "Rex"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "rifle.json",
+      "name": "Rifle"
+    },
+    {
+      "changed": [
+        "special",
+        "description"
+      ],
+      "file": "roaster.json",
+      "name": "Roaster"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "rocketeer.json",
+      "name": "Rocketeer"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "rod.json",
+      "name": "Rod"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "rokets.json",
+      "name": "Rokets!"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "rokgun.json",
+      "name": "Rokgun"
+    },
+    {
+      "changed": [
+        "special",
+        "description"
+      ],
+      "file": "roksalt.json",
+      "name": "RokSalt"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "room-clener.json",
+      "name": "Room Clener"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "root.json",
+      "name": "Root"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "rpg.json",
+      "name": "RPG"
+    }
+  ],
+  "limit": 25,
+  "offset": 200,
+  "processed": 25,
+  "updated": 25
+}

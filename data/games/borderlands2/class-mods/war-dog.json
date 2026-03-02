@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/war-dog.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/war-dog-salvador-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/War_Dog"
+  },
+  "name": "War Dog",
+  "slug": "war-dog",
+  "type": "Gunzerker",
+  "description": "War Dog is a common Gunzerker class mod made by Dahl in Borderlands 2. It is part of the base game and can drop from any appropriate loot source.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "5 Shots or 6",
+    "Out of Bubblegum",
+    "Filled to the Brim"
+  ],
+  "sources": [
+    {
+      "name": "Salvador Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At max level, War Dog boosts reload speed by 57.5% and magazine size by 57.5%.\n\nKnown issue: the item card shows an incorrect reload speed value."
+  },
+  "notes": "",
+  "max": {
+    "level": 90,
+    "mag_size": 58,
+    "reload_speed": 3.77
+  },
+  "abilities": [
+    "+4 Out of Bubblegum Sk",
+    "+4 Filled to the Brim Skill"
+  ]
+}

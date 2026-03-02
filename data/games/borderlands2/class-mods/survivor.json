@@ -1,0 +1,50 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/survivor.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/survivor-zer0-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Survivor"
+  },
+  "name": "Survivor",
+  "slug": "survivor",
+  "type": "Assassin",
+  "description": "Survivor is a common (white) class mod for Zer0 in Borderlands 2, made by Bandit. It is a world drop and can be found randomly from any appropriate loot source.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Ambush",
+    "Rising Sh0t",
+    "Resurgence"
+  ],
+  "sources": [
+    {
+      "name": "Zer0 Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At maximum level it provides: +1,196,988 Health and +31,420 Health Regen per second."
+  },
+  "notes": "",
+  "abilities": [
+    "+5 Ambush Skill",
+    "+4 Rising ShOt Skill",
+    "+4 Resurgence Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

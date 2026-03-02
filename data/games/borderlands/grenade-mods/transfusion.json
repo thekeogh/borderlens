@@ -1,0 +1,33 @@
+{
+  "game": "borderlands",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/transfusion-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Transfusion_Grenade"
+  },
+  "name": "Transfusion",
+  "slug": "transfusion",
+  "description": "An Anshin transfusion grenade from the base game. Unlike other grenades, it does not deal direct explosive damage. After detonating, it disperses tendrils that seek out enemies—on contact they turn red and home in on you and allies to heal on impact. Health per tendril is roughly half the card damage.\n\nTransfusions do not harm the thrower, making them ideal for close-quarters combat and characters with low health (e.g. Mordecai, Lilith). In multiplayer, allies in the thick of battle receive most of the healing. The tendrils travel a long way and bounce off surfaces searching for targets, but they disperse after about five seconds—use at closer range for reliable health return. Particularly effective against solitary enemies where all tendrils can hit one target. In a pinch, they can even heal from enemy vehicles and ragdolling corpses.",
+  "special": {
+    "description": "Explodes after 2.5s spawning 6 homing orbs that steal enemy health and return it to you."
+  },
+  "type": "Transfusion",
+  "manufacturers": [
+    "Anshin"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/grenade-mods/transfusion.png"
+}

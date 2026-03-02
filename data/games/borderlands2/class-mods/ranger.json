@@ -1,0 +1,64 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/ranger.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/ranger-axton-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Ranger_(class_mod)"
+  },
+  "name": "Ranger",
+  "slug": "ranger",
+  "type": "Commando",
+  "description": "Ranger is a common Dahl class mod for Axton (Commando) in Borderlands 2, introduced with Tiny Tina's Assault on Dragon Keep. It is only obtainable within that DLC.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Impact",
+    "Ranger",
+    "Grit"
+  ],
+  "sources": [
+    {
+      "name": "Mimic Chest",
+      "tags": [
+        "Chest",
+        "Unassuming Docks"
+      ]
+    },
+    {
+      "name": "Gold Golem",
+      "tags": [
+        "Boss",
+        "Mines of Avarice"
+      ]
+    },
+    {
+      "name": "Sorcerer's Daughter",
+      "tags": [
+        "Boss",
+        "Lair of Infinite Agony"
+      ]
+    }
+  ],
+  "notes": "The Good variants previously applied a reload speed penalty instead of a bonus; this has since been corrected.\n\nThe name references the tabletop RPG Ranger archetype, known for ranged combat and an animal companion. That theme fits Axton's long range focus and his turret acting as a companion.\n\nSome item cards may show incorrect values for fire rate, reload speed and accuracy.",
+  "special": {
+    "description": "At max level, grants one bonus from each pool.\n\nPool 1: Neutral +58.5% magazine size; Chaotic +58.5% fire rate; Lawful +58.5% accuracy.\n\nPool 2: Neutral +58.5% magazine size; Evil +58.5% critical hit damage; Good +58.5% reload speed.\n\nTrue Neutral prefix gives 2x magazine size (+93.6%)."
+  },
+  "max": {
+    "fire_rate": 377,
+    "level": 90
+  },
+  "abilities": [
+    "+4 Ranger Skill",
+    "+4 Grit Skill"
+  ]
+}

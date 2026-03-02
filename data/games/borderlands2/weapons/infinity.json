@@ -1,0 +1,283 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/infinity.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/infinity-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Infinity"
+  },
+  "name": "Infinity",
+  "slug": "infinity",
+  "type": "Pistol",
+  "description": "Legendary Vladof pistol built for attrition. It effectively never needs to reload, so it is a dependable fallback when other guns run dry.\n\nEach shot follows a fixed sideways figure-eight. It takes practice, but helps manage climb and can repeatedly land crits on targets that sit within the loop.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "+4 Mag Size",
+          "+30% Reload Speed",
+          "-10% Recoil Recovery",
+          "-6% Damage"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.2x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.0x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "5.3x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "4.5x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "3.9x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "2.8x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.4x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "3.2x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Element": [
+      {
+        "modifiers": [
+          "Chance: 7.7%",
+          "-20% Damage"
+        ],
+        "name": "Fire"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.7%",
+          "-20% Damage"
+        ],
+        "name": "Shock"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.7%",
+          "-20% Damage"
+        ],
+        "name": "Corrosive"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "Double Shot: 25% Chance"
+        ],
+        "name": "Double Infinity"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "-30% Recoil",
+          "-35% Max Inaccuracy",
+          "-15% Spread"
+        ],
+        "name": "Stock"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+56% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+25% Accuracy",
+          "+20% Projectile Speed",
+          "-40% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive"
+  ],
+  "sources": [
+    {
+      "name": "Lt. Angvar",
+      "tags": [
+        "Unique Enemy",
+        "The Burrows",
+        "Drop rate: 12.5%"
+      ]
+    },
+    {
+      "name": "Doc Mercy",
+      "tags": [
+        "Unique Enemy",
+        "Three Horns Valley",
+        "Drop rate: 10%"
+      ]
+    },
+    {
+      "name": "Digi. Doc Mercy",
+      "tags": [
+        "Mini-Boss",
+        "Digistruct Peak",
+        "3x",
+        "Drop rate: 10%"
+      ]
+    },
+    {
+      "name": "Chubby Bones",
+      "tags": [
+        "Rare Enemy",
+        "Unassuming Docks"
+      ]
+    },
+    {
+      "name": "Pistol Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    },
+    {
+      "name": "Gold Golem",
+      "tags": [
+        "Boss",
+        "Mines of Avarice"
+      ]
+    }
+  ],
+  "special": {
+    "title": "It's closer than you think! (no it isn't)",
+    "description": "Fires a fixed sideways figure-eight. Effectively no ammo consumption and no normal reloads, with a fixed magazine of 1. Reduced damage and fire rate. Aiming down sights tightens the pattern but does not remove it."
+  },
+  "notes": "Drops in True Vault Hunter Mode and above. Needs at least 1 pistol round in reserves to fire.\n\nFixed mag enables Zer0's 0ne Sh0t 0ne Kill every shot. Strong with Gaige: Cooking Up Trouble sustain, Close Enough ricochets, and safe Anarchy stacking (no accidental reload), but Discord cannot trigger.\n\nDva variant has a 1-in-4 chance to add a second bullet. Can spawn without an accessory; elemental prefixes (or Rapid if non-elemental), no grip prefixes. Every 8th shot is perfectly accurate at the crossover; great on Loaders, weaker on small distant targets. Mag size to 0 makes it unusable; Neutral",
+  "max": {
+    "accuracy": 89.6,
+    "damage": 960384,
+    "fire_rate": 9,
+    "level": 90,
+    "mag_size": 1,
+    "reload_speed": 1.7
+  },
+  "abilities": [
+    "3.2x Weapon Zoom"
+  ]
+}

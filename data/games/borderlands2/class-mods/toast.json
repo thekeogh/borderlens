@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Psycho Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/toast.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/toast-krieg-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Toast"
+  },
+  "name": "Toast",
+  "slug": "toast",
+  "type": "Psycho",
+  "description": "Toast is a common Psycho class mod for Krieg in Borderlands 2, made by Bandit. It can drop at random from any appropriate loot source.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Pain is Power",
+    "Fire Fiend",
+    "Elemental Elation"
+  ],
+  "sources": [
+    {
+      "name": "Krieg Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Toast and the rest of Krieg's class mods were added to the loot pool on 18 April 2013.",
+  "special": {
+    "description": "At maximum level, Toast provides: +85% Ignite Chance and +58% Magazine Size."
+  },
+  "max": {
+    "level": 90,
+    "mag_size": 58
+  },
+  "abilities": [
+    "+5 Pain is Power Skill",
+    "+4 Fire Fiend Skill",
+    "+4 Elemental Elation Skill"
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Sir Hammerlock's Big Game Hunt",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/interfacer.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/interfacer-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Interfacer"
+  },
+  "name": "Interfacer",
+  "slug": "interfacer",
+  "type": "Shotgun",
+  "description": "Hyperion Seraph shotgun firing slow gyrojet pellets. Each pellet quickly splits into three: a centre pellet continues straight while two side pellets arc outward, then curve back and vanish when they rejoin.\n\nBest at mid-range where all three paths connect; weak up close due to wide spread and at long range where the side pellets disappear. Slow projectiles struggle versus fast or airborne targets, but at the right distance it hits extremely hard on large enemies and bosses, and the curved paths can repeatedly trigger Zer0's B0re.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Seraph"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "+1 Mag Size",
+          "+30% Reload Speed",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "+10% Recoil",
+          "-25% Recoil Recovery"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Element": [
+      {
+        "modifiers": [
+          "Chance: 7.1%"
+        ],
+        "name": "Fire"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.1%"
+        ],
+        "name": "Shock"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.1%"
+        ],
+        "name": "Corrosive"
+      },
+      {
+        "modifiers": [
+          "Chance: 7.1%"
+        ],
+        "name": "Slag"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+30% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Moon Clip"
+      },
+      {
+        "modifiers": [
+          "+3% Damage",
+          "+3% Fire Rate",
+          "+5% Mag Size",
+          "+5% Reload Speed"
+        ],
+        "name": "Shotgun Shell"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-40% Spread",
+          "+39% Zoom",
+          "-15% Damage"
+        ],
+        "name": "Tech_1"
+      },
+      {
+        "modifiers": [
+          "+50% Crit Damage",
+          "-10% Spread",
+          "+39% Zoom"
+        ],
+        "name": "Tech_2"
+      },
+      {
+        "modifiers": [
+          "+6% Fire Rate",
+          "+10% Mag Size",
+          "+25% Reload Speed",
+          "-3% Damage"
+        ],
+        "name": "Tech_3"
+      },
+      {
+        "modifiers": [
+          "+2 Projectiles",
+          "+21% Fire Rate",
+          "-30% Max Inaccuracy",
+          "-15% Max Accuracy",
+          "+30% Spread"
+        ],
+        "name": "Vertical Grip"
+      }
+    ]
+  },
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "Voracidous",
+      "tags": [
+        "Raid Boss",
+        "Candlerakk's Crag",
+        "Drop rate: 0.5%"
+      ]
+    },
+    {
+      "name": "Dexiduous",
+      "tags": [
+        "Raid Boss",
+        "Hunter's Grotto",
+        "Drop rate: 1.5%"
+      ]
+    },
+    {
+      "name": "Omnd-Omnd-Ohk",
+      "tags": [
+        "Rare Enemy",
+        "Hunter's Grotto",
+        "Drop rate: 0.5%"
+      ]
+    },
+    {
+      "name": "Grotto Seraph Shop",
+      "tags": [
+        "Vendor",
+        "Hunter's Grotto"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Because it enters your face. Get it? IT ENTERS YOUR FACE!",
+    "description": "+60 percent critical hit damage (scales).\nConsumes 2 ammo per shot.\nSlow pellets; each splits into two extra pellets after a short distance. Side pellets arc left and right, then curve back to the centre pellet and vanish on contact.\nNo movement speed penalty while aiming.\nHyperion: sustained fire increases accuracy and reduces recoil."
+  },
+  "notes": "Never spawns with a scope.\nNo aim-walk slowdown comes from using the NULL scope part (not Scope_None); forcing NULL on other guns gives the same effect.\nOnly Interfacer and Greed can roll with NULL.\nWith enough Expertise, Axton can move faster than sprint speed while aiming, especially with a Legendary Soldier class mod.",
+  "max": {
+    "accuracy": 72.4,
+    "fire_rate": 45,
+    "level": 90,
+    "mag_size": 14,
+    "reload_speed": 2.7
+  },
+  "abilities": [
+    "Sustained fire increases accuracy."
+  ]
+}

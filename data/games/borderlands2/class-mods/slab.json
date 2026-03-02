@@ -1,0 +1,50 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Psycho Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/slab.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/slab-krieg-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Slab_(class_mod)"
+  },
+  "name": "Slab",
+  "slug": "slab",
+  "type": "Psycho",
+  "description": "Slab is a common Bandit class mod for Krieg in Borderlands 2. It can drop randomly from any appropriate loot source.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Thrill of the Kill",
+    "Fuel the Rampage",
+    "Feed the Meat"
+  ],
+  "sources": [
+    {
+      "name": "Krieg Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Krieg class mods, including this one, were added to the loot pool on 18 April 2013.",
+  "special": {
+    "description": "At maximum level, this class mod increases Health by 1,196,988."
+  },
+  "abilities": [
+    "+5 Thrill of the Kill Skill",
+    "+4 Fuel the free Skill",
+    "+4 Feed the Meat Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

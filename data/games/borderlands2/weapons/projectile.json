@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/projectile.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Projectile"
+  },
+  "name": "Projectile",
+  "slug": "projectile",
+  "type": "Launcher",
+  "description": "Flavour quote: \"Look out, everybody, things are about to get awesome!\"\n\nThis entry is currently incomplete.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Internal name reserved for Maliwan rocket launchers fitted with a Bandit or Scav barrel, or a Tediore barrel.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

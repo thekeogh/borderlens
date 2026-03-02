@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/scout.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Scout"
+  },
+  "name": "Scout",
+  "slug": "scout",
+  "type": "Sniper",
+  "description": "The Scout is a Dahl rifle with burst fire while aiming down sights. It typically offers a larger magazine and faster fire rate than most Dahl rifles, letting you stay on target longer before needing to reload.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "The Scout can drop randomly from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

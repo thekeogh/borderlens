@@ -1,0 +1,101 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Commander Lilith & the Fight for Sanctuary",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/peak-opener.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/peak-opener-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Peak_Opener"
+  },
+  "name": "Peak Opener",
+  "slug": "peak-opener",
+  "type": "Assault Rifle",
+  "description": "Effervescent Torgue assault rifle from the Fight for Sanctuary DLC.\n\nFires high-damage shock rockets that shred shields and health quickly, with an extra fire rate boost while aiming. The splash and follow-up explosions can self-damage at close range. It also eats ammo extremely fast due to its rate of fire and heavy ammo cost per shot.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Effervescent"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "+15% Spread",
+          "-10% Reload Speed"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "-6% Damage",
+          "+15% Max Inaccuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+4 Mag Size",
+          "+30% Reload Speed",
+          "-10% Reload Speed",
+          "+10% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ]
+  },
+  "elements": [
+    "Shock"
+  ],
+  "sources": [
+    {
+      "name": "Haderax",
+      "tags": [
+        "Raid Boss",
+        "Writhing Deep",
+        "Drop rate: 33%"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Top-tier pick for optimal play.",
+    "description": "Shoots rockets that explode on impact for +200% shock rocket damage.\n\nEach impact spawns 3 child grenades that detonate after 1s, dealing explosive grenade damage.\n\nAiming grants +90% fire rate.\n\nIn Raid on Digistruct Peak, equipping the Easy Mode shield grants +100% damage.\n\nConsumes 4 ammo per shot."
+  },
+  "notes": "In Digistruct Peak, Easy Mode and/or Hard Carry increase its damage.\nAlways rolls with a Torgue stock; cannot spawn with a scope or accessory.\nOne of the few Torgue guns not using explosive elemental tech on its main projectile.\nShares its material with the KerBlaster.\nSimilar to the KerBlaster effect but stronger, with a shorter fuse on the spawned grenades.\nBug: With Salvador, if held in the left hand alongside Easy Mode, the damage bonus can apply to the right-hand weapon instead.",
+  "max": {
+    "accuracy": 89.3,
+    "damage": 2245071,
+    "fire_rate": 5.4,
+    "level": 90,
+    "mag_size": 59,
+    "reload_speed": 3,
+    "status_chance": 6.07,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "Consumes 4 ammo per shot. SOWIBIGIOIOIOIG:"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "game": "borderlands",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/contact-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Contact_Grenade"
+  },
+  "name": "Contact",
+  "slug": "contact",
+  "description": "A Maliwan (elemental) or Tediore (explosive) contact grenade from the base game. Detonates the moment it touches an enemy—no fuse delay. If it misses, it bounces a short way and explodes after about a second.\n\nUseful for spawn points: place Contacts around known trigger zones (e.g. Circle of Slaughter) before enemies appear to hit the vanguard. Also effective against melee-heavy foes like zombies—lay them in the path of oncoming enemies. They can tag airborne targets since detonation is contact-based, but require a direct hit; Rubberized grenades are an alternative if you prefer proximity triggers. Take care not to throw at nearby enemies—the blast can hurt you and allies.",
+  "special": {
+    "description": "Explodes immediately on enemy impact or 1s after surface impact."
+  },
+  "type": "Standard",
+  "elements": [
+    "Corrosive",
+    "Explosive",
+    "Incendiary",
+    "Shock"
+  ],
+  "manufacturers": [
+    "Maliwan",
+    "Tediore"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/grenade-mods/contact.png"
+}

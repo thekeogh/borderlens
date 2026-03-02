@@ -1,0 +1,52 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-titan.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-titan-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Titan"
+  },
+  "name": "Legendary Titan",
+  "slug": "legendary-titan",
+  "type": "Gunzerker",
+  "description": "Legendary Titan is a Legendary class mod for Salvador in Borderlands 2. It is made by Anshin and was introduced with the Digistruct Peak content.",
+  "manufacturers": [
+    "Anshin"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Hard to Kill",
+    "Out of Bubblegum",
+    "I'm the Juggernaut",
+    "Locked and Loaded",
+    "Asbestos"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Requires Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge to obtain and use.",
+  "special": {
+    "description": "At max level it provides health regeneration of +31,421 per second, gun damage +40%, and shield capacity -718,193. The gun damage bonus only affects Salvador's right-hand weapon while Gunzerking.",
+    "title": "\"Challenge accepted.\""
+  },
+  "max": {
+    "gun_damage_bonus": 40,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Hard to Kill Skill",
+    "+5 Out of Bubblegum Sk",
+    "+5 I'm the py hry: Skil",
+    "+5 Asbestos Skill"
+  ]
+}

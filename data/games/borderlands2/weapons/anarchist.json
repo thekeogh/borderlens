@@ -1,0 +1,42 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/anarchist.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Anarchist_(pistol)"
+  },
+  "name": "Anarchist",
+  "slug": "anarchist",
+  "type": "Pistol",
+  "description": "The Anarchist is a Vladof pistol with a rotating barrel, built for rapid fire and long bursts. While each shot hits modestly, the high rate of fire and generous magazine size help it keep steady damage over time. Its mild recoil makes it comfortable to control, particularly in builds that lean into fire rate.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "aliases": [
+    "Anarchist (pistol)"
+  ],
+  "notes": "This pistol can drop from general loot pools at green rarity or above, in line with other Vladof rotating-barrel pistols.",
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag",
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

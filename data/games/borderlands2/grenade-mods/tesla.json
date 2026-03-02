@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/tesla.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Tesla"
+  },
+  "name": "Tesla",
+  "slug": "tesla",
+  "type": "Area of Effect",
+  "description": "On detonation, this grenade creates a short-lived shock field around the impact point, repeatedly zapping enemies that enter the visible radius. It is strong in corridors and chokepoints, discouraging pushes and helping control space, and it is effective against slow or stationary targets.\n\nUnlike most area grenades, it does not harm allies. The lightning only seeks out enemies.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Shock"
+  ],
+  "notes": "Drops randomly from suitable loot sources.\n\nIts arcs can strike thrown buzz axes passing through the field.\n\nIf positioned within range above or below a target, the lightning can bypass shields.\n\nIt will not hit enemies while they are cloaked; however, draining their shields can force them to reveal themselves and stop them re-entering stealth.\n\nNamed after electrical engineer Nikola Tesla.",
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

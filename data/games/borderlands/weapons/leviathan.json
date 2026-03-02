@@ -1,0 +1,78 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/leviathan-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Leviathan"
+  },
+  "name": "Leviathan",
+  "slug": "leviathan",
+  "type": "Launcher",
+  "description": "The Leviathan is a Rare Torgue rocket launcher from the base game that fires arcing rockets, making it behave more like a grenade launcher. It can lob shots over cover and around obstacles, but its predefined low-quality parts keep overall performance average unless its arc is specifically useful.",
+  "elements": [
+    "Incendiary",
+    "Corrosive",
+    "Shock",
+    "Explosive"
+  ],
+  "special": {
+    "description": "Rockets arc downward like fireballs, with increased fire rate, magazine size, and reload speed but reduced damage.",
+    "title": "It rises!"
+  },
+  "ranges": {
+    "damage": [
+      404,
+      1533
+    ],
+    "accuracy": [
+      91.7,
+      97.9
+    ],
+    "rate": [
+      1.2
+    ],
+    "mag": [
+      6,
+      7
+    ]
+  },
+  "max": {
+    "damage": 1622,
+    "accuracy": 91.7,
+    "fire_rate": 0.6,
+    "mag_size": 6,
+    "level": 68
+  },
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Rakk Hive",
+      "tags": [
+        "Boss",
+        "Trash Coast"
+      ]
+    },
+    {
+      "name": "Rakk-Trap Hive",
+      "tags": [
+        "Boss",
+        "Scorched Snake Canyon"
+      ]
+    },
+    {
+      "name": "Wanted: Fresh Fish",
+      "tags": [
+        "Quest",
+        "New Haven"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/weapons/leviathan.png"
+}

@@ -1,0 +1,239 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/stomper.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/stomper-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Stomper_(Borderlands_2)"
+  },
+  "name": "Stomper",
+  "slug": "stomper",
+  "type": "Assault Rifle",
+  "description": "Rare Jakobs assault rifle. Hits hard per shot with a brisk semi-auto cadence and a generous magazine. It advertises a large critical hit bonus, but its crit calculation is unusual, so the real boost is smaller than the card implies, particularly when combined with other crit bonuses. Still, it outperforms most standard Jakobs ARs on crits and suits players who want reliable, high per-shot damage.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "+15% Spread",
+          "-10% Reload Speed"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "-6% Damage",
+          "+15% Max Inaccuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "+2 Mag Size",
+          "+30% Reload Speed",
+          "-0.2 Recoil",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "-10% Reload Speed",
+          "+10% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "-30% Max Inaccuracy",
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "2.4x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "3.4x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "5.0x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "2.7x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "3.6x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+21% Damage",
+          "-12% Fire Rate",
+          "+35% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+21% Damage",
+          "+12% Fire Rate",
+          "+120% Spread"
+        ],
+        "name": "Wild"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+100% Projectile Speed",
+          "+15% Fire Rate"
+        ],
+        "name": "Bullet Speed"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "-40% Recoil",
+          "+25% Recoil Recovery"
+        ],
+        "name": "Stability"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+3 Mag Size",
+          "+35% Mag Size"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "-25% Spread",
+          "+25% Max Accuracy"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Hungry Like the Skag",
+      "tags": [
+        "Quest",
+        "Arid Nexus Badlands"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Oh, sorry, was that your head?",
+    "description": "Passive: +50% critical hit damage (scales).\n\nJakobs ARs also have +30% critical hit damage.\n\nFlavour text: Oh, sorry, was that your head?"
+  },
+  "notes": "",
+  "elements": [
+    "None"
+  ],
+  "max": {
+    "accuracy": 85.7,
+    "damage": 1646098,
+    "fire_rate": 13.4,
+    "level": 90,
+    "mag_size": 15,
+    "reload_speed": 3.1
+  },
+  "abilities": [
+    "5.0x Weapon Zoom",
+    "+/2y. Critical Hit Damage",
+    "Fires as fast as you can pull the trigger."
+  ]
+}

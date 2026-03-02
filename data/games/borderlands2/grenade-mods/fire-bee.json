@@ -1,0 +1,44 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/fire-bee.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/fire-bee-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Fire_Bee"
+  },
+  "name": "Fire Bee",
+  "slug": "fire-bee",
+  "type": "Area of Effect",
+  "description": "Fire Bee is a Vladof legendary grenade mod from the Borderlands 2 base game.\n\nIt excels at softening up or clearing groups of unarmoured enemies, combining a flaming ground ring with extra incendiary projectiles that fan out from the blast.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Fire Bee uses a fixed incendiary accessory and the Exterminator area effect payload. Storm Front and Pandemic share the same payload, but their behaviour differs due to separate balance settings.\n\nUnlike the other two, Fire Bee has no dedicated drop source.",
+  "special": {
+    "description": "Always incendiary. On detonation it creates a rotating ring of fire and launches multiple small fire missiles outward; the missiles explode on contact.\n\nBees are coming!",
+    "title": "Bees are coming!"
+  },
+  "max": {
+    "blast_radius": 700,
+    "fuse_time": 0,
+    "grenade_damage": 4093699,
+    "level": 90
+  }
+}

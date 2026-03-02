@@ -1,0 +1,58 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/grenade-mods/fire-storm.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/fire-storm-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Fire_Storm"
+  },
+  "name": "Fire Storm",
+  "slug": "fire-storm",
+  "type": "Unique",
+  "description": "Fire Storm is a Legendary spell-style grenade mod made by Maliwan, introduced in the Tiny Tina's Assault on Dragon Keep add-on for Borderlands 2.\n\nIt hits harder than similar spell grenades like Fireball or Lightning Bolt. It is at its best in tight areas, where the initial blast and the four follow-up impacts often overlap and catch targets nearby. Be careful at close range, as the large splash can easily down you or allies.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "Fire Mage",
+      "tags": [
+        "Enemy",
+        "Lair of Infinite Agony"
+      ]
+    },
+    {
+      "name": "Handsome Sorcerer",
+      "tags": [
+        "Boss",
+        "Dragon Keep"
+      ]
+    },
+    {
+      "name": "Handsome Dragon",
+      "tags": [
+        "Boss",
+        "Hatred's Shadow"
+      ]
+    }
+  ],
+  "notes": "Its red text nods to Tim the Enchanter from Monty Python and the Holy Grail.",
+  "special": {
+    "description": "Launches a fireball straight ahead that explodes on impact. The impact then calls down 4 meteors that strike the ground for fire damage. Grenades regenerate over time.",
+    "title": "What manner of man are you that can summon up fire without flint or tinder?"
+  },
+  "max": {
+    "blast_radius": 70,
+    "fuse_time": 0,
+    "grenade_damage": 8259217,
+    "level": 90
+  }
+}

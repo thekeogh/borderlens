@@ -1,0 +1,57 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Sniper_(Title)"
+  },
+  "name": "Sniper",
+  "slug": "sniper",
+  "type": "Sniper",
+  "description": "Sniper is the balanced default title for sniper rifles across most manufacturers. Depending on brand, these rifles are either pump-action or semi-automatic, with no extreme stat focus.",
+  "notes": "The Title Sniper ( Title__SniperRifle ) is defaulted on sniper rifles who otherwise don't qualify for any other specific title. Note that this does not necessarily mean the weapon is just average, but rather it does not have any defining traits. The Title__SniperRifle does not modify the weapon.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      26
+    ],
+    "mag": [
+      3,
+      10
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "Dahl",
+    "Eridian",
+    "Gearbox",
+    "Hyperion",
+    "Jakobs",
+    "Maliwan",
+    "S&S Munitions",
+    "Torgue",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "image": "/img/games/borderlands/weapons/sniper.png",
+  "sources": [
+    {
+      "name": "Sniper Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

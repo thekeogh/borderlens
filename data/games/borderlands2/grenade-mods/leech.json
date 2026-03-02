@@ -1,0 +1,63 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/leech.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/leech-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Leech"
+  },
+  "name": "Leech",
+  "slug": "leech",
+  "type": "Transfusion",
+  "description": "Leech is a Legendary Maliwan grenade mod from Borderlands 2. It is built for support rather than damage, with a much smaller blast and lower output than most grenades.\n\nInstead of sending out healing tendrils like standard transfusion grenades, it turns the damage it deals straight into health for the user. This makes the healing far more reliable, especially at range or when terrain would block healing trails, and helps you recover safely while fighting from cover.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive"
+  ],
+  "sources": [
+    {
+      "name": "The Warrior",
+      "tags": [
+        "Boss",
+        "Vault of the Warrior"
+      ]
+    },
+    {
+      "name": "Handsome Sorcerer",
+      "tags": [
+        "Boss",
+        "Dragon Keep"
+      ]
+    },
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "The red text references Samuel Butler's poem Hudibras, itself echoing Homer's Iliad. In those works, a leech is a physician, matching the mod's healing focus.",
+  "special": {
+    "description": "Homes in on a target. On detonation it releases 6 child grenades that latch onto the enemy for 5 seconds, healing the user while attached, then vanishing.",
+    "title": "A skilful leech is better far, than half a hundred men of war."
+  },
+  "max": {
+    "blast_radius": 64,
+    "fuse_time": 0,
+    "grenade_damage": 362089,
+    "level": 90
+  },
+  "abilities": [
+    "Spawns 6 child grenades upon"
+  ]
+}

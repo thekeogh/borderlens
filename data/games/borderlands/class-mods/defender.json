@@ -1,0 +1,40 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/defender-lilith-bl1"
+  },
+  "name": "Defender",
+  "slug": "defender",
+  "type": "Siren",
+  "skills": [
+    "Resilience",
+    "Diva",
+    "Inner Glow"
+  ],
+  "description": "The Defender increases shield capacity for Lilith and her team. Material parts may add team corrosive resistance or team incendiary resistance.",
+  "manufacturers": [
+    "Anshin",
+    "Pangolin"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Increases shield capacity for you and your team."
+  },
+  "sources": [
+    {
+      "name": "Lilith Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/defender.png"
+}

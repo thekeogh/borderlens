@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/adaptive-shield.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Adaptive_Shield"
+  },
+  "name": "Adaptive Shield",
+  "slug": "adaptive-shield",
+  "type": "Adaptive",
+  "description": "Anshin Adaptive Shields boost your maximum health and adjust their elemental resistance to match the last elemental hit you took. They are useful in fights with varied damage types, as long as the shield stays up long enough for the resistance to pay off.",
+  "notes": "Only one element is resisted at any time. Their benefit can drop off against heavy burst damage or when different elements hit you in quick succession, as the resistance keeps switching.",
+  "manufacturers": [
+    "Anshin"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "While the shield is active, it gains temporary resistance to the most recent element that damaged you."
+  },
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

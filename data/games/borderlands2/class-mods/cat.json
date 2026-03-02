@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/cat.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Cat"
+  },
+  "name": "Cat",
+  "slug": "cat",
+  "type": "Siren",
+  "description": "Cat is a common Hyperion class mod in Borderlands 2.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Mind's Eye",
+    "Wreck",
+    "Accelerate"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "name": "Maya Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/shotgun-supreme.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Shotgun_Supreme!"
+  },
+  "name": "Shotgun Supreme!",
+  "slug": "shotgun-supreme",
+  "type": "Shotgun",
+  "description": "Shotgun Supreme! is widely considered one of the weaker variants. It burns through ammo at an extreme rate per trigger pull, yet still fails to deliver the damage you would expect compared with other versions or even most Tediore shotguns.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Only appears in blue or purple rarity.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/slagga.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/slagga-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Slagga"
+  },
+  "name": "Slagga",
+  "slug": "slagga",
+  "type": "SMG",
+  "description": "Legendary Bandit SMG.\n\nBuilt to apply slag fast: huge slag chance, big magazine and 3-pellet shots make it ideal for slag-and-swap, keeping targets slagged with minimal downtime. Even with the usual slag damage penalty, it can still mop up weaker enemies. Its usefulness jumps in Ultimate Vault Hunter Mode, where slag is especially potent.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "+6 Mag Size",
+          "+30% Reload Speed",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.4x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.4x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "5.9x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "4.3x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "3.1x Zoom"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+18% Damage",
+          "+15% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "+50% Projectile Speed"
+        ],
+        "name": "Bullet Speed"
+      },
+      {
+        "modifiers": [
+          "-25% Max Inaccuracy",
+          "-25% Recoil"
+        ],
+        "name": "Stability"
+      },
+      {
+        "modifiers": [
+          "+5% Mag Size",
+          "+25% Reload Speed"
+        ],
+        "name": "Reload"
+      },
+      {
+        "modifiers": [
+          "+25% Max Accuracy",
+          "-25% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "Tector and Jimbo Hodunk",
+      "tags": [
+        "Unique Enemy",
+        "The Dust"
+      ]
+    },
+    {
+      "name": "Sorcerer's Daughter",
+      "tags": [
+        "Boss",
+        "Lair of Infinite Agony",
+        "Drop rate: 1.95%"
+      ]
+    },
+    {
+      "name": "SMG Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "title": "blagaga",
+    "description": "No unique red-text effect.\n\nAlways slag. Fires 3 projectiles per shot. Greatly increased elemental effect chance, but reduced bullet damage."
+  },
+  "notes": "Cannot damage enemies that spawn already slag-element.\nStrong on Gaige: Close Enough can ricochet missed shots into nearby foes, spreading slag.\nA 11/05/13 hotfix increased its magazine size and damage (along with other Bandit SMGs).\nCommonly dropped by Jimbo and Tector Hodunk if you side with the Zafords in Clan Wars, locking you out of fighting Mick Zaford for the Maggie.\nYou can farm both in one playthrough: side with Zafords, kill only Jimbo and Tector, check the drop, then save-quit before the mission becomes turn-in ready to reset the choice.",
+  "max": {
+    "accuracy": 67.8,
+    "damage": 431219,
+    "fire_rate": 9.8,
+    "level": 90,
+    "mag_size": 128,
+    "reload_speed": 3.6,
+    "status_chance": 24
+  },
+  "abilities": [
+    "2.4x Weapon Zoom",
+    "+24 Weapon Magazine Size"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/shock-nova-shield-bl1"
+  },
+  "name": "Shock Nova Shield",
+  "slug": "shock-nova-shield",
+  "description": "A Maliwan nova shield that, when broken after a full charge, releases a shock nova. Damage is light but can chain and stun nearby enemies.",
+  "special": {
+    "description": "On shield break after a full recharge, creates a shock nova that deals light damage to nearby enemies."
+  },
+  "type": "Nova",
+  "rarities": [
+    "Epic"
+  ],
+  "elements": [
+    "Shock"
+  ],
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/shock-nova-shield.png"
+}

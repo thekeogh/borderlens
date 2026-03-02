@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/rpg.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/RPG"
+  },
+  "name": "RPG",
+  "slug": "rpg",
+  "type": "Launcher",
+  "description": "Rocket behaviour depends on the barrel.\n\nTediore: no extra effect.\n\nBandit/Scav: higher damage but worse accuracy.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag",
+    "Explosive"
+  ],
+  "notes": "Every third shot is free and does not spend ammo. The counter persists through reloads, so reloading early does not skip the next free rocket. This can also stop an automatic reload at empty if the next shot is treated as a free one.\n\nAll blue and purple RPGs share the same material.\n\nDrops randomly from appropriate loot sources.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

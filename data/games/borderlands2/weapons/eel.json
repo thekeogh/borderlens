@@ -1,0 +1,33 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/eel.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Eel"
+  },
+  "name": "Eel",
+  "slug": "eel",
+  "type": "SMG",
+  "description": "The Eel is a Maliwan-barrel SMG with a locked element, giving reliable elemental damage over time and a high chance to apply status effects. Despite its usual green appearance and only occasional blue or purple variants, it drops less often than the colour suggests. The consistent elemental performance makes it a strong choice while levelling.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Shock"
+  ],
+  "notes": "Related Dahl SMGs in the same set include the Beetle, Jackal, and Scorpion.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

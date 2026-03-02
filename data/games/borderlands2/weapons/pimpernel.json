@@ -1,0 +1,264 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Captain Scarlett and Her Pirate's Booty",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/pimpernel.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/pimpernel-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Pimpernel"
+  },
+  "name": "Pimpernel",
+  "slug": "pimpernel",
+  "type": "Sniper",
+  "description": "Rare Maliwan sniper rifle.\n\nDeals splash damage and has boosted critical hit damage. Shots spawn extra pellets after impact; aim slightly below a crit spot so the split pellets land their own critical hits, greatly increasing total damage.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance",
+          "+3 Mag Size",
+          "+30% Reload Speed"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "4.5x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "7.8x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "6.6x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "5.7x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "4.8x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Element": [
+      {
+        "modifiers": [
+          "-20% Damage"
+        ],
+        "name": "Fire"
+      },
+      {
+        "modifiers": [
+          "-20% Damage"
+        ],
+        "name": "Shock"
+      },
+      {
+        "modifiers": [
+          "-20% Damage"
+        ],
+        "name": "Corrosive"
+      },
+      {
+        "modifiers": [
+          "-20% Damage"
+        ],
+        "name": "Slag"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+20% Crit Damage",
+          "+10% Max Accuracy",
+          "-15% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Crit Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "-35% Max Inaccuracy",
+          "-30% Recoil",
+          "+25% Spread"
+        ],
+        "name": "Foregrip"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+35% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 12.5%",
+          "+25% Max Accuracy",
+          "-25% Spread",
+          "+25% Recoil"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "Don't copy that floppy",
+      "tags": [
+        "Quest",
+        "Washburne Refinery"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Sink me!",
+    "description": "On impact, creates a secondary projectile that rises vertically then splits into five pellets in a star pattern.\n\nPellets use the weapon's normal stats and can hit twice: first at full damage, then again at 50% damage. The gap between hits depends on projectile speed.\n\nSplash damage benefits from Reaper but not grenade damage bonuses, and the rifle has increased sniper critical damage."
+  },
+  "notes": "Usually named \"Captain Scarlett's Pimpernel\"; any accessory can change the prefix.\n\nA Gentleman's slag version keeps the bonus crit effect even if not shown on the card. Split pellets take full amp damage.\n\nGaige: Close Enough ricochets spawn pellets at the enemy hit point. Salvador: in off-hand, pellets use main-hand damage/element; if the main-hand mag is empty they also gain Money Shot scaling. Pellets cannot hit the user.\n\nProjectile speed affects pellet spread and hit spacing; Vel0city and Accelerate alter this.\n\nCan trigger B0re; B0re, Chain Reaction and The Nth Degree can re-trigger repeatedly on grouped targets.",
+  "max": {
+    "accuracy": 93.7,
+    "damage": 2067198,
+    "fire_rate": 1.4,
+    "level": 90,
+    "mag_size": 10,
+    "reload_speed": 3.1
+  },
+  "abilities": [
+    "5.7x Weapon Zoom",
+    "High elemental effect chance.",
+    "Deals bonus elemental damage."
+  ]
+}

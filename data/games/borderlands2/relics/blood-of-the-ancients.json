@@ -1,0 +1,40 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Ultimate Vault Hunter Upgrade Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/relics/blood-of-the-ancients.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/bonus-item/blood-of-the-ancients-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Blood_of_the_Ancients"
+  },
+  "name": "Blood of the Ancients",
+  "slug": "blood-of-the-ancients",
+  "type": "Universal",
+  "description": "Blood of the Ancients is an Eridian E-tech relic introduced with the Borderlands 2 Ultimate Upgrade Pack.\n\nIt boosts maximum health and increases carrying capacity for up to two ammo types at once. The extra durability and ammo reserves suit sustained, high fire rate builds, though the added health can be a drawback in some raid boss fights where large hits tend to trigger health-gating anyway.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "sources": [
+    {
+      "name": "Loot Midget",
+      "tags": [
+        "Rare Enemy",
+        "DAHL Abandon"
+      ]
+    }
+  ],
+  "special": {
+    "description": "Always rolls with two separate ammo capacity bonuses, drawn from Assault Rifle, Pistol, Rocket Launcher, Shotgun, SMG, or Sniper Rifle.\n\nIncreases maximum health and ammo carrying capacity."
+  },
+  "notes": "Drops from Legendary Loot Midgets in Ultimate Vault Hunter Mode.",
+  "abilities": [
+    "Increases health statistics and ammo capacity."
+  ],
+  "max": {
+    "level": 90
+  }
+}

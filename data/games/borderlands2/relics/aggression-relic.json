@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/relics/aggression-relic.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Aggression_Relic"
+  },
+  "name": "Aggression Relic",
+  "slug": "aggression-relic",
+  "type": "Aggression",
+  "description": "The Aggression Relic is a common Eridian-made relic in Borderlands 2.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "Its bonus matches the weapon-type damage boost found on Heart of the Ancients, which also includes the Tenacity effect.",
+  "special": {
+    "description": "Boosts damage dealt with a specific weapon category."
+  },
+  "sources": [
+    {
+      "name": "Relic Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

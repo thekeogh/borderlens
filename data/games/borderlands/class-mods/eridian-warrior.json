@@ -1,0 +1,38 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/eridian-warrior-lilith-bl1"
+  },
+  "name": "Eridian Warrior",
+  "slug": "eridian-warrior",
+  "type": "Siren",
+  "skills": [
+    "Radiance",
+    "Inner Glow",
+    "Phoenix"
+  ],
+  "description": "The Eridian Warrior boosts Eridian weapon damage for Lilith. It is the only class mod that cannot receive secondary material bonuses.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Increases Eridian weapon damage. Cannot receive secondary material bonuses."
+  },
+  "sources": [
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Craw's Lair"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/eridian-warrior.png"
+}

@@ -1,0 +1,34 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/wheelgun.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Wheelgun"
+  },
+  "name": "Wheelgun",
+  "slug": "wheelgun",
+  "type": "Pistol",
+  "description": "The Wheelgun handles like the standard version, aside from the usual rarity stat boost and its blue Jakobs finish.\n\nBarrel effects (excluding accessory bonuses):\n- Tediore: No stat change.\n- Maliwan: Slight accuracy increase.\n- Bandit: Higher damage, lower accuracy.\n- Dahl: Better accuracy, reduced recoil and faster recoil recovery, but lower damage.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": "",
+  "elements": [
+    "None"
+  ]
+}

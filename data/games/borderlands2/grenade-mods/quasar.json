@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/quasar.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/quasar-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Quasar_(Borderlands_2)"
+  },
+  "name": "Quasar",
+  "slug": "quasar",
+  "type": "Singularity",
+  "description": "Legendary Hyperion grenade mod from Borderlands 2.\n\nQuasar always comes in Shock and secretly includes a Singularity effect even if it is not shown on the card. It has the strongest pull and one of the widest areas of effect among Singularity grenades, making it a powerful crowd control tool. Damage is lower than a comparable purple Shock Singularity, but it compensates with a bigger Shock field, stronger pull and a very short fuse. Best used against shielded targets.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "elements": [
+    "Shock"
+  ],
+  "sources": [
+    {
+      "name": "Ultimate Badass Varkid",
+      "tags": [
+        "Enemy",
+        "Wam Bam Island"
+      ]
+    },
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Counts towards the Singled Out Badass challenge no matter whether enemies die to the pull, the Shock field or the final blast.\n\nGaige can boost its Shock performance with Wires Dont Talk, and Electrical Burn can add a chance to apply burning damage over time.\n\nRed text references the mass-energy equivalence formula, E = mc^2.",
+  "special": {
+    "description": "Spawns a Singularity that drags in nearby enemies, then emits continuous Shock damage in an area until it detonates.",
+    "title": "E = mc^(OMG)/wtf"
+  },
+  "max": {
+    "blast_radius": 1,
+    "fuse_time": 0,
+    "grenade_damage": 1241777,
+    "level": 90
+  }
+}

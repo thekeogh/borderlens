@@ -1,0 +1,32 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/ambush-shield-bl1"
+  },
+  "name": "Ambush Shield",
+  "slug": "ambush-shield",
+  "description": "An Epic Anshin standard shield known for its brisk recharge. Its main draw is the 2.8 second minimum delay before recharge kicks in—quicker than most—making it solid for hit-and-run playstyles.",
+  "special": {
+    "description": "Minimum recharge delay of 2.8 seconds, faster than most shields."
+  },
+  "type": "Standard",
+  "rarities": [
+    "Epic"
+  ],
+  "manufacturers": [
+    "Anshin"
+  ],
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/ambush-shield.png"
+}

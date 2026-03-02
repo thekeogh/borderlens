@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/fire-burst.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Fire_Burst"
+  },
+  "name": "Fire Burst",
+  "slug": "fire-burst",
+  "type": "Area of Effect",
+  "description": "On detonation, this grenade throws out four horizontal jets of flame that rotate around the impact point for several seconds before fading. The rotating flames can hit multiple targets within the effect area and ignore fire resistance. Damage is strong, but the coverage is tight and the flames cannot pass through solid cover, so enemies behind obstacles are often missed.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "notes": "Random drop from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

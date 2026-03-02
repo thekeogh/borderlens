@@ -1,0 +1,28 @@
+/**
+ * HTML
+ */
+html {
+  font-size: 16px;
+}
+
+/**
+ * Body
+ */
+body {
+  min-height: 100vh;
+  padding-bottom: var(--spacing-xl);
+  background: var(--color-zinc-1000) linear-gradient(to bottom, rgb(67 20 7 / .3), var(--color-zinc-1000), var(--color-zinc-1000));
+  font-family: var(--font-family-base);
+  font-size: var(--font-size-md);
+  color: var(--color-zinc-0);
+  line-height: var(--line-height-default);
+}
+
+/**
+ * Typography
+ */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family-title);
+  line-height: var(--line-height-titles);
+  text-transform: uppercase;
+}

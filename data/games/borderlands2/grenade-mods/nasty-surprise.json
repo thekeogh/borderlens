@@ -1,0 +1,59 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/nasty-surprise.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/nasty-surprise-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Nasty_Surprise"
+  },
+  "name": "Nasty Surprise",
+  "slug": "nasty-surprise",
+  "type": "MIRV",
+  "description": "Nasty Surprise is a Hyperion legendary grenade mod from Borderlands 2. It behaves like a Longbow grenade, teleporting to the target point before detonating.\n\nOn detonation it spawns up to four child grenades above nearby enemies. If fewer than four targets are available, the remaining child grenades land in quick succession at the impact point, creating a tight, MIRV-like cluster. It can tag several foes at once or stack multiple blasts on a single target, but its damage and radius are low compared with many other options.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "elements": [
+    "Explosive",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "Vermivorous",
+      "tags": [
+        "Raid Boss",
+        "Wam Bam Island"
+      ]
+    },
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "The red text references a gag from the film UHF.\n\nIt is the only Hyperion grenade mod that is not a Singularity type.",
+  "special": {
+    "description": "Longbow delivery. After the initial blast, up to 4 child grenades drop from above onto nearby enemies; unused child grenades fall at the target point.\n\nSupplies! Reduced damage and blast radius.",
+    "title": "Supplies!"
+  },
+  "max": {
+    "blast_radius": 432,
+    "fuse_time": 0.8,
+    "grenade_damage": 6297197,
+    "grenade_damage_multiplier": 4,
+    "level": 90
+  },
+  "abilities": [
+    "Spawns 4 child grenades upon"
+  ]
+}

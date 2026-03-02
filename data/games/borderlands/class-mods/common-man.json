@@ -1,0 +1,38 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/common-man-brick-bl1"
+  },
+  "name": "Common Man",
+  "slug": "common-man",
+  "type": "Berserker",
+  "skills": [
+    "Rapid Reload",
+    "Short Fuse",
+    "Diehard"
+  ],
+  "description": "The Common Man enhances Tediore weapon damage for Brick. Material parts may add shield capacity or accuracy.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Increases Tediore weapon damage."
+  },
+  "sources": [
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Craw's Lair"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/common-man.png"
+}

@@ -1,0 +1,43 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/spike-shield.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Spike_Shield"
+  },
+  "name": "Spike Shield",
+  "slug": "spike-shield",
+  "type": "Spike",
+  "description": "Spike Shields retaliate when you are struck by a melee attack, dealing elemental spike damage back to the attacker. They are niche, but can shine in close-quarters fights against melee-focused groups, steadily punishing enemies that keep pressing into you.",
+  "notes": "Much less effective against enemies that stay at range, as the spike effect only triggers on melee hits.",
+  "manufacturers": [
+    "Maliwan",
+    "Torgue"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Taking melee damage triggers elemental spike damage to the attacker."
+  },
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

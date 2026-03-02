@@ -1,0 +1,40 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/panorama.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Panorama"
+  },
+  "name": "Panorama",
+  "slug": "panorama",
+  "type": "Launcher",
+  "description": "Panorama functions like a standard rocket launcher, but its blasts cannot be absorbed by absorb shields, so the hit still goes through.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "notes": "Drops randomly from any appropriate loot source.\nAxton is shown using one in the game's opening sequence.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ],
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag",
+    "Explosive"
+  ]
+}

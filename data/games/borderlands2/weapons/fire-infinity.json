@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/fire-infinity.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Fire_Infinity"
+  },
+  "name": "Fire Infinity",
+  "slug": "fire-infinity",
+  "type": "Pistol",
+  "description": "Fire Infinity is a Fire Drill style variant built on the Infinity platform.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "special": {
+    "description": "Testing Fire Resistance. Always incendiary. Does not consume ammo and has a fixed magazine size of 1. Fires in a fixed pattern that ignores normal recoil. 100% elemental effect chance. Higher damage. Better accuracy while aiming down sights. Lower fire rate.",
+    "title": "Testing Fire Resistance"
+  },
+  "notes": "Uses the same 3D model as the Infinity.\n\nAppears to be an internal test version of Fire Drill, using the balance entry \"GD_Anemone_Weapons.Testing_Resist_100.100_Fire\" instead of \"GD_Anemone_Weapons.A_Resist_100.100_Fire\".",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "game": "borderlands",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/proximity-mine-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Proximity_Mine_Grenade"
+  },
+  "name": "Proximity Mine",
+  "slug": "proximity-mine",
+  "description": "A Vladof proximity mine from the base game. Unlike fuse-based grenades, it sticks to whatever surface it hits and waits—only detonating when an enemy moves into range.\n\nIdeal for choke points, doorways, and spawn zones where enemies will predictably pass through. Place them shortly before triggering a wave to catch the vanguard, or cover retreat paths. Since they are proximity-triggered rather than contact-based, you do not need a direct hit; lay them in advance and let the enemy walk into the blast.",
+  "special": {
+    "description": "Sticks to a surface and explodes when an enemy moves nearby."
+  },
+  "type": "MIRV",
+  "elements": [
+    "Corrosive",
+    "Explosive",
+    "Incendiary",
+    "Shock"
+  ],
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/grenade-mods/proximity-mine.png"
+}

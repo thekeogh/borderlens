@@ -1,0 +1,54 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/omega-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Atlas_Omega"
+  },
+  "name": "Omega",
+  "slug": "omega",
+  "description": "An Atlas pearlescent resistance shield from the General Knoxx DLC. Combines a fast recharge rate, solid capacity, and built-in 66.6% shock resistance.",
+  "special": {
+    "description": "Extremely fast recharge, high capacity, and 66.6% shock resistance.",
+    "title": "The Alpha and that other thing."
+  },
+  "type": "Resistance",
+  "rarities": [
+    "Pearlescent"
+  ],
+  "manufacturers": [
+    "Atlas"
+  ],
+  "sources": [
+    {
+      "name": "Badass Defender",
+      "tags": [
+        "Enemy",
+        "Road's End"
+      ]
+    },
+    {
+      "name": "Badass Infantry",
+      "tags": [
+        "Enemy",
+        "Road's End"
+      ]
+    },
+    {
+      "name": "Badass Engineer",
+      "tags": [
+        "Enemy",
+        "Road's End"
+      ]
+    },
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Craw's Lair"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/omega.png"
+}

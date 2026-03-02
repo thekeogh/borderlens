@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/barfy.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Barfy"
+  },
+  "name": "Barfy",
+  "slug": "barfy",
+  "type": "SMG",
+  "description": "Barfy is a Bandit SMG with always-on corrosive damage and a Maliwan-type barrel. It is built for reliable status effects over pinpoint accuracy, letting you melt armour and keep corrosive damage ticking on several enemies. Spray into crowds, keep firing, and let the damage over time finish the job.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "elements": [
+    "Corrosive"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ],
+  "notes": "Best in armour-heavy areas, such as encounters packed with Loaders, where its fixed corrosive element stays consistently effective."
+}

@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/pandemic.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/pandemic-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Pandemic"
+  },
+  "name": "Pandemic",
+  "slug": "pandemic",
+  "type": "MIRV",
+  "description": "Pandemic is a Legendary Vladof grenade mod from Borderlands 2. It excels when lobbed into groups, especially against weaker armoured targets such as Hyperion troops and knights. A single throw can rapidly spread corrosive damage through a crowd and finish off softer enemies over a short time.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "elements": [
+    "Corrosive"
+  ],
+  "sources": [
+    {
+      "name": "Mortar",
+      "tags": [
+        "Unique Enemy",
+        "Sawtooth Cauldron"
+      ]
+    },
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Each time a child grenade passes the corrosive status effect to a fresh target, a rocket launcher firing sound plays.\n\nPandemic has fixed corrosive parts, including the Exterminator-style area payload. Storm Front and Fire Bee use the same payload, but their behaviour differs due to separate balancing.",
+  "special": {
+    "description": "Always corrosive. On detonation it releases a corrosive cloud, then spawns 3 homing child grenades. The child grenades stick to enemies and deal damage over time, then move on to new targets, repeatedly transferring corrosion until they expire.\n\nSpread the sickness.",
+    "title": "Spread the sickness."
+  },
+  "max": {
+    "blast_radius": 700,
+    "fuse_time": 0,
+    "grenade_damage": 4093699,
+    "level": 90
+  }
+}

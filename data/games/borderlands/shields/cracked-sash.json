@@ -1,0 +1,33 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/cracked-sash-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Cracked_Sash_(Borderlands)"
+  },
+  "name": "Cracked Sash",
+  "slug": "cracked-sash",
+  "description": "An Anshin shield with the fastest recharge in the game—just 2 seconds before it starts refilling, and a full recharge in under a second. The trade-off is very low capacity, often a third to half of your health at equal level. Suits snipers who duck in and out of cover for crits, or anyone using hit-and-run tactics.",
+  "special": {
+    "description": "Fastest recharge delay in the game at 2 seconds."
+  },
+  "type": "Standard",
+  "rarities": [
+    "Uncommon"
+  ],
+  "manufacturers": [
+    "Anshin"
+  ],
+  "sources": [
+    {
+      "name": "Rakkinishu",
+      "tags": [
+        "Named Enemy",
+        "Rust Commons West"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/cracked-sash.png"
+}

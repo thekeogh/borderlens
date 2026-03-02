@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/shot.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/shot-zer0-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Shot"
+  },
+  "name": "Shot",
+  "slug": "shot",
+  "type": "Assassin",
+  "description": "Shot is a common Hyperion class mod for Zer0 in Borderlands 2. It can drop from any appropriate loot source.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "0ptics",
+    "Precisi0n",
+    "Kill C0nfirmed"
+  ],
+  "sources": [
+    {
+      "name": "Zer0 Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At the level cap, grants a team-wide accuracy bonus of up to +57.5%.\n\nKnown issue: the item card may show an incorrect accuracy value."
+  },
+  "notes": "",
+  "max": {
+    "accuracy": 37.4,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Optics Skill",
+    "+4 Precision Skill",
+    "+4 Kill COnfirmed Skill"
+  ]
+}

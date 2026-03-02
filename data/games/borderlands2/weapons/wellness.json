@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/wellness.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Wellness"
+  },
+  "name": "Wellness",
+  "slug": "wellness",
+  "type": "SMG",
+  "description": "Hyperion SMGs tighten their spread the longer you hold the trigger, rather than kicking wider. The accuracy stat shown reflects their fully stabilised performance.\n\nWellness is a Hyperion SMG variant that always rolls with a fixed-element Maliwan barrel, giving stronger damage-over-time and a higher status chance than standard parts. A Maliwan grip can push these elemental bonuses further. Even at lower rarities, its reliable procs can carry you until you find a better drop.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Slag"
+  ],
+  "notes": "Related Hyperion SMGs with fixed-element Maliwan barrels include Backburner (incendiary), Cooler (cryo), Storm (shock), and Weisenheimer (corrosive).\n\nWellness spawns at green rarity or above. It is a world drop from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

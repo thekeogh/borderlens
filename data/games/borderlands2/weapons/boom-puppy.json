@@ -1,0 +1,237 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Mr. Torgue's Campaign of Carnage",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/boom-puppy.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/boom-puppy-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Boom_Puppy"
+  },
+  "name": "Boom Puppy",
+  "slug": "boom-puppy",
+  "type": "Assault Rifle",
+  "description": "Boom Puppy is a Tina-styled Torgue assault rifle that fires arcing explosive grenades rather than hitscan rounds. The slow, bouncy shots can feel unruly and need practice to land at range. It shines in tight spaces, where repeated ricochets and blasts can pile on splash damage, but it plays slower and less predictably than a typical AR.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "+15% Spread",
+          "-10% Reload Speed"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "-6% Damage",
+          "+15% Max Inaccuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+4 Mag Size",
+          "+30% Reload Speed",
+          "-10% Reload Speed",
+          "+10% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "-30% Max Inaccuracy",
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "2.4x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "3.4x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "5.0x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "2.7x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "Chance: 6.7%",
+          "3.6x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+21% Damage",
+          "-12% Fire Rate",
+          "+35% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+21% Damage",
+          "+12% Fire Rate",
+          "+120% Spread"
+        ],
+        "name": "Wild"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+100% Projectile Speed",
+          "+15% Fire Rate"
+        ],
+        "name": "Bullet Speed"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "-40% Recoil",
+          "+25% Recoil Recovery"
+        ],
+        "name": "Stability"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "+3 Mag Size",
+          "+35% Mag Size"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.7%",
+          "-25% Spread",
+          "+25% Max Accuracy"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "Walking the Dog",
+      "tags": [
+        "Quest",
+        "Badass Crater of Badassitude"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Boom! Boom! Boom! BOOM! BOOOM!!!! GOOD DOGGY!!!",
+    "description": "Launches slow grenades that bounce and trigger a chain of splash detonations, ending in a final explosion."
+  },
+  "notes": "A single trigger pull can cause several separate explosions, so absorb shields may proc multiple times from one shot. A Loot Hunt hotfix increased the splash radius, making hits more reliable.",
+  "max": {
+    "accuracy": 74,
+    "damage": 2591240,
+    "fire_rate": 13,
+    "level": 90,
+    "mag_size": 14.5,
+    "reload_speed": 3.8
+  },
+  "abilities": [
+    "Consumes 3 ammo per shot.",
+    "Deals bonus explosive damage. SOOO teal"
+  ]
+}

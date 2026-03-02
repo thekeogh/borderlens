@@ -1,0 +1,56 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Psycho Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/slayer-of-terramorphous-psycho.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/slayer-of-terramorphous-bl2-psycho",
+    "wiki": "https://borderlands.fandom.com/wiki/Slayer_Of_Terramorphous"
+  },
+  "name": "Slayer Of Terramorphous",
+  "slug": "slayer-of-terramorphous-psycho",
+  "type": "Psycho",
+  "description": "Slayer Of Terramorphous is a legendary class mod shared across all Vault Hunters. It can drop from Terramorphous the Invincible, and the specific class variant is random. Compared with most legendary mods it boosts skills by +4 rather than +5, but it typically rolls a wider mix of extra bonuses such as survivability and damage-oriented stats.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Blood Trance",
+    "Thrill of the Kill",
+    "Strip the Flesh",
+    "Burn, Baby, Burn",
+    "Flame Flare",
+    "Sentry",
+    "Ready",
+    "Impact",
+    "Expertise",
+    "Healthy"
+  ],
+  "sources": [
+    {
+      "name": "Terramorphous",
+      "tags": [
+        "Raid Boss",
+        "Terramorphous Peak"
+      ]
+    }
+  ],
+  "notes": "Terramorphous always drops a Slayer Of Terramorphous, but the class version is chosen at random.\n\nThe Assassin variant was previously incorrect, boosting Inconceivable rather than Fast Hands, leaving it with fewer bonuses; this was later corrected.\n\nEach class variant uses unique artwork. Notably, the Psycho version is the only one with a lowercase \"o\" in \"Of\".",
+  "special": {
+    "description": "At max level, Krieg's Slayer Of Terramorphous grants:\nBurn Damage: +37%\nIgnite Chance: +37%\nHealth: +1,101,229"
+  },
+  "max": {
+    "damage": 37,
+    "level": 90
+  },
+  "abilities": [
+    "+4 Blood Trance Skill",
+    "+4 Thrill of the Kill Skill",
+    "+4 Strip the Flesh Skill",
+    "+4 Burn, Baby, Burn Skill"
+  ]
+}

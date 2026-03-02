@@ -1,0 +1,253 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/unkempt-harold.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/unkempt-harold-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Unkempt_Harold"
+  },
+  "name": "Unkempt Harold",
+  "slug": "unkempt-harold",
+  "type": "Pistol",
+  "description": "Legendary Torgue pistol.\n\nFires a tight burst that splits after a short distance into a wide horizontal 7-shot spread (3-5-7). Once splitting starts, hits can register as if the full spread connected, giving very high burst at close to mid range and reliable damage once the split is out.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+35% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-14% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+3 Mag Size",
+          "+30% Reload Speed",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-10% Recoil Recovery",
+          "-6% Damage"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.2x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.0x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "Dahl"
+      },
+      {
+        "modifiers": [
+          "5.3x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "4.5x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "3.9x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "2.8x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.4x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "3.2x Zoom",
+          "-15% Spread (aiming)"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+18% Damage",
+          "+30% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+18% Fire Rate",
+          "-3% Damage"
+        ],
+        "name": "Fire Rate"
+      },
+      {
+        "modifiers": [
+          "+28% Mag Size",
+          "+2 Mag Size",
+          "+60% Projectiles",
+          "+0.4 Projectiles",
+          "-15% Damage",
+          "-30% Fire Rate",
+          "+1 Shot Cost",
+          "-25% Max Accuracy",
+          "+25% Spread",
+          "+1 Spread",
+          "+4 Recoil"
+        ],
+        "name": "Double"
+      },
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "-30% Recoil",
+          "-35% Max Inaccuracy",
+          "-15% Spread"
+        ],
+        "name": "Stock"
+      },
+      {
+        "modifiers": [
+          "+56% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "+25% Accuracy",
+          "+20% Projectile Speed",
+          "-40% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "Savage Lee",
+      "tags": [
+        "Unique Enemy",
+        "Three Horns Divide",
+        "Drop rate: 10%"
+      ]
+    },
+    {
+      "name": "Torgue Shop",
+      "tags": [
+        "Vendor",
+        "DLC 2 Wide",
+        "Drop rate: 16.7%"
+      ]
+    },
+    {
+      "name": "Pistol Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "title": "\"Did I fire six shots, or only five? Three? Seven. Whatever.\"",
+    "description": "Consumes 3 ammo per shot (6 with Double Penetrating).\n\nFires one projectile that rapidly spawns six more, spreading horizontally. All projectiles deal explosive damage and explode on impact.\n\nCentre splash uses 100% grenade-damage scaling; spawned projectiles use 70%."
+  },
+  "notes": "Split distance scales with accuracy: higher accuracy delays the split.\n\nDouble Penetrating fires two parallel bursts, typically one beneath the other (can form an X), and uses 6 ammo per trigger pull.\n\nSpawned projectiles are not listed on the item card and each can receive full amp bonus.\n\nCentre projectile splash gets 100% grenade-damage scaling; side projectiles get 70%. Projectile speed boosts push the split farther out, hurting point-blank but improving longer-range consistency.",
+  "max": {
+    "accuracy": 80,
+    "damage": 2010940,
+    "fire_rate": 16,
+    "level": 90,
+    "mag_size": 28,
+    "reload_speed": 2.3
+  },
+  "abilities": [
+    "Consumes 6 ammo per shot."
+  ]
+}

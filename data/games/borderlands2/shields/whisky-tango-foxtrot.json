@@ -1,0 +1,65 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/whisky-tango-foxtrot.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/whisky-tango-foxtrot-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Whisky_Tango_Foxtrot"
+  },
+  "name": "Whisky Tango Foxtrot",
+  "slug": "whisky-tango-foxtrot",
+  "type": "Booster",
+  "description": "Legendary DAHL booster shield. Taking damage can launch an IED Booster at the nearest enemy. While it sits on the ground it emits timed volleys of arcing shock MIRV charges, up to nine blasts in total, and the explosions can hit you too. Pick the booster up to regain 25 percent of your shield; collecting it early also cancels any remaining volleys.\n\nStrong for mid-range fights, but hazardous in cramped areas or versus fast-moving targets.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    },
+    {
+      "name": "Hyperius",
+      "tags": [
+        "Raid Boss",
+        "Washburne Refinery"
+      ]
+    },
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive"
+  ],
+  "notes": "The booster begins firing as soon as it lands; pickup only restores shields and prevents further charges. The shock blasts have heavy knockback and can stagger foes. Expect frequent self-damage, so shock resistance or mitigation skills are useful. Rats can be killed while trying to steal an active booster. Cannot spawn with Bandit or Torgue parts. The name references the NATO initialism \"WTF\" and a joke about \"SNAFU\"; IED stands for improvised explosive device.",
+  "special": {
+    "description": "On taking damage, may fire an IED Booster towards the nearest enemy.\n\nThe booster releases three timed volleys of arcing shock charges (up to 9 explosions) that can also damage the wearer.\n\nPicking it up restores 25 percent of shield capacity and stops any further charges.",
+    "title": "Situation normal... ...all foxtroted up."
+  },
+  "max": {
+    "capacity": 3514093,
+    "level": 90,
+    "recharge_delay": 3.5,
+    "recharge_rate": 668015
+  },
+  "abilities": [
+    "Chance to drop an IED Booster when damaged.",
+    "Grants immunity to elemental damage."
+  ]
+}

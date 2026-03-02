@@ -1,0 +1,250 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/omen.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/omen-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Omen"
+  },
+  "name": "Omen",
+  "slug": "omen",
+  "type": "Shotgun",
+  "description": "Omen is a Tediore Seraph shotgun from the Dragon Keep add-on. It fires E-tech orbs in a ring around a central shot. The centre orb stays true while the ring pulses inward and outward as it travels, giving it better reach than most Tediore splatguns. At the right distance the ring converges, letting all pellets land together for peak damage. Reloading throws the gun like a Tediore and it detonates.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Seraph"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "+2 Mag Size",
+          "-0.15s Reload Time",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "+10% Recoil",
+          "-25% Recoil Recovery"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "1.8x Zoom",
+          "-25% Spread (aiming)"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "4.4x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "3.7x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "2.3x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.0x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Element": [
+      {
+        "modifiers": [
+          "Chance: 24.4%"
+        ],
+        "name": "Fire"
+      },
+      {
+        "modifiers": [
+          "Chance: 24.4%"
+        ],
+        "name": "Shock"
+      },
+      {
+        "modifiers": [
+          "Chance: 24.4%"
+        ],
+        "name": "Corrosive"
+      },
+      {
+        "modifiers": [
+          "Chance: 24.4%"
+        ],
+        "name": "Slag"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+30% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Moon Clip"
+      },
+      {
+        "modifiers": [
+          "+3% Damage",
+          "+3% Fire Rate",
+          "+5% Mag Size",
+          "+5% Reload Speed"
+        ],
+        "name": "Shotgun Shell"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-40% Spread",
+          "+39% Zoom",
+          "-15% Damage"
+        ],
+        "name": "Tech_1"
+      },
+      {
+        "modifiers": [
+          "+50% Crit Damage",
+          "-10% Spread",
+          "+39% Zoom"
+        ],
+        "name": "Tech_2"
+      },
+      {
+        "modifiers": [
+          "+6% Fire Rate",
+          "+10% Mag Size",
+          "+25% Reload Speed",
+          "-3% Damage"
+        ],
+        "name": "Tech_3"
+      }
+    ]
+  },
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "Ancient Dragons",
+      "tags": [
+        "Raid Boss",
+        "The Winged Storm",
+        "Drop rate: 33.3%"
+      ]
+    }
+  ],
+  "special": {
+    "title": "I'm gonna need you to stand back.",
+    "description": "Fires 9 E-tech orbs: 1 central orb plus 8 in a ring. The ring repeatedly contracts then expands while in flight. On hit, each orb deals 100 percent card damage as bullet impact and also triggers a 100 percent elemental splash explosion (treated as grenade damage).\n\nReload: the weapon is thrown and explodes on contact or after 1.7s. Reload explosion damage scales with unused ammo: card damage x unused ammo x 4.1, multiplied by (0.5 + 0.4 x pellet count, minimum 1.5). Consumes 1 ammo per shot."
+  },
+  "notes": "Low fire rate, so fire rate boosts help sustain DPS.\nThe thrown reload blast is dangerous and can down the user.\nCannot roll a vertical grip or the Gentle prefix.\nFiring straight up distorts the ring pattern, but it still contracts and expands.\nEach pellet adds 100 percent elemental splash: splash cannot crit, impact can, and grenade damage bonuses boost the splash.\nCan spawn non-elemental: pellets appear purple and deal non-elemental impact plus explosive splash.",
+  "max": {
+    "accuracy": 66.9,
+    "damage": 1035491,
+    "fire_rate": 1.6,
+    "level": 90,
+    "mag_size": 6,
+    "reload_speed": 1.6
+  },
+  "abilities": [
+    "2.3x Weapon Zoom"
+  ]
+}

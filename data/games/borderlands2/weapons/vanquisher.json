@@ -1,0 +1,43 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/vanquisher.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Vanquisher_(Borderlands_2)"
+  },
+  "name": "Vanquisher",
+  "slug": "vanquisher",
+  "type": "Launcher",
+  "description": "Vladof launcher with a triple-barrel cannon that boosts rocket speed. It fires at very high RPM and will keep firing in full-auto while the trigger is held.\n\nIt typically has a large magazine, very low per-shot damage for a high-velocity launcher, and shaky accuracy. It shines against packs of mid-tier enemies and fast aircraft such as Buzzards, where the speed reduces the need to lead targets. Its rapid fire can drain even a maxed rocket reserve quickly, making sustained use costly.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "notes": "Random world drop from appropriate loot sources.\n\nIt may play a reload even with no rockets in reserve, but the magazine remains empty.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ],
+  "special": {
+    "description": "Always rolls reduced ammo consumption: shots average 0.666 rockets each, effectively giving one free shot for every three fired."
+  },
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag",
+    "Explosive"
+  ]
+}

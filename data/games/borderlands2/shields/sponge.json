@@ -1,0 +1,54 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Mr. Torgue's Campaign of Carnage",
+  "dlc": true,
+  "image": "/img/games/borderlands2/shields/sponge.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/sponge-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Sponge"
+  },
+  "name": "Sponge",
+  "slug": "sponge",
+  "type": "Absorb",
+  "description": "The Sponge is a Vladof Seraph shield from Borderlands 2, added with Campaign of Carnage. It is built around absorbing incoming bullets and turning them into ammo, without any extra special effect beyond its part rolls. It usually spawns with solid capacity, and can roll Maliwan capacitors for elemental resistance. Absorb rate is part-dependent: Bandit pieces tend to be lower, while heavy Maliwan setups can reach very high absorption at the cost of capacity and recharge stats.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Seraph"
+  ],
+  "sources": [
+    {
+      "name": "Crater Seraph Shop",
+      "tags": [
+        "Vendor",
+        "Badass Crater of Badassitude"
+      ]
+    }
+  ],
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "special": {
+    "description": "Absorb chance varies by parts, ranging from 20% up to 54%.",
+    "title": "Highly absorbent!"
+  },
+  "notes": "",
+  "max": {
+    "absorb_chance": 54,
+    "capacity": 3683040,
+    "level": 90,
+    "recharge_delay": 3.33,
+    "recharge_rate": 698658
+  },
+  "abilities": [
+    "Chance to Absorb enemy bullets.",
+    "Absorbed ammo is added to your backpack.",
+    "Grants immunity to elemental damage."
+  ]
+}

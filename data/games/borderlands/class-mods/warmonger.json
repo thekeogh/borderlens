@@ -1,0 +1,40 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/warmonger-brick-bl1"
+  },
+  "name": "Warmonger",
+  "slug": "warmonger",
+  "type": "Berserker",
+  "skills": [
+    "Pay Back",
+    "Hardened",
+    "Revenge"
+  ],
+  "description": "The Warmonger boosts gun damage for Brick and his team. Material parts may add team melee damage or team grenade damage.",
+  "manufacturers": [
+    "Hyperion",
+    "Torgue"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Increases gun damage for you and your team."
+  },
+  "sources": [
+    {
+      "name": "Brick Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/warmonger.png"
+}

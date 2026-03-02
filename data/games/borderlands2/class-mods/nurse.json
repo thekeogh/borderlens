@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/nurse.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Nurse"
+  },
+  "name": "Nurse",
+  "slug": "nurse",
+  "type": "Siren",
+  "description": "Nurse is a common, white-rarity Class Mod in Borderlands 2 made by Anshin.",
+  "manufacturers": [
+    "Anshin"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Restoration",
+    "Elated",
+    "Sweet Release"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "name": "Maya Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

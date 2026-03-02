@@ -1,0 +1,204 @@
+{
+  "completedAt": "2026-02-26T12:41:19.890Z",
+  "entries": [
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "12-pounder.json",
+      "name": "12 Pounder"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "ace.json",
+      "name": "Ace"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "actualizer.json",
+      "name": "Actualizer"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "acurate-smgg.json",
+      "name": "Acurate smgg"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "aegis.json",
+      "name": "Aegis"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "ahab.json",
+      "name": "Ahab"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "aimshot.json",
+      "name": "Aimshot"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "amigo-sincero.json",
+      "name": "Amigo Sincero"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "anaconda.json",
+      "name": "Anaconda"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "anarchist.json",
+      "name": "Anarchist"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "animosity.json",
+      "name": "Animosity"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "apparatus.json",
+      "name": "Apparatus"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "area-efect.json",
+      "name": "Area efect"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "ass-beeter-pistol.json",
+      "name": "Ass Beeter! (pistol)"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "ass-beeter-rifle.json",
+      "name": "Ass Beeter! (rifle)"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "assassin.json",
+      "name": "Assassin"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "avenger.json",
+      "name": "Avenger"
+    },
+    {
+      "changed": [
+        "special",
+        "description"
+      ],
+      "file": "baby-maker.json",
+      "name": "Baby Maker"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "backburner.json",
+      "name": "Backburner"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "bad-touch.json",
+      "name": "Bad Touch"
+    },
+    {
+      "changed": [
+        "special",
+        "description"
+      ],
+      "file": "badaboom.json",
+      "name": "Badaboom"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "bane.json",
+      "name": "Bane"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "bangstick.json",
+      "name": "Bangstick"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "barfy.json",
+      "name": "Barfy"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "basic-repeater.json",
+      "name": "Basic Repeater"
+    }
+  ],
+  "limit": 25,
+  "offset": 0,
+  "processed": 25,
+  "updated": 25
+}

@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/pbfg.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/PBFG"
+  },
+  "name": "PBFG",
+  "slug": "pbfg",
+  "type": "Launcher",
+  "description": "On impact, the PBFG traps nearby enemies in energy bubbles, dealing a large burst at the centre and heavy splash across a very wide area. Survivors take ongoing non-elemental damage over time alongside the gun's elemental effect. Excels at clearing crowds and can help secure a Second Wind under pressure. The non-elemental DoT also chips away at targets resistant to the weapon's element. Uses 2 ammo per shot.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Projectiles can damage enemies through walls and other cover.\n\nAmp shields boost both the main shot and each individual energy orb.\n\nThe DoT is non-elemental; on Slag variants this DoT is not increased against slagged targets, making other elements plus a slag grenade generally stronger.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-ninja.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-ninja-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Ninja"
+  },
+  "name": "Legendary Ninja",
+  "slug": "legendary-ninja",
+  "type": "Assassin",
+  "description": "Legendary Ninja is a Legendary Class Mod for Zer0 in Borderlands 2. It is a Maliwan-made Class Mod.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Backstab",
+    "Resurgence",
+    "Killing Bl0w",
+    "Ambush",
+    "F0ll0wthr0ugh"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Requires the Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. It cannot drop or be used without that DLC.",
+  "special": {
+    "description": "At max level, grants +69% melee damage. The item is visually similar to the standard Ninja mod to help tell them apart.",
+    "title": "\"In the midst of combat, keep stillness inside of you.\""
+  },
+  "abilities": [
+    "+5 Backstab Skill",
+    "+5 Killing Skill",
+    "+5 Ambush Skill",
+    "+5 FOWOw ThrOugh Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

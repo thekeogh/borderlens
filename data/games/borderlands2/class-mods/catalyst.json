@@ -1,0 +1,49 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Mechromancer Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/catalyst.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/catalyst-gaige-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Catalyst_(class_mod)"
+  },
+  "name": "Catalyst",
+  "slug": "catalyst",
+  "type": "Mechromancer",
+  "description": "Catalyst is a Gaige class mod for the Mechromancer in Borderlands 2. It is a Maliwan mod.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Wires Don't Talk",
+    "Evil Enchantress",
+    "Shock Storm"
+  ],
+  "sources": [
+    {
+      "name": "Gaige Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At maximum level, Catalyst increases the whole team's elemental effect damage by 59%."
+  },
+  "notes": "",
+  "abilities": [
+    "+5 Wires Don't Talk Skill",
+    "+4 Evil Enchantress Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

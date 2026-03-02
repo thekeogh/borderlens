@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/grenadier.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/grenadier-axton-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Grenadier_(class_mod)"
+  },
+  "name": "Grenadier",
+  "slug": "grenadier",
+  "type": "Commando",
+  "description": "Grenadier is an Epic class mod for Axton in Borderlands 2.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Steady",
+    "Impact",
+    "Grenadier"
+  ],
+  "sources": [
+    {
+      "name": "Axton Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At maximum level, this class mod provides two bonuses:\n\n+51 percent grenade damage\n+34 percent explosive resistance"
+  },
+  "notes": "",
+  "max": {
+    "grenade_damage": 5,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Steady Skill",
+    "+4 Impact Skill",
+    "+4 Grenadier Skill"
+  ]
+}

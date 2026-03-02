@@ -1,0 +1,39 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/relics/the-afterburner.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/bonus-item/the-afterburner-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/The_Afterburner"
+  },
+  "name": "The Afterburner",
+  "slug": "the-afterburner",
+  "type": "Universal",
+  "description": "The Afterburner is a unique Eridian relic from Borderlands 2. While you are driving, it boosts your vehicle afterburner performance, letting you sustain boosts for longer and recover boost charge more quickly between bursts.\n\nObtained as the reward for the mission Positive Self Image.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Positive Self Image",
+      "tags": [
+        "Quest",
+        "The Dust"
+      ]
+    }
+  ],
+  "special": {
+    "description": "Improves vehicle boost stats: increased boost capacity, faster boost recharge rate, and reduced recharge delay."
+  },
+  "notes": "",
+  "max": {
+    "capacity": 84,
+    "level": 90,
+    "recharge_rate": 117
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/renegade.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Renegade_(assault_rifle)"
+  },
+  "name": "Renegade",
+  "slug": "renegade",
+  "type": "Assault Rifle",
+  "description": "Renegades generally fire faster than most guns of their type and stay steady under sustained fire. With Dahl parts, recoil is reduced but raw damage also drops. The stability improves accuracy, making it easier to land most or all shots in a magazine and keep rounds on target quickly, which helps stretch your ammo.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "aliases": [
+    "Renegade (assault rifle)"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "The Gearbox Renegade was only available through the Premiere Club pre-order bonus.\n\nThe Renegade can drop at random from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

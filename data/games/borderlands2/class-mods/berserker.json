@@ -1,0 +1,50 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/berserker.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/berserker-salvador-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Berserker_(class_mod)"
+  },
+  "name": "Berserker",
+  "slug": "berserker",
+  "type": "Gunzerker",
+  "description": "Epic class mod for Salvador the Gunzerker, available in the Borderlands 2 base game.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Lay Waste",
+    "Last Longer",
+    "Yippee Ki Yay"
+  ],
+  "sources": [
+    {
+      "name": "Salvador Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At maximum level: +52% action skill cooldown rate."
+  },
+  "notes": "",
+  "max": {
+    "cooldown_rate_bonus": 52,
+    "level": 90
+  },
+  "abilities": [
+    "+4 Yippee-KeY ay Skill",
+    "Increases Action Skill"
+  ]
+}

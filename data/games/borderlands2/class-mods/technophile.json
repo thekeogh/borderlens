@@ -1,0 +1,52 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Mechromancer Pack",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/technophile.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/technophile-gaige-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Technophile"
+  },
+  "name": "Technophile",
+  "slug": "technophile",
+  "type": "Mechromancer",
+  "description": "Technophile is an Epic class mod for Gaige, the Mechromancer, in Borderlands 2.",
+  "manufacturers": [
+    "Pangolin"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Strength of Five Gorillas",
+    "Fancy Mathematics",
+    "Interspersed Outburst"
+  ],
+  "sources": [
+    {
+      "name": "Gaige Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At maximum level, Technophile provides two bonuses:\n\nShield Capacity: +718193\nShield Recharge Rate: +51%"
+  },
+  "notes": "",
+  "max": {
+    "capacity": 718193,
+    "level": 90,
+    "recharge_rate": 5
+  },
+  "abilities": [
+    "+5 Strength of 5 Gorillas Skill",
+    "+4 Fancy Mathematics Skill",
+    "+4 Interspersed Outburst Skill"
+  ]
+}

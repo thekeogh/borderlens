@@ -1,0 +1,34 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/scarab.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Scarab"
+  },
+  "name": "Scarab",
+  "slug": "scarab",
+  "type": "Assault Rifle",
+  "description": "The Scarab is a high-accuracy assault rifle that performs best against exposed targets, including airborne foes. Its precision comes at the cost of raw damage output, and the reload can feel sluggish in extended fights.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": "",
+  "elements": [
+    "None"
+  ]
+}

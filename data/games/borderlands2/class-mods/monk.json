@@ -1,0 +1,65 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/monk.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/monk-salvador-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Monk"
+  },
+  "name": "Monk",
+  "slug": "monk",
+  "type": "Gunzerker",
+  "description": "Monk is a common Gunzerker class mod made by Vladof and introduced in Tiny Tina's Assault on Dragon Keep. It is found only within the Dragon Keep DLC area, typically from treasure chests and DLC enemies.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Money Shot",
+    "Asbestos",
+    "Sexual Tyrannosaurus"
+  ],
+  "sources": [
+    {
+      "name": "Mimic Chest",
+      "tags": [
+        "Chest",
+        "Unassuming Docks"
+      ]
+    },
+    {
+      "name": "Gold Golem",
+      "tags": [
+        "Boss",
+        "Mines of Avarice"
+      ]
+    },
+    {
+      "name": "Sorcerer's Daughter",
+      "tags": [
+        "Boss",
+        "Lair of Infinite Agony"
+      ]
+    }
+  ],
+  "notes": "Monk variants with the Good prefix once applied the wrong reload modifier, increasing reload time instead of improving it. This has since been corrected.\n\nThe name references the tabletop Monk archetype, known for endurance and rapid multi-hit offence. In gameplay terms, the mod supports Salvador's tougher Brawn-focused style and complements the sustained aggression of Gunzerking.",
+  "special": {
+    "description": "At max level, this mod rolls one bonus from each of two pools.\n\nPool 1: Neutral +58.5% magazine size, Chaotic +58.5% fire rate, Lawful +58.5% accuracy.\n\nPool 2: Neutral +58.5% magazine size, Evil +58.5% critical damage, Good +58.5% reload speed.\n\nTrue Neutral grants 2x magazine size for +93.6% magazine size. The item card may show incorrect fire rate, reload speed, and accuracy values."
+  },
+  "max": {
+    "fire_rate": 377,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Money Shot Skill",
+    "+4 Asbestos Skill",
+    "+4 Sexual Tyrannosaurus Skill"
+  ]
+}

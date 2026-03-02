@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/professional.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/professional-zer0-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Professional"
+  },
+  "name": "Professional",
+  "slug": "professional",
+  "type": "Assassin",
+  "description": "Professional is a common (white) Class Mod for Zer0 in Borderlands 2. It is manufactured by Dahl.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Tw0Fang",
+    "Killer",
+    "Ambush"
+  ],
+  "sources": [
+    {
+      "name": "Zer0 Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At max level, this Class Mod provides +58.5% reload speed and +1,053,349 shield capacity. Known issue: the item card can show an incorrect reload speed value."
+  },
+  "notes": "",
+  "max": {
+    "capacity": 1053349,
+    "level": 90,
+    "reload_speed": 3.74
+  },
+  "abilities": [
+    "+5 Tw0 Fang Skill",
+    "+4 Killer Skill"
+  ]
+}

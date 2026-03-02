@@ -1,0 +1,34 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/smig.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Smig"
+  },
+  "name": "Smig",
+  "slug": "smig",
+  "type": "SMG",
+  "description": "The Smig can roll with different barrels, each changing its stats:\n- Tediore: faster reloads and better accuracy, but lower bullet damage.\n- Bandit: higher bullet damage, but worse accuracy.\n- Maliwan: improved accuracy. If the gun also spawns with an element, its title changes accordingly, and the Maliwan barrel also boosts elemental effect chance.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "elements": [
+    "None"
+  ],
+  "notes": "It always comes with an exceptionally large magazine. Salvador (Filled to the Brim) and Krieg (Blood-Filled Guns) can keep it firing for a long time, which makes it strong for clearing groups.\n\nA comparable Scav-made weapon in Borderlands: The Pre-Sequel is the SMG.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

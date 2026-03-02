@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/deee.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Deee!"
+  },
+  "name": "Deee!",
+  "slug": "deee",
+  "type": "Launcher",
+  "description": "Deee! is a Torgue rocket launcher with a high-velocity, multi-barrel firing style. It can dump damage quickly but is not the most precise. It shines against big targets or at mid range, and its burst output makes it a solid option for scoring Second Winds.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "notes": "Can appear as a standard world drop from appropriate loot sources.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

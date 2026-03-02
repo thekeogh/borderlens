@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/moloko.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Moloko"
+  },
+  "name": "Moloko",
+  "slug": "moloko",
+  "type": "Sniper",
+  "description": "An E-tech sniper with an extreme fire rate that can empty its magazine in seconds. Shots ricochet off surfaces and targets. Against grounded foes, firing into the floor and letting recoil climb can make the bouncing rounds strike enemies, which is handy versus shielded Nomads. It handles more like a rapid-fire, low-capacity assault rifle than a traditional sniper. Zer0s B0re does not interact with it.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": "Its very high elemental effect chance makes it a strong pick for elemental play, particularly on Gaige and Maya. Gaige can get good results in Ordered Chaos thanks to the high fire rate, accuracy, small magazine and solid damage, while Little Big Trouble pairs especially well with a shock version. Like other E-tech guns it has reduced critical hit damage, so crit-focused sniping is inefficient and it is best used for elemental damage."
+}

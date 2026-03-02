@@ -1,0 +1,83 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/legendary-siren.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-siren-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Siren"
+  },
+  "name": "Legendary Siren",
+  "slug": "legendary-siren",
+  "type": "Siren",
+  "description": "Legendary Siren is a legendary Maliwan class mod for Maya in Borderlands 2. It can drop from any appropriate loot source, with boosted drop odds from Vermivorous the Invincible, Pete the Invincible, Voracidous the Invincible, Uranus, and the Ancient Dragons of Destruction.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Ward",
+    "Accelerate",
+    "Mind's Eye",
+    "Foresight",
+    "Flicker"
+  ],
+  "sources": [
+    {
+      "name": "Vermivorous",
+      "tags": [
+        "Raid Boss",
+        "Wam Bam Island"
+      ]
+    },
+    {
+      "name": "Dexiduous",
+      "tags": [
+        "Raid Boss",
+        "Hunter's Grotto"
+      ]
+    },
+    {
+      "name": "Voracidous",
+      "tags": [
+        "Raid Boss",
+        "Candlerakk's Crag"
+      ]
+    },
+    {
+      "name": "Omnd-Omnd-Ohk",
+      "tags": [
+        "Rare Enemy",
+        "Hunter's Grotto"
+      ]
+    },
+    {
+      "name": "Maya Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Extra Phaselock duration from Suspension and Thoughtlock also prolongs the mod's movement-speed bonus, as it lasts for the full time Phaselock is active.\n\nA separate Legendary Siren item can be unlocked via a SHiFT code from the Diamond Plate Loot Chest. The model features Lilith's Phasewalk emblem, and the red text nods to one of Lilith's critical-hit voice lines from Borderlands.",
+  "special": {
+    "description": "Boosts cooldown rate and gun damage (up to +58% cooldown and +42% gun damage at max level).\n\nUnique effect: while Phaselock is active, Maya gains +45% movement speed.\n\nPossible skill bonuses (varies by roll): up to +5 Ward, +5 Accelerate, +5 Mind's Eye, +5 Foresight, and +5 Flicker.",
+    "title": "\"(giggles) I'm really good at this!\""
+  },
+  "max": {
+    "cooldown_rate_bonus": 58,
+    "gun_damage_bonus": 427,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Ward Skill",
+    "+5 Accelerate Skill",
+    "+5 Mind's ri Skill",
+    "+5 Flicker Skill",
+    "+5 Foresight Skill",
+    "Increases Movement Speed by 457. while Phaselock is active."
+  ]
+}

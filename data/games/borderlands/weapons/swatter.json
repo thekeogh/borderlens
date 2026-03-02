@@ -1,0 +1,63 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Swatter"
+  },
+  "name": "Swatter",
+  "slug": "swatter",
+  "type": "Repeater",
+  "description": "Swatter repeaters are average in power and fire rate but very accurate. They are best for precision play and can serve as a light sniper substitute when scoped.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      10,
+      318
+    ],
+    "accuracy": [
+      90.9,
+      93.5
+    ],
+    "rate": [
+      2.6,
+      5.5
+    ],
+    "mag": [
+      12,
+      30
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "Dahl",
+    "Eridian",
+    "Gearbox",
+    "Hyperion",
+    "Maliwan",
+    "S&S Munitions",
+    "Tediore",
+    "Torgue",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "image": "/img/games/borderlands/weapons/swatter.png",
+  "sources": [
+    {
+      "name": "Repeater Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

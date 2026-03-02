@@ -1,0 +1,33 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/mirv.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Mirv"
+  },
+  "name": "Mirv",
+  "slug": "mirv",
+  "type": "MIRV",
+  "description": "When the main grenade explodes, it splits into several smaller grenades. The number of child grenades is determined by the roll on the mod when it drops. Total damage scales with the number of children, as each child grenade deals the mod's listed base damage.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "MIRV stands for Multiple Independently-targeted Reentry Vehicle, a missile design that carries multiple warheads.",
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

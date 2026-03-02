@@ -1,0 +1,52 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-binder.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-binder-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Binder"
+  },
+  "name": "Legendary Binder",
+  "slug": "legendary-binder",
+  "type": "Siren",
+  "description": "Legendary Binder is a legendary Siren class mod made by Maliwan. It is part of the Digistruct Peak upgrade content and can drop from Tubby enemies in Ultimate Vault Hunter Mode from level 62 onwards.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Suspension",
+    "Sweet Release",
+    "Wreck",
+    "Helios",
+    "Reaper"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Requires Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. It is not obtainable without this add-on.",
+  "special": {
+    "description": "Grants up to +31% team cooldown rate.\n\nAlso boosts Maya skills, with rolls that can add up to +5 to: Reaper, Helios, Suspension, Wreck, and Sweet Release.\n\nThe standard Binder is outclassed by this version and shares the same appearance to help tell them apart.",
+    "title": "\"Please hold.\""
+  },
+  "max": {
+    "cooldown_rate_bonus": 3,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Reaper Skill",
+    "+5 Helios Skill",
+    "+5 Suspension Skill",
+    "+5 Sweet Release Skill"
+  ]
+}

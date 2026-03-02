@@ -1,0 +1,65 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Shotgun_(Title)"
+  },
+  "name": "Shotgun",
+  "slug": "shotgun",
+  "type": "Shotgun",
+  "description": "Shotgun is the default title for combat or assault shotguns that do not qualify for higher titles. On assault shotguns, the lack of a stronger title usually indicates lower overall quality.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      58,
+      12
+    ],
+    "accuracy": [
+      0,
+      80.7
+    ],
+    "rate": [
+      0.4,
+      3.1
+    ],
+    "mag": [
+      2,
+      10
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "Dahl",
+    "Eridian",
+    "Gearbox",
+    "Hyperion",
+    "Jakobs",
+    "Maliwan",
+    "S&S Munitions",
+    "Tediore",
+    "Torgue",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/shotgun.png",
+  "sources": [
+    {
+      "name": "Shotgun Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

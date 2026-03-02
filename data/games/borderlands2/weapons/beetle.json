@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/beetle.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Beetle"
+  },
+  "name": "Beetle",
+  "slug": "beetle",
+  "type": "SMG",
+  "description": "The Beetle is a Dahl SMG variant locked to a single element. Its Maliwan-type barrel boosts incendiary chance and burn damage for its level. It can be harder to find than its rarity colour implies due to limited valid parts. It is not an endgame standout, but it stays effective while levelling by applying steady fire pressure.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "notes": "Other Dahl fixed-element SMGs in the same subset include the Eel, Jackal, and Scorpion.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

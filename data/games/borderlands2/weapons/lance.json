@@ -1,0 +1,37 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/lance.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Lance_(assault_rifle)"
+  },
+  "name": "Lance",
+  "slug": "lance",
+  "type": "Assault Rifle",
+  "description": "A solid all-round assault rifle, best suited to medium to long range thanks to its accurate barrel. The Jakobs barrel grants a damage boost, but you trade off higher recoil and a slower fire rate.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "aliases": [
+    "Lance (assault rifle)"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": ""
+}

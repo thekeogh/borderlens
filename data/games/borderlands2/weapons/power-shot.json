@@ -1,0 +1,39 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/power-shot.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Power_Shot"
+  },
+  "name": "Power Shot",
+  "slug": "power-shot",
+  "type": "Pistol",
+  "description": "Power Shot pistols pair a long, accurate, hard-hitting barrel with average magazine sizes. Their damage can feel only middling for the barrel type, but they compensate with very fast reloads. Holding the trigger enables burst fire.\n\nOn reload, the gun is thrown forward. Any remaining rounds are discarded but greatly increase the damage of the resulting explosion. If it misses, it bounces a few times like a lobbed grenade; if it hits an enemy, it detonates immediately.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Appears only at green rarity or higher.\nDrops randomly from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

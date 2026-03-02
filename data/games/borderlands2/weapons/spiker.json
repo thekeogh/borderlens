@@ -1,0 +1,32 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/spiker.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Spiker"
+  },
+  "name": "Spiker",
+  "slug": "spiker",
+  "type": "Pistol",
+  "description": "Spikers fire slow needle rounds that stick to targets or surfaces, then explode after a short delay. The needle itself deals no impact damage; all damage comes from the detonation. They cannot score critical hits, and the travel time plus fuse can make landing shots awkward.\n\nCompared with Darts, Spikers shoot slightly faster and stick instead of ricocheting, but do not home. Versus other same-brand purple pistols, they hit harder per shot but fire much slower and consume double ammo, reducing DPS and ammo efficiency.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "elements": [
+    "None"
+  ],
+  "notes": "Gaige: Close Enough does not work with Spikers.\nMaya: Cloud Kill triggers only on detonation.\nZer0: Be Like Water does not trigger, even after detonation.\nEffective against Nomad shields, as the explosion can damage through the shield.\nHyperion Spikers can rarely spawn non-elemental due to a parts issue; needles are faint, detonate for explosive damage, and the blast appears purple.\nThis also makes Hyperion E-tech Darts and Spikers more common than other brands.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

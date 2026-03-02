@@ -1,0 +1,357 @@
+{
+  "changedFiles": 58,
+  "completedAt": "2026-02-26T13:30:33.015Z",
+  "processedFiles": 529,
+  "replacementsTracked": 58,
+  "replacementsMapSize": 61,
+  "sampleChanges": [
+    {
+      "field": "description",
+      "file": "data/games/borderlands/weapons/executioner.json",
+      "from": "The Executioner (displayed in game as the Invader due to a title bug) is a Legendary Hyperion sniper rifle from the base game. It uses a 15-round magazine and favors high fire rate and recoil reduction over per-shot damage. When scoped, it fires tight 5-round bursts that can land multiple critical hits, but its ammo consumption is heavy and benefits from ammo regeneration.",
+      "to": "The Executioner (displayed in game as the Invader due to a title bug) is a Legendary Hyperion sniper rifle from the base game. It uses a 15-round magazine and favours high fire rate and recoil reduction over per-shot damage. When scoped, it fires tight 5-round bursts that can land multiple critical hits, but its ammo consumption is heavy and benefits from ammo regeneration."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands/weapons/the-chopper.json",
+      "from": "The Chopper is an Epic Vladof assault rifle from The Secret Armory of General Knoxx that fires nonstop once triggered, emptying the magazine unless interrupted by reload, melee, or weapon swap. It hits hard but burns ammo quickly and has low accuracy, so it favors close-to-mid range and ammo regeneration.",
+      "to": "The Chopper is an Epic Vladof assault rifle from The Secret Armory of General Knoxx that fires nonstop once triggered, emptying the magazine unless interrupted by reload, melee, or weapon swap. It hits hard but burns ammo quickly and has low accuracy, so it favours close-to-mid range and ammo regeneration."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/acurate-smgg.json",
+      "from": "Acurate smgg is a common Bandit SMG from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants.",
+      "to": "Acurate smgg is a common Bandit SMG from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/anarchist.json",
+      "from": "Anarchist is a common Vladof pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Anarchist is a common Vladof pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/apparatus.json",
+      "from": "Apparatus is a common Hyperion pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants.",
+      "to": "Apparatus is a common Hyperion pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/bekah.json",
+      "from": "Bekah is a pearlescent Jakobs assault rifle from Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. Its handling profile favors controlled fire over raw spray output.",
+      "to": "Bekah is a pearlescent Jakobs assault rifle from Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. Its handling profile favours controlled fire over raw spray output."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/bratchny.json",
+      "from": "Bratchny is a common Vladof sniper from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Bratchny is a common Vladof sniper from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/carbene.json",
+      "from": "Carbene is a common Bandit assault rifle from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants.",
+      "to": "Carbene is a common Bandit assault rifle from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/carbine.json",
+      "from": "Carbine is a common Dahl assault rifle from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Carbine is a common Dahl assault rifle from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/commerce.json",
+      "from": "Commerce is a rare Hyperion SMG from the base game. Its handling profile favors controlled fire over raw spray output. It is fixed to shock damage.",
+      "to": "Commerce is a rare Hyperion SMG from the base game. Its handling profile favours controlled fire over raw spray output. It is fixed to shock damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/competition.json",
+      "from": "Competition is a common Hyperion sniper from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Competition is a common Hyperion sniper from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/fire-drill.json",
+      "from": "Fire Drill is an effervescent Vladof pistol from the base game. Its handling profile favors controlled fire over raw spray output. It is fixed to incendiary damage.",
+      "to": "Fire Drill is an effervescent Vladof pistol from the base game. Its handling profile favours controlled fire over raw spray output. It is fixed to incendiary damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/fire-infinity.json",
+      "from": "Fire Infinity is a legendary Vladof pistol from the base game. Its handling profile favors controlled fire over raw spray output. It is fixed to incendiary damage.",
+      "to": "Fire Infinity is a legendary Vladof pistol from the base game. Its handling profile favours controlled fire over raw spray output. It is fixed to incendiary damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/fox.json",
+      "from": "Fox is a common Dahl SMG from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Fox is a common Dahl SMG from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/gub.json",
+      "from": "Gub is a legendary Bandit pistol from the base game. Its handling profile favors controlled fire over raw spray output. It is fixed to corrosive damage.",
+      "to": "Gub is a legendary Bandit pistol from the base game. Its handling profile favours controlled fire over raw spray output. It is fixed to corrosive damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/guerrilla.json",
+      "from": "Guerrilla is a common Vladof assault rifle from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Guerrilla is a common Vladof assault rifle from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/hand-cannon.json",
+      "from": "Hand Cannon is a common Torgue pistol from the base game. Its handling profile favors controlled fire over raw spray output. It is fixed to explosive damage.",
+      "to": "Hand Cannon is a common Torgue pistol from the base game. Its handling profile favours controlled fire over raw spray output. It is fixed to explosive damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/horrorshow.json",
+      "from": "Horrorshow is a common Vladof sniper from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Horrorshow is a common Vladof sniper from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/impact.json",
+      "from": "Impact is a common Hyperion pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Impact is a common Hyperion pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/injector.json",
+      "from": "Injector is a common Torgue pistol from the base game. Its handling profile favors controlled fire over raw spray output. It is fixed to explosive damage.",
+      "to": "Injector is a common Torgue pistol from the base game. Its handling profile favours controlled fire over raw spray output. It is fixed to explosive damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/iron.json",
+      "from": "Iron is a common Jakobs pistol from the base game. Its handling profile favors controlled fire over raw spray output.",
+      "to": "Iron is a common Jakobs pistol from the base game. Its handling profile favours controlled fire over raw spray output."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/jericho.json",
+      "from": "Jericho is a common Maliwan sniper from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Jericho is a common Maliwan sniper from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/lance.json",
+      "from": "Lance is a common Torgue assault rifle from the base game. Its handling profile favors controlled fire over raw spray output. It is fixed to explosive damage.",
+      "to": "Lance is a common Torgue assault rifle from the base game. Its handling profile favours controlled fire over raw spray output. It is fixed to explosive damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/leverage.json",
+      "from": "Leverage is a common Hyperion pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Leverage is a common Hyperion pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/magamum.json",
+      "from": "Magamum! is a common Bandit pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants.",
+      "to": "Magamum! is a common Bandit pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/muckamuck.json",
+      "from": "Muckamuck is a common Jakobs sniper from the base game. Its handling profile favors controlled fire over raw spray output.",
+      "to": "Muckamuck is a common Jakobs sniper from the base game. Its handling profile favours controlled fire over raw spray output."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/negotiator.json",
+      "from": "Negotiator is a common Dahl pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Negotiator is a common Dahl pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/oberkil.json",
+      "from": "Oberkil! is a common Bandit shotgun from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants.",
+      "to": "Oberkil! is a common Bandit shotgun from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/overcompensator.json",
+      "from": "Overcompensator is a legendary Hyperion shotgun from Commander Lilith & the Fight for Sanctuary. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Overcompensator is a legendary Hyperion shotgun from Commander Lilith & the Fight for Sanctuary. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/peacemaker.json",
+      "from": "Peacemaker is a common Dahl pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Peacemaker is a common Dahl pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/pistal.json",
+      "from": "Pistal is a common Bandit pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants.",
+      "to": "Pistal is a common Bandit pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/policy.json",
+      "from": "Policy is a common Hyperion sniper from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Policy is a common Hyperion sniper from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/pooshka.json",
+      "from": "Pooshka is a common Vladof sniper from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Pooshka is a common Vladof sniper from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/pounder.json",
+      "from": "Pounder is a common Torgue shotgun from the base game. Its handling profile favors controlled fire over raw spray output. It is fixed to explosive damage.",
+      "to": "Pounder is a common Torgue shotgun from the base game. Its handling profile favours controlled fire over raw spray output. It is fixed to explosive damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/presence.json",
+      "from": "Presence is a common Hyperion SMG from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Presence is a common Hyperion SMG from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/projectile-convergence.json",
+      "from": "Projectile Convergence is a common Hyperion SMG from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Projectile Convergence is a common Hyperion SMG from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/ratatater.json",
+      "from": "Ratatater! is a common Bandit pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants.",
+      "to": "Ratatater! is a common Bandit pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/renegade.json",
+      "from": "Renegade is a common Vladof assault rifle from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Renegade is a common Vladof assault rifle from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/repeater.json",
+      "from": "Repeater is a common Dahl pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Repeater is a common Dahl pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/revolver.json",
+      "from": "Revolver is a common Jakobs pistol from the base game. Its handling profile favors controlled fire over raw spray output.",
+      "to": "Revolver is a common Jakobs pistol from the base game. Its handling profile favours controlled fire over raw spray output."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/rifle.json",
+      "from": "Rifle is a common Dahl assault rifle from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants.",
+      "to": "Rifle is a common Dahl assault rifle from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/rokgun.json",
+      "from": "Rokgun is a common Bandit SMG from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants.",
+      "to": "Rokgun is a common Bandit SMG from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/room-clener.json",
+      "from": "Room Clener is a common Bandit shotgun from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants.",
+      "to": "Room Clener is a common Bandit shotgun from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with shock, incendiary, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/root.json",
+      "from": "Root is a common Torgue assault rifle from the base game. Its handling profile favors controlled fire over raw spray output. It is fixed to explosive damage.",
+      "to": "Root is a common Torgue assault rifle from the base game. Its handling profile favours controlled fire over raw spray output. It is fixed to explosive damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/scorpio.json",
+      "from": "Scorpio is a rare Dahl assault rifle from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Scorpio is a rare Dahl assault rifle from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/sniper.json",
+      "from": "Sniper is a common Dahl sniper from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Sniper is a common Dahl sniper from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/spitter.json",
+      "from": "Spitter is a common Torgue assault rifle from the base game. Its handling profile favors controlled fire over raw spray output. It is fixed to explosive damage.",
+      "to": "Spitter is a common Torgue assault rifle from the base game. Its handling profile favours controlled fire over raw spray output. It is fixed to explosive damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/storm.json",
+      "from": "Storm is a pearlescent Hyperion sniper from Ultimate Vault Hunter Upgrade Pack. Its handling profile favors controlled fire over raw spray output. It is fixed to shock damage.",
+      "to": "Storm is a pearlescent Hyperion sniper from Ultimate Vault Hunter Upgrade Pack. Its handling profile favours controlled fire over raw spray output. It is fixed to shock damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/synergy.json",
+      "from": "Synergy is a common Hyperion pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Synergy is a common Hyperion pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/terror.json",
+      "from": "Terror is a common Dahl sniper from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Terror is a common Dahl sniper from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/tmp.json",
+      "from": "TMP is a common Vladof pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "TMP is a common Vladof pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/transaction.json",
+      "from": "Transaction is a common Hyperion sniper from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Transaction is a common Hyperion sniper from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/transmurdera.json",
+      "from": "Transmurdera is a common Hyperion SMG from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Transmurdera is a common Hyperion SMG from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/troublemaker.json",
+      "from": "Troublemaker is a common Vladof pistol from the base game. Its handling profile favors controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants.",
+      "to": "Troublemaker is a common Vladof pistol from the base game. Its handling profile favours controlled fire over raw spray output. It can roll with incendiary, shock, corrosive, slag damage variants."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/weisenheimer.json",
+      "from": "Weisenheimer is a common Hyperion SMG from the base game. Its handling profile favors controlled fire over raw spray output. It is fixed to corrosive damage.",
+      "to": "Weisenheimer is a common Hyperion SMG from the base game. Its handling profile favours controlled fire over raw spray output. It is fixed to corrosive damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/wellness.json",
+      "from": "Wellness is a common Hyperion SMG from the base game. Its handling profile favors controlled fire over raw spray output. It is fixed to slag damage.",
+      "to": "Wellness is a common Hyperion SMG from the base game. Its handling profile favours controlled fire over raw spray output. It is fixed to slag damage."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/wheelgun.json",
+      "from": "Wheelgun is a common Jakobs pistol from the base game. Its handling profile favors controlled fire over raw spray output.",
+      "to": "Wheelgun is a common Jakobs pistol from the base game. Its handling profile favours controlled fire over raw spray output."
+    },
+    {
+      "field": "description",
+      "file": "data/games/borderlands2/weapons/widow-maker.json",
+      "from": "Widow Maker is a common Jakobs pistol from the base game. Its handling profile favors controlled fire over raw spray output.",
+      "to": "Widow Maker is a common Jakobs pistol from the base game. Its handling profile favours controlled fire over raw spray output."
+    }
+  ]
+}

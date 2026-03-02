@@ -1,0 +1,54 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-gunzerker.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-gunzerker-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Gunzerker"
+  },
+  "name": "Legendary Gunzerker",
+  "slug": "legendary-gunzerker",
+  "type": "Gunzerker",
+  "description": "Legendary Gunzerker is a legendary class mod for Salvador in Borderlands 2. Manufactured by Torgue.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Lay Waste",
+    "All in the Reflexes",
+    "Last Longer",
+    "Yippee Ki Yay",
+    "Incite"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Introduced with Ultimate Vault Hunter Upgrade Pack 2 (Digistruct Peak) and unavailable without that add-on.\n\nNot to be confused with the Legendary Berserker class mod.\n\nIts red text is a quote from the 1987 film Dirty Dancing.",
+  "special": {
+    "description": "At max level: +55% action skill cooldown rate.",
+    "title": "\"Nobody puts this baby in a corner.\""
+  },
+  "max": {
+    "cooldown_rate_bonus": 557,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Lay Waste Skill",
+    "+5 Last Longer Skill",
+    "+5 Yippee-Ki-Y ay Skill",
+    "+5 Alll in the Reflexes Skill",
+    "+5 Incite Skill",
+    "Increases Action Skill"
+  ]
+}

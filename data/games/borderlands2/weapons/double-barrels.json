@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/double-barrels.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Double_Barrels!"
+  },
+  "name": "Double Barrels!",
+  "slug": "double-barrels",
+  "type": "Shotgun",
+  "description": "Double Barrels! is a Tediore shotgun built for chunky pellet damage with steady handling. It performs best at close to mid range, and its real strength comes from tossing the gun on reload. Reload explosions scale with the shells left in the magazine, so reloading early can dramatically boost burst damage. With good timing at higher levels, the reload throw can hit as hard as some launchers.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": ""
+}

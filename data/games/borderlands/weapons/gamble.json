@@ -1,0 +1,57 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Gamble"
+  },
+  "name": "Gamble",
+  "slug": "gamble",
+  "type": "Sniper",
+  "description": "Gamble is a pump-action sniper rifle title that boosts critical damage (about +50%) and tech at the cost of lower accuracy. The title further amplifies inaccuracy, and its rifles are not affected by external accuracy bonuses.",
+  "notes": "The name reflects the playstyle, with high damage but unreliable precision, so critical hits are less consistent even when aiming carefully. The Gamble title (Title_LowAccuracy1_Gamble) is granted to sniper rifles with accuracy below about 94.7 and further increases inaccuracy while boosting critical damage and tech; see stat modifiers for details.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      36,
+      1600
+    ],
+    "accuracy": [
+      87.1,
+      88
+    ],
+    "rate": [
+      0.3,
+      1.3
+    ],
+    "mag": [
+      3,
+      6
+    ]
+  },
+  "manufacturers": [
+    "Jakobs",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/gamble.png",
+  "sources": [
+    {
+      "name": "Sniper Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

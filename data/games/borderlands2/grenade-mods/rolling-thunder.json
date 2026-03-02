@@ -1,0 +1,62 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/rolling-thunder.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/rolling-thunder-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Rolling_Thunder_(grenade_mod)"
+  },
+  "name": "Rolling Thunder",
+  "slug": "rolling-thunder",
+  "type": "MIRV",
+  "description": "Rolling Thunder is a Legendary grenade mod made by Torgue in Borderlands 2.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "Wilhelm",
+      "tags": [
+        "Boss",
+        "End of the Line"
+      ]
+    },
+    {
+      "name": "Torgue Shop",
+      "tags": [
+        "Vendor",
+        "DLC 2 Wide"
+      ]
+    },
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Its name nods to Operation Rolling Thunder, the US bombing campaign during the Vietnam War.\n\nThe item card flavour text warns that using it indoors is both impressive and potentially fatal.",
+  "special": {
+    "description": "Thrown with a very shallow arc, it skims along the ground and bounces in a straight line. It detonates on every bounce after the first.\n\nOn direct contact with an enemy, it releases 10 child grenades. After a short series of bounces, it ends in a larger MIRV-style blast.",
+    "title": "The thunder shall bring forth the pain!"
+  },
+  "max": {
+    "blast_radius": 500,
+    "fuse_time": 0,
+    "grenade_damage": 7241777,
+    "grenade_damage_multiplier": 10,
+    "level": 90
+  },
+  "abilities": [
+    "Spawns 10 child grenades upon detonating."
+  ]
+}

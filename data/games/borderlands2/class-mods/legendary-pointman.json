@@ -1,0 +1,51 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/legendary-pointman.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/legendary-pointman-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Legendary_Pointman"
+  },
+  "name": "Legendary Pointman",
+  "slug": "legendary-pointman",
+  "type": "Commando",
+  "description": "Legendary Pointman is Axton's Legendary class mod in Borderlands 2. It is a Pangolin-made class mod (orange rarity).",
+  "manufacturers": [
+    "Pangolin"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Pressure",
+    "Grit",
+    "Last Ditch Effort",
+    "Able",
+    "Healthy"
+  ],
+  "sources": [
+    {
+      "name": "Chubby",
+      "tags": [
+        "Rare Enemy",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Below level 50, versions with less than +5 skill bonuses are not obtainable through normal gameplay.\n\nRequires Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge to appear in-game.",
+  "special": {
+    "description": "At maximum level it provides two passive bonuses:\n\n- Health regeneration: +38,902 per second\n- Maximum health: +1,196,988\n\nThe item uses the standard Pointman skin for clearer visual identification.",
+    "title": "\"Point taken.\""
+  },
+  "abilities": [
+    "+5 Pressure Skill",
+    "+5 Grit Skill",
+    "+5 Last Ditch Effort Skill",
+    "+5 Able Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

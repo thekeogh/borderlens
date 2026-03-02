@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/longrider.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Longrider"
+  },
+  "name": "Longrider",
+  "slug": "longrider",
+  "type": "Shotgun",
+  "description": "The Longrider is a single barrel shotgun built for precision. It offers higher accuracy and a tighter pellet spread than most shotguns, but comes with small magazines and a low pellet count. It rewards careful aiming, though frequent reloads can make it awkward to handle.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "Gaige: Smaller, Lighter, Faster and some Punk class mod setups can drop the magazine size to zero, preventing the gun from functioning.\nAnarchy: A 1 shot magazine version helps build stacks quickly and avoids losing stacks from an accidental reload.\nZer0: The strong accuracy suits mid range play, and his skills can further tighten aim and boost critical damage.\nKrieg: Works well with Empty the Rage, as the magazine empties very quickly at close range to trigger the melee bonus.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "elements": [
+    "None"
+  ]
+}

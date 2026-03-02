@@ -1,0 +1,34 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/kindle.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Kindle"
+  },
+  "name": "Kindle",
+  "slug": "kindle",
+  "type": "SMG",
+  "description": "The Kindle is a Maliwan-element SMG from a small set that always rolls with a fixed elemental barrel. This gives it unusually high damage-over-time and status chance for its tier. Because its parts are locked, it appears far less often than its item colour suggests, usually as green and only rarely blue or purple, so it is easy to miss or discard.\n\nEven at lower rarities, its strong elemental uptime can carry fights well until you replace it with a stronger Unique or Legendary option.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Incendiary"
+  ],
+  "notes": "Other Tediore SMGs in this fixed-element set include Chaff (slag), Green (corrosive) and Spark (shock).\n\nThe Kindle spawns at green rarity or higher.\n\nIt is a random world drop from appropriate loot sources.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

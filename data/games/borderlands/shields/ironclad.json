@@ -1,0 +1,54 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "The Secret Armory of General Knoxx",
+  "dlc": true,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/ironclad-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Pangolin_Ironclad"
+  },
+  "name": "Ironclad",
+  "slug": "ironclad",
+  "description": "The Pangolin Ironclad is the highest-capacity shield in Borderlands 1. Found only in the General Knoxx DLC. The 7 second recharge delay is the price you pay for that massive buffer.",
+  "special": {
+    "description": "Highest shield capacity in the game.",
+    "title": "I stand unvanquished!"
+  },
+  "type": "Standard",
+  "rarities": [
+    "Pearlescent"
+  ],
+  "manufacturers": [
+    "Pangolin"
+  ],
+  "sources": [
+    {
+      "name": "Badass Defender",
+      "tags": [
+        "Enemy",
+        "Road's End"
+      ]
+    },
+    {
+      "name": "Badass Infantry",
+      "tags": [
+        "Enemy",
+        "Road's End"
+      ]
+    },
+    {
+      "name": "Badass Engineer",
+      "tags": [
+        "Enemy",
+        "Road's End"
+      ]
+    },
+    {
+      "name": "Crawmerax",
+      "tags": [
+        "Craw's Lair"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/ironclad.png"
+}

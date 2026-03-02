@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/peacemaker.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Peacemaker"
+  },
+  "name": "Peacemaker",
+  "slug": "peacemaker",
+  "type": "Pistol",
+  "description": "The Peacemaker pairs a Jakobs barrel with Dahl burst fire, boosting raw damage but lowering fire rate and adding stronger recoil. The kick makes burst shots less dependable at longer ranges. Up close it can outdamage many other Dahl pistols, especially when used with Salvador and his I'm Your Huckleberry skill.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "The Peacemaker only appears at green rarity or above.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

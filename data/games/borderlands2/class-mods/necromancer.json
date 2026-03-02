@@ -1,0 +1,65 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/class-mods/necromancer.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/necromancer-gaige-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Necromancer_(class_mod)"
+  },
+  "name": "Necromancer",
+  "slug": "necromancer",
+  "type": "Mechromancer",
+  "description": "Necromancer is a common Gaige (Mechromancer) class mod made by Maliwan and introduced in Tiny Tina's Assault on Dragon Keep. It is found only from treasure chests within that DLC area.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Strength of Five Gorillas",
+    "Wires Don't Talk",
+    "Made of Sterner Stuff"
+  ],
+  "sources": [
+    {
+      "name": "Mimic Chest",
+      "tags": [
+        "Chest",
+        "Unassuming Docks"
+      ]
+    },
+    {
+      "name": "Gold Golem",
+      "tags": [
+        "Boss",
+        "Mines of Avarice"
+      ]
+    },
+    {
+      "name": "Sorcerer's Daughter",
+      "tags": [
+        "Boss",
+        "Lair of Infinite Agony"
+      ]
+    }
+  ],
+  "notes": "Some Good variants previously applied the wrong effect, increasing reload time instead of reducing it.\n\nNeutral variants can offset the Smaller, Lighter, Faster magazine penalty on single-round weapons (eg Infinity). The mag size bonus starts at 13%, which is higher than the perk's maximum 4% penalty while the mod is equipped.\n\nThe name references the Mecromancer wizard theme; it is the only Dragon Keep class mod not named after a DnD base class.",
+  "special": {
+    "description": "At level cap, rolls one bonus from each pool.\n\nPool 1: Neutral +58.5% Mag Size, Chaotic +58.5% Fire Rate, Lawful +58.5% Accuracy.\n\nPool 2: Neutral +58.5% Mag Size, Evil +58.5% Crit Damage, Good +58.5% Reload Speed.\n\nTrue Neutral gives double Mag Size (+93.6%). The item card may show incorrect fire rate, reload speed, and accuracy values."
+  },
+  "max": {
+    "level": 90,
+    "mag_size": 94
+  },
+  "abilities": [
+    "+5 Strength of Five Gorillas Skill",
+    "+4 Wires Don't Talk Skill",
+    "+4 Made of Sterner Stuff Skill"
+  ]
+}

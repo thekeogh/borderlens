@@ -1,0 +1,45 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Captain Scarlett and Her Pirate's Booty",
+  "dlc": true,
+  "image": "/img/games/borderlands2/grenade-mods/midnight-star.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/midnight-star-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Captain_Blade's_Midnight_Star"
+  },
+  "name": "Midnight Star",
+  "slug": "midnight-star",
+  "type": "MIRV",
+  "description": "Midnight Star is a rare Torgue grenade mod from Captain Scarlett and her Pirate's Booty.\n\nWhen it detonates, it spits out child grenades in a tight delta spread that travels back towards where the thrower was standing. This makes it awkward for long range throws, but useful when you are fighting up close, as it can blanket the area around you and help secure a Second Wind.\n\nWith Axton, Do or Die can turn this behaviour into an advantage when you are downed in the middle of enemies.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "Message in a Bottle: Magnys Lighthouse",
+      "tags": [
+        "Quest",
+        "Magnys Lighthouse"
+      ]
+    }
+  ],
+  "notes": "Its name and red text reference the film Silverado. The quoted line is a character remark, and Midnight Star is both a saloon name and a character nickname in the film.",
+  "special": {
+    "description": "Curse: child grenades arc back towards your original position.\n\nRed text effect: higher damage, fewer child grenades.",
+    "title": "\"Hangin' around with you is no picnic.\" Curse of the Cackling Designer!"
+  },
+  "max": {
+    "blast_radius": 4,
+    "fuse_time": 0,
+    "grenade_damage": 6256982,
+    "grenade_damage_multiplier": 7,
+    "level": 90
+  }
+}

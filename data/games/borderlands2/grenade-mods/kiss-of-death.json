@@ -1,0 +1,56 @@
+{
+  "game": "borderlands2",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/grenade-mods/kiss-of-death.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/kiss-of-death-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Kiss_of_Death"
+  },
+  "name": "Kiss of Death",
+  "slug": "kiss-of-death",
+  "type": "Transfusion",
+  "description": "A rare Maliwan grenade mod from Borderlands 2.\n\nOn throw, it homes in and latches onto a single enemy, burning through the fuse with continuous elemental damage and an explosive detonation at the end. It excels at deleting one target, but is weaker than standard variants for clearing groups.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "elements": [
+    "Explosive",
+    "Incendiary",
+    "Shock",
+    "Corrosive"
+  ],
+  "sources": [
+    {
+      "name": "Hyperius",
+      "tags": [
+        "Raid Boss",
+        "Washburne Refinery"
+      ]
+    },
+    {
+      "name": "Hell Hath No Fury",
+      "tags": [
+        "Quest",
+        "Opportunity"
+      ]
+    }
+  ],
+  "notes": "Hyperius the Invincible can drop the Kiss of Death.\n\nIn The Pre-Sequel, a pre-1.07 bug let Moxxi's Toy Box be reopened after it vanished, respawning when entering Concordia from Triton Flats. This allowed repeated farming of the Kiss of Death and other items.\n\nThe name alludes to a traitor's kiss that marks someone for death.",
+  "special": {
+    "description": "Always homing with a fixed 3-second fuse and boosted damage.\n\nSticks to an enemy and deals damage over time until detonation (or the target dies). On explosion, it releases up to 6 life orbs that heal allies.",
+    "title": "It takes two to get one in trouble."
+  },
+  "max": {
+    "blast_radius": 389,
+    "fuse_time": 3,
+    "level": 90
+  },
+  "abilities": [
+    "Spawns 6 child grenades upon"
+  ]
+}

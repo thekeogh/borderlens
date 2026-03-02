@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/sniper.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Sniper_(class_mod)"
+  },
+  "name": "Sniper",
+  "slug": "sniper",
+  "type": "Assassin",
+  "description": "The Sniper is a common Assassin class mod made by Jakobs. It can drop at random from any appropriate loot source.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Precisi0n",
+    "0ne Sh0t 0ne Kill",
+    "Headsh0t"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "name": "Zer0 Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/relics/sheriffs-badge.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/bonus-item/sheriffs-badge-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Sheriff's_Badge"
+  },
+  "name": "Sheriff's Badge",
+  "slug": "sheriffs-badge",
+  "type": "Offense",
+  "description": "A unique Eridian relic from Borderlands 2. The Sheriff's Badge boosts pistol fire rate and pistol damage, and extends Fight For Your Life bleed-out time. It also grants party-based bonuses to maximum health and Fight For Your Life duration when allies equip Deputy's Badges.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Epic"
+  ],
+  "sources": [
+    {
+      "name": "Sheriff of Lynchwood",
+      "tags": [
+        "Unique Enemy",
+        "Lynchwood"
+      ]
+    }
+  ],
+  "notes": "A stronger counterpart to the Deputy's Badge, trading shotgun bonuses for pistol boosts while adding extra survivability. It is most effective when only one player equips it, as stacking bonuses come from teammates wearing Deputy's Badges rather than additional Sheriff's Badges.\n\nIts pistol bonuses also apply to Krieg's thrown buzz axe.\n\nNotably, it is the only purple-rarity relic in Borderlands 2 with red flavour text.",
+  "special": {
+    "description": "Boosts pistol fire rate and pistol damage, and increases Fight For Your Life bleed-out time.\n\nParty bonus: for each Deputy's Badge equipped by other players, all players gain +15% maximum health and +15% Fight For Your Life time.",
+    "title": "Take turns and play nice."
+  },
+  "max": {
+    "fire_rate": 56,
+    "level": 90
+  },
+  "abilities": [
+    "Increases Fight for Your Life Time and Max Health by 15y. for every",
+    "Fight For Your Life Time AIGUIGICUICI: ema"
+  ]
+}

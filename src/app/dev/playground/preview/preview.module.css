@@ -1,0 +1,33 @@
+.page {
+  min-height: 100vh;
+  background: #081b32;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.canvas {
+  width: 100%;
+  min-height: calc(100vh - 2rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #d8e7ff;
+}
+
+.canvas > * {
+  max-width: 100%;
+}
+
+.muted,
+.error {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #7ea0ca;
+  font-family: "Space Mono", Menlo, Monaco, Consolas, monospace;
+}
+
+.error {
+  color: #ff94b1;
+}

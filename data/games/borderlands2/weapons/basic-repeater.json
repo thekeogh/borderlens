@@ -1,0 +1,33 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/basic-repeater.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Basic_Repeater"
+  },
+  "name": "Basic Repeater",
+  "slug": "basic-repeater",
+  "type": "Pistol",
+  "description": "The Basic Repeater is the default starting pistol in a normal new game. It has no unique gimmicks and its stats are deliberately modest, with a notably small magazine for a repeater-style handgun. It mainly exists to ease you into early combat and is typically swapped out soon after.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common"
+  ],
+  "notes": "It always spawns with fixed components: a unique Bandit barrel, Tediore grip, no sight, no accessory and no elemental capacitor.",
+  "sources": [
+    {
+      "name": "My First Gun",
+      "tags": [
+        "Mission",
+        "Quest Reward"
+      ]
+    }
+  ],
+  "elements": [
+    "None"
+  ]
+}

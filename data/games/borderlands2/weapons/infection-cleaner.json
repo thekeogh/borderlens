@@ -1,0 +1,227 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Commander Lilith & the Fight for Sanctuary",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/infection-cleaner.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/infection-cleaner-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Infection_Cleaner"
+  },
+  "name": "Infection Cleaner",
+  "slug": "infection-cleaner",
+  "type": "SMG",
+  "description": "Infection Cleaner is an Effervescent Tediore SMG from the Fight for Sanctuary add-on in Borderlands 2.\n\nIt plays the same as the Avenger and can match its stats when level and parts align. Key differences: it is always incendiary, and the bullets fired by the thrown gun do not apply elemental effects.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Effervescent"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "+3 Mag Size",
+          "-0.15s Reload Time",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "2.4x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "3.4x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "5.9x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "4.3x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "3.1x Zoom"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+18% Damage",
+          "+15% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "+50% Projectile Speed"
+        ],
+        "name": "Bullet Speed"
+      },
+      {
+        "modifiers": [
+          "-25% Max Inaccuracy",
+          "-25% Recoil"
+        ],
+        "name": "Stability"
+      },
+      {
+        "modifiers": [
+          "+5% Mag Size",
+          "+25% Reload Speed"
+        ],
+        "name": "Reload"
+      },
+      {
+        "modifiers": [
+          "+25% Max Accuracy",
+          "-25% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "New Pandora Soldiers",
+      "tags": [
+        "Enemy",
+        "DLC 5 Wide",
+        "Drop rate: 0.9%"
+      ]
+    },
+    {
+      "name": "Lt. Angvar",
+      "tags": [
+        "Unique Enemy",
+        "The Burrows",
+        "Drop rate: 0.9%"
+      ]
+    },
+    {
+      "name": "Lt. Tetra",
+      "tags": [
+        "Unique Enemy",
+        "Helios Fallen",
+        "Drop rate: 0.9%"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Shhh. I'll take care of everything, don't you fret.",
+    "description": "While equipped, regenerates SMG reserve ammo at 1.5 per second.\n\nReload throws the weapon forwards; it ricochets off targets and scenery, keeps firing in all directions, then detonates after a short fuse (roughly 0.1 to 3.6s). When SMG reserve ammo drops below 57, the fuse shortens.\n\nDetonation damage scales with shot damage and unused ammo (fire). The thrown gun's bullets deal physical grenade-type damage and benefit from gun and amp damage bonuses."
+  },
+  "notes": "Despite the name fitting the Writhing Deep dental theme, it does not receive any performance bonus from the Retainer or Mouthwash.",
+  "max": {
+    "accuracy": 93.3,
+    "damage": 737744,
+    "fire_rate": 8.3,
+    "level": 90,
+    "mag_size": 51,
+    "reload_speed": 2,
+    "status_chance": 10,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "3.1x Weapon Zoom",
+    "Highly effective vs Flesh."
+  ]
+}

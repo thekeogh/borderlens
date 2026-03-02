@@ -1,0 +1,53 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Mauler_(combat_rifle)"
+  },
+  "name": "Mauler",
+  "slug": "mauler",
+  "type": "Assault Rifle",
+  "description": "Mauler is a combat rifle title that excels in tight quarters where cover is common. Good Maulers are hard to find because the best support machine guns tend to roll into Havoc or Massacre, but Torgue Maulers can still reach very high damage while staying just below those titles.",
+  "notes": "Because Mauler is a damage-focused title, elemental Machine Guns do not spawn as Maulers. The Mauler firing sound is unique and resembles the Scorpio turret; Stompers share the same audio. The Mauler title (Title_Damage1_Mauler) grants about +15% damage.",
+  "ranges": {
+    "damage": [
+      107,
+      461
+    ],
+    "accuracy": [
+      67.4,
+      88.3
+    ],
+    "rate": [
+      5.7,
+      9.8
+    ],
+    "mag": [
+      48,
+      62
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "S&S Munitions",
+    "Torgue",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/mauler.png",
+  "sources": [
+    {
+      "name": "AR Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

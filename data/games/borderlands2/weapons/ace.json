@@ -1,0 +1,37 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/ace.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Ace"
+  },
+  "name": "Ace",
+  "slug": "ace",
+  "type": "SMG",
+  "description": "Ace is a Tediore SMG fitted with a Hyperion barrel, granting a sizeable critical hit boost. The barrel also tightens accuracy, making the gun more reliable over longer bursts and a solid pick for builds focused on steady, precise fire.",
+  "manufacturers": [
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "Spawns at green rarity or above and most often comes from general world-drop loot.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

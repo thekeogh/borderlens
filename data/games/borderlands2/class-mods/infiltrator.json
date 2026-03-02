@@ -1,0 +1,50 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/infiltrator.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/infiltrator-zer0-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Infiltrator"
+  },
+  "name": "Infiltrator",
+  "slug": "infiltrator",
+  "type": "Assassin",
+  "description": "Infiltrator is a common (white) Zer0 class mod in Borderlands 2, made by Dahl. It can drop randomly from any appropriate loot source.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Be Like Water",
+    "Unf0rseen",
+    "Ir0n Hand"
+  ],
+  "sources": [
+    {
+      "name": "Zer0 Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "description": "At the level cap, this class mod provides +52% fire rate and +52% melee damage. The item card may show an incorrect fire rate value."
+  },
+  "notes": "",
+  "max": {
+    "fire_rate": 34,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Be Like Water Skill",
+    "+4 UnfOreseen Skill"
+  ]
+}

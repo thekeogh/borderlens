@@ -1,0 +1,60 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Repeater_(Title)"
+  },
+  "name": "Repeater",
+  "slug": "repeater",
+  "type": "Repeater",
+  "description": "Repeater pistols trade rate of fire for accuracy, lower recoil, and higher per-shot damage compared to machine pistols. They are best for players who aim for critical hits rather than spraying at close range.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      186
+    ],
+    "accuracy": [
+      87.2
+    ],
+    "rate": [
+      3.7
+    ],
+    "mag": [
+      20
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "Dahl",
+    "Eridian",
+    "Gearbox",
+    "Hyperion",
+    "Maliwan",
+    "S&S Munitions",
+    "Tediore",
+    "Torgue",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/repeater.png",
+  "sources": [
+    {
+      "name": "Repeater Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

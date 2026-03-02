@@ -1,0 +1,55 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/slayer-of-terramorphous-gunzerker.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/slayer-of-terramorphous-bl2-gunzerker",
+    "wiki": "https://borderlands.fandom.com/wiki/Slayer_Of_Terramorphous"
+  },
+  "name": "Slayer Of Terramorphous",
+  "slug": "slayer-of-terramorphous-gunzerker",
+  "type": "Gunzerker",
+  "description": "Slayer Of Terramorphous is a legendary class mod from Borderlands 2. It can roll for any class and may be made by Dahl, Jakobs, Maliwan, or Bandit.\n\nIt is a guaranteed drop from Terramorphous the Invincible, but the class you get is random. Compared with most legendary class mods it typically gives slightly smaller stat boosts, while offering a broader mix of bonuses.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "skills": [
+    "Locked and Loaded",
+    "Quick Draw",
+    "Filled to the Brim",
+    "Hard to Kill",
+    "Incite",
+    "Sentry",
+    "Ready",
+    "Impact",
+    "Expertise",
+    "Healthy"
+  ],
+  "sources": [
+    {
+      "name": "Terramorphous",
+      "tags": [
+        "Raid Boss",
+        "Terramorphous Peak"
+      ]
+    }
+  ],
+  "notes": "Terramorphous always drops one, but the character version is random.\n\nThe Assassin variant was once bugged and could roll the wrong skill bonus, leaving it with fewer effects; this was later corrected.\n\nEach character version uses unique artwork: Gunzerker references Brick's Berserk, Siren echoes Lilith's Phasewalk imagery, Mechromancer shows a cartoon Claptrap, and Psycho is notable for its unusual lowercase \"o\" in \"Of\" on the item name.",
+  "special": {
+    "description": "At max level, Salvador's Slayer Of Terramorphous grants:\n- Burn Damage: +37%\n- Ignite Chance: +37%\n- Health: +1,101,229"
+  },
+  "abilities": [
+    "+4 Quick Draw Skill",
+    "+4 Filled to the Brim Skill",
+    "+4 Hard to Kill Skill",
+    "+4 Incite Skill"
+  ],
+  "max": {
+    "level": 90
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/blaster.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Blaster_(assault_rifle)"
+  },
+  "name": "Blaster",
+  "slug": "blaster",
+  "type": "Assault Rifle",
+  "description": "Blaster weapons are E-tech assault rifles that fire elemental energy bolts at the cost of efficiency, spending two assault rifle rounds per shot. Dahl and Vladof versions handle differently, but both suit close to medium range due to bolt spread and slower projectile speed. They burn through reserves fast and can feel clumsy in Fight For Your Life, although the ricochets can help against certain enemies.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "E-tech"
+  ],
+  "aliases": [
+    "Blaster (assault rifle)"
+  ],
+  "elements": [
+    "Shock",
+    "Incendiary",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "With high ranks in Pain is Power, the weakened critical bonus can make critical hits deal less damage than body shots in some setups.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

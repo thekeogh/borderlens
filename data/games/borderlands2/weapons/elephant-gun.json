@@ -1,0 +1,175 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Sir Hammerlock's Big Game Hunt",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/elephant-gun.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/elephant-gun-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Elephant_Gun"
+  },
+  "name": "Elephant Gun",
+  "slug": "elephant-gun",
+  "type": "Sniper",
+  "description": "The Elephant Gun is a rare Jakobs sniper rifle from Big Game Hunt. It hits extremely hard but cycles and reloads very slowly, with poor handling and no scope. It performs best at mid range where you can line up critical hits, often dropping weaker targets in one shot. In close quarters, the sluggish fire rate and reload make it awkward to use.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "+1 Mag Size",
+          "+30% Reload Speed",
+          "-0.2 Recoil",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "+15% Reload Speed",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 20%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 20%",
+          "+20% Crit Damage",
+          "+10% Max Accuracy",
+          "-15% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Crit Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 20%",
+          "-35% Max Inaccuracy",
+          "-30% Recoil",
+          "+25% Spread"
+        ],
+        "name": "Foregrip"
+      },
+      {
+        "modifiers": [
+          "Chance: 20%",
+          "+25% Max Accuracy",
+          "-25% Spread",
+          "+25% Recoil"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Arizona",
+      "tags": [
+        "Unique Enemy",
+        "Hunter's Grotto",
+        "Drop rate: 33%"
+      ]
+    }
+  ],
+  "special": {
+    "title": "\"Hated by large numbers of people.\"",
+    "description": "Cannot roll any sight or the fire-rate, magazine, or damage accessories.\n\nJakobs sniper rifles grant +160% critical hit damage. The Elephant Gun adds +150% weapon damage, but reduces accuracy, fire rate, reload speed, and magazine size."
+  },
+  "notes": "Zer0: Legendary Hunter reload bonuses and One Shot One Kill help counter the slow reload and improve one-hit kills.\n\nWhile in Deception, the crosshair can sit above the barrel; aiming using the muzzle position can throw off shots.\n\nAxton: Ready and Pressure speed up reloads, and Metal Storm helps the fire rate.\n\nIt cannot roll a scope, and cannot take scope-linked accessories (Klook, Skookum, Hyiu).",
+  "elements": [
+    "None"
+  ],
+  "max": {
+    "accuracy": 92.5,
+    "damage": 6166882,
+    "fire_rate": 0.4,
+    "level": 90,
+    "mag_size": 6,
+    "reload_speed": 4.6
+  },
+  "abilities": [
+    "+150% Weapon Damage"
+  ]
+}

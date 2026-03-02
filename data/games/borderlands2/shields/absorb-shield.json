@@ -1,0 +1,42 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/absorb-shield.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Absorb_Shield"
+  },
+  "name": "Absorb Shield",
+  "slug": "absorb-shield",
+  "type": "Absorb",
+  "description": "Absorb Shields are Vladof-made defensive shields that can sometimes catch incoming bullets or rockets. When an absorption triggers, the hit is cancelled and you gain ammo of the same type. Higher-quality versions usually have a better absorb rate, making them handy against gun-heavy foes and for stretching your ammunition in long fights.",
+  "notes": "Absorption only applies to certain projectile attacks, not all damage sources. It shines in exposed firefights with limited cover and against enemies relying on standard firearms.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Chance to absorb incoming projectiles, prevent their damage, and add the corresponding ammo to your reserves."
+  },
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

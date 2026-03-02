@@ -1,0 +1,40 @@
+{
+  "game": "borderlands",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/catalyst-lilith-bl1"
+  },
+  "name": "Catalyst",
+  "slug": "catalyst",
+  "type": "Siren",
+  "skills": [
+    "Phoenix",
+    "Girl Power",
+    "Intuition"
+  ],
+  "description": "The Catalyst reduces cooldown times for Lilith and her team. Material parts may provide additional bonuses depending on the roll.",
+  "manufacturers": [
+    "Anshin",
+    "Maliwan"
+  ],
+  "rarities": [
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "special": {
+    "description": "Reduces cooldown times for you and your team."
+  },
+  "sources": [
+    {
+      "name": "Lilith Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/class-mods/catalyst.png"
+}

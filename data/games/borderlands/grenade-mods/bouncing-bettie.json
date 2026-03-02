@@ -1,0 +1,38 @@
+{
+  "game": "borderlands",
+  "category": "grenade-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/grenade-mod/bouncing-bettie-bl1"
+  },
+  "name": "Bouncing Bettie",
+  "slug": "bouncing-bettie",
+  "description": "A Dahl Bouncing Betty grenade from the base game. After its fuse expires, it launches into the air and disperses sub-munitions in a circular pattern—the initial pop does no damage, but the bomblets deliver their payload over a wide area.\n\nPlacement matters: aim about ten feet from your target, since the bomblets detonate at a fixed distance. Bouncing Betties deliver damage faster than MIRVs (no secondary fuse) and work well against groups, enemies behind cover, and even stationary airborne foes when timed as an air burst. They need overhead clearance though, so cramped spaces limit their effectiveness.",
+  "special": {
+    "description": "Launches into the air after 2.5s and shoots 11 child grenades in all directions that explode after a short distance."
+  },
+  "type": "Bouncing Bettie",
+  "elements": [
+    "Corrosive",
+    "Explosive",
+    "Incendiary",
+    "Shock"
+  ],
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Grenade Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/grenade-mods/bouncing-bettie.png"
+}

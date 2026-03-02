@@ -1,0 +1,50 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/gunner.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/class-mod/gunner-axton-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Gunner"
+  },
+  "name": "Gunner",
+  "slug": "gunner",
+  "type": "Commando",
+  "description": "The Gunner is a common (white) class mod for Axton in Borderlands 2, made by Vladof.",
+  "manufacturers": [
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Overload",
+    "Steady",
+    "Metal Storm"
+  ],
+  "sources": [
+    {
+      "name": "Axton Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "notes": "Increases Sabre Turret fire rate.\n\nCan drop at random from most appropriate loot sources.",
+  "special": {
+    "description": "At max level: Team fire rate +51%.\n\nKnown issue: the item card can show an incorrect fire rate value."
+  },
+  "max": {
+    "fire_rate": 34,
+    "level": 90
+  },
+  "abilities": [
+    "+5 Overload Skill",
+    "+4 Metal Storm Skill"
+  ]
+}

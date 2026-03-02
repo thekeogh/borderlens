@@ -1,0 +1,116 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/whittings-elephant-gun-bl1",
+    "wiki": "https://borderlands.fandom.com/wiki/Whitting%27s_Elephant_Gun"
+  },
+  "name": "Whitting's Elephant Gun",
+  "slug": "whittings-elephant-gun",
+  "type": "Sniper",
+  "description": "Whitting's Elephant Gun is an Epic Jakobs sniper rifle from the base game with extremely high accuracy and damage but no scope. It is a guaranteed quest reward, making it a reliable mid-range sniper option even without long-range zoom.",
+  "special": {
+    "description": "Increased damage and fire rate with knockback, but broader spread and it never spawns with a scope.",
+    "title": "Why don't you go shoot yourself an elephant?"
+  },
+  "ranges": {
+    "damage": [
+      247,
+      2003
+    ],
+    "accuracy": [
+      98.3,
+      98.5
+    ],
+    "rate": [
+      0.5,
+      0.8
+    ],
+    "mag": [
+      6
+    ]
+  },
+  "parts": {
+    "Body": [
+      {
+        "name": "Body_1",
+        "modifiers": [
+          "-8% Damage"
+        ]
+      },
+      {
+        "name": "Body_3",
+        "modifiers": [
+          "+30% Fire Rate",
+          "-30% Recoil",
+          "+3 Element Level",
+          "-15% Damage"
+        ]
+      },
+      {
+        "name": "Body_4",
+        "modifiers": [
+          "+20% Damage",
+          "+1 Element Level",
+          "-30% Fire Rate",
+          "+50% Recoil"
+        ]
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Rolling",
+        "modifiers": [
+          "+100% Reload Speed"
+        ]
+      },
+      {
+        "name": "Heavy",
+        "modifiers": [
+          "+18% Damage",
+          "+1 Element Level",
+          "+18% Recoil"
+        ]
+      },
+      {
+        "name": "Long",
+        "modifiers": [
+          "-25% Spread",
+          "+2 Element Level"
+        ]
+      }
+    ]
+  },
+  "max": {
+    "damage": 2003,
+    "accuracy": 98.3,
+    "fire_rate": 0.5,
+    "mag_size": 6,
+    "level": 68
+  },
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Epic"
+  ],
+  "sources": [
+    {
+      "name": "Skagzilla",
+      "tags": [
+        "Unique Enemy",
+        "DAHL Headland"
+      ]
+    },
+    {
+      "name": "Big Game Hunter",
+      "tags": [
+        "Quest",
+        "DAHL Headland"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/weapons/whittings-elephant-gun.png"
+}

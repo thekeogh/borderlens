@@ -1,0 +1,35 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/rod.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Rod"
+  },
+  "name": "Rod",
+  "slug": "rod",
+  "type": "Pistol",
+  "description": "The Rod uses a Jakobs barrel, boosting damage and accuracy in exchange for a slower rate of fire.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "elements": [
+    "Explosive"
+  ],
+  "notes": "Only appears at green rarity or above.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ]
+}

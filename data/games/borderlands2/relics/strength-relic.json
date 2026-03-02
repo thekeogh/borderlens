@@ -1,0 +1,36 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/relics/strength-relic.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Strength_Relic"
+  },
+  "name": "Strength Relic",
+  "slug": "strength-relic",
+  "type": "Strength",
+  "description": "The Strength Relic is a common Eridian relic in Borderlands 2. It boosts melee damage, and some variants also improve the cooldown rate for certain melee override skills.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "notes": "Melee damage can increase by up to 37.8%. Melee override cooldown rate can improve by up to 30%.\n\nThe cooldown bonus only applies to melee override skills with a cooldown timer: Maya's Scorn, Salvador's Fistful of Hurt, and Krieg's Hellfire Halitosis. It does not affect Zer0's Execute or Gaige's With Claws, as neither has a cooldown.",
+  "special": {
+    "description": "Increases melee damage.\n\nMay also increase melee override cooldown rate."
+  },
+  "sources": [
+    {
+      "name": "Relic Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

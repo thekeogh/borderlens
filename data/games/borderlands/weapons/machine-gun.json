@@ -1,0 +1,52 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Machine_Gun_(Title)"
+  },
+  "name": "Machine Gun",
+  "slug": "machine-gun",
+  "type": "Assault Rifle",
+  "description": "Machine Gun is a support machine gun title that is generally balanced but often underwhelming. Stronger SMGs usually carry more distinctive titles like Mauler, Havoc, or Massacre.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "accuracy": [
+      67.4
+    ],
+    "rate": [
+      9.8
+    ],
+    "mag": [
+      33,
+      86
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "S&S Munitions",
+    "Torgue",
+    "Vladof"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/machine-gun.png",
+  "sources": [
+    {
+      "name": "AR Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

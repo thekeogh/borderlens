@@ -1,0 +1,256 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/flakker.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/flakker-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Flakker"
+  },
+  "name": "Flakker",
+  "slug": "flakker",
+  "type": "Shotgun",
+  "description": "Legendary Torgue shotgun built for mobbing. Shots do no immediate damage; after a short delay they erupt into overlapping explosions, so enemies must be at the right range. Too close and the pellets pass through before detonating; too far and the blasts whiff. The long firing animation leaves you exposed unless you animation-cancel by weapon swapping or Salvador's Keep Firing... . Works well on flyers and large targets; aiming at the ground can help catch small enemies.",
+  "manufacturers": [
+    "Torgue"
+  ],
+  "rarities": [
+    "Legendary"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "+10% Recoil",
+          "-5% Reload Speed"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "+1 Mag Size",
+          "+30% Reload Speed",
+          "+15% Recoil",
+          "-10% Reload Speed",
+          "+10% Spread"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "+10% Recoil",
+          "-25% Recoil Recovery"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "1.8x Zoom",
+          "-25% Spread (aiming)"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "4.4x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "3.7x Zoom",
+          "-50% Spread (aiming)"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "2.3x Zoom"
+        ],
+        "name": "Tediore"
+      },
+      {
+        "modifiers": [
+          "2.0x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Torgue"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+30% Mag Size",
+          "-15% Reload Speed"
+        ],
+        "name": "Moon Clip"
+      },
+      {
+        "modifiers": [
+          "+3% Damage",
+          "+3% Fire Rate",
+          "+5% Mag Size",
+          "+5% Reload Speed"
+        ],
+        "name": "Shotgun Shell"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-40% Spread",
+          "+39% Zoom",
+          "-15% Damage"
+        ],
+        "name": "Tech_1"
+      },
+      {
+        "modifiers": [
+          "+50% Crit Damage",
+          "-10% Spread",
+          "+39% Zoom"
+        ],
+        "name": "Tech_2"
+      },
+      {
+        "modifiers": [
+          "+6% Fire Rate",
+          "+10% Mag Size",
+          "+25% Reload Speed",
+          "-3% Damage"
+        ],
+        "name": "Tech_3"
+      },
+      {
+        "modifiers": [
+          "+2 Projectiles",
+          "+21% Fire Rate",
+          "-30% Max Inaccuracy",
+          "-15% Max Accuracy",
+          "+30% Spread"
+        ],
+        "name": "Vertical Grip"
+      }
+    ]
+  },
+  "elements": [
+    "Explosive"
+  ],
+  "sources": [
+    {
+      "name": "The Warrior",
+      "tags": [
+        "Boss",
+        "Vault of the Warrior",
+        "Drop rate: 1.25%"
+      ]
+    },
+    {
+      "name": "Handsome Sorcerer",
+      "tags": [
+        "Boss",
+        "Dragon Keep",
+        "Drop rate: 4.13%"
+      ]
+    },
+    {
+      "name": "Torgue Shop",
+      "tags": [
+        "Vendor",
+        "DLC 2 Wide",
+        "Drop rate: 16.7%"
+      ]
+    },
+    {
+      "name": "Shotgun Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "special": {
+    "title": "Flak the world.",
+    "description": "Consumes 4 ammo per shot. Fires 3 (up to 5) invisible projectiles; after a brief delay each detonates into 6 nearby explosions dealing explosive bullet damage. Four blasts deal 100% card damage (2 small, 2 medium) and two large blasts deal 120%.\n\nRed text: Flak the world."
+  },
+  "notes": "Each pellet triggers 6 explosions: 2 small, 2 medium (100% card damage), and 2 large (120%).\nRising Sh0t (Zer0) stacks rapidly from one shot, and the slow fire rate helps maintain stacks.\nDetonation is time-based: Velocity (Zer0) and Accelerate (Maya) extend effective reach/spread but worsen point-blank use.\nPellets can crit, but accuracy is poor, making crit-based parts/effects less reliable.\nExplosions are explosive bullet damage, not grenade damage; no Blood Bath, but benefits from Reaper.\nSwapping to a launcher after firing can increase explosion damage via a glitch.",
+  "max": {
+    "accuracy": 1,
+    "damage": 2638641,
+    "fire_rate": 0.5,
+    "level": 90,
+    "mag_size": 2,
+    "reload_speed": 3.9
+  },
+  "abilities": [
+    "+1007 Weapon Fire Rate",
+    "+3207. Weapon Damage",
+    "Consumes 4 ammo per shot.",
+    "Deals bonus explosive damage. SIG GEDIG:"
+  ]
+}

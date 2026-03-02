@@ -1,0 +1,200 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Commander Lilith & the Fight for Sanctuary",
+  "dlc": true,
+  "image": "/img/games/borderlands2/weapons/toothpick.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/toothpick-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Toothpick"
+  },
+  "name": "Toothpick",
+  "slug": "toothpick",
+  "type": "Assault Rifle",
+  "description": "Toothpick is an Effervescent DAHL assault rifle from the Fight for Sanctuary DLC. Although the card shows 100.0 accuracy, its recoil and multi-projectile spread make it most reliable at close to mid range, especially against large flesh targets.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Effervescent"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "+15% Spread",
+          "-10% Reload Speed"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+4 Mag Size",
+          "+30% Reload Speed",
+          "-6% Damage",
+          "+15% Max Inaccuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+12% Damage",
+          "-9% Fire Rate",
+          "-5% Reload Speed",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "+9% Damage",
+          "-10% Reload Speed",
+          "+10% Spread",
+          "+15% Recoil"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+12% Fire Rate",
+          "-6% Damage",
+          "-10% Recoil Recovery"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "-30% Max Inaccuracy",
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+50% Max Accuracy",
+          "+25% Max Inaccuracy",
+          "-25% Recoil Recovery",
+          "+10% Recoil"
+        ],
+        "name": "Jakobs"
+      },
+      {
+        "modifiers": [
+          "-25% Recoil",
+          "-20% Recoil Recovery"
+        ],
+        "name": "Torgue"
+      },
+      {
+        "modifiers": [
+          "+25% Recoil Recovery",
+          "+25% Recoil"
+        ],
+        "name": "Vladof"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "+21% Damage",
+          "-12% Fire Rate",
+          "+35% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "+21% Damage",
+          "+12% Fire Rate",
+          "+120% Spread"
+        ],
+        "name": "Wild"
+      },
+      {
+        "modifiers": [
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "+100% Projectile Speed",
+          "+15% Fire Rate"
+        ],
+        "name": "Bullet Speed"
+      },
+      {
+        "modifiers": [
+          "-40% Recoil",
+          "+25% Recoil Recovery"
+        ],
+        "name": "Stability"
+      },
+      {
+        "modifiers": [
+          "+3 Mag Size",
+          "+35% Mag Size"
+        ],
+        "name": "Mag Size"
+      },
+      {
+        "modifiers": [
+          "-25% Spread",
+          "+25% Max Accuracy"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "elements": [
+    "Incendiary"
+  ],
+  "sources": [
+    {
+      "name": "Sand Worm",
+      "tags": [
+        "Enemy",
+        "The Burrows"
+      ]
+    },
+    {
+      "name": "Sand Worm Queen",
+      "tags": [
+        "Enemy",
+        "The Burrows",
+        "Drop rate: 20%"
+      ]
+    }
+  ],
+  "special": {
+    "title": "A simple solution to a dire problem.",
+    "description": "Always incendiary. Each trigger pull fires 10 shots arranged as 2 rows of 5, consuming 6 ammo per shot. Increased damage and magazine size, but reduced fire rate and reload speed. While scoped, it fires in DAHL burst mode. With Mouthwash equipped it gains +200% damage; for Salvador, holding Toothpick in the left hand can pass this bonus to the right-hand weapon. In Writhing Deep, equipping Retainer also grants movement speed and jump height bonuses."
+  },
+  "notes": "Damage is boosted further while the Mouthwash relic is equipped.\nIt only spawns with a Vladof sight.\nIts spread pattern resembles the Pitchfork: clustered projectile groups with extra ammo consumption per shot.\nA safer farm spot is near the Dahl Abandon exit to The Burrows, where the bandits are less dangerous than the infected inside.",
+  "max": {
+    "accuracy": 100,
+    "damage": 1224918,
+    "fire_rate": 3.6,
+    "level": 90,
+    "mag_size": 39,
+    "reload_speed": 3.5,
+    "status_chance": 6,
+    "status_damage_per_sec": 478795.2
+  },
+  "abilities": [
+    "Burst fire while zoomed.",
+    "Consumes 6 ammo per shot.",
+    "Highly effective vs Flesh."
+  ]
+}

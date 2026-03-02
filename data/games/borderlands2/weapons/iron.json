@@ -1,0 +1,34 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/iron.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Iron"
+  },
+  "name": "Iron",
+  "slug": "iron",
+  "type": "Pistol",
+  "description": "Jakobs Iron revolvers hit hard and stay accurate, but kick sharply with each shot. Their maximum fire rate is lower than many other Jakobs revolvers, though this rarely limits practical performance.",
+  "manufacturers": [
+    "Jakobs"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "notes": "Only appears at green rarity or above.\nDrops randomly from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ],
+  "elements": [
+    "None"
+  ]
+}

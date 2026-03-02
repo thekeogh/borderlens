@@ -1,0 +1,59 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Revolver_(Title)"
+  },
+  "name": "Revolver",
+  "slug": "revolver",
+  "type": "Revolver",
+  "description": "Revolvers trade slow fire rates and small magazines for very high per-shot damage and a hidden critical bonus. They reward careful aiming, can function like mini sniper rifles with good accuracy and scopes, or behave like shotguns when paired with a Masher accessory.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      55,
+      1564
+    ],
+    "accuracy": [
+      84.3,
+      93.3
+    ],
+    "rate": [
+      0.7,
+      2.3
+    ],
+    "mag": [
+      2,
+      6
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "Dahl",
+    "Jakobs",
+    "Maliwan",
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/revolver.png",
+  "sources": [
+    {
+      "name": "Revolver Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

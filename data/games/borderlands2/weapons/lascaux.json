@@ -1,0 +1,220 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/lascaux.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/weapon/lascaux-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Lascaux"
+  },
+  "name": "Lascaux",
+  "slug": "lascaux",
+  "type": "SMG",
+  "description": "Rare Dahl SMG.\n\nOften fires two projectiles for the cost of one round, giving it unusually high close-range burst damage. Aiming down sights switches to Dahl burst fire; the large burst count dumps a lot of bullets quickly. Spread limits its reach, but very low recoil keeps it controllable even when fired from the hip.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "parts": {
+    "Grip": [
+      {
+        "modifiers": [
+          "+25% Mag Size",
+          "-10% Reload Speed",
+          "+15% Spread"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Recoil",
+          "+4 Mag Size",
+          "+30% Reload Speed",
+          "+15% Max Inaccuracy",
+          "-6% Damage"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+10% Recoil Recovery",
+          "-15% Spread",
+          "-9% Damage"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+15% Status Chance"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "+20% Reload Speed",
+          "-10% Mag Size",
+          "-6% Damage"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Stock": [
+      {
+        "modifiers": [],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "-20% Recoil",
+          "-30% Max Inaccuracy",
+          "+1 Burst Count (aiming)",
+          "-30% Max Accuracy"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "+20% Recoil Recovery",
+          "+40% Max Accuracy"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "+10% Accuracy"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "-10% Recoil",
+          "-15% Accuracy"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Sight": [
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "2.4x Zoom"
+        ],
+        "name": "Bandit"
+      },
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "3.4x Zoom",
+          "-30% Spread (aiming)"
+        ],
+        "name": "DAHL"
+      },
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "5.9x Zoom",
+          "-40% Spread (aiming)"
+        ],
+        "name": "Hyperion"
+      },
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "4.3x Zoom",
+          "-20% Spread (aiming)"
+        ],
+        "name": "Maliwan"
+      },
+      {
+        "modifiers": [
+          "Chance: 16.7%",
+          "3.1x Zoom"
+        ],
+        "name": "Tediore"
+      }
+    ],
+    "Accessory": [
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+18% Damage",
+          "+15% Recoil"
+        ],
+        "name": "Damage"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+50% Melee Damage"
+        ],
+        "name": "Bayonet"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+12% Fire Rate",
+          "+50% Projectile Speed"
+        ],
+        "name": "Bullet Speed"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "-25% Max Inaccuracy",
+          "-25% Recoil"
+        ],
+        "name": "Stability"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+5% Mag Size",
+          "+25% Reload Speed"
+        ],
+        "name": "Reload"
+      },
+      {
+        "modifiers": [
+          "Chance: 3.8%",
+          "+25% Max Accuracy",
+          "-25% Spread"
+        ],
+        "name": "Accuracy"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Pond In Frostburn Canyon",
+      "tags": [
+        "Easter Egg",
+        "Frostburn Canyon"
+      ]
+    }
+  ],
+  "special": {
+    "title": "The gun of the Bulls.",
+    "description": "Always non-elemental.\n\nCosts 1 SMG round per shot; has a 60% chance to fire an extra projectile (2 total). While aiming, fires a 9-14 round Dahl burst. Projectiles follow a distinctive bull-like pattern. Greatly reduced recoil, with slightly reduced accuracy."
+  },
+  "notes": "Fixed spawn in Frostburn Canyon, making it easy to farm. It does not scale in Normal Mode, or in TVHM until the story is finished.\nStrong on Gaige: Close Enough and Anarchy reduce the need for accuracy, and the fast empty-reload rhythm suits her.\nStocks matter little (aside from a Dahl stock adding +1 burst); grip and accessory have the biggest impact.\nLonger fights: Dahl grip with Flying is strong sustained DPS. Short fights: Flying or Stopping with Bandit or Maliwan grip.\nNon-elemental, but reliable crits make it effective against Loaders up close.\nCan remain useful in UVHM, but level scaling still matters for damage.",
+  "elements": [
+    "None"
+  ],
+  "max": {
+    "accuracy": 90.9,
+    "damage": 637756,
+    "fire_rate": 8,
+    "level": 90,
+    "mag_size": 46,
+    "reload_speed": 2.3
+  },
+  "abilities": [
+    "+1277 Weapon Recoil Reduction",
+    "Burst fire while zoomed."
+  ]
+}

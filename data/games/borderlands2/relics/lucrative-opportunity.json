@@ -1,0 +1,37 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/relics/lucrative-opportunity.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/bonus-item/lucrative-opportunity-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Lucrative_Opportunity"
+  },
+  "name": "Lucrative Opportunity",
+  "slug": "lucrative-opportunity",
+  "type": "Universal",
+  "description": "Lucrative Opportunity is a unique Eridian relic from Borderlands 2. It is awarded during the mission Safe and Sound if you hand the incriminating photos of Moxxi to Marcus.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "Safe and Sound",
+      "tags": [
+        "Quest",
+        "Caustic Caverns"
+      ]
+    }
+  ],
+  "notes": "The relic looks like a pair of coins, matching its money-focused theme.",
+  "special": {
+    "description": "Cuts vending machine restock time by 36.5%, speeding up the shop timer. For farming, save-quit resets are still quicker."
+  },
+  "abilities": [
+    "Causes shop timers to count down faster."
+  ]
+}

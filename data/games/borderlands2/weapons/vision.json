@@ -1,0 +1,37 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/vision.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Vision"
+  },
+  "name": "Vision",
+  "slug": "vision",
+  "type": "Pistol",
+  "description": "Hyperion repeater pistols use reverse recoil: keep firing and the gun steadies, boosting accuracy over time. The accuracy shown on the card reflects the fully stabilised state.\n\nThe Vision uses a Hyperion pistol barrel, granting higher accuracy, reduced recoil and a 33 percent critical hit damage bonus. In exchange, it tends to have a smaller magazine and lower base damage than other Hyperion pistols.",
+  "manufacturers": [
+    "Hyperion"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "notes": "In The Pre-Sequel, the Vision often appears with Hyperion's newer material sets and prefixes similar to those seen in Borderlands 2.\n\nA related Pre-Sequel variant called the Factualizer is produced by the older Hyperion.\n\nThe Vision only appears at green rarity or above and is a random world drop from any appropriate loot source.",
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General",
+        "Any suitable loot source"
+      ]
+    }
+  ]
+}

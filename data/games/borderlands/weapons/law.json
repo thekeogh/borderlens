@@ -1,0 +1,60 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Law_(Borderlands)"
+  },
+  "name": "Law",
+  "slug": "law",
+  "type": "Revolver",
+  "description": "Law revolvers have a faster fire rate than other revolver titles and can roll any accessory. They still perform best at mid range with careful critical hits, with their accessory choice dictating their optimal role.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      135,
+      1233
+    ],
+    "accuracy": [
+      88.1,
+      92.3
+    ],
+    "rate": [
+      1.6,
+      1.9
+    ],
+    "mag": [
+      2,
+      6
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "Dahl",
+    "Jakobs",
+    "Maliwan",
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "image": "/img/games/borderlands/weapons/law.png",
+  "sources": [
+    {
+      "name": "Revolver Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

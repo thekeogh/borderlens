@@ -1,0 +1,215 @@
+{
+  "completedAt": "2026-02-26T12:41:56.516Z",
+  "entries": [
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "impact.json",
+      "name": "Impact"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "infection-cleaner.json",
+      "name": "Infection Cleaner"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "infection.json",
+      "name": "Infection"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "infinity.json",
+      "name": "Infinity"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "injector.json",
+      "name": "Injector"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "interfacer.json",
+      "name": "Interfacer"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "invader.json",
+      "name": "Invader"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "iron.json",
+      "name": "Iron"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "jackal.json",
+      "name": "Jackal"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "jericho.json",
+      "name": "Jericho"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "jolly-roger.json",
+      "name": "Jolly Roger"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "judge.json",
+      "name": "Judge"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "kerblaster.json",
+      "name": "KerBlaster"
+    },
+    {
+      "changed": [
+        "notes",
+        "description"
+      ],
+      "file": "kindle.json",
+      "name": "Kindle"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "kitten.json",
+      "name": "Kitten"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "lady-fist.json",
+      "name": "Lady Fist"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "lance.json",
+      "name": "Lance"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "landscaper.json",
+      "name": "Landscaper"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "lascaux.json",
+      "name": "Lascaux"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "launcher-common.json",
+      "name": "Launcher (common)"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "launcher-e-tech.json",
+      "name": "Launcher (E-tech)"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "law.json",
+      "name": "Law"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "lead-storm.json",
+      "name": "Lead Storm"
+    },
+    {
+      "changed": [
+        "description"
+      ],
+      "file": "leverage.json",
+      "name": "Leverage"
+    },
+    {
+      "changed": [
+        "special",
+        "notes",
+        "description"
+      ],
+      "file": "little-evie.json",
+      "name": "Little Evie"
+    }
+  ],
+  "limit": 25,
+  "offset": 125,
+  "processed": 25,
+  "updated": 25
+}

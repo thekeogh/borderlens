@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "class-mods",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/class-mods/binder.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Binder"
+  },
+  "name": "Binder",
+  "slug": "binder",
+  "type": "Siren",
+  "description": "The Binder is a class mod for the Siren in Borderlands 2.",
+  "manufacturers": [
+    "Maliwan"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic"
+  ],
+  "skills": [
+    "Helios",
+    "Reaper",
+    "Suspension"
+  ],
+  "notes": "",
+  "sources": [
+    {
+      "name": "Maya Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

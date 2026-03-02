@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Commander Lilith & the Fight for Sanctuary",
+  "dlc": true,
+  "image": "/img/games/borderlands2/relics/mouthwash.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/bonus-item/mouthwash-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Mouthwash"
+  },
+  "name": "Mouthwash",
+  "slug": "mouthwash",
+  "type": "Offense",
+  "description": "Mouthwash is an Effervescent relic made by the Eridians, introduced with the Fight for Sanctuary DLC for Borderlands 2.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Effervescent"
+  ],
+  "sources": [
+    {
+      "name": "Paradise Found",
+      "tags": [
+        "Quest",
+        "Helios Fallen"
+      ]
+    }
+  ],
+  "notes": "At maximum roll, Mouthwash can boost assault rifle damage by up to 47.5%.",
+  "special": {
+    "description": "Passively increases assault rifle damage. While the Toothpick is equipped, it also gains a separate +200% damage bonus.\n\nSalvador note: if Mouthwash is equipped and Toothpick is held in the left hand, the +200% bonus applies to the weapon in the right hand.\n\nRed text: Gargle and spit.",
+    "title": "Gargle and spit."
+  },
+  "max": {
+    "level": 90
+  }
+}

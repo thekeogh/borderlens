@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/weapons/fox.png",
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Fox_(SMG)"
+  },
+  "name": "Fox",
+  "slug": "fox",
+  "type": "SMG",
+  "description": "With a Dahl barrel, this SMG trades a bit of accuracy for steadier handling and reduced recoil. Because the barrel matches the weapon maker, it also gains a small damage boost.",
+  "manufacturers": [
+    "Dahl"
+  ],
+  "rarities": [
+    "Common"
+  ],
+  "aliases": [
+    "Fox (SMG)"
+  ],
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Slag"
+  ],
+  "sources": [
+    {
+      "name": "World Drop",
+      "tags": [
+        "General"
+      ]
+    }
+  ],
+  "notes": ""
+}

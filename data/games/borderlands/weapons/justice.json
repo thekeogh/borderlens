@@ -1,0 +1,59 @@
+{
+  "game": "borderlands",
+  "category": "weapons",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "wiki": "https://borderlands.fandom.com/wiki/Justice"
+  },
+  "name": "Justice",
+  "slug": "justice",
+  "type": "Revolver",
+  "description": "Justice revolvers are defined by enhanced damage and can roll any elemental accessory. They still play like classic mid-range revolvers, rewarding exposed critical hits, and their high damage and accuracy make them viable stand-ins for sniper rifles.",
+  "elements": [
+    "Incendiary",
+    "Shock",
+    "Corrosive",
+    "Explosive"
+  ],
+  "ranges": {
+    "damage": [
+      666,
+      1490
+    ],
+    "accuracy": [
+      94.2,
+      97
+    ],
+    "rate": [
+      0.7,
+      1.9
+    ],
+    "mag": [
+      2,
+      6
+    ]
+  },
+  "manufacturers": [
+    "Atlas",
+    "Dahl",
+    "Jakobs",
+    "Maliwan",
+    "Tediore"
+  ],
+  "rarities": [
+    "Common",
+    "Uncommon",
+    "Rare"
+  ],
+  "image": "/img/games/borderlands/weapons/justice.png",
+  "sources": [
+    {
+      "name": "Revolver Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ]
+}

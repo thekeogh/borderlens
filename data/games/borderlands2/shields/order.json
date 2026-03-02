@@ -1,0 +1,52 @@
+{
+  "game": "borderlands2",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "image": "/img/games/borderlands2/shields/order.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/order-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Order_(shield)"
+  },
+  "name": "Order",
+  "slug": "order",
+  "type": "Roid",
+  "description": "Order is a rare Bandit shield in Borderlands 2 built around roid melee damage rather than survivability. Its capacity tends to be on the low side for its level, but the roid bonus is strong.\n\nOn its own it behaves much like a typical Maylay shield. Its standout feature comes when paired with the Law pistol, which adds melee lifesteal and greatly improves the staying power of melee-focused builds.",
+  "manufacturers": [
+    "Bandit"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "BFFs",
+      "tags": [
+        "Quest",
+        "Sanctuary"
+      ]
+    }
+  ],
+  "elements": [
+    "None",
+    "Incendiary",
+    "Shock",
+    "Corrosive"
+  ],
+  "notes": "Order can roll a Maliwan capacitor, potentially granting immunity to a single element (fire, shock, or corrosive).\n\nIt cannot spawn with Bandit or Torgue shield parts.\n\nDespite the Bandit branding, it uses a Hyperion amplify shield body with a Bandit-style skin. Its name, flavour text, and synergy with Law reference the TV series Law and Order.",
+  "special": {
+    "description": "With Law equipped, Order provides 25 percent melee lifesteal.\n\nEquipping two Laws (for example via Salvador) does not add extra lifesteal or change the effect.",
+    "title": "Chung-gunk!"
+  },
+  "max": {
+    "capacity": 3165588,
+    "level": 90,
+    "recharge_delay": 3.5,
+    "recharge_rate": 668015
+  },
+  "abilities": [
+    "When Law is in your hands, any melee damage you deal also heals",
+    "Lihen depleted, melee attacks deal bonus Roid Damage.",
+    "Grants immunity to elemental damage."
+  ]
+}

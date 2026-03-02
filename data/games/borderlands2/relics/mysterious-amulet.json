@@ -1,0 +1,38 @@
+{
+  "game": "borderlands2",
+  "category": "relics",
+  "content": "Tiny Tina's Assault on Dragon Keep",
+  "dlc": true,
+  "image": "/img/games/borderlands2/relics/mysterious-amulet.png",
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/bonus-item/mysterious-amulet-bl2",
+    "wiki": "https://borderlands.fandom.com/wiki/Mysterious_Amulet"
+  },
+  "name": "Mysterious Amulet",
+  "slug": "mysterious-amulet",
+  "type": "Unique",
+  "description": "Mysterious Amulet is a unique Eridian relic from Tiny Tina's Assault on Dragon Keep. It boosts the DLC-only Friendship stat by up to 7, but Friendship has no proven link to the game's underlying mechanics. Rumoured hidden effects (such as stronger Pixie buffs or triggering a raid boss) have been disproven; no gameplay benefit is confirmed beyond its cosmetic behaviour. In Commander Lilith and the Fight for Sanctuary, equipping it when feeding Butt Stallion after My Brittle Pony makes her produce the Unicornsplosion. Bought from Mr Miz during The Amulet.",
+  "manufacturers": [
+    "Eridian"
+  ],
+  "rarities": [
+    "Rare"
+  ],
+  "sources": [
+    {
+      "name": "The Amulet",
+      "tags": [
+        "Quest",
+        "Lair of Infinite Agony"
+      ]
+    }
+  ],
+  "notes": "Its inscription echoes the closing lines of Shakespeare's Sonnet 30: \"But if the while I think on thee, dear friend, all losses are restored and sorrows end.\" When you receive it, Mr Miz mentions \"Fandir's grasp\"; the Striker shotgun references Fandir in its flavour text, but no verified connection has been found.",
+  "special": {
+    "description": "Cosmetic aura scales with how many players have it equipped.\n\n0: No effect.\n\n1+: White dusty aura with pink hearts.\n\nMore equipped: Adds white and yellow stars. A pink flare may appear, and \"folk\" music can randomly start.\n\nTip: In Fight for Sanctuary, feed Butt Stallion with this relic equipped (after My Brittle Pony) to get the Unicornsplosion.",
+    "title": "While I fight with thee, dear friend, all losses are restored and sorrows end."
+  },
+  "max": {
+    "level": 90
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "game": "borderlands",
+  "category": "shields",
+  "content": "Base Game",
+  "dlc": false,
+  "resources": {
+    "lootlemon": "https://www.lootlemon.com/shield/panacea-shield-bl1"
+  },
+  "name": "Panacea Shield",
+  "slug": "panacea-shield",
+  "description": "A Tediore heal shield that regenerates health over time, up to 15.6 health per second depending on level. Suits sustained combat and builds that treat health as a recoverable resource.",
+  "special": {
+    "description": "Passive health regeneration scaling with shield level (up to 15.6 health/s)."
+  },
+  "type": "Heal",
+  "rarities": [
+    "Epic"
+  ],
+  "manufacturers": [
+    "Tediore"
+  ],
+  "sources": [
+    {
+      "name": "Shield Pool",
+      "tags": [
+        "Loot Pool",
+        "World Wide"
+      ]
+    }
+  ],
+  "image": "/img/games/borderlands/shields/panacea-shield.png"
+}
