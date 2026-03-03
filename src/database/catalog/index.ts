@@ -138,16 +138,12 @@ class Catalog {
   }
 
   /**
-   * Retrieves a list of showcase items from the database filtered by the active games.
+   * Retrieves a randomised subset of showcase weapon items from the catalogue.
    *
-   * @remarks
-   * This method returns showcase items limited to the "weapons" category. If no active games are specified, all
-   * available showcase items are included. Only items whose slugs appear in the showcase configuration for the relevant
-   * games are returned.
-   *
-   * @returns An array of showcase items from the database.
+   * @param count - The number of showcase items to return.
+   * @returns An array of weapon items included in the showcase selection.
    */
-  public listShowcase(): Schema[] {
+  public listShowcase(count: number): Schema[] {
     const slugs = (Object.entries(SHOWCASE) as [Game, string[]][])
       .filter(([game]) => !this.#games.size || this.#games.has(game))
       .flatMap(([, gameSlugs]) => gameSlugs);
@@ -155,9 +151,14 @@ class Catalog {
     if (!slugs.length) {
       return [];
     }
-    return this.#database.filter(item =>
+    const items = this.#database.filter(item =>
       item.category === "weapons" && slugs.includes(item.slug)
     );
+    for (let i = items.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [items[i], items[j]] = [items[j], items[i]];
+    }
+    return items.slice(0, count);
   }
 
   /*

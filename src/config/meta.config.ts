@@ -1,9 +1,5 @@
 /**
  * Application metadata containing site identity and branding information.
- *
- * @remarks
- * This object centralises metadata used throughout the application for SEO, branding, and UI purposes. It includes the
- * primary domain, application name, page titles, and visual theming information.
  */
 export const Meta = {
   url: "https://borderlens.tools",

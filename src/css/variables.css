@@ -3,8 +3,30 @@
   /**
    * Colours
    */
+  --color-orange-500: #ea580a; /* Primary (brand) */
+  --color-orange-300: #fb923c; /* Secondary (brand) */
+
   --color-zinc-1000: #000;
+  --color-zinc-700: #27272a; /* Dark grey (search box) */
+  --color-zinc-500: #71717a; /* Muted (subtitles) */
   --color-zinc-0: #fff;
+
+  --color-rarity-common: #71717a;
+  --color-rarity-uncommon: #22c55f;
+  --color-rarity-rare: #3b82f6;
+  --color-rarity-epic: #a855f7;
+  --color-rarity-etech: #ec407a;
+  --color-rarity-legendary: #fa7315;
+  --color-rarity-effervescent: #4b7d94;
+  --color-rarity-seraph: #f06292;
+  --color-rarity-pearlescent: #22d3ef;
+
+  --color-element-none: #fff;
+  --color-element-incendiary: #fa7315;
+  --color-element-shock: #3b82f6;
+  --color-element-corrosive: #22c55f;
+  --color-element-explosive: #fbc024;
+  --color-element-slag: #6a1b9a;
 
   /**
    * Font families

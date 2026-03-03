@@ -6,7 +6,7 @@ It also includes a Claptrap-powered AI assistant that can look up items, compare
 
 ## Component Playground
 
-Borderlens includes an internal component playground at `/dev/playground` for building and testing UI components in-place, allowing you to browse components from `src/components` in the explorer tree, edit props live and preview changes instantly.
+Borderlens includes an internal component playground at `/.playground` for building and testing UI components in-place, allowing you to browse components from `src/components` in the explorer tree, edit props live and preview changes instantly.
 
 ### Usage
 
@@ -19,7 +19,7 @@ pnpm dev
 **Next, access the following link in your browser:**
 
 ```text
-https://dev.borderlens.tools:3000/dev/playground
+https://dev.borderlens.tools:3000/.playground
 ```
 
 > [!NOTE]

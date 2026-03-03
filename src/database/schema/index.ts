@@ -19,6 +19,14 @@ import { Part } from "#database/schema/weapons/part.schema";
 import { Range } from "#database/schema/weapons/range.schema";
 import { Type as WeaponType } from "#database/schema/weapons/type.schema";
 
+/**
+ * Defines the primary schema for item entries within the application database.
+ *
+ * @remarks
+ * This schema standardises the shape and validation rules for all core item objects, encapsulating game context,
+ * categorisation, content source, metadata, references, and relevant properties. It is used  throughout the application
+ * to ensure type safety and data consistency.
+ */
 export const Schema = z.object({
   game: Game.describe(
     "Specifies the game context for this item (e.g., Borderlands, Borderlands 2)."

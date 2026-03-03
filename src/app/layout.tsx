@@ -2,6 +2,8 @@ import { Rajdhani, Inter, Space_Mono } from "next/font/google";
 
 import { Config } from "#config";
 
+import { Background } from "#components/layout/background";
+
 import type { Metadata } from "next";
 import type { Viewport } from "next";
 
@@ -12,10 +14,6 @@ import "#css/globals.css";
 
 /**
  * Font configuration for the application.
- *
- * @remarks
- * Defines font families used throughout the application with their respective subsets, weights, and CSS variable names
- * for styling purposes.
  */
 const inter = Inter({
   subsets: ["latin"],
@@ -36,10 +34,6 @@ const spaceMono = Space_Mono({
 
 /**
  * Metadata configuration for the application.
- *
- * @remarks
- * Defines SEO metadata including title, description, Open Graph tags, and icon configurations from the application
- * config.
  */
 export const metadata: Metadata = {
   metadataBase: Config.Meta.url,
@@ -79,10 +73,6 @@ export const metadata: Metadata = {
 
 /**
  * Viewport configuration for the application.
- *
- * @remarks
- * Defines viewport settings including device width scaling, color scheme preference, and theme color from the
- * application config.
  */
 export const viewport: Viewport = {
   width: "device-width",
@@ -94,9 +84,9 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`${inter.variable} ${rajdhani.variable} ${spaceMono.variable}`}>
-      <body>
+      <body><Background>
         {children}
-      </body>
+      </Background></body>
     </html>
   );
 }

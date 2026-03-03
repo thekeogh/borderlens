@@ -43,5 +43,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# playground
+src/playground/generated/*
+
 # generated database files
 database.json

@@ -1,6 +1,6 @@
 "use client";
 
-import { type MouseEvent as ReactMouseEvent, type ReactNode, useMemo, useRef, useState } from "react";
+import { type MouseEvent as ReactMouseEvent, type ReactNode, useEffect, useMemo, useRef, useState } from "react";
 import {
   FiChevronDown,
   FiChevronLeft,
@@ -8,15 +8,13 @@ import {
   FiFile,
   FiFolder,
   FiMonitor,
-  FiSidebar,
+  FiRotateCcw,
   FiSliders,
-  FiSmartphone,
-  FiTablet,
 } from "react-icons/fi";
 
 import styles from "./playground.module.css";
 
-import type { PlaygroundComponentMeta, PlaygroundOptionValue, PlaygroundPropMeta } from "../../../playground/types";
+import type { PlaygroundComponentMeta, PlaygroundOptionValue, PlaygroundPropMeta } from "../../playground/types";
 
 interface PlaygroundShellProps {
   components: PlaygroundComponentMeta[];
@@ -59,35 +57,41 @@ interface TypeBadgeInfo {
   label: string;
 }
 
+interface PersistedLayout {
+  explorerWidth: number;
+  propsWidth: number;
+}
+
+interface PersistedPlaygroundState {
+  componentStates: Record<string, ControlState>;
+  explorerCollapsed: boolean;
+  importsInput: string;
+  openFolders: Record<string, boolean>;
+  propsCollapsed: boolean;
+  selectedExportNameInput: string;
+  selectedPath: string;
+  viewport: ViewportId;
+}
+
 const VIEWPORTS = [
   {
-    icon: FiMonitor,
     id: "desktop",
-    label: "Desktop",
     width: null,
   },
   {
-    icon: FiMonitor,
     id: "xl",
-    label: "1312",
     width: 1312,
   },
   {
-    icon: FiSidebar,
     id: "lg",
-    label: "1024",
     width: 1024,
   },
   {
-    icon: FiTablet,
     id: "md",
-    label: "768",
     width: 768,
   },
   {
-    icon: FiSmartphone,
     id: "sm",
-    label: "480",
     width: 480,
   },
 ] as const;
@@ -102,6 +106,11 @@ const HANDLE_WIDTH = 8;
 const MIN_EXPLORER_WIDTH = 180;
 const MIN_PREVIEW_WIDTH = 360;
 const MIN_PROPS_WIDTH = 250;
+const TREE_BASE_INDENT = 12;
+const TREE_CHILD_INDENT = 36;
+const TREE_DEPTH_STEP = 22;
+const LAYOUT_STORAGE_KEY = "borderlens.playground.layout.v1";
+const PLAYGROUND_STATE_STORAGE_KEY = "borderlens.playground.state.v1";
 
 function clamp(value: number, min: number, max: number): number {
   return Math.min(Math.max(value, min), max);
@@ -113,6 +122,145 @@ function formatSegmentName(value: string): string {
     .filter(Boolean)
     .map(part => part.charAt(0).toUpperCase() + part.slice(1))
     .join(" ");
+}
+
+function formatViewportWidth(width: number | null): string {
+  return width ? `${width}px` : "100%";
+}
+
+function asPanelWidth(value: unknown, fallback: number, min: number): number {
+  if (typeof value !== "number" || !Number.isFinite(value)) {
+    return fallback;
+  }
+
+  return Math.round(Math.max(min, value));
+}
+
+function loadPersistedLayout(): PersistedLayout {
+  if (typeof window === "undefined") {
+    return {
+      explorerWidth: DEFAULT_EXPLORER_WIDTH,
+      propsWidth: DEFAULT_PROPS_WIDTH,
+    };
+  }
+
+  try {
+    const storedRaw = window.localStorage.getItem(LAYOUT_STORAGE_KEY);
+
+    if (!storedRaw) {
+      return {
+        explorerWidth: DEFAULT_EXPLORER_WIDTH,
+        propsWidth: DEFAULT_PROPS_WIDTH,
+      };
+    }
+
+    const stored = JSON.parse(storedRaw) as { explorerWidth?: unknown; propsWidth?: unknown };
+
+    return {
+      explorerWidth: asPanelWidth(stored.explorerWidth, DEFAULT_EXPLORER_WIDTH, MIN_EXPLORER_WIDTH),
+      propsWidth: asPanelWidth(stored.propsWidth, DEFAULT_PROPS_WIDTH, MIN_PROPS_WIDTH),
+    };
+  } catch {
+    return {
+      explorerWidth: DEFAULT_EXPLORER_WIDTH,
+      propsWidth: DEFAULT_PROPS_WIDTH,
+    };
+  }
+}
+
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === "object" && value !== null && !Array.isArray(value);
+}
+
+function asBooleanRecord(value: unknown): Record<string, boolean> {
+  if (!isRecord(value)) {
+    return {};
+  }
+
+  const output: Record<string, boolean> = {};
+
+  for (const [key, entry] of Object.entries(value)) {
+    if (typeof entry === "boolean") {
+      output[key] = entry;
+    }
+  }
+
+  return output;
+}
+
+function asUnknownRecord(value: unknown): Record<string, unknown> {
+  return isRecord(value) ? value : {};
+}
+
+function asControlStateRecord(value: unknown): Record<string, ControlState> {
+  if (!isRecord(value)) {
+    return {};
+  }
+
+  const output: Record<string, ControlState> = {};
+
+  for (const [key, entry] of Object.entries(value)) {
+    if (!isRecord(entry)) {
+      continue;
+    }
+
+    output[key] = {
+      optionalEnabled: asBooleanRecord(entry.optionalEnabled),
+      values: asUnknownRecord(entry.values),
+    };
+  }
+
+  return output;
+}
+
+function isViewportId(value: unknown): value is ViewportId {
+  return typeof value === "string" && VIEWPORTS.some(entry => entry.id === value);
+}
+
+function loadPersistedPlaygroundState(): PersistedPlaygroundState {
+  const defaults: PersistedPlaygroundState = {
+    componentStates: {},
+    explorerCollapsed: false,
+    importsInput: "",
+    openFolders: {},
+    propsCollapsed: false,
+    selectedExportNameInput: "default",
+    selectedPath: "",
+    viewport: "desktop",
+  };
+
+  if (typeof window === "undefined") {
+    return defaults;
+  }
+
+  try {
+    const storedRaw = window.localStorage.getItem(PLAYGROUND_STATE_STORAGE_KEY);
+
+    if (!storedRaw) {
+      return defaults;
+    }
+
+    const parsed = JSON.parse(storedRaw);
+
+    if (!isRecord(parsed)) {
+      return defaults;
+    }
+
+    return {
+      componentStates: asControlStateRecord(parsed.componentStates),
+      explorerCollapsed: typeof parsed.explorerCollapsed === "boolean" ? parsed.explorerCollapsed : defaults.explorerCollapsed,
+      importsInput: typeof parsed.importsInput === "string" ? parsed.importsInput : defaults.importsInput,
+      openFolders: asBooleanRecord(parsed.openFolders),
+      propsCollapsed: typeof parsed.propsCollapsed === "boolean" ? parsed.propsCollapsed : defaults.propsCollapsed,
+      selectedExportNameInput: typeof parsed.selectedExportNameInput === "string" && parsed.selectedExportNameInput.length > 0
+        ? parsed.selectedExportNameInput
+        : defaults.selectedExportNameInput,
+      selectedPath: typeof parsed.selectedPath === "string" ? parsed.selectedPath : defaults.selectedPath,
+      viewport: isViewportId(parsed.viewport) ? parsed.viewport : defaults.viewport,
+    };
+  } catch {
+    return defaults;
+  }
 }
 
 function isPrimitiveTypeName(value: string): boolean {
@@ -398,16 +546,31 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
     [treeFolders]
   );
 
-  const [explorerCollapsed, setExplorerCollapsed] = useState(false);
-  const [explorerWidth, setExplorerWidth] = useState(DEFAULT_EXPLORER_WIDTH);
-  const [importsInput, setImportsInput] = useState("");
-  const [openFolders, setOpenFolders] = useState<Record<string, boolean>>(initialFolderOpenState);
-  const [propsCollapsed, setPropsCollapsed] = useState(false);
-  const [propsWidth, setPropsWidth] = useState(DEFAULT_PROPS_WIDTH);
-  const [selectedExportNameInput, setSelectedExportNameInput] = useState<string>("default");
-  const [selectedPath, setSelectedPath] = useState<string>(() => componentPaths[0] ?? "");
-  const [componentStates, setComponentStates] = useState<Record<string, ControlState>>({});
-  const [viewport, setViewport] = useState<ViewportId>("desktop");
+  const [persistedLayout] = useState<PersistedLayout>(() => loadPersistedLayout());
+  const [persistedPlaygroundState] = useState<PersistedPlaygroundState>(() => loadPersistedPlaygroundState());
+  const [explorerCollapsed, setExplorerCollapsed] = useState(persistedPlaygroundState.explorerCollapsed);
+  const [explorerWidth, setExplorerWidth] = useState(persistedLayout.explorerWidth);
+  const [importsInput, setImportsInput] = useState(persistedPlaygroundState.importsInput);
+  const [openFolders, setOpenFolders] = useState<Record<string, boolean>>(
+    () => ({
+      ...initialFolderOpenState,
+      ...persistedPlaygroundState.openFolders,
+    })
+  );
+  const [propsCollapsed, setPropsCollapsed] = useState(persistedPlaygroundState.propsCollapsed);
+  const [propsWidth, setPropsWidth] = useState(persistedLayout.propsWidth);
+  const [selectedExportNameInput, setSelectedExportNameInput] = useState<string>(persistedPlaygroundState.selectedExportNameInput);
+  const [selectedPath, setSelectedPath] = useState<string>(() => {
+    const persistedPath = persistedPlaygroundState.selectedPath;
+
+    if (persistedPath.length > 0 && componentsByPath.has(persistedPath)) {
+      return persistedPath;
+    }
+
+    return componentPaths[0] ?? "";
+  });
+  const [componentStates, setComponentStates] = useState<Record<string, ControlState>>(persistedPlaygroundState.componentStates);
+  const [viewport, setViewport] = useState<ViewportId>(persistedPlaygroundState.viewport);
 
   const availableExports = useMemo(
     () => (selectedPath ? (componentsByPath.get(selectedPath) ?? []) : []),
@@ -452,7 +615,7 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
       searchParams.set("imports", importsInput);
     }
 
-    return `/dev/playground/preview?${searchParams.toString()}`;
+    return `/.playground/preview?${searchParams.toString()}`;
   }, [importsInput, previewState.props, selectedComponent]);
 
   const viewportConfig = useMemo(
@@ -474,6 +637,40 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
     }) as React.CSSProperties,
     [explorerCollapsed, explorerWidth, propsCollapsed, propsWidth]
   );
+
+  useEffect(() => {
+    try {
+      window.localStorage.setItem(
+        LAYOUT_STORAGE_KEY,
+        JSON.stringify({
+          explorerWidth,
+          propsWidth,
+        })
+      );
+    } catch {
+      // Ignore storage write failures (e.g. private mode restrictions).
+    }
+  }, [explorerWidth, propsWidth]);
+
+  useEffect(() => {
+    try {
+      window.localStorage.setItem(
+        PLAYGROUND_STATE_STORAGE_KEY,
+        JSON.stringify({
+          componentStates,
+          explorerCollapsed,
+          importsInput,
+          openFolders,
+          propsCollapsed,
+          selectedExportNameInput,
+          selectedPath,
+          viewport,
+        } satisfies PersistedPlaygroundState)
+      );
+    } catch {
+      // Ignore storage write failures (e.g. private mode restrictions).
+    }
+  }, [componentStates, explorerCollapsed, importsInput, openFolders, propsCollapsed, selectedExportNameInput, selectedPath, viewport]);
 
   function applyPath(path: string): void {
     if (!componentsByPath.has(path)) {
@@ -562,6 +759,26 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
     }));
   }
 
+  function resetSavedLayout(): void {
+    try {
+      window.localStorage.removeItem(LAYOUT_STORAGE_KEY);
+    } catch {
+      // Ignore storage deletion failures and continue with reload.
+    }
+
+    window.location.reload();
+  }
+
+  function resetSavedState(): void {
+    try {
+      window.localStorage.removeItem(PLAYGROUND_STATE_STORAGE_KEY);
+    } catch {
+      // Ignore storage deletion failures and continue with reload.
+    }
+
+    window.location.reload();
+  }
+
   function renderFolder(folder: TreeFolder, depth = 0): ReactNode {
     const isOpen = openFolders[folder.fullPath] ?? true;
 
@@ -570,7 +787,7 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
         <button
           className={styles.treeFolderButton}
           onClick={() => toggleFolder(folder.fullPath)}
-          style={{ paddingLeft: `${12 + (depth * 14)}px` }}
+          style={{ paddingLeft: `${TREE_BASE_INDENT + (depth * TREE_DEPTH_STEP)}px` }}
           type="button"
         >
           <span className={styles.folderChevron}>{isOpen ? <FiChevronDown /> : <FiChevronRight />}</span>
@@ -592,7 +809,7 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
                   className={isActive ? styles.treeComponentActive : styles.treeComponent}
                   key={componentPath}
                   onClick={() => applyPath(componentPath)}
-                  style={{ paddingLeft: `${32 + (depth * 14)}px` }}
+                  style={{ paddingLeft: `${TREE_BASE_INDENT + TREE_CHILD_INDENT + (depth * TREE_DEPTH_STEP)}px` }}
                   type="button"
                 >
                   <FiFile className={styles.componentIcon} />
@@ -645,7 +862,7 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
                       className={isActive ? styles.treeComponentActive : styles.treeComponent}
                       key={componentPath}
                       onClick={() => applyPath(componentPath)}
-                      style={{ paddingLeft: "12px" }}
+                      style={{ paddingLeft: `${TREE_BASE_INDENT}px` }}
                       type="button"
                     >
                       <FiFile className={styles.componentIcon} />
@@ -675,14 +892,27 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
               </>
             )}
 
-            <button
-              className={styles.panelCollapseButton}
-              onClick={() => setPropsCollapsed(previousState => !previousState)}
-              title={propsCollapsed ? "Expand props" : "Collapse props"}
-              type="button"
-            >
-              {propsCollapsed ? <FiChevronRight /> : <FiChevronLeft />}
-            </button>
+            <div className={styles.panelHeaderActions}>
+              {!propsCollapsed && (
+                <button
+                  className={styles.panelCollapseButton}
+                  onClick={resetSavedState}
+                  title="Reset saved playground state"
+                  type="button"
+                >
+                  <FiRotateCcw />
+                </button>
+              )}
+
+              <button
+                className={styles.panelCollapseButton}
+                onClick={() => setPropsCollapsed(previousState => !previousState)}
+                title={propsCollapsed ? "Expand props" : "Collapse props"}
+                type="button"
+              >
+                {propsCollapsed ? <FiChevronRight /> : <FiChevronLeft />}
+              </button>
+            </div>
           </header>
 
           {!propsCollapsed && (
@@ -714,8 +944,12 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
                     const optionalIsEnabled = controlState.optionalEnabled[prop.name] ?? false;
                     const controlDisabled = prop.optional && !optionalIsEnabled;
 
+                    const optionalStateClass = prop.optional
+                      ? (optionalIsEnabled ? styles.propBlockEnabled : styles.propBlockDisabled)
+                      : "";
+
                     return (
-                      <section className={styles.propBlock} key={prop.name}>
+                      <section className={`${styles.propBlock} ${optionalStateClass}`} key={prop.name}>
                         <div className={styles.propMetaRow}>
                           <span className={styles.propName}>{prop.name}</span>
                           <span className={`${styles.typeBadge} ${styles[`typeBadge${typeBadge.kind.charAt(0).toUpperCase()}${typeBadge.kind.slice(1)}`]}`}>
@@ -798,11 +1032,12 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
                         {prop.optional && (
                           <label className={styles.optionalRow}>
                             <input
+                              className={styles.optionalCheckbox}
                               checked={optionalIsEnabled}
                               onChange={event => updateOptionalEnabled(prop.name, event.target.checked)}
                               type="checkbox"
                             />
-                            include
+                            <span>include</span>
                           </label>
                         )}
 
@@ -844,25 +1079,34 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
           <header className={styles.previewToolbar}>
             <div className={styles.viewportButtons}>
               {VIEWPORTS.map(entry => {
-                const Icon = entry.icon;
+                const label = formatViewportWidth(entry.width);
 
                 return (
                   <button
-                    aria-label={entry.width ? `${entry.label}px` : entry.label}
+                    aria-label={label}
                     className={entry.id === viewport ? styles.viewportButtonActive : styles.viewportButton}
                     key={entry.id}
                     onClick={() => setViewport(entry.id)}
                     type="button"
                   >
-                    <Icon className={styles.viewportIcon} />
+                    <FiMonitor className={styles.viewportIcon} />
+                    <span>{label}</span>
                   </button>
                 );
               })}
             </div>
 
-            <span className={styles.viewportReadout}>
-              {viewportConfig.width ? `${viewportConfig.width}px` : "desktop"}
-            </span>
+            <div className={styles.previewMeta}>
+              <span className={styles.viewportReadout}>{formatViewportWidth(viewportConfig.width)}</span>
+              <button
+                className={styles.layoutResetButton}
+                onClick={resetSavedLayout}
+                title="Reset saved panel layout"
+                type="button"
+              >
+                <FiRotateCcw />
+              </button>
+            </div>
           </header>
 
           <div className={styles.previewCanvas}>
@@ -874,7 +1118,7 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
                   <span />
                 </div>
                 <span className={styles.windowLabel}>
-                  {viewportConfig.width ? `${viewportConfig.width}px` : "desktop"}
+                  {formatViewportWidth(viewportConfig.width)}
                 </span>
               </div>
 
@@ -885,7 +1129,7 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
           <footer className={styles.previewFooter}>
             <span className={styles.footerPrimary}>{formatSegmentName(selectedPath.split("/").pop() ?? "Component")}</span>
             <span className={styles.footerDivider}>·</span>
-            <span>{viewportConfig.width ? `${viewportConfig.width}px` : viewportConfig.label}</span>
+            <span>{formatViewportWidth(viewportConfig.width)}</span>
           </footer>
         </section>
       </section>
