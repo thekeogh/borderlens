@@ -2,12 +2,14 @@
 
 import clsx from "clsx";
 
+import { Header } from "#components/layout/header";
+
 import Style from "./style.module.css";
 
 import type { ReactNode, CSSProperties } from "react";
 
 /**
- * Props for the Background component.
+ * Props for the Template component.
  */
 interface Props {
   children: ReactNode;
@@ -22,14 +24,17 @@ interface Props {
  * @param className - Optional additional class names to apply to the root element.
  * @param style - Optional inline styles to apply to the root element.
  */
-export function Background({ children, className, style }: Props) {
+export function Template({ children, className, style }: Props) {
   return (
-    <div className={clsx(Style.root, className)} style={style}>
-      <div className={Style.scanlines} aria-hidden="true" />
-      <div className={Style.noise} aria-hidden="true" />
-      <main>
-        {children}
-      </main>
-    </div>
+    <>
+      <Header />
+      <div className={clsx(Style.root, className)} style={style}>
+        <div className={Style.scanlines} aria-hidden="true" />
+        <div className={Style.noise} aria-hidden="true" />
+        <main>
+          {children}
+        </main>
+      </div>
+    </>
   );
 }

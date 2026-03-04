@@ -8,13 +8,17 @@ import {
   FiFile,
   FiFolder,
   FiMonitor,
+  FiRefreshCw,
   FiRotateCcw,
+  FiSettings,
+  FiSave,
   FiSliders,
+  FiTrash2,
 } from "react-icons/fi";
 
 import styles from "./playground.module.css";
 
-import type { PlaygroundComponentMeta, PlaygroundOptionValue, PlaygroundPropMeta } from "../../playground/types";
+import type { PlaygroundComponentMeta, PlaygroundOptionValue, PlaygroundPropMeta } from "../../../playground/types";
 
 interface PlaygroundShellProps {
   components: PlaygroundComponentMeta[];
@@ -62,10 +66,17 @@ interface PersistedLayout {
   propsWidth: number;
 }
 
+interface LoadoutEntry {
+  id: string;
+  name: string;
+  state: ControlState;
+}
+
 interface PersistedPlaygroundState {
   componentStates: Record<string, ControlState>;
   explorerCollapsed: boolean;
   importsInput: string;
+  loadouts: Record<string, LoadoutEntry[]>;
   openFolders: Record<string, boolean>;
   propsCollapsed: boolean;
   selectedExportNameInput: string;
@@ -172,6 +183,29 @@ function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null && !Array.isArray(value);
 }
 
+function cloneControlState(state: ControlState): ControlState {
+  let clonedValues: Record<string, unknown>;
+
+  try {
+    clonedValues = JSON.parse(JSON.stringify(state.values)) as Record<string, unknown>;
+  } catch {
+    clonedValues = { ...state.values };
+  }
+
+  return {
+    optionalEnabled: { ...state.optionalEnabled },
+    values: clonedValues,
+  };
+}
+
+function createLoadoutId(): string {
+  if (typeof crypto !== "undefined" && typeof crypto.randomUUID === "function") {
+    return crypto.randomUUID();
+  }
+
+  return `${Date.now()}-${Math.random().toString(36).slice(2, 10)}`;
+}
+
 function asBooleanRecord(value: unknown): Record<string, boolean> {
   if (!isRecord(value)) {
     return {};
@@ -213,6 +247,51 @@ function asControlStateRecord(value: unknown): Record<string, ControlState> {
   return output;
 }
 
+function asLoadoutsRecord(value: unknown): Record<string, LoadoutEntry[]> {
+  if (!isRecord(value)) {
+    return {};
+  }
+
+  const output: Record<string, LoadoutEntry[]> = {};
+
+  for (const [componentKey, entries] of Object.entries(value)) {
+    if (!Array.isArray(entries)) {
+      continue;
+    }
+
+    const parsedEntries = entries
+      .map(entry => {
+        if (!isRecord(entry)) {
+          return null;
+        }
+
+        if (typeof entry.id !== "string" || typeof entry.name !== "string") {
+          return null;
+        }
+
+        if (!isRecord(entry.state)) {
+          return null;
+        }
+
+        return {
+          id: entry.id,
+          name: entry.name,
+          state: {
+            optionalEnabled: asBooleanRecord(entry.state.optionalEnabled),
+            values: asUnknownRecord(entry.state.values),
+          },
+        } satisfies LoadoutEntry;
+      })
+      .filter((entry): entry is LoadoutEntry => entry !== null);
+
+    if (parsedEntries.length > 0) {
+      output[componentKey] = parsedEntries;
+    }
+  }
+
+  return output;
+}
+
 function isViewportId(value: unknown): value is ViewportId {
   return typeof value === "string" && VIEWPORTS.some(entry => entry.id === value);
 }
@@ -222,6 +301,7 @@ function loadPersistedPlaygroundState(): PersistedPlaygroundState {
     componentStates: {},
     explorerCollapsed: false,
     importsInput: "",
+    loadouts: {},
     openFolders: {},
     propsCollapsed: false,
     selectedExportNameInput: "default",
@@ -250,6 +330,7 @@ function loadPersistedPlaygroundState(): PersistedPlaygroundState {
       componentStates: asControlStateRecord(parsed.componentStates),
       explorerCollapsed: typeof parsed.explorerCollapsed === "boolean" ? parsed.explorerCollapsed : defaults.explorerCollapsed,
       importsInput: typeof parsed.importsInput === "string" ? parsed.importsInput : defaults.importsInput,
+      loadouts: asLoadoutsRecord(parsed.loadouts),
       openFolders: asBooleanRecord(parsed.openFolders),
       propsCollapsed: typeof parsed.propsCollapsed === "boolean" ? parsed.propsCollapsed : defaults.propsCollapsed,
       selectedExportNameInput: typeof parsed.selectedExportNameInput === "string" && parsed.selectedExportNameInput.length > 0
@@ -509,6 +590,7 @@ function collectFolderPaths(folders: TreeFolder[]): string[] {
 
 export function PlaygroundShell({ components }: PlaygroundShellProps) {
   const shellRef = useRef<HTMLElement | null>(null);
+  const settingsMenuRef = useRef<HTMLDivElement | null>(null);
 
   const componentsByPath = useMemo(() => {
     const map = new Map<string, PlaygroundComponentMeta[]>();
@@ -551,6 +633,7 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
   const [explorerCollapsed, setExplorerCollapsed] = useState(persistedPlaygroundState.explorerCollapsed);
   const [explorerWidth, setExplorerWidth] = useState(persistedLayout.explorerWidth);
   const [importsInput, setImportsInput] = useState(persistedPlaygroundState.importsInput);
+  const [loadouts, setLoadouts] = useState<Record<string, LoadoutEntry[]>>(persistedPlaygroundState.loadouts);
   const [openFolders, setOpenFolders] = useState<Record<string, boolean>>(
     () => ({
       ...initialFolderOpenState,
@@ -570,6 +653,9 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
     return componentPaths[0] ?? "";
   });
   const [componentStates, setComponentStates] = useState<Record<string, ControlState>>(persistedPlaygroundState.componentStates);
+  const [isReloading, setIsReloading] = useState(false);
+  const [isSettingsOpen, setIsSettingsOpen] = useState(false);
+  const [previewRevision, setPreviewRevision] = useState(0);
   const [viewport, setViewport] = useState<ViewportId>(persistedPlaygroundState.viewport);
 
   const availableExports = useMemo(
@@ -592,6 +678,10 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
   );
 
   const selectedComponentKey = selectedComponent?.key ?? "";
+  const currentLoadouts = useMemo(
+    () => loadouts[selectedComponentKey] ?? [],
+    [loadouts, selectedComponentKey]
+  );
 
   const controlState = useMemo(
     () => componentStates[selectedComponentKey] ?? initControlState(selectedComponent),
@@ -615,8 +705,12 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
       searchParams.set("imports", importsInput);
     }
 
+    if (previewRevision > 0) {
+      searchParams.set("rev", String(previewRevision));
+    }
+
     return `/.playground/preview?${searchParams.toString()}`;
-  }, [importsInput, previewState.props, selectedComponent]);
+  }, [importsInput, previewRevision, previewState.props, selectedComponent]);
 
   const viewportConfig = useMemo(
     () => VIEWPORTS.find(entry => entry.id === viewport) ?? VIEWPORTS[0],
@@ -628,6 +722,10 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
       width: viewportConfig.width ? `${viewportConfig.width}px` : "calc(100% - 2rem)",
     }),
     [viewportConfig.width]
+  );
+  const currentComponentName = useMemo(
+    () => formatSegmentName(selectedPath.split("/").pop() ?? "Component"),
+    [selectedPath]
   );
 
   const shellStyle = useMemo(
@@ -660,6 +758,7 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
           componentStates,
           explorerCollapsed,
           importsInput,
+          loadouts,
           openFolders,
           propsCollapsed,
           selectedExportNameInput,
@@ -670,7 +769,33 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
     } catch {
       // Ignore storage write failures (e.g. private mode restrictions).
     }
-  }, [componentStates, explorerCollapsed, importsInput, openFolders, propsCollapsed, selectedExportNameInput, selectedPath, viewport]);
+  }, [componentStates, explorerCollapsed, importsInput, loadouts, openFolders, propsCollapsed, selectedExportNameInput, selectedPath, viewport]);
+
+  useEffect(() => {
+    if (!isSettingsOpen) {
+      return;
+    }
+
+    function onWindowPointerDown(event: MouseEvent): void {
+      if (!settingsMenuRef.current?.contains(event.target as Node)) {
+        setIsSettingsOpen(false);
+      }
+    }
+
+    function onWindowKeyDown(event: KeyboardEvent): void {
+      if (event.key === "Escape") {
+        setIsSettingsOpen(false);
+      }
+    }
+
+    window.addEventListener("mousedown", onWindowPointerDown);
+    window.addEventListener("keydown", onWindowKeyDown);
+
+    return () => {
+      window.removeEventListener("mousedown", onWindowPointerDown);
+      window.removeEventListener("keydown", onWindowKeyDown);
+    };
+  }, [isSettingsOpen]);
 
   function applyPath(path: string): void {
     if (!componentsByPath.has(path)) {
@@ -759,9 +884,16 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
     }));
   }
 
-  function resetSavedLayout(): void {
+  function closeSettingsMenu(): void {
+    setIsSettingsOpen(false);
+  }
+
+  function resetPlaygroundPreferences(): void {
+    closeSettingsMenu();
+
     try {
       window.localStorage.removeItem(LAYOUT_STORAGE_KEY);
+      window.localStorage.removeItem(PLAYGROUND_STATE_STORAGE_KEY);
     } catch {
       // Ignore storage deletion failures and continue with reload.
     }
@@ -769,14 +901,110 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
     window.location.reload();
   }
 
-  function resetSavedState(): void {
-    try {
-      window.localStorage.removeItem(PLAYGROUND_STATE_STORAGE_KEY);
-    } catch {
-      // Ignore storage deletion failures and continue with reload.
+  function refreshPreviewFrame(): void {
+    setPreviewRevision(previousState => previousState + 1);
+  }
+
+  async function rebuildPlaygroundRegistry(): Promise<void> {
+    if (isReloading) {
+      return;
     }
 
-    window.location.reload();
+    closeSettingsMenu();
+    setIsReloading(true);
+
+    try {
+      const response = await fetch("/.playground/api/sync", {
+        method: "POST",
+      });
+
+      if (!response.ok) {
+        throw new Error(`Sync failed (${response.status})`);
+      }
+
+      window.location.reload();
+    } catch {
+      setIsReloading(false);
+      window.alert("Failed to refresh playground registry. Check terminal logs and try again.");
+    }
+  }
+
+  function saveCurrentLoadout(): void {
+    if (!selectedComponent) {
+      return;
+    }
+
+    const rawName = window.prompt("Loadout name");
+
+    if (rawName === null) {
+      return;
+    }
+
+    const name = rawName.trim();
+
+    if (name.length === 0) {
+      return;
+    }
+
+    const entry: LoadoutEntry = {
+      id: createLoadoutId(),
+      name,
+      state: cloneControlState(controlState),
+    };
+
+    setLoadouts(previousState => ({
+      ...previousState,
+      [selectedComponentKey]: [...(previousState[selectedComponentKey] ?? []), entry],
+    }));
+  }
+
+  function applyLoadout(loadout: LoadoutEntry): void {
+    if (!selectedComponent) {
+      return;
+    }
+
+    setComponentStates(previousState => ({
+      ...previousState,
+      [selectedComponentKey]: cloneControlState(loadout.state),
+    }));
+  }
+
+  function deleteLoadout(loadoutId: string): void {
+    if (!selectedComponent) {
+      return;
+    }
+
+    setLoadouts(previousState => {
+      const current = previousState[selectedComponentKey] ?? [];
+      const next = current.filter(entry => entry.id !== loadoutId);
+
+      if (next.length === 0) {
+        const rest = { ...previousState };
+        delete rest[selectedComponentKey];
+        return rest;
+      }
+
+      return {
+        ...previousState,
+        [selectedComponentKey]: next,
+      };
+    });
+  }
+
+  function clearCurrentLoadouts(): void {
+    if (!selectedComponent) {
+      return;
+    }
+
+    setLoadouts(previousState => {
+      if (!(selectedComponentKey in previousState)) {
+        return previousState;
+      }
+
+      const rest = { ...previousState };
+      delete rest[selectedComponentKey];
+      return rest;
+    });
   }
 
   function renderFolder(folder: TreeFolder, depth = 0): ReactNode {
@@ -825,6 +1053,44 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
 
   return (
     <main className={styles.page}>
+      <div className={styles.topRightActions} ref={settingsMenuRef}>
+        <button
+          className={styles.settingsSummary}
+          onClick={() => setIsSettingsOpen(previousState => !previousState)}
+          title="Playground settings"
+          type="button"
+        >
+          <FiSettings />
+        </button>
+
+        {isSettingsOpen && (
+          <div className={styles.settingsDropdown}>
+            <button
+              className={`${styles.settingsItem} ${styles.settingsItemLight}`}
+              onClick={resetPlaygroundPreferences}
+              type="button"
+            >
+              <span className={styles.settingsItemLabel}>
+                <FiRotateCcw />
+                Reset saved playground preferences
+              </span>
+            </button>
+
+            <button
+              className={`${styles.settingsItem} ${styles.settingsItemHeavy}`}
+              disabled={isReloading}
+              onClick={rebuildPlaygroundRegistry}
+              type="button"
+            >
+              <span className={styles.settingsItemLabel}>
+                <FiRefreshCw className={isReloading ? styles.iconSpin : undefined} />
+                Rebuild component registry (full sync)
+              </span>
+            </button>
+          </div>
+        )}
+      </div>
+
       <section className={styles.shell} ref={shellRef} style={shellStyle}>
         <aside className={`${styles.explorerPanel} ${explorerCollapsed ? styles.panelCollapsed : ""}`}>
           <header className={styles.panelHeader}>
@@ -893,17 +1159,6 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
             )}
 
             <div className={styles.panelHeaderActions}>
-              {!propsCollapsed && (
-                <button
-                  className={styles.panelCollapseButton}
-                  onClick={resetSavedState}
-                  title="Reset saved playground state"
-                  type="button"
-                >
-                  <FiRotateCcw />
-                </button>
-              )}
-
               <button
                 className={styles.panelCollapseButton}
                 onClick={() => setPropsCollapsed(previousState => !previousState)}
@@ -1048,19 +1303,71 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
                     );
                   })}
 
-                  <details className={styles.importsDetails}>
-                    <summary className={styles.importsSummary}>JSX Imports (Advanced)</summary>
-                    <p className={styles.importsHint}>
-                      {"One ESM import per line. Example: import { FaArrowCircleRight } from \"react-icons/fa\";"}
-                    </p>
-                    <textarea
-                      className={styles.importsTextarea}
-                      onChange={event => setImportsInput(event.target.value)}
-                      placeholder={"import { FaArrowCircleRight } from \"react-icons/fa\";"}
-                      rows={4}
-                      value={importsInput}
-                    />
-                  </details>
+                  <div className={styles.propsFooterTools}>
+                    <section className={styles.loadoutSection}>
+                      <div className={styles.loadoutHeader}>
+                        <span className={styles.loadoutTitle}>Loadouts</span>
+                        <div className={styles.loadoutHeaderActions}>
+                          <button
+                            className={styles.loadoutIconButton}
+                            onClick={saveCurrentLoadout}
+                            title="Save current props as a loadout"
+                            type="button"
+                          >
+                            <FiSave />
+                          </button>
+                          <button
+                            className={styles.loadoutClearButton}
+                            disabled={currentLoadouts.length === 0}
+                            onClick={clearCurrentLoadouts}
+                            type="button"
+                          >
+                            Clear
+                          </button>
+                        </div>
+                      </div>
+
+                      {currentLoadouts.length === 0 ? (
+                        <p className={styles.loadoutEmpty}>No saved loadouts yet.</p>
+                      ) : (
+                        <ul className={styles.loadoutList}>
+                          {currentLoadouts.map(loadout => (
+                            <li className={styles.loadoutItem} key={loadout.id}>
+                              <button
+                                className={styles.loadoutApplyButton}
+                                onClick={() => applyLoadout(loadout)}
+                                type="button"
+                              >
+                                {loadout.name}
+                              </button>
+                              <button
+                                className={styles.loadoutDeleteButton}
+                                onClick={() => deleteLoadout(loadout.id)}
+                                title={`Delete ${loadout.name}`}
+                                type="button"
+                              >
+                                <FiTrash2 />
+                              </button>
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </section>
+
+                    <details className={styles.importsDetails}>
+                      <summary className={styles.importsSummary}>Extra Imports (Advanced)</summary>
+                      <p className={styles.importsHint}>
+                        {"One ESM import per line. Example: import { FaArrowCircleRight } from \"react-icons/fa\";"}
+                      </p>
+                      <textarea
+                        className={styles.importsTextarea}
+                        onChange={event => setImportsInput(event.target.value)}
+                        placeholder={"import { FaArrowCircleRight } from \"react-icons/fa\";"}
+                        rows={4}
+                        value={importsInput}
+                      />
+                    </details>
+                  </div>
                 </>
               ) : (
                 <p className={styles.panelMuted}>Select a component in the explorer.</p>
@@ -1096,17 +1403,6 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
               })}
             </div>
 
-            <div className={styles.previewMeta}>
-              <span className={styles.viewportReadout}>{formatViewportWidth(viewportConfig.width)}</span>
-              <button
-                className={styles.layoutResetButton}
-                onClick={resetSavedLayout}
-                title="Reset saved panel layout"
-                type="button"
-              >
-                <FiRotateCcw />
-              </button>
-            </div>
           </header>
 
           <div className={styles.previewCanvas}>
@@ -1118,19 +1414,25 @@ export function PlaygroundShell({ components }: PlaygroundShellProps) {
                   <span />
                 </div>
                 <span className={styles.windowLabel}>
-                  {formatViewportWidth(viewportConfig.width)}
+                  <span className={styles.componentReadout}>{currentComponentName}</span>
+                  <span className={styles.previewMetaDivider}>·</span>
+                  <span className={styles.viewportReadout}>{formatViewportWidth(viewportConfig.width)}</span>
                 </span>
+                <div className={styles.windowActions}>
+                  <button
+                    className={styles.windowRefreshButton}
+                    onClick={refreshPreviewFrame}
+                    title="Refresh preview"
+                    type="button"
+                  >
+                    <FiRefreshCw />
+                  </button>
+                </div>
               </div>
 
               <iframe className={styles.previewFrame} src={previewSrc} title="Component preview" />
             </div>
           </div>
-
-          <footer className={styles.previewFooter}>
-            <span className={styles.footerPrimary}>{formatSegmentName(selectedPath.split("/").pop() ?? "Component")}</span>
-            <span className={styles.footerDivider}>·</span>
-            <span>{formatViewportWidth(viewportConfig.width)}</span>
-          </footer>
         </section>
       </section>
     </main>

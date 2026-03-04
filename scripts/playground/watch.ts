@@ -5,7 +5,7 @@ import { syncPlayground } from "./sync";
 
 const ROOT_DIR = process.cwd();
 const COMPONENTS_DIR = join(ROOT_DIR, "src/components");
-const WATCHED_EXTENSIONS = new Set([".css", ".js", ".jsx", ".sass", ".scss", ".ts", ".tsx"]);
+const WATCHED_EXTENSIONS = new Set([".js", ".jsx", ".ts", ".tsx"]);
 const IGNORED_SUFFIXES = [".test.ts", ".test.tsx", ".spec.ts", ".spec.tsx"];
 const DEBOUNCE_MS = 150;
 
@@ -82,7 +82,6 @@ async function runWatcher(): Promise<void> {
 
   const watcher = watch(COMPONENTS_DIR, { recursive: true }, (_, fileName) => {
     if (!fileName) {
-      scheduleSync("components changed");
       return;
     }
 

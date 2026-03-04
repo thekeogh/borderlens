@@ -1,0 +1,10 @@
+/**
+ * Main container for application content.
+ */
+.container {
+  width: min(var(--dimension-container-md), 100% - (var(--spacing-sm) * 2));
+  margin-inline: auto;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}

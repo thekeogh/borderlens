@@ -2,7 +2,7 @@
 
 import dynamic from "next/dynamic";
 
-import type { PlaygroundComponentMeta } from "../../playground/types";
+import type { PlaygroundComponentMeta } from "../../../playground/types";
 
 const PlaygroundShell = dynamic(
   () => import("./playground-shell").then(module => module.PlaygroundShell),

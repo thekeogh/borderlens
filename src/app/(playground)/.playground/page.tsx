@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 
-import { playgroundComponents } from "../../playground/generated/metadata";
+import { playgroundComponents } from "../../../playground/generated/metadata";
 import { PlaygroundClient } from "./playground-client";
 
 export default function PlaygroundPage() {

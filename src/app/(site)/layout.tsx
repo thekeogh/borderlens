@@ -2,7 +2,7 @@ import { Rajdhani, Inter, Space_Mono } from "next/font/google";
 
 import { Config } from "#config";
 
-import { Background } from "#components/layout/background";
+import { Template } from "#components/layout/template";
 
 import type { Metadata } from "next";
 import type { Viewport } from "next";
@@ -84,9 +84,11 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`${inter.variable} ${rajdhani.variable} ${spaceMono.variable}`}>
-      <body><Background>
-        {children}
-      </Background></body>
+      <body>
+        <Template>
+          {children}
+        </Template>
+      </body>
     </html>
   );
 }

@@ -29,14 +29,14 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Hyperlinks
  */
-a:not([class]), a:visited:not([class]) {
+a:not([class]), a:visited:not([class], a.link) {
   display: inline-block;
   transition: color 0.2s ease;
   color: var(--color-orange-300);
   text-decoration: none !important;
 }
-a:not([class]):hover,
-a:visited:not([class]):hover {
+a:not([class]):hover, a.link:hover,
+a:visited:not([class]):hover, a.link:visited:hover {
   color: var(--color-orange-500);
   animation: link-glitch 0.4s steps(4, end) forwards;
 }

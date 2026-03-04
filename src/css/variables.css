@@ -70,5 +70,6 @@
    * Dimensions
    */
   --dimension-container-md: 80rem;
+  --dimension-header-height: 4.375rem;
 
 }

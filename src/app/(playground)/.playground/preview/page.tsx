@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import * as React from "react";
 
-import { playgroundLoaders } from "../../../playground/generated/loaders";
+import { playgroundLoaders } from "../../../../playground/generated/loaders";
 import styles from "./preview.module.css";
 
 export const dynamic = "force-dynamic";

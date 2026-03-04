@@ -1,4 +1,4 @@
-import { mkdir, readdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import { extname, join, relative } from "node:path";
 
 import ts from "typescript";
@@ -438,16 +438,35 @@ function createLoadersFileContent(entries: ComponentEntry[]): string {
   return lines.join("\n");
 }
 
+async function writeIfChanged(filePath: string, content: string): Promise<boolean> {
+  try {
+    const existing = await readFile(filePath, "utf8");
+
+    if (existing === content) {
+      return false;
+    }
+  } catch {
+    // Missing file (or unreadable file) falls through to write.
+  }
+
+  await writeFile(filePath, content, "utf8");
+  return true;
+}
+
 export async function syncPlayground(): Promise<void> {
   const componentFiles = await collectFiles(COMPONENTS_DIR);
   const program = createProgram();
   const componentEntries = getComponentEntries(componentFiles, program);
   const metadata = buildMetadata(componentEntries);
+  const metadataContent = createMetadataFileContent(metadata);
+  const loadersContent = createLoadersFileContent(componentEntries);
 
   await mkdir(OUTPUT_DIR, { recursive: true });
 
-  await writeFile(OUTPUT_METADATA_FILE, createMetadataFileContent(metadata), "utf8");
-  await writeFile(OUTPUT_LOADERS_FILE, createLoadersFileContent(componentEntries), "utf8");
+  await Promise.all([
+    writeIfChanged(OUTPUT_METADATA_FILE, metadataContent),
+    writeIfChanged(OUTPUT_LOADERS_FILE, loadersContent),
+  ]);
 
   const uniquePaths = new Set(componentEntries.map(entry => entry.path));
   console.log(`Synced playground registry: ${componentEntries.length} exports across ${uniquePaths.size} components`);
