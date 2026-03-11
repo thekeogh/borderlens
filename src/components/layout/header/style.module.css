@@ -1,7 +1,6 @@
 .root {
-  --border-height: 4px;
   height: var(--dimension-header-height);
-  border-bottom: solid var(--border-height) #ea580c80;
+  border-bottom: solid 2px var(--color-zinc-700);
   top: 0;
   right: 0;
   left: 0;
@@ -11,7 +10,7 @@
   z-index: 2;
   &::before {
     content: "";
-    height: calc(var(--dimension-header-height) - var(--border-height));
+    height: calc(var(--dimension-header-height) - 2px);
     backdrop-filter: blur(5px);
     background-color: rgba(0, 0, 0, .8);
     top: 0;
@@ -20,13 +19,15 @@
     position: fixed;
     z-index: -1;
   }
-
   > :global(.container) {
     gap: 170px;
     align-items: center;
     display: flex;
   }
 
+  /**
+   * Borderlens logo
+   */
   .logo {
     flex: 0 0 130px;
     img {
@@ -37,10 +38,16 @@
     }
   }
 
+  /**
+   * Search
+   */
   .search {
     flex: 1 0 0;
   }
 
+  /**
+   * Navigation
+   */
   > nav {
     flex: 0 0 auto;
   }
@@ -71,7 +78,7 @@
  * Covers most iPhones, small Android devices
  */
 @media (max-width: 480px) {
-  .root {
+  .root:not(:has(.search)) {
     .logo {
       display: none;
     }

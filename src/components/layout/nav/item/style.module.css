@@ -1,0 +1,92 @@
+.root {
+  --padding: var(--spacing-sm);
+  width: 38px;
+  height: var(--dimension-header-height);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: 100% auto;
+  display: block;
+  position: relative;
+  cursor: pointer;
+  > span {
+    font-size: 0;
+    text-indent: -9999px;
+  }
+
+  .dropdown {
+    transition: opacity 0.3s ease, display 0.3s allow-discrete;
+    min-width: 200px;
+    background: linear-gradient(135deg, rgba(249, 115, 22, 0.2) 0%, rgba(249, 115, 22, 0.2) 100%);
+    border-radius: 0.5rem;
+    border: 1.5px solid var(--color-orange-700);
+    box-shadow: rgba(249, 115, 22, 0.19) 0px 8px 32px, rgba(249, 115, 22, 0.082) 0px 0px 24px;
+    backdrop-filter: blur(4px);
+    top: calc(var(--dimension-header-height) - 2px);
+    right: -81px;
+    position: absolute;
+    display: none;
+    opacity: 0;
+    > p, ul li {
+      font-size: var(--font-size-xs);
+      font-weight: var(--font-weight-bolder);
+      text-transform: uppercase;
+      letter-spacing: .125rem;
+    }
+    > p {
+      padding: var(--padding);
+      background: #422311;
+      color: var(--color-orange-500);
+      border-bottom: solid 1px var(--color-orange-700);
+      border-top-left-radius: 0.5rem;
+      border-top-right-radius: 0.5rem;
+    }
+    > ul {
+      margin: 0;
+      padding: var(--spacing-xs) 0;
+      list-style: none;
+      li {
+        padding: var(--spacing-xs) var(--padding);
+      }
+    }
+  }
+  &:last-child .dropdown {
+    right: calc(var(--spacing-sm) * -1 + 4px)
+  }
+
+  &:hover .dropdown {
+    display: block;
+    opacity: 1;
+  }
+}
+
+@starting-style {
+  .root:hover .dropdown {
+    opacity: 0;
+  }
+}
+
+
+
+
+/*
+.dropdown-glass-panel {
+
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 0.5rem;
+  z-index: 50;
+  min-width: 200px;
+  overflow: hidden;
+  border-radius: 0.5rem;
+
+  backdrop-filter: blur(4px);
+
+
+  background: linear-gradient(135deg, rgba(249, 115, 22, 0.145) 0%, rgba(249, 115, 22, 0.094) 100%);
+  border: 1.5px solid rgba(249, 115, 22, 0.25);
+  box-shadow: rgba(249, 115, 22, 0.19) 0px 8px 32px, rgba(249, 115, 22, 0.082) 0px 0px 24px;
+  opacity: 1;
+  transform: none;
+}
+*/

@@ -1,0 +1,105 @@
+.root {
+  --padding: 16.875rem;
+  padding-top: var(--padding);
+  padding-bottom: var(--padding);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  position: relative;
+
+  .background {
+    background-image: linear-gradient(to bottom, rgb(67 20 7 / .3) , #000 , #000);
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+  }
+
+  .flares {
+    width: 100%;
+    height: 100%;
+    left: 0;
+    right: 0;
+    opacity: .3;
+    position: absolute;
+    div {
+      border-radius: 9999px;
+      position: absolute;
+      &:nth-child(1) {
+        filter: blur(120px);
+        width: 16rem;
+        height: 16rem;
+        background-color: rgb(234 88 12);
+        top: 5rem;
+        left: 2.5rem;
+      }
+      &:nth-child(2) {
+        filter: blur(150px);
+        width: 24rem;
+        height: 24rem;
+        background-color: rgb(185 28 28);
+        top: 10rem;
+        right: 5rem;
+      }
+      &:nth-child(3) {
+        filter: blur(140px);
+        width: 20rem;
+        height: 20rem;
+        background-color: rgb(180 83 9);
+        left: 33.333333%;
+        bottom: 10rem;
+      }
+    }
+  }
+
+  h1 {
+    filter: drop-shadow(0 0 50px rgba(251, 146, 60, .8));
+    width: 100%;
+    max-width: 680px;
+    margin: 0 auto 5.625rem;
+    position: relative;
+    &::after {
+      content: "";
+      filter: blur(100px);
+      background-image: linear-gradient(to right, #ea580c , #f59e0b , #ea580c);
+      top: -2rem;
+      right: -2rem;
+      bottom: -2rem;
+      left: -2rem;
+      position: absolute;
+      opacity: .2;
+      z-index: -1;
+    }
+  }
+
+  .tagline {
+    margin: 0 auto var(--spacing-lg);
+    color: var(--color-zinc-0);
+    font-family: var(--font-family-title);
+    font-weight: var(--font-weight-bold);
+    font-size: 1.875rem;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: var(--line-height-titles);
+  }
+
+}
+
+/*
+ * Small phones
+ *
+ * Covers most iPhones, small Android devices
+ */
+@media (max-width: 480px) {
+  .root {
+    --padding: 0;
+    height: calc(100vh - var(--dimension-header-height));
+    h1 {
+      margin-bottom: var(--spacing-xl);
+    }
+    .tagline {
+      font-size: var(--font-size-lg)
+    }
+  }
+}

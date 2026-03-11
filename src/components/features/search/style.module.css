@@ -1,0 +1,124 @@
+.root {
+  width: 100%;
+
+  .field {
+    position: relative;
+  }
+
+  .control {
+    width: 100%;
+    font-family: var(--font-family-mono);
+    font-weight: var(--font-weight-bold);
+  }
+
+  .icon {
+    transform: translateY(-50%);
+    top: 50%;
+    position: absolute;
+  }
+
+  /**
+   * Size
+   */
+  &.sm {
+    .icon {
+      font-size: var(--font-size-md);
+      left: var(--spacing-sm);
+    }
+    .control {
+      padding: .75rem .75rem .75rem 3.125rem;
+      font-size: var(--font-size-sm);
+    }
+  }
+  &.md {
+    .icon {
+      font-size: var(--font-size-lg);
+      left: var(--spacing-md);
+    }
+    .control {
+      padding: 1.125rem 1.125rem 1.125rem 4.375rem;
+      font-size: var(--font-size-md);
+    }
+  }
+
+  /**
+   * Theme
+   */
+  &.dark {
+    .icon {
+      color: var(--color-orange-300);
+    }
+    .control {
+      background-color: var(--color-zinc-700);
+      color: var(--color-zinc-0);
+      &::placeholder {
+        color: var(--color-zinc-500)
+      }
+    }
+  }
+  &.light {
+    .icon {
+      color: var(--color-orange-500);
+    }
+    .control {
+      background-color: var(--color-zinc-0);
+      color: var(--color-zinc-1000);
+      &::placeholder {
+        color: #a1a1aa
+      }
+    }
+  }
+
+  /**
+   * Filter (only appears on md size)
+   */
+  aside {
+    margin-bottom: var(--spacing-sm);
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    > p {
+      margin-bottom: var(--spacing-sm);
+      color: var(--color-zinc-500);
+      font-size: var(--font-size-xs);
+      font-weight: var(--font-weight-bold);
+      letter-spacing: .2em;
+      text-transform: uppercase;
+      small {
+        color: color-mix(in srgb, var(--color-zinc-700) 85%, white);
+        font-size: var(--font-size-xs);
+        font-weight: var(--font-weight-normal);
+        letter-spacing: normal;
+        text-transform: none;
+      }
+    }
+    .buttons {
+      gap: var(--spacing-xs);
+      justify-content: center;
+      align-items: center;
+      display: flex;
+    }
+  }
+
+}
+
+/*
+|------------------------------------------------------------------------------
+| Responsive
+|------------------------------------------------------------------------------
+*/
+
+/*
+ * Small phones
+ *
+ * Covers most iPhones, small Android devices
+ */
+@media (max-width: 480px) {
+  .root {
+    aside {
+      .buttons {
+        flex-direction: column;
+      }
+    }
+  }
+}

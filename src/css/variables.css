@@ -3,6 +3,7 @@
   /**
    * Colours
    */
+  --color-orange-700: #792e0f; /* Borders (e.g. header) */
   --color-orange-500: #ea580a; /* Primary (brand) */
   --color-orange-300: #fb923c; /* Secondary (brand) */
 
@@ -70,6 +71,7 @@
    * Dimensions
    */
   --dimension-container-md: 80rem;
+  --dimension-container-sm: 48rem;
   --dimension-header-height: 4.375rem;
 
 }

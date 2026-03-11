@@ -3,8 +3,12 @@
 import clsx from "clsx";
 import Image from "next/image";
 import Link from "next/link";
+import { Suspense } from "react";
 
 import { Config } from "#config";
+
+import { Search } from "#components/features/search";
+import { Nav } from "#components/layout/nav";
 
 import Style from "./style.module.css";
 
@@ -18,6 +22,12 @@ interface Props {
   style?: CSSProperties;
 }
 
+/**
+ * Renders the application header with branding, search, and navigation components.
+ *
+ * @param className - Optional additional class names to apply to the header element.
+ * @param style - Optional inline styles to apply to the header element.
+ */
 export function Header({ className, style }: Props) {
   return (
     <header className={clsx(Style.root, className)} style={style}><div className="container">
@@ -32,11 +42,14 @@ export function Header({ className, style }: Props) {
         />
       </Link>
       <div className={Style.search}>
-        SEARCHhkhkj
+        <Suspense fallback={null}>
+          <Search header size="sm" theme="dark" />
+        </Suspense>
       </div>
-      <nav>
-        RIGHT
-      </nav>
+      <Nav>
+        <Nav.Item game="borderlands" />
+        <Nav.Item game="borderlands2" />
+      </Nav>
     </div></header>
   );
 }

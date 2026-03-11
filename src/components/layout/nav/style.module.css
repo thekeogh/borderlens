@@ -1,0 +1,5 @@
+.root {
+  gap: var(--spacing-sm);
+  align-items: center;
+  display: flex;
+}

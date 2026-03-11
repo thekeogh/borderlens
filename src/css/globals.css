@@ -7,4 +7,7 @@
   margin-left: auto;
   margin-right: auto;
   position: relative;
+  &.sm {
+    width: min(var(--dimension-container-sm), 100% - (var(--spacing-sm) * 2));
+  }
 }

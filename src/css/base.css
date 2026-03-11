@@ -10,6 +10,7 @@ html {
  */
 body {
   min-height: 100vh;
+  padding-top: var(--dimension-header-height);
   background-color: var(--color-zinc-1000);
   font-family: var(--font-family-base);
   font-size: var(--font-size-md);
