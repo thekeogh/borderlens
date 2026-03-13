@@ -1,8 +1,93 @@
 .root {
+  --button-height: 3.125rem;
+  padding-bottom: var(--button-height);
+  background: var(--color-zinc-1000);
+  border-style: solid;
+  border-color: var(--color);
+  border-width: 8px 8px 0;
   flex: 0 0 calc(33.333% - var(--spacing-lg) * 2 / 3);
+  position: relative;
 
-  .img {
-    height: 225px;
+  > header {
+    height: 227px;
+    position: relative;
+    .game {
+      left: .375rem;
+      top: .375rem;
+      position: absolute;
+      z-index: 1;
+    }
+    .elements {
+      right: 0;
+      bottom: 0;
+      position: absolute;
+      z-index: 1
+    }
+  }
+
+  > main {
+    padding: var(--spacing-sm);
+    display: flex;
+    .meta {
+      flex: 1 0 0;
+      ul {
+        margin: 0;
+        padding: 0;
+        font-size: var(--font-size-xs);
+        font-weight: var(--font-weight-bold);
+        text-transform: uppercase;
+        list-style: none;
+        align-items: center;
+        display: flex;
+        li:first-child {
+          color: var(--color-zinc-500)
+        }
+        li:last-child {
+          margin-left: 20px;
+          color: var(--color-orange-300);
+          position: relative;
+          &:before {
+            content: "•";
+            transform: translateY(-50%);
+            color: var(--color-zinc-500);
+            left: -13px;
+            top: 50%;
+            position: absolute;
+          }
+        }
+      }
+    }
+    h3 {
+      font-size: 1.25rem;
+      font-weight: var(--font-weight-bolder);
+      line-height: 1.75rem;
+      a {
+        text-decoration: none !important;
+      }
+    }
+    aside {
+      flex: none
+    }
+  }
+
+  .button {
+    height: var(--button-height);
+    background: var(--color);
+    color: var(--color-zinc-1000);
+    font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-bolder);
+    text-transform: uppercase;
+    text-decoration: none !important;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    .icon {
+      font-size: 1.125rem
+    }
   }
 
 }

@@ -1,5 +1,11 @@
 .root {
-  gap: var(--spacing-xs);
   flex-direction: column;
-  display: flex
+  display: flex;
+
+  &.md {
+    --spacing: var(--spacing-xs);
+    padding-right: var(--spacing);
+    padding-bottom: var(--spacing);
+    gap: var(--spacing);
+  }
 }

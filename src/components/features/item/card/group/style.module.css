@@ -1,5 +1,5 @@
 .root {
-  gap: var(--spacing-lg);
+  gap: var(--spacing-md);
   flex-wrap: wrap;
   display: flex
 }

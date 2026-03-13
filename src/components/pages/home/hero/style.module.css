@@ -6,6 +6,15 @@
   align-items: center;
   display: flex;
   position: relative;
+  &::after {
+    content: "";
+    height: 4px;
+    background-image: linear-gradient(to right, transparent, var(--color-orange-500), transparent);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+  }
 
   .background {
     background-image: linear-gradient(to bottom, rgb(67 20 7 / .3) , #000 , #000);

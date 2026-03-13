@@ -18,6 +18,15 @@ interface Props {
   style?: CSSProperties;
 }
 
+/**
+ * Renders an item image, optionally wrapped in a link.
+ *
+ * @param src - The source URL of the image.
+ * @param alt - The alternative text describing the image for accessibility.
+ * @param href - The optional link destination. If provided, the image will be clickable.
+ * @param className - Optional additional class name(s) for custom styling.
+ * @param style - Optional inline CSS properties to apply to the component.
+ */
 export function Image({ src, alt, href, className, style }: Props) {
   const img = (
     <div className={clsx(Style.root, href && Style.linked, className)} style={style}>

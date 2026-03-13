@@ -10,4 +10,15 @@
   &.sm {
     width: min(var(--dimension-container-sm), 100% - (var(--spacing-sm) * 2));
   }
+  &.pad-xl {
+    padding-top: var(--spacing-xl);
+    padding-bottom: var(--spacing-xl);
+  }
+}
+
+/**
+ * Applies a muted text colour to elements.
+ */
+.muted {
+  color: var(--color-zinc-500) !important
 }

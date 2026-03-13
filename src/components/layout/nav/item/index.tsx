@@ -40,7 +40,7 @@ export function Item({ game, className, style }: Props) {
         <p role="presentation">{title}</p>
         <ul>
           {Object.entries(nav).map(([slug, label]) => (
-            <li key={slug}><Link href="">{label}</Link></li>
+            <li key={slug}><Link href="" className="link">{label}</Link></li>
           ))}
         </ul>
       </div>

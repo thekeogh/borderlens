@@ -22,11 +22,11 @@ interface Props {
 export function Showcase({ items, className, style }: Props) {
   return (
     <section className={clsx(Style.root, className)} style={style}>
-      <div className="container">
-        <Heading.H2 subtitle="Iconic items from across the Borderlands universe">
+      <div className="container pad-xl">
+        <Heading.H2 subtitle="Iconic weapons from across the Borderlands universe">
           Legendary <span>Arsenal</span>
         </Heading.H2>
-        <Item.Group>
+        <Item.Card.Group>
           {items.map(item => (
             <Item.Card
               key={`${item.game}-${item.category}-${item.slug}`}
@@ -40,7 +40,7 @@ export function Showcase({ items, className, style }: Props) {
               elements={item.elements}
             />
           ))}
-        </Item.Group>
+        </Item.Card.Group>
       </div>
     </section>
   );

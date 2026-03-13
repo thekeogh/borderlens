@@ -25,8 +25,21 @@ interface Props {
   style?: CSSProperties;
 }
 
+/**
+ * Renders an elemental icon representing the specified element type.
+ *
+ * @param element - The elemental type to be displayed.
+ * @param size - The size of the icon, either "md" or "lg". Defaults to "md".
+ * @param className - Optional additional class name(s) for custom styling.
+ * @param style - Optional inline CSS properties to apply to the icon.
+ */
 function Element({ element, size = "md", className, style }: Props) {
 
+  /**
+   * Returns the corresponding icon component for the specified element type.
+   *
+   * @returns The React component representing the element icon.
+   */
   const icon = () => {
     switch (element) {
       case "Corrosive":

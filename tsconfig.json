@@ -21,6 +21,7 @@
       "#config": ["./src/config/index.ts"],
       "#css/*": ["./src/css/*"],
       "#database/*": ["./src/database/*"],
+      "#utils/*": ["./src/utils/*"],
     }
   },
   "include": [

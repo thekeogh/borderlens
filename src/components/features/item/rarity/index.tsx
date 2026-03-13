@@ -19,6 +19,14 @@ interface Props {
   style?: CSSProperties;
 }
 
+/**
+ * Renders a rarity label with appropriate styling and colouring based on the rarity type.
+ *
+ * @param rarity - The rarity type to be displayed.
+ * @param size - The size of the label, either "md" or "lg". Defaults to "md".
+ * @param className - Optional additional class name(s) for custom styling.
+ * @param style - Optional inline CSS properties to apply to the label.
+ */
 function Rarity({ rarity, size = "md", className, style }: Props) {
   return (
     <div
