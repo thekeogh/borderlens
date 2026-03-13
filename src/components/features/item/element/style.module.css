@@ -1,0 +1,24 @@
+.root {
+  backdrop-filter: blur(8px);
+  background-color: color-mix(in srgb, var(--color-element) 90%, transparent);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+  /**
+   * Sizes
+   */
+  &.md {
+    --size: 36px;
+    width: var(--size);
+    height: var(--size);
+    font-size: 20px;
+  }
+  &.lg {
+    --size: 64px;
+    width: var(--size);
+    height: var(--size);
+    font-size: 32px;
+  }
+
+}

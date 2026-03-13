@@ -1,0 +1,15 @@
+.root {
+  color: var(--color-zinc-1000);
+  font-weight: var(--font-weight-bolder);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+
+  &.md {
+    padding: .1875rem .625rem;
+    font-size: .6875rem;
+  }
+  &.lg {
+    padding: .5rem 1rem;
+    font-size: var(--font-size-sm)
+  }
+}

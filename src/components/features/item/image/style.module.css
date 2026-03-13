@@ -1,0 +1,26 @@
+.link, .root {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.root {
+  background-color: var(--color-zinc-0);
+  overflow: hidden;
+  &.linked {
+    cursor: pointer;
+  }
+  .img {
+    width: 100%;
+    height: 100%;
+    padding: var(--spacing-md) var(--spacing-xl);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: contain;
+    background-origin: content-box;
+    transition: transform 0.4s ease;
+  }
+  &:hover .img {
+    transform: scale(1.10);
+  }
+}

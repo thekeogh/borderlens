@@ -1,0 +1,26 @@
+.root {
+  --size: 34px;
+  width: var(--size);
+  height: var(--size);
+  text-indent: -9999px;
+  font-size: 0;
+  background-repeat: no-repeat;
+  background-position: 50% left;
+  background-size: auto 100%;
+  display: block;
+
+  &.labelled {
+    width: auto;
+    padding-left: calc(var(--size) + 6px);
+    color: var(--color-zinc-500);
+    font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-bolder);
+    font-style: normal;
+    text-indent: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    align-items: center;
+    display: flex;
+  }
+
+}

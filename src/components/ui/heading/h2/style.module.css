@@ -1,0 +1,39 @@
+.root {
+  --heading-size: 3.75rem;
+  --subtitle-size: 1.125rem;
+  margin-bottom: var(--spacing-xl);
+  font-size: var(--heading-size);
+  font-weight: var(--font-weight-bolder);
+  letter-spacing: -.025em;
+  > span {
+    color: var(--color-orange-300)
+  }
+  > p {
+    margin-top: var(--spacing-xs);
+    color: var(--color-zinc-500);
+    font-family: var(--font-family-base);
+    font-size: var(--subtitle-size);
+    font-weight: var(--font-weight-bold);
+    letter-spacing: .025em;
+    line-height: 1.75rem;
+  }
+}
+
+/*
+|------------------------------------------------------------------------------
+| Responsive
+|------------------------------------------------------------------------------
+*/
+
+/*
+ * Small phones
+ *
+ * Covers most iPhones, small Android devices
+ */
+@media (max-width: 480px) {
+  .root {
+    --heading-size: 2.8125rem;
+    --subtitle-size: var(--font-size-md);
+    line-height: 1.7rem;
+  }
+}

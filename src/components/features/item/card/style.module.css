@@ -1,0 +1,25 @@
+.root {
+  flex: 0 0 calc(33.333% - var(--spacing-lg) * 2 / 3);
+
+  .img {
+    height: 225px;
+  }
+
+}
+
+/*
+|------------------------------------------------------------------------------
+| Responsive
+|------------------------------------------------------------------------------
+*/
+
+/*
+ * Tablets and small laptops
+ *
+ * Covers iPad landscape, smaller laptops
+ */
+@media (max-width: 1024px) {
+  .root {
+    flex: 0 0 100%;
+  }
+}

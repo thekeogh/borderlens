@@ -143,7 +143,7 @@ class Catalog {
    * @param count - The number of showcase items to return.
    * @returns An array of weapon items included in the showcase selection.
    */
-  public listShowcase(count: number): Schema[] {
+  public listShowcase(count = 9): Schema[] {
     const slugs = (Object.entries(SHOWCASE) as [Game, string[]][])
       .filter(([game]) => !this.#games.size || this.#games.has(game))
       .flatMap(([, gameSlugs]) => gameSlugs);

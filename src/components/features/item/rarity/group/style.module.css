@@ -1,0 +1,9 @@
+.root {
+  gap: .375rem;
+  justify-content: center;
+  align-items: center;
+  display: inline-flex;
+  &.vertical {
+    flex-direction: column;
+  }
+}
