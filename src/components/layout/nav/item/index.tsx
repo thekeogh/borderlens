@@ -7,7 +7,7 @@ import { Config } from "#config";
 
 import Style from "./style.module.css";
 
-import type { Game } from "#database/schema/types";
+import type { Game, Category } from "#database/schema/types";
 import type { CSSProperties } from "react";
 
 /**
@@ -39,8 +39,8 @@ export function Item({ game, className, style }: Props) {
       <div className={Style.dropdown}>
         <p role="presentation">{title}</p>
         <ul>
-          {Object.entries(nav).map(([slug, label]) => (
-            <li key={slug}><Link href="" className="link">{label}</Link></li>
+          {Object.entries(nav).map(([category, label]) => (
+            <li key={category}><Link href={Config.Routes.category(game, category as Category)} className="link">{label}</Link></li>
           ))}
         </ul>
       </div>
