@@ -37,7 +37,9 @@ export function Item({ game, className, style }: Props) {
       style={{ ...style, backgroundImage: `url("/img/logos/${game}.png")` }}
     >
       <div className={Style.dropdown}>
-        <p role="presentation">{title}</p>
+        <p role="presentation">
+          <Link href="/">{title}</Link>
+        </p>
         <ul>
           {Object.entries(nav).map(([category, label]) => (
             <li key={category}><Link href={Config.Routes.category(game, category as Category)} className="link">{label}</Link></li>

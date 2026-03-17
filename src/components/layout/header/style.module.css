@@ -78,7 +78,7 @@
  * Covers most iPhones, small Android devices
  */
 @media (max-width: 480px) {
-  .root:not(:has(.search)) {
+  .root:has(:global(.search)) {
     .logo {
       display: none;
     }

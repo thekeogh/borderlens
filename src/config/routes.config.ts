@@ -8,9 +8,3 @@ export const Routes = {
   category: (game: Game, category: Category) => `/${game}/${category}`,
   item: (game: Game, category: Category, slug: string) => `/${game}/${category}/${slug}`,
 };
-
-/*
-Convert ?g back to a set:
-
-const games = new Set(searchParams.get("g")?.split(",") ?? []);
-*/

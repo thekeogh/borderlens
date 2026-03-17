@@ -3,6 +3,7 @@
 import clsx from "clsx";
 
 import { Header } from "#components/layout/header";
+import { ScrollToTop } from "#components/ui/scroll-to-top";
 
 import Style from "./style.module.css";
 
@@ -27,6 +28,7 @@ interface Props {
 export function Template({ children, className, style }: Props) {
   return (
     <>
+      <ScrollToTop />
       <Header />
       <div className={clsx(Style.root, className)} style={style}>
         <div className={Style.scanlines} aria-hidden="true" />

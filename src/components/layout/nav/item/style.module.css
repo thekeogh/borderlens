@@ -39,6 +39,9 @@
       border-bottom: solid 1px var(--color-orange-700);
       border-top-left-radius: 0.5rem;
       border-top-right-radius: 0.5rem;
+      > a {
+        text-decoration: none !important;
+      }
     }
     > ul {
       margin: 0;
@@ -64,29 +67,3 @@
     opacity: 0;
   }
 }
-
-
-
-
-/*
-.dropdown-glass-panel {
-
-  position: absolute;
-  top: 100%;
-  left: 0;
-  margin-top: 0.5rem;
-  z-index: 50;
-  min-width: 200px;
-  overflow: hidden;
-  border-radius: 0.5rem;
-
-  backdrop-filter: blur(4px);
-
-
-  background: linear-gradient(135deg, rgba(249, 115, 22, 0.145) 0%, rgba(249, 115, 22, 0.094) 100%);
-  border: 1.5px solid rgba(249, 115, 22, 0.25);
-  box-shadow: rgba(249, 115, 22, 0.19) 0px 8px 32px, rgba(249, 115, 22, 0.082) 0px 0px 24px;
-  opacity: 1;
-  transform: none;
-}
-*/
