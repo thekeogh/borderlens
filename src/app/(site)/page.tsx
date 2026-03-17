@@ -13,13 +13,14 @@ import { Showcase } from "#components/pages/home/showcase";
  */
 export const revalidate = 0;
 
+/**
+ * Renders the home page with the main hero section and a showcase of featured items.
+ */
 export default function Home() {
-  const showcase = catalog.listShowcase();
-
   return (
     <>
       <Hero />
-      <Showcase items={showcase} />
+      <Showcase items={catalog.listShowcase()} />
     </>
   );
 }

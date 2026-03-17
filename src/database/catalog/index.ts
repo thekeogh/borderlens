@@ -259,7 +259,7 @@ class Catalog {
    * ```
    */
   public games(...games: Game[]): this {
-    games.forEach(game => this.#games.add(game));
+    games.filter(Boolean).forEach(game => this.#games.add(game));
     return this;
   }
 
@@ -279,7 +279,7 @@ class Catalog {
    * ```
    */
   public categories(...categories: Category[]): this {
-    categories.forEach(cat => this.#categories.add(cat));
+    categories.filter(Boolean).forEach(cat => this.#categories.add(cat));
     return this;
   }
 

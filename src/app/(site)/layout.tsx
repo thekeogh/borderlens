@@ -81,6 +81,11 @@ export const viewport: Viewport = {
   themeColor: Config.Meta.themeColor,
 };
 
+/**
+ * Provides the root layout structure for the site application.
+ *
+ * @param children - The React nodes to be rendered within the layout.
+ */
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`${inter.variable} ${rajdhani.variable} ${spaceMono.variable}`}>

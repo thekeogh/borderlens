@@ -34,6 +34,6 @@
   .root {
     --heading-size: 2.8125rem;
     --subtitle-size: var(--font-size-md);
-    line-height: 1.7rem;
+    line-height: 2.7rem;
   }
 }

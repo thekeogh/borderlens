@@ -1,4 +1,4 @@
-import type { Manufacturer } from "#database/schema/types";
+import type { Manufacturer, Schema } from "#database/schema/types";
 import type { ReactNode } from "react";
 
 /**
@@ -17,4 +17,14 @@ export function manufacturerCount(manufacturers: Manufacturer[]): ReactNode {
     return "";
   }
   return <span className="muted" style={{ cursor: "default" }} title={manufacturers.join(", ")}>+{manufacturers.length - 1}</span>;
+}
+
+/**
+ * Generates a unique key string for a catalogue item based on its game, category, and slug.
+ *
+ * @param item - The catalogue item for which to generate the key.
+ * @returns The unique key string representing the item.
+ */
+export function generateKey(item: Schema): string {
+  return `${item.game}-${item.category}-${item.slug}`;
 }
