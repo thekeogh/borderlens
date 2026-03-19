@@ -11,7 +11,7 @@
   "name": "Leech",
   "slug": "leech",
   "type": "Transfusion",
-  "description": "Leech is a Legendary Maliwan grenade mod from Borderlands 2. It is built for support rather than damage, with a much smaller blast and lower output than most grenades. Instead of sending out healing tendrils like standard transfusion grenades, it turns the damage it deals straight into health for the user. This makes the healing far more reliable, especially at range or when terrain would block healing trails, and helps you recover safely while fighting from cover.",
+  "description": "A Maliwan transfusion grenade built for support rather than raw damage. Its blast is much smaller and weaker than most grenades, but instead of relying on healing tendrils it converts the damage it deals directly into health for the user, making the sustain far more reliable at range or through awkward terrain.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -46,9 +46,9 @@
       ]
     }
   ],
-  "notes": "The red text references Samuel Butler's poem Hudibras, itself echoing Homer's Iliad. In those works, a leech is a physician, matching the mod's healing focus.",
+  "notes": "The red text references Samuel Butler's poem Hudibras, which itself echoes Homer's Iliad. In that older usage, a leech is a physician, matching the grenade's healing focus.",
   "special": {
-    "description": "Homes in on a target. On detonation it releases 6 child grenades that latch onto the enemy for 5 seconds, healing the user while attached, then vanishing.",
+    "description": "Homes in on a target. On detonation it releases six child grenades that latch onto the enemy for five seconds, healing the user while attached before vanishing.",
     "title": "A skilful leech is better far, than half a hundred men of war."
   },
   "max": {

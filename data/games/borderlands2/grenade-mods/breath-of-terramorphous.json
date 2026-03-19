@@ -11,7 +11,7 @@
   "name": "Breath of Terramorphous",
   "slug": "breath-of-terramorphous",
   "type": "Area of Effect",
-  "description": "An E-Tech grenade mod made by Vladof. On impact it triggers several fire geysers that deal sustained incendiary damage. It is best for clearing out weaker, unarmoured enemies and can melt targets quickly if they are slagged. The geyser spawns are scattered, so its damage can be inconsistent at range or against mobile foes.",
+  "description": "A Vladof grenade that erupts into several fire geysers on impact, dealing sustained incendiary damage across the area. It is best at clearing weaker flesh enemies and can burn through slagged targets quickly, though the scattered geyser pattern makes it less reliable at range or against fast-moving foes.",
   "manufacturers": [
     "Vladof"
   ],
@@ -30,7 +30,7 @@
       ]
     }
   ],
-  "notes": "Salvador can use Double Your Fun to throw two for the cost of one, improving coverage and reliability. Any Vault Hunter can stack throws in the same spot to blanket an area with geysers. Krieg benefits from the self-immolation synergies in his skill trees, making this grenade effective even in tight spaces. It uses the Vladof_5_Legendary skin. Alongside the other Terramorphous drops, its red text forms part of a short poem. This is the only E-Tech rarity grenade mod.",
+  "notes": "Salvador's Double Your Fun lets him throw two for the cost of one, improving both coverage and reliability. Any character can stack multiple throws in the same spot to carpet an area with geysers, while Krieg benefits from the self-immolation synergies in his skill trees.\n\nIt uses the `Vladof_5_Legendary` skin. Alongside the other Terramorphous drops, its red text forms part of a short poem, and it is the only grenade mod with E-Tech rarity.",
   "special": {
     "description": "Creates fire geysers around the point of impact.",
     "title": "His breath was of fire..."

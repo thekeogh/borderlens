@@ -11,7 +11,7 @@
   "name": "Rolling Thunder",
   "slug": "rolling-thunder",
   "type": "MIRV",
-  "description": "Rolling Thunder is a Legendary grenade mod made by Torgue in Borderlands 2.",
+  "description": "A Torgue MIRV grenade that kicks out three bouncing grenades when it detonates, sending overlapping blast zones across a broad area. Each child can travel a fair distance and ricochet off walls, so it works especially well in large or awkward spaces. Depending on the parts, the fuse can be very short, causing the follow-up blasts to trigger almost immediately after the bounce.",
   "manufacturers": [
     "Torgue"
   ],
@@ -44,9 +44,9 @@
       ]
     }
   ],
-  "notes": "Its name nods to Operation Rolling Thunder, the US bombing campaign during the Vietnam War. The item card flavour text warns that using it indoors is both impressive and potentially fatal.",
+  "notes": "Its name nods to Operation Rolling Thunder, the U.S. bombing campaign during the Vietnam War. The flavor text warns that using it indoors is both impressive and potentially fatal.",
   "special": {
-    "description": "Thrown with a very shallow arc, it skims along the ground and bounces in a straight line. It detonates on every bounce after the first. On direct contact with an enemy, it releases 10 child grenades. After a short series of bounces, it ends in a larger MIRV-style blast.",
+    "description": "Launches three bouncing grenades that scatter in different directions. Each one detonates after contact and creates overlapping blast zones through its follow-up explosions.",
     "title": "The thunder shall bring forth the pain!"
   },
   "max": {

@@ -11,7 +11,7 @@
   "name": "Bonus Package",
   "slug": "bonus-package",
   "type": "MIRV",
-  "description": "Legendary Torgue grenade mod from Borderlands 2. This is a MIRV that splits into several bomblets, and each bomblet then produces an extra follow-up blast of its own. The chained submunitions blanket a wide area with explosions, making it excellent for clearing groups. In tight spaces, enemies can be struck multiple times, resulting in very high damage.",
+  "description": "A Torgue MIRV grenade that keeps splitting into more explosives, covering a broad area in chained blasts. It is excellent for clearing groups, and in tight spaces the overlapping detonations can slam the same target multiple times for heavy damage.",
   "manufacturers": [
     "Torgue"
   ],
@@ -44,9 +44,9 @@
       ]
     }
   ],
-  "notes": "Works with any delivery type. Drops from Boom or Bewm, so you can sometimes see two in a single run and it is relatively easy to farm. It has a Seraph variant, Meteor Shower, which generally throws more submunitions for higher total damage in a smaller area. A little fuse time is advised to reduce self-damage. Homing, sticky homing, or rubberised versions can be risky at close range.",
+  "notes": "It can spawn with any delivery type. Boom and Bewm drop it, making it one of the easier legendary grenade mods to farm.\n\nIts Seraph counterpart, Meteor Shower, usually throws out more submunitions for higher total damage in a tighter area. A bit of fuse time helps reduce self-damage, while homing, sticky homing, and rubberised versions can be especially dangerous at close range.",
   "special": {
-    "description": "Each sub-grenade creates one extra sub-grenade when it detonates, increasing overall damage and coverage.",
+    "description": "Each child grenade creates another child grenade when it detonates, increasing both total damage and area coverage.",
     "title": "2x more awesome, bonus extreme!"
   },
   "max": {

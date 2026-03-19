@@ -11,7 +11,7 @@
   "name": "O-Negative",
   "slug": "o-negative",
   "type": "Transfusion",
-  "description": "O-Negative is a Maliwan Seraph grenade mod. It is a high-damage Transfusion grenade that drains health from enemies and returns it as healing. The healing trails can be inconsistent, so it is best used as a supplement rather than your only sustain. Throwing it just before a risky fight can soften targets, then deliver healing shortly after.",
+  "description": "A Maliwan transfusion grenade that trades strong damage for a delayed burst of healing. It drains health from enemies and sends that life back as healing, making it a strong support tool before or during a dangerous push, though the healing trails are still inconsistent enough that it works best as supplemental sustain rather than your only source of recovery.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -41,9 +41,9 @@
       ]
     }
   ],
-  "notes": "Its minimum fuse time can roll as low as 0.1 seconds. The name references the O-negative blood type, known as a universal donor.",
+  "notes": "Its minimum fuse time can roll as low as 0.1 seconds. The name references the O-negative blood type, widely known as a universal donor.",
   "special": {
-    "description": "After the first blast, it releases 8 homing child grenades. On hit, each child spawns a healing orb that can restore health to an ally.",
+    "description": "After the first blast, it releases eight homing child grenades. Each child spawns a healing orb on hit that can restore health to an ally.",
     "title": "Universal donor!"
   },
   "max": {

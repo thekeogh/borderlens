@@ -10,7 +10,7 @@
   "name": "Singularity Grenade",
   "slug": "singularity-grenade",
   "type": "Singularity",
-  "description": "Creates a brief singularity that drags nearby foes towards the point of impact, then detonates. Strong crowd control against groups, especially when paired with splash-damage weapons. Typically not found in the very early game.",
+  "description": "A Hyperion singularity grenade that creates a brief gravitational pull before detonating, dragging nearby enemies toward the impact point. It is a strong crowd control tool against groups, especially when paired with splash-damage weapons that can punish the clustered pull.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -20,9 +20,9 @@
     "Rare",
     "Epic"
   ],
-  "notes": "You are not affected by the initial pull, but the final blast can still damage you. Pull strength drops off with distance, and heavier enemies are less affected. Even when the blast does not catch everyone, the suction can interrupt or stagger enemies long enough to escape or reposition. The pull can drag enemies over ledges or into hazards. In Borderlands 3, Singularity appears as a grenade mod payload. The effect is themed around a gravitational singularity.",
+  "notes": "The initial pull does not affect the player, but the final blast still can. Pull strength drops off with distance, and heavier enemies resist it more than lighter ones.\n\nEven when the explosion misses, the suction can interrupt or stagger enemies long enough to let you escape or reposition. It can also drag enemies over ledges or into environmental hazards.",
   "special": {
-    "description": "Forms a singularity just before detonation, pulling nearby enemies inward."
+    "description": "Forms a singularity just before detonation and pulls nearby enemies inward."
   },
   "sources": [
     {

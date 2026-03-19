@@ -10,7 +10,7 @@
   "name": "Mirv",
   "slug": "mirv",
   "type": "MIRV",
-  "description": "When the main grenade explodes, it splits into several smaller grenades. The number of child grenades is determined by the roll on the mod when it drops. Total damage scales with the number of children, as each child grenade deals the mod's listed base damage.",
+  "description": "A standard Torgue MIRV grenade that splits into several smaller grenades on detonation. The exact child count depends on the parts rolled on the drop, and each child uses the grenade's listed base damage, so total damage rises with the number of splits.",
   "manufacturers": [
     "Torgue"
   ],
@@ -20,7 +20,7 @@
     "Rare",
     "Epic"
   ],
-  "notes": "MIRV stands for Multiple Independently-targeted Reentry Vehicle, a missile design that carries multiple warheads.",
+  "notes": "MIRV stands for Multiple Independently targetable Reentry Vehicle, a missile design that carries several warheads.",
   "sources": [
     {
       "name": "Grenade Pool",

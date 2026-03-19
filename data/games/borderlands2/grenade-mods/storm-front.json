@@ -11,7 +11,7 @@
   "name": "Storm Front",
   "slug": "storm-front",
   "type": "Area of Effect",
-  "description": "Storm Front is a Vladof legendary grenade mod from Borderlands 2. On impact it bursts into several shock Tesla beacons, combining MIRV-style splitting with Tesla arcs. Their fields often overlap, greatly extending coverage and letting targets take damage from more than one beacon at once. It produces a shock blast when it splits and another when it times out, so standing close can be risky. Child grenades can be blocked by terrain, but they still function where they land, making it strong in tight areas.",
+  "description": "A Vladof area grenade that bursts into several shock Tesla beacons on impact, combining MIRV-style splitting with sustained electrical damage. The child fields often overlap, letting enemies take damage from more than one beacon at once, and the grenade also produces a shock blast when it splits and another when the child grenades expire. Terrain can block where the children land, but once they stick they still work normally, which makes this grenade especially strong in tighter spaces.",
   "manufacturers": [
     "Vladof"
   ],
@@ -44,9 +44,9 @@
       ]
     }
   ],
-  "notes": "Storm Front always rolls with a shock accessory and the Exterminator payload, shared with Vladof legendary AoE grenades like Fire Bee and Pandemic. Its red text nods to the saying that lightning never strikes twice. Kills made with Storm Front contribute to the Chemical Sprayer and Sprayowee challenges.",
+  "notes": "It always rolls with a shock accessory and the Exterminator payload, which it shares with Fire Bee and Pandemic.\n\nThe red text nods to the saying that lightning never strikes twice. Kills made with Storm Front also count toward the Chemical Sprayer and Sprayowee challenges.",
   "special": {
-    "description": "On impact, spawns 5 child grenades that stick to surfaces. Each child emits Tesla shock damage in an area, then detonates. Child grenades deal reduced damage. Sometimes lightning does strike twice.",
+    "description": "On impact, it spawns five child grenades that stick to surfaces. Each child emits Tesla-style shock damage in an area before detonating, though the child grenades deal reduced damage.",
     "title": "Sometimes lightning does strike twice."
   },
   "max": {

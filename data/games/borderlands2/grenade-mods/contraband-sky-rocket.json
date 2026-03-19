@@ -11,7 +11,7 @@
   "name": "Contraband Sky Rocket",
   "slug": "contraband-sky-rocket",
   "type": "Unique",
-  "description": "A rare Bandit grenade from the Collector's Edition Pack. After throwing, it shoots forward, then sharply arcs upward. It can ricochet off walls or ceilings before bursting like a firework, spraying multiple explosive sparklers over a wide area. It shows no listed damage because it scales with your level. Very strong early and continues to scale well. Indoors it can be lethal if the ceiling contains the blast, but rebounds can make it explode dangerously close. Outdoors it is less reliable on small targets; aiming downward, often mid-jump, helps. Excellent on large bosses.",
+  "description": "A Bandit grenade that flies forward, then kicks sharply upward before bursting like a firework and spraying explosive sparklers over a huge area. It is especially strong against large bosses and other targets that can soak multiple hits, with damage that scales from player level rather than Overpower level.",
   "manufacturers": [
     "Bandit"
   ],
@@ -21,9 +21,9 @@
   "elements": [
     "Incendiary"
   ],
-  "notes": "Axton benefits strongly, especially with Gunpowder skills like Do or Die. Damage does not scale with Overpower levels. Cannot be traded and does not normally drop. Dropping it via a ground swap with a full inventory can cause it to despawn. To move copies between characters, put a new character's copy into Claptrap's Secret Stash, then delete that character. Counts as a MIRV for challenges (e.g., EXPLOOOOOSIONS!) and visibly releases submunitions. It was briefly available as an event drop, and a hotfix increased its blast radius.",
+  "notes": "Axton gets strong value from Gunpowder skills such as Do or Die. It also counts as a MIRV for challenges like EXPLOOOOOSIONS!, since it visibly releases submunitions.\n\nIt cannot be traded and does not normally drop. To move a copy between characters, place it in Claptrap's Secret Stash on a fresh character, then delete that character. Dropping it through a ground swap while your inventory is full can cause it to despawn. It was briefly available as an event drop, and a later hotfix increased its blast radius.\n\nBecause its damage scales from player level rather than Overpower level, the item card shows no listed damage. It stays extremely strong early on.\n\nOutdoors it can struggle against small targets, so aiming downward, often while mid-jump, helps. Indoors it becomes far more dangerous, since ceilings and ricochets can throw the blast back toward you.",
   "special": {
-    "description": "Always incendiary. Fires like a rocket: climbs, then bursts into a wide firework spray. Damage scales with player level, not OP levels. Warning: risky in tight spaces due to ricochets and a large blast.",
+    "description": "Always incendiary. Launches upward after the throw, then bursts into a wide spread of explosive sparklers. Its huge blast radius and unpredictable ricochets make it risky indoors.",
     "title": "WARNING: Not intended for indoor use."
   },
   "sources": [

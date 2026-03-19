@@ -11,7 +11,7 @@
   "name": "Lightning Bolt",
   "slug": "lightning-bolt",
   "type": "Unique",
-  "description": "Lightning Bolt is a rare Maliwan grenade mod introduced in the Tiny Tina's Assault on Dragon Keep DLC for Borderlands 2.",
+  "description": "A Maliwan spell grenade that fires a straight lightning bolt, detonating on contact with a surface or enemy and chaining shock damage into nearby targets. Like the other spell grenades, it passively regenerates grenade ammo over time.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -51,9 +51,9 @@
       ]
     }
   ],
-  "notes": "Chain Lightning is the upgraded variant. Its name nods to the Lightning Bolt spell from Dungeons and Dragons. The red text references Back to the Future and the 1.21 gigawatts line. It may also allude to a well known early 2000s LARP clip. While equipped, Axton can occasionally yell \"Lightning Bolt!\", including when deploying his Sabre Turret.",
+  "notes": "Chain Lightning is the upgraded counterpart. Its name nods to the Lightning Bolt spell from Dungeons & Dragons, while the red text references Back to the Future and the \"1.21 gigawatts\" line. It may also allude to a well-known early-2000s LARP clip.\n\nWhile this grenade is equipped, Axton can occasionally shout \"Lightning Bolt!\", including when deploying his Sabre Turret.",
   "special": {
-    "description": "Fires a lightning strike from your hand. Grenades regenerate over time.",
+    "description": "Fires a lightning strike from your hand and slowly regenerates grenade ammo over time.",
     "title": "What's a jigawatt?"
   },
   "max": {

@@ -10,7 +10,7 @@
   "name": "Bouncing Betty Grenade",
   "slug": "bouncing-betty-grenade",
   "type": "Bouncing Betty",
-  "description": "On detonation, Bouncing Betty hops around and fires a spray of bullets for a short duration. Each hit is modest, but the repeated bursts can land multiple times on the same target. It also triggers a small blast when it activates or finishes, and it will not harm allies. The bouncing movement can drift towards nearby enemies, making it useful for area control and for tagging foes tucked behind low cover. It is also a solid choice in tight spaces, where wide-area grenades can be risky around team-mates.",
+  "description": "A Dahl Bouncing Betty that springs upward and sprays bullets around itself for a short time after detonating. Each hit is modest, but the repeated bursts can strike the same target several times, making it useful for area denial and for clipping enemies behind low cover. It also creates a small blast when it starts and when it ends, and the bullet spray does not hurt allies.",
   "manufacturers": [
     "Dahl"
   ],
@@ -20,9 +20,10 @@
     "Rare",
     "Epic"
   ],
-  "notes": "Drops randomly from appropriate loot sources. Grenade kills with this mod contribute to the Betty Boom challenge. The name references the German S-mine, commonly nicknamed the Bouncing Betty. In Borderlands 3, Bouncing Betty becomes the Artillery grenade payload.",
+  "notes": "Grenade kills with this mod count toward the Betty Boom challenge. Its name references the German S-mine, commonly nicknamed the Bouncing Betty.",
   "special": {
-    "description": "Bouncing Betty"
+    "description": "Leaps upward and fires bursts of bullets before the effect ends in an explosion.",
+    "title": ""
   },
   "sources": [
     {

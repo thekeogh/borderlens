@@ -11,7 +11,7 @@
   "name": "Chain Lightning",
   "slug": "chain-lightning",
   "type": "Unique",
-  "description": "A Maliwan legendary spell grenade from Tiny Tina's Assault on Dragon Keep. Instead of an arcing throw, it fires a straight lightning bolt that detonates when it hits a solid surface or reaches its maximum travel distance. The bolt can slip through some geometry, letting you tag targets at extreme range. Even if you miss, landing the blast near an enemy can still zap them as the electricity chains to nearby foes. The strike point is offset from the centre of your crosshair, so it is worth practising.",
+  "description": "A Maliwan spell grenade that throws a straight lightning bolt which detonates on contact with a solid surface or at the end of its travel. The bolt can slip through some bits of geometry, giving it surprising reach, and the resulting shock can still chain into nearby enemies even if the direct hit misses.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -44,10 +44,10 @@
       ]
     }
   ],
-  "notes": "Works especially well on Gaige with Little Big Trouble skills such as Wires Don't Talk, Electrical Burn and Myelin. The chaining also helps land damage at range when high Anarchy makes gunfire inaccurate. Pairs well with Moxxi weapons like the Grog Nozzle or Rubi for rapid healing, as the damage applies almost instantly and can hit several enemies at once. Useful as an emergency heal in close to mid range. The flavour line twists the idea of paying it forward, and the name references a classic tabletop RPG spell. The ammo pick-up sound plays whenever a grenade regenerates.",
+  "notes": "It works especially well with Gaige's Little Big Trouble skills, particularly Wires Don't Talk, Electrical Burn, and Myelin. It also fits naturally into Maya's Cataclysm setups and Krieg's Hellborn builds.",
   "special": {
-    "description": "Fires a lightning bolt from your hand that can chain between nearby enemies. Grenades regenerate over time.",
-    "title": "Don't pay it back, pay it forward."
+    "description": "Fires a lightning bolt that chains shock damage between nearby enemies.",
+    "title": ""
   },
   "max": {
     "blast_radius": 387,

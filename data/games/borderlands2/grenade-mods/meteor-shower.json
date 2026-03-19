@@ -11,7 +11,7 @@
   "name": "Meteor Shower",
   "slug": "meteor-shower",
   "type": "MIRV",
-  "description": "Meteor Shower is a Torgue Seraph grenade mod from the Campaign of Carnage DLC for Borderlands 2. On detonation it bursts into a large cluster of child grenades, blanketing a wide area with explosions. It can wipe groups quickly, and in tight spaces the overlapping blasts can deal extreme damage. It is effectively an upgraded Bonus Package. At the same level and with comparable parts it has higher damage per grenade and throws out more child grenades: typically 10 to 12 rather than 8 to 10.",
+  "description": "A Torgue MIRV grenade that bursts into a dense cluster of child grenades, blanketing the area with chained explosions. It tears through groups and becomes especially dangerous in tight spaces where the blasts overlap. Compared with Bonus Package at the same level and with similar parts, it throws out more child grenades and deals higher damage per grenade.",
   "manufacturers": [
     "Torgue"
   ],
@@ -30,9 +30,9 @@
       ]
     }
   ],
-  "notes": "Works with any delivery type.",
+  "notes": "It can spawn with any delivery type.",
   "special": {
-    "description": "Each child grenade creates another child grenade when it explodes.",
+    "description": "Each child grenade creates another child grenade when it explodes, greatly increasing total damage and coverage.",
     "title": "Not just for wishing on!"
   },
   "max": {

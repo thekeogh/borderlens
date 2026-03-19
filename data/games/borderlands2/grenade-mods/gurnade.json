@@ -10,7 +10,7 @@
   "name": "Gurnade",
   "slug": "gurnade",
   "type": "Standard",
-  "description": "A basic thrown grenade that explodes after a short fuse, dealing damage in an area around the blast.",
+  "description": "A basic Bandit grenade with a short fuse and a simple area blast, offering little beyond raw explosive damage.",
   "manufacturers": [
     "Bandit"
   ],
@@ -18,7 +18,7 @@
     "Common",
     "Uncommon"
   ],
-  "notes": "This mod can appear under the names Gurnade or GUrnade. All variants are deliberate misspellings of \"Grenade\".",
+  "notes": "It can appear as either Gurnade or GUrnade. Both names are deliberate misspellings of \"grenade.\"",
   "sources": [
     {
       "name": "Grenade Pool",

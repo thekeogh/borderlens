@@ -10,7 +10,7 @@
   "name": "Corrosive Cloud",
   "slug": "corrosive-cloud",
   "type": "Area of Effect",
-  "description": "Detonates into a lingering green corrosive cloud that damages anything inside the area for several seconds. Even targets resistant or immune to corrosive damage still take damage from the cloud, but they will not suffer the usual corrosive damage-over-time status effect.",
+  "description": "A Vladof area grenade that bursts into a lingering corrosive cloud, damaging anything caught inside for several seconds. Even enemies that resist or ignore corrosive damage still take damage from the cloud itself, though they will not suffer the usual corrosive damage-over-time effect.",
   "manufacturers": [
     "Vladof"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Corrosive"
   ],
-  "notes": "The cloud can look less dangerous than it is. Avoid walking through it, as it can quickly injure or kill you.",
+  "notes": "The cloud is more dangerous than it looks. Walking through it can strip your health quickly or kill you outright.",
   "sources": [
     {
       "name": "Grenade Pool",

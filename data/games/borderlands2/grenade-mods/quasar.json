@@ -11,7 +11,7 @@
   "name": "Quasar",
   "slug": "quasar",
   "type": "Singularity",
-  "description": "Legendary Hyperion grenade mod from Borderlands 2. Quasar always comes in Shock and secretly includes a Singularity effect even if it is not shown on the card. It has the strongest pull and one of the widest areas of effect among Singularity grenades, making it a powerful crowd control tool. Damage is lower than a comparable purple Shock Singularity, but it compensates with a bigger Shock field, stronger pull and a very short fuse. Best used against shielded targets.",
+  "description": "A Hyperion singularity grenade that always comes in shock and secretly carries a singularity effect even when the card does not show it. It has one of the strongest pulls and widest effective areas in its class, making it a top-tier crowd control tool. Its raw damage is lower than a comparable purple shock singularity, but it makes up for that with a bigger shock field, a stronger pull, and an extremely short fuse.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -37,10 +37,10 @@
       ]
     }
   ],
-  "notes": "Counts towards the Singled Out Badass challenge no matter whether enemies die to the pull, the Shock field or the final blast. Gaige can boost its Shock performance with Wires Dont Talk, and Electrical Burn can add a chance to apply burning damage over time. Red text references the mass-energy equivalence formula, E = mc^2.",
+  "notes": "Kills from the pull, the shock field, or the final blast all count toward the Singled Out challenge.\n\nGaige can push its shock performance higher with Wires Don't Talk, and Electrical Burn adds a chance to apply burning damage over time. The red text references the mass-energy equivalence formula, `E = mc^2`.",
   "special": {
-    "description": "Spawns a Singularity that drags in nearby enemies, then emits continuous Shock damage in an area until it detonates.",
-    "title": "E = mc^(OMG)/wtf"
+    "description": "Creates a singularity that drags in nearby enemies, then emits continuous shock damage in the area until it detonates.",
+    "title": "The thunder shall bring forth the pain!"
   },
   "max": {
     "blast_radius": 1,

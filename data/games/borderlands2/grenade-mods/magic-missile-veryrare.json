@@ -11,7 +11,7 @@
   "name": "Magic Missile",
   "slug": "magic-missile-veryrare",
   "type": "Unique",
-  "description": "Magic Missile is a Maliwan grenade mod from Tiny Tina's Assault on Dragon Keep. On throw, it releases homing child projectiles that ricochet off surfaces and will retarget to newly spawned or revealed enemies. They detonate on impact or after travelling for a while and can catch you in the blast. The projectiles are always slag, making it especially useful in Ultimate Vault Hunter Mode. Like other Dragon Keep magic grenades, it passively regenerates grenades over time.",
+  "description": "A Maliwan spell grenade that releases homing child projectiles which ricochet off surfaces and can retarget newly spawned or newly revealed enemies. They detonate on impact or after enough travel, can still catch you in the blast, and always apply slag. Like the other spell grenades, it passively regenerates grenade ammo over time.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -30,9 +30,9 @@
       ]
     }
   ],
-  "notes": "Badass Wizards can drop the purple-rarity version. The homing, guaranteed slag and ammo-free regeneration make it broadly useful for slagging or finishing targets. A reliable farm is the Magic Slaughter (Badass Round) at Murderlin's Temple; you can also try the Sacrificial Altar in Dragon Keep to spawn a Badass Wizard, though the drop is rare. Named after the Dungeons and Dragons spell. Killing The Darkness with it opens the door behind to a Dice Chest. With it equipped, Axton may shout \"Magic Missile!\" when deploying his Sabre Turret.",
+  "notes": "Badass Wizards can drop the purple-rarity version. Its homing, guaranteed slag, and built-in grenade regeneration make it broadly useful for slagging targets or finishing them off.\n\nA reliable farm is the Badass Round of Magic Slaughter at Murderlin's Temple. You can also use the Sacrificial Altar to spawn a Badass Wizard, though the drop remains rare. The name comes from the Dungeons & Dragons spell, and killing The Darkness with it opens the door behind that enemy to a Dice Chest.\n\nWith Magic Missile equipped, Axton may shout \"Magic Missile!\" when deploying his Sabre Turret.",
   "special": {
-    "description": "Throw to spawn homing slag projectiles that explode on impact. Regenerates grenades over time. Blue rarity fires 2 child grenades; purple rarity fires 4. Consumes 1 grenade per throw.",
+    "description": "Spawns homing slag projectiles that explode on impact and regenerates grenade ammo over time. The blue version fires two child grenades, while the purple version fires four, all for the cost of one grenade.",
     "title": "No wand required. Just point and shoot."
   },
   "max": {

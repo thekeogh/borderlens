@@ -10,7 +10,7 @@
   "name": "Jumpin Biddy",
   "slug": "jumpin-biddy",
   "type": "Bouncing Betty",
-  "description": "After landing, it repeatedly bounces while firing bursts of bullets around itself for a short time. Individual hits are low damage, but enemies can be struck many times as it moves. It triggers a small blast on activation or detonation and does not harm allies. Useful for area denial and flushing targets from behind low cover, as it slowly homes towards nearby enemies while sweeping a wide zone.",
+  "description": "A Bandit Bouncing Betty that keeps hopping while spraying bullets around itself for a short time. Individual hits are weak, but the repeated bursts can stack up quickly as it drifts toward nearby enemies, making it useful for area denial and for flushing targets out from behind low cover. It also creates a small blast when it starts and when it ends, and the bullet spray does not hurt allies.",
   "manufacturers": [
     "Bandit"
   ],
@@ -18,7 +18,7 @@
     "Common",
     "Uncommon"
   ],
-  "notes": "Some versions can roll with the alternate name \"Jumpin Bitty\". Both names reference the Bouncing Betty mine.",
+  "notes": "Some versions appear under the alternate name \"Jumpin Bitty.\" Both names reference the Bouncing Betty mine.",
   "sources": [
     {
       "name": "Grenade Pool",

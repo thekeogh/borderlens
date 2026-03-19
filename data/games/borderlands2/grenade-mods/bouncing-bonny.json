@@ -11,7 +11,7 @@
   "name": "Bouncing Bonny",
   "slug": "bouncing-bonny",
   "type": "Bouncing Betty",
-  "description": "Legendary DAHL grenade mod from Borderlands 2. Acts like a bouncing betty: it ricochets and scatters multiple child grenades across a wide area, letting it blanket groups and clear clustered spawns. The bullet-like spray from the main grenade will not hit allies, but the child explosions can still catch you if you are too close.",
+  "description": "A Dahl Bouncing Betty variant that ricochets and scatters child grenades across a wide area, making it excellent for blanketing clustered enemies. The main grenade's bullet spray will not hit allies, but the child explosions can still catch you if you throw it too close.",
   "manufacturers": [
     "Dahl"
   ],
@@ -34,9 +34,9 @@
       ]
     }
   ],
-  "notes": "Has a near-equivalent Seraph variant, the Crossfire. With matching parts, Bouncing Bonny tends to show slightly higher damage and a shorter listed fuse, but releases its child grenades a little more slowly. Its red text nods to the old ballad The Twa Sisters. Can also be obtained via certain SHiFT code rewards.",
+  "notes": "Its closest Seraph counterpart is Crossfire. With matching parts, Bouncing Bonny usually shows slightly higher damage and a shorter listed fuse, but it releases its child grenades a little more slowly.\n\nThe red text nods to the old ballad The Twa Sisters. It has also been available from certain SHiFT code rewards.",
   "special": {
-    "description": "Sends out a child grenade in a random direction every 2.5 seconds. Red text: Your sister is such a bitch. Boosts damage and blast radius, shortens fuse, and spawns extra child grenades on each bounce, bouncing-betty style.",
+    "description": "Launches a child grenade in a random direction every 2.5 seconds. It boosts damage and blast radius, shortens fuse time, and adds extra child grenades on each bounce.",
     "title": "Your sister is such a bitch."
   },
   "max": {

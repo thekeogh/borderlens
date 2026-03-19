@@ -10,7 +10,7 @@
   "name": "Grenade (Tediore)",
   "slug": "grenade-tediore",
   "type": "Standard",
-  "description": "A basic Tediore grenade that explodes a short time after being thrown, dealing area damage in a small radius. Compared with most grenade mods it has few extra effects, but it can roll with an elemental damage type and may have a different fuse length than an unmodded grenade.",
+  "description": "A basic Tediore grenade with a short fuse and a small blast radius. It has none of the extra tricks found on more specialised grenade mods, but it can still roll an element and vary in fuse length.",
   "manufacturers": [
     "Tediore"
   ],

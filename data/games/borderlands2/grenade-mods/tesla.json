@@ -10,7 +10,7 @@
   "name": "Tesla",
   "slug": "tesla",
   "type": "Area of Effect",
-  "description": "On detonation, this grenade creates a short-lived shock field around the impact point, repeatedly zapping enemies that enter the visible radius. It is strong in corridors and chokepoints, discouraging pushes and helping control space, and it is effective against slow or stationary targets. Unlike most area grenades, it does not harm allies. The lightning only seeks out enemies.",
+  "description": "A Vladof area grenade that creates a short-lived shock field on detonation and repeatedly zaps enemies within its radius. The lightning only targets enemies, not allies, which makes it useful in tight spaces and chokepoints where it can limit movement and chew through shields. Its arcs can even hit thrown buzz axes in flight, and when positioned above or below a shielded target they can bypass the shield entirely.",
   "manufacturers": [
     "Vladof"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Shock"
   ],
-  "notes": "Drops randomly from suitable loot sources. Its arcs can strike thrown buzz axes passing through the field. If positioned within range above or below a target, the lightning can bypass shields. It will not hit enemies while they are cloaked; however, draining their shields can force them to reveal themselves and stop them re-entering stealth. Named after electrical engineer Nikola Tesla.",
+  "notes": "It drops randomly from standard loot sources.\n\nIt will not hit enemies while they are cloaked, but stripping their shields can force them to reveal themselves and can stop them from re-entering stealth. Its name references electrical engineer Nikola Tesla.",
   "sources": [
     {
       "name": "Grenade Pool",

@@ -11,7 +11,7 @@
   "name": "Fuster Cluck",
   "slug": "fuster-cluck",
   "type": "MIRV",
-  "description": "Fuster Cluck is a rare Bandit grenade mod from Borderlands 2. Unlike standard MIRV grenades, its child grenades split almost immediately after being thrown, rather than waiting for a fuse once the main grenade lands or hits an enemy. The wide, scattered spread makes it less reliable at range, but the rapid burst is excellent for clearing tight groups nearby. It pairs well with Salvador, who can throw two grenades for the cost of one while Gunzerking, letting you blanket an area with elemental blasts.",
+  "description": "A Bandit MIRV grenade that starts splitting almost as soon as it leaves your hand instead of waiting for the main grenade to land. The spread is chaotic and unreliable at range, but at close distance it can flood a packed area with explosions almost instantly. Salvador gets especially good value from it, since Double Your Fun lets him blanket nearby enemies with two throws for the cost of one while Gunzerking.",
   "manufacturers": [
     "Bandit"
   ],
@@ -34,9 +34,9 @@
       ]
     }
   ],
-  "notes": "The name is a pun on \"clusterfuck\", describing a chaotic situation where multiple things go wrong at once.",
+  "notes": "Its name is a pun on \"clusterfuck,\" fitting the grenade's wildly chaotic spread.",
   "special": {
-    "description": "Child grenades split in mid-air almost immediately after the throw. Make it rain!",
+    "description": "The child grenades split in mid-air almost immediately after the throw.",
     "title": "Make it rain!"
   },
   "max": {

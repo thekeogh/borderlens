@@ -11,7 +11,7 @@
   "name": "Fire Storm",
   "slug": "fire-storm",
   "type": "Unique",
-  "description": "Fire Storm is a Legendary spell-style grenade mod made by Maliwan, introduced in the Tiny Tina's Assault on Dragon Keep add-on for Borderlands 2. It hits harder than similar spell grenades like Fireball or Lightning Bolt. It is at its best in tight areas, where the initial blast and the four follow-up impacts often overlap and catch targets nearby. Be careful at close range, as the large splash can easily down you or allies.",
+  "description": "A Maliwan spell grenade that hits harder than most of the other thrown spells, sending a fireball forward before calling down a cluster of follow-up impacts. It is strongest in tight spaces where the initial hit and the falling meteors can overlap, but the large splash makes it dangerous to use up close.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -46,7 +46,7 @@
   ],
   "notes": "Its red text nods to Tim the Enchanter from Monty Python and the Holy Grail.",
   "special": {
-    "description": "Launches a fireball straight ahead that explodes on impact. The impact then calls down 4 meteors that strike the ground for fire damage. Grenades regenerate over time.",
+    "description": "Launches a fireball straight ahead that explodes on impact, then calls down four meteors that strike the ground for incendiary damage. Grenades regenerate over time.",
     "title": "What manner of man are you that can summon up fire without flint or tinder?"
   },
   "max": {

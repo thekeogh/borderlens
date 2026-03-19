@@ -10,7 +10,7 @@
   "name": "Transfusion Grenade",
   "slug": "transfusion-grenade",
   "type": "Transfusion",
-  "description": "On detonation, the Transfusion Grenade splits into several smaller grenades that slowly home in on nearby enemies before exploding. If a child grenade fails to lock on, it fizzles out after a short delay. Any damage dealt can trigger Transfusion, converting 30% of the card damage into healing for you and nearby allies. It works well against a lone tough target (all seekers converge) or groups, and can be thrown pre-emptively when you expect to be downed to help secure a kill and a Second Wind.",
+  "description": "A Maliwan transfusion grenade that splits into several smaller seekers which slowly home in on nearby enemies before exploding. If a child grenade fails to acquire a target, it fizzles out after a short delay. Any damage it deals can trigger transfusion, returning part of that damage as healing for you and nearby allies. It works well both against lone tough enemies, where all the seekers converge, and against groups, and it can be thrown pre-emptively to help set up a Second Wind.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -20,9 +20,9 @@
     "Rare",
     "Epic"
   ],
-  "notes": "This is the only Maliwan-made gear that uses explosive elemental technology. It also produces a small initial blast when it releases the child grenades, which can hurt enemies and the thrower. In Borderlands 3, Transfusion appears as a grenade payload and functions as health leech rather than a full Transfusion effect.",
+  "notes": "This is the only Maliwan-made gear that uses explosive elemental technology. It also produces a small initial blast when it releases its child grenades, which can hurt both enemies and the thrower.",
   "special": {
-    "description": "Splits into homing child grenades; hits return 30% of damage as healing to you and allies."
+    "description": "Splits into homing child grenades, and their hits return 30% of the damage dealt as healing to you and nearby allies."
   },
   "sources": [
     {

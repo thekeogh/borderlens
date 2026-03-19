@@ -11,7 +11,7 @@
   "name": "The Electric Chair",
   "slug": "the-electric-chair",
   "type": "Area of Effect",
-  "description": "The Electric Chair is an Effervescent grenade mod made by Vladof, introduced in the Fight for Sanctuary DLC.",
+  "description": "A Vladof area grenade that builds on Storm Front with a stronger opening burst. It detonates in shock on impact, fires lightning bolts upward, and scatters sticky child grenades around the landing point. Those children arc outward, zap nearby enemies like Tesla grenades, and then explode when their duration ends.",
   "manufacturers": [
     "Vladof"
   ],
@@ -30,9 +30,9 @@
       ]
     }
   ],
-  "notes": "Uranus has a 10% chance to drop The Electric Chair. Its behaviour is a stronger take on Storm Front, swapping in child grenades that leave a long shock trail as they move.",
+  "notes": "Uranus has a 10% chance to drop it. Mechanically, it is a stronger take on Storm Front, using child grenades that leave a long shock trail as they move.",
   "special": {
-    "description": "On impact, it triggers a shock blast, then fires 8 lightning bolts upward, each dealing 45% of the grenade damage. It also scatters 8 sticky child grenades around the landing point; they arc outward, zap nearby enemies like Tesla grenades, then detonate when their duration ends with a smaller radius than the initial blast.",
+    "description": "On impact, it triggers a shock blast, then fires eight lightning bolts upward. It also scatters eight sticky child grenades around the landing point; they arc outward, zap nearby enemies like Tesla grenades, and detonate when their duration ends with a smaller radius than the initial blast.",
     "title": "The truth is often one's best shield."
   },
   "max": {

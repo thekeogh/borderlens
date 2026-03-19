@@ -11,7 +11,7 @@
   "name": "Fastball",
   "slug": "fastball",
   "type": "Standard",
-  "description": "Legendary Tediore grenade mod from Borderlands 2. Fastball is thrown in a shallow arc but travels extremely quickly, letting it reach targets at longer ranges than typical lobbed grenades. It has a 0.0 fuse and will detonate instantly on hitting an enemy or destructible object. If it hits an inert surface, it will bounce and only explode once it comes to rest. Its blast radius is very small, so it usually hits a single target, but the damage is exceptionally high.",
+  "description": "A Tediore grenade built like a thrown projectile weapon, travelling in a shallow arc at extreme speed. It has no fuse and detonates instantly when it hits an enemy or destructible object, making it one of the best options for deleting a single target at range. If it strikes an inert surface it will bounce instead, and its tiny blast radius keeps the damage tightly focused.",
   "manufacturers": [
     "Tediore"
   ],
@@ -40,9 +40,9 @@
       ]
     }
   ],
-  "notes": "Pairs well with Moxxi healing weapons (eg Grog Nozzle, Rubi), as the huge on-impact damage converts into immediate health return, making it especially effective against larger enemies and raid bosses. In Ultimate Vault Hunter Mode, Slag greatly boosts its damage, enabling extreme overkill. This can strongly support Krieg setups such as Bloodsplosion for clearing groups. Known issue: damage may be reduced after loading in with it equipped; re-equipping restores normal damage.",
+  "notes": "It pairs especially well with Moxxi healing weapons such as the Grog Nozzle or Rubi, since its massive impact damage converts into an immediate burst of healing. In Ultimate Vault Hunter Mode, slag pushes that damage even higher, which makes it especially effective against large enemies, raid bosses, and Krieg setups built around Bloodsplosion.\n\nThere is also a known bug where its damage can drop after loading in with it equipped. Re-equipping the grenade restores the correct value.",
   "special": {
-    "description": "Slight downward arc and detonates on impact.",
+    "description": "Travels in a slight downward arc and detonates on impact with enemies or destructible objects.",
     "title": "Forgot the curveball Ricky, give him the heater."
   },
   "max": {
