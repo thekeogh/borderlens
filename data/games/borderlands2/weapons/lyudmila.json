@@ -11,7 +11,7 @@
   "name": "Lyudmila",
   "slug": "lyudmila",
   "type": "Sniper",
-  "description": "Legendary Vladof sniper rifle from the Borderlands 2 base game. Based on the Droog, it fires quickly and carries a large magazine. Each shot becomes three rounds while only consuming one sniper ammo, letting it function like a high damage, long range automatic weapon. The horizontal split pattern is consistent but wide, so it is strongest against large targets, clustered enemies, or sustained fire rather than single weak foes.",
+  "description": "A Vladof sniper rifle that behaves like a long-range bullet hose, firing quickly from a large magazine and splitting each shot into three rounds for the cost of one ammo. The horizontal spread is wide but consistent, making it devastating against large targets, clustered enemies, and anything that can absorb sustained fire. It is less elegant against small single crit spots, but few sniper rifles can match its raw output.",
   "manufacturers": [
     "Vladof"
   ],
@@ -254,9 +254,9 @@
   ],
   "special": {
     "title": "Lyuda",
-    "description": "Man Killer. Fires a shot that splits into three projectiles after a short delay, spreading horizontally; the split point depends on time in flight. Grants increased critical hit damage (about 125 percent total for this weapon) alongside improved accuracy and recoil behaviour from the barrel."
+    "description": "Fires a shot that splits into three horizontal projectiles after a short delay, with the split point determined by time in flight. It also carries an added critical-hit bonus and improved handling."
   },
-  "notes": "Also known as White Death or Lyuda in some versions. Extra rounds deal reduced damage in some variants (often about 75 percent of the card value). The spread briefly collapses after firing but expands again almost instantly, so it mainly helps during continuous fire. Only one Critical Ascensi0n stack can be gained per trigger pull even if multiple rounds crit. Naming differs by platform and patch; Xbox 360 can still show White Death, while later releases commonly use Lyudmila.",
+  "notes": "It is also known as White Death or Lyuda in some versions. In some variants, the extra rounds deal reduced damage compared with the main projectile. The spread briefly collapses after firing but expands again almost immediately, so the effect matters most during sustained fire. Only one Critical Ascensi0n stack can be gained per trigger pull even if multiple projectiles crit. The displayed name varies by platform and patch, with Xbox 360 more likely to show White Death and later releases more commonly using Lyudmila.",
   "max": {
     "accuracy": 95.8,
     "damage": 2501705,

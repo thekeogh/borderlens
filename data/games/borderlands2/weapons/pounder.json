@@ -10,7 +10,7 @@
   "name": "Pounder",
   "slug": "pounder",
   "type": "Shotgun",
-  "description": "The Pounder is a double barreled Torgue shotgun that throws out extra pellets per shot, but burns through ammo faster and suffers heavier recoil and poorer accuracy. It can be a solid early game pickup, though it is generally eclipsed by later options such as the Hulk and Ravager.",
+  "description": "The Pounder is a double-barreled Torgue shotgun that throws out an extra-dense blast at the cost of heavy recoil, poor accuracy, and fast ammo burn. It is a solid early pickup for brute-force close-range damage, though stronger Torgue shotguns tend to overtake it later on.",
   "manufacturers": [
     "Torgue"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "Explosive"
   ],
-  "notes": "Dropped randomly from any appropriate loot source.",
+  "notes": "Random world drop from any suitable loot source.",
   "sources": [
     {
       "name": "World Drop",

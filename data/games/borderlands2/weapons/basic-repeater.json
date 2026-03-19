@@ -10,14 +10,14 @@
   "name": "Basic Repeater",
   "slug": "basic-repeater",
   "type": "Pistol",
-  "description": "The Basic Repeater is the default starting pistol in a normal new game. It has no unique gimmicks and its stats are deliberately modest, with a notably small magazine for a repeater-style handgun. It mainly exists to ease you into early combat and is typically swapped out soon after.",
+  "description": "The default starting pistol, built with deliberately modest stats and no special gimmicks. Its magazine is notably small for a repeater-style handgun, and it mainly exists to carry you through the very start of the game before better weapons begin to drop.",
   "manufacturers": [
     "Dahl"
   ],
   "rarities": [
     "Common"
   ],
-  "notes": "It always spawns with fixed components: a unique Bandit barrel, Tediore grip, no sight, no accessory and no elemental capacitor.",
+  "notes": "It always spawns with fixed parts: a unique Bandit barrel, a Tediore grip, no sight, no accessory, and no elemental capacitor.",
   "sources": [
     {
       "name": "My First Gun",

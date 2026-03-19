@@ -10,7 +10,7 @@
   "name": "Anarchist",
   "slug": "anarchist",
   "type": "Pistol",
-  "description": "The Anarchist is a Vladof pistol with a rotating barrel, built for rapid fire and long bursts. While each shot hits modestly, the high rate of fire and generous magazine size help it keep steady damage over time. Its mild recoil makes it comfortable to control, particularly in builds that lean into fire rate.",
+  "description": "A Vladof pistol with a rotating barrel, built for rapid fire and long bursts. Individual shots hit modestly, but the high fire rate and generous magazine let it maintain steady damage over time, and its mild recoil keeps it comfortable to control.",
   "manufacturers": [
     "Vladof"
   ],
@@ -21,7 +21,7 @@
   "aliases": [
     "Anarchist (pistol)"
   ],
-  "notes": "This pistol can drop from general loot pools at green rarity or above, in line with other Vladof rotating-barrel pistols.",
+  "notes": "It can drop from standard loot pools at green rarity or higher, in line with other Vladof rotating-barrel pistols.",
   "elements": [
     "None",
     "Incendiary",

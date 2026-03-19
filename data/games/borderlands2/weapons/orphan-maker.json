@@ -11,7 +11,7 @@
   "name": "Orphan Maker",
   "slug": "orphan-maker",
   "type": "Shotgun",
-  "description": "A rare Jakobs shotgun with very high damage per pellet and a low pellet count, making crits and longer-range hits more consistent than most shotguns. Firing also damages you and delays shield recharge, so prolonged shooting can stop your shield recovering. Best used from cover in short bursts; high-capacity or fast-recharge shields help. Strong on Gaige (fast reload, Anarchy), Krieg (self-damage synergies), and Maya for burst support with Restoration.",
+  "description": "A Jakobs shotgun with enormous per-pellet damage and a low pellet count, making it far more consistent for crits and longer-range hits than most shotguns. Every shot also hurts the user and delays shield recharge, so it is strongest when fired in short brutal bursts from cover rather than spammed. That drawback makes it dangerous, but it also creates strong synergies for characters who can exploit self-damage or fast burst windows.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -229,9 +229,9 @@
   ],
   "special": {
     "title": "Makes Orphans Often.",
-    "description": "Curse: firing deals 5% of the shot's damage to the wielder. Jakobs: +30% critical hit damage. Unique: greatly increased damage with reduced pellet count."
+    "description": "Firing deals damage to the wielder, while the weapon also trades pellet count for a major boost to per-pellet damage and keeps the usual Jakobs critical-hit bonus."
   },
-  "notes": "High per-pellet damage and fewer pellets improve reliability at range but reduce spread coverage. Pairs poorly with amp shields because firing disrupts shield uptime. Listed as Captain Blade's Orphan Maker, though the prefix can vary. Self-damage does not apply if held in Salvador's off-hand while Gunzerking.",
+  "notes": "The high per-pellet damage and reduced pellet count improve reliability at range, but also reduce spread coverage. It pairs poorly with amp shields because every shot interrupts shield uptime. It is listed as Captain Blade's Orphan Maker, though the prefix can vary. The self-damage does not apply if Salvador holds it in his off-hand during Gunzerking.",
   "elements": [
     "None"
   ],

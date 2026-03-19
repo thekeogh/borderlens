@@ -10,7 +10,7 @@
   "name": "Spread",
   "slug": "spread",
   "type": "Launcher",
-  "description": "A launcher with a barrel setup that boosts accuracy and increases missile travel speed.",
+  "description": "A launcher roll built around a barrel setup that improves accuracy and pushes missile speed higher, making it easier to land longer shots cleanly.",
   "manufacturers": [
     "Tediore"
   ],
@@ -26,7 +26,7 @@
     "Slag",
     "Explosive"
   ],
-  "notes": "Drops at random from any appropriate loot source.",
+  "notes": "Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

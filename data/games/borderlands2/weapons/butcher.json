@@ -11,7 +11,7 @@
   "name": "Butcher",
   "slug": "butcher",
   "type": "Shotgun",
-  "description": "The Butcher is a Pearlescent Hyperion shotgun built for sustained damage. It fires relatively few pellets, but makes up for it with a very high rate of fire, quick accuracy stabilisation, and a chance to return ammo on each trigger pull. In use it feels more like a close to mid range bullet sprayer than a typical bursty shotgun, staying controllable during long strings of fire.",
+  "description": "A pearlescent Hyperion shotgun built for sustained damage rather than short bursts. It fires relatively few pellets, but makes up for that with a very high fire rate, fast Hyperion accuracy recovery, and a chance to return ammo on each shot. In practice it feels more like a close- to mid-range bullet hose than a traditional shotgun.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -266,7 +266,7 @@
     "title": "Fresh Meat!",
     "description": "On firing, each shot has a chance to add ammo back into the magazine, letting you keep shooting far longer than normal. Combined with Hyperion accuracy settling, this enables extremely consistent sustained fire and very high real-world DPS."
   },
-  "notes": "If an ammo-return proc would overfill the magazine, the extra rounds can be pushed into reserves when there is space. Because procs can chain, the effective magazine size varies wildly from fight to fight. It pairs well with ammo and fire-rate boosts, notably on Salvador. In rare cases it can bug out and stop consuming ammo or reloading correctly until you reset the area, fast travel, die, or re-equip it.",
+  "notes": "If an ammo-return proc would overfill the magazine, the extra rounds can spill into reserves when there is space. Because the procs can chain, its effective magazine size varies wildly from fight to fight. It pairs especially well with ammo and fire-rate boosts, notably on Salvador. In rare cases it can bug out and stop consuming ammo or reloading correctly until you reset the area, fast travel, die, or re-equip it.",
   "max": {
     "accuracy": 66.7,
     "damage": 649965,

@@ -10,7 +10,7 @@
   "name": "Shoky",
   "slug": "shoky",
   "type": "SMG",
-  "description": "The Shoky is a Bandit SMG from a small set that always rolls with a fixed-element Maliwan barrel. This grants unusually strong elemental damage over time, higher status chance, and improved accuracy compared with typical Bandit SMGs. Because the parts are locked, these guns are much rarer than their colour tier suggests, usually appearing as green and only occasionally as blue or purple. Even at low tiers, the elemental performance can carry you well until you replace it with a stronger Unique or Legendary option.",
+  "description": "The Shoky is a Bandit SMG from a fixed-element set, always spawning with a Maliwan barrel that gives it much better status chance, damage over time, and accuracy than a normal Bandit SMG. Because the parts are locked, it appears far less often than its rarity suggests and is easy to overlook. Even so, its elemental performance is strong enough to carry fights well beyond what its color tier implies.",
   "manufacturers": [
     "Bandit"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "Shock"
   ],
-  "notes": "Drops randomly from any appropriate loot source. Only appears at green rarity or above. Related Bandit SMGs with the same fixed Maliwan barrel include Barfy (corrosive), Burny (incendiary), and Slagy (slag). Maliwan-made SMGs using this barrel are far more common and can roll from white to purple.",
+  "notes": "Random world drop from suitable loot sources. It only appears at green rarity or higher. Related Bandit SMGs with the same fixed Maliwan barrel include Barfy for corrosive, Burny for incendiary, and Slagy for slag. Maliwan-made SMGs using this barrel are much more common and can roll from white through purple.",
   "sources": [
     {
       "name": "World Drop",

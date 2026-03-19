@@ -10,7 +10,7 @@
   "name": "Weisenheimer",
   "slug": "weisenheimer",
   "type": "SMG",
-  "description": "Like other Hyperion SMGs, the Weisenheimer starts with noticeable sway and tightens up the longer you keep firing. The accuracy shown reflects its fully stabilised state. It belongs to a set of Hyperion SMGs that always roll with a fixed element via a Maliwan barrel, giving higher elemental chance and damage-over-time than usual. These bonuses can be pushed further with a Maliwan grip. Although not a top-tier rarity, its strong status effects can carry you well until you find a rarer upgrade.",
+  "description": "A Hyperion SMG that tightens up the longer you keep firing and always spawns with a corrosive Maliwan barrel. That pairing gives it stronger elemental chance and damage over time than a standard Hyperion SMG, while still preserving the brand's trademark stabilising fire. It is not a flashy rarity piece, but its reliable corrosive output makes it a very solid workhorse.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Corrosive"
   ],
-  "notes": "Related fixed-element Hyperion SMGs include Backburner (incendiary), Storm (shock), Wellness (slag), and Cooler (cryo). The Weisenheimer only appears at green rarity or above. In Borderlands: The Pre-Sequel it commonly uses the newer Hyperion materials and prefixes seen in Borderlands 2. An old-Hyperion variant also exists there, named the Ascerbic. It is a world drop from any appropriate loot source.",
+  "notes": "Related fixed-element Hyperion SMGs include Backburner for incendiary, Storm for shock, Wellness for slag, and Cooler for cryo. It appears only at green rarity or higher. In The Pre-Sequel, it commonly uses Hyperion's newer materials and a similar prefix style. An older Hyperion variant there is named the Ascerbic. Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

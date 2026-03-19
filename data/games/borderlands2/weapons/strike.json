@@ -10,7 +10,7 @@
   "name": "Strike",
   "slug": "strike",
   "type": "Sniper",
-  "description": "This Dahl sniper rifle commonly spawns with a Hyperion component, which tends to reduce magazine size. That is a drawback for burst fire, as you burn through rounds quickly. It also typically deals lower damage than many other Dahl sniper rifles.",
+  "description": "A Dahl sniper rifle that often ends up with a Hyperion component, trimming the magazine on a weapon line that already spends rounds quickly in burst fire. That smaller magazine, combined with lower-than-average damage for the class, makes it feel less rewarding than many other Dahl snipers despite its familiar handling.",
   "manufacturers": [
     "Dahl"
   ],

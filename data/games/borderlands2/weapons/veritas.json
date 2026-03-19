@@ -11,7 +11,7 @@
   "name": "Veritas",
   "slug": "veritas",
   "type": "Pistol",
-  "description": "Veritas is a rare Vladof pistol from Borderlands 2. It is essentially a standard Vladof Assassin style sidearm with no standout performance in normal combat, but it can be worth carrying for its Fight For Your Life bonus if you have a spare slot. Its damage and handling are quickly outpaced by newer drops as you level.",
+  "description": "A Vladof pistol with ordinary combat performance but a cooperative perk that extends Fight For Your Life duration when paired with matching gear across the group. It also carries an extra critical-hit bonus, though the weapon's real value is still in team utility rather than raw combat power. Outside coordinated co-op use, it is mostly just a standard Vladof sidearm.",
   "manufacturers": [
     "Vladof"
   ],
@@ -253,9 +253,9 @@
   ],
   "special": {
     "title": "Shoulda stopped at one.",
-    "description": "+20 percent critical hit damage (multiplicative). Party bonus: for each Veritas pistol or Aequitas shield equipped across the group, Fight For Your Life duration is increased by 10 percent."
+    "description": "Adds a multiplicative critical-hit bonus. It also grants a party effect that increases Fight For Your Life duration based on how many Veritas pistols or Aequitas shields are equipped across the group."
   },
-  "notes": "",
+  "notes": "Its party effect scales with how many Veritas pistols and Aequitas shields are equipped across the group.",
   "max": {
     "accuracy": 91.3,
     "damage": 734752,

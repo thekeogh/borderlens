@@ -10,7 +10,7 @@
   "name": "Home Security",
   "slug": "home-security",
   "type": "Shotgun",
-  "description": "Home Security always rolls with its matching Tediore barrel. It is a fairly middle of the road shotgun, trading the brand's typical ammo efficiency for reduced damage versus other Tediore shotguns. As with other Tediore shotguns, reloading throws the gun in a long forward arc.",
+  "description": "A Tediore shotgun that always rolls with a matching Tediore barrel, keeping the usual long-arc thrown reload. It is a fairly middle-of-the-road weapon, with no standout gimmick beyond the standard Tediore chuck and somewhat weaker damage than many other Tediore shotguns.",
   "manufacturers": [
     "Tediore"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Drops at random from any appropriate loot source.",
+  "notes": "It drops randomly from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

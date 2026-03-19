@@ -11,7 +11,7 @@
   "name": "Thunderball Fists",
   "slug": "thunderball-fists",
   "type": "Pistol",
-  "description": "Thunderball Fists is a legendary Maliwan pistol from Borderlands 2. It excels at stripping shields thanks to strong shock output and the extra damage from its lightning orbs. Gaige can get particular value from it in the Little Big Trouble tree, as the two-part hit can roll status effects more than once and the splash can tag groups for better crowd control.",
+  "description": "A Maliwan pistol built around layered Shock damage, with every shot detonating and then spawning a rising lightning orb that explodes again. That two-stage hit makes it excellent for stripping shields and spreading shock damage through groups, especially on builds that care about repeated elemental procs. It is one of the more distinctive anti-shield sidearms in the game.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -236,9 +236,9 @@
   ],
   "special": {
     "title": "I can have such a thing?",
-    "description": "Always shock. Shots detonate on impact for splash damage, then spawn a lightning orb that bounces upward and explodes again. The first blast deals 100% weapon damage as splash (boosted by grenade damage); the follow-up explosion deals 150% additional splash and is not boosted by grenade damage."
+    "description": "Always Shock. Shots explode on impact for splash damage, then spawn a lightning orb that rises and detonates again. The first blast scales with grenade damage bonuses, while the second does not."
   },
-  "notes": "As a shock weapon, it can damage the user. With The Transformer, self-hits can refill the shield and may be absorbed as rocket launcher ammo. With other absorb shields, absorbed shots only have a chance to convert into rocket launcher ammo. The second detonation can be amplified by amp shields. The initial impact adds 100% weapon damage as splash and is boosted by grenade damage bonuses. The rising orb deals 150% additional splash but does not benefit from grenade damage bonuses. The orb only pops up if the first hit connects with an enemy or a ledge/edge.",
+  "notes": "As a Shock weapon, it can damage the user. With the Transformer, self-hits can refill the shield and may also be absorbed as launcher ammo. Other absorb shields only have a chance to convert the hit into launcher ammo. The second detonation can be amplified by amp shields. The initial splash benefits from grenade damage bonuses, but the rising orb's follow-up blast does not. The orb only appears if the first hit connects with an enemy or with a ledge or edge.",
   "max": {
     "accuracy": 94.5,
     "damage": 1429204,

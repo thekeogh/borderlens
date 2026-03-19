@@ -10,7 +10,7 @@
   "name": "Ravager",
   "slug": "ravager",
   "type": "Shotgun",
-  "description": "High-damage explosive shotgun for point-blank fights. Pellets and splash can erase targets up close, but it fires slowly and burns ammo, using 4 shells per shot. Wide spread suits large enemies. Past close range you must lead targets to land multiple pellets.",
+  "description": "A brutal explosive shotgun built for point-blank fights. Its pellets and splash can erase targets at close range, especially larger enemies that can catch the full spread, but the slow fire rate and 4-shell cost make every shot expensive. Past close range it becomes much less reliable unless you can lead targets well enough to land multiple pellets.",
   "manufacturers": [
     "Torgue"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "Explosive"
   ],
-  "notes": "World drop. Card damage underrates it, as it ignores the explosive bonus. Only spawns at blue rarity or higher. May trigger Krieg skills differently depending on whether the kill is from pellet damage, splash, or both. Gaige Close Enough can ricochet pellets so they detonate at range. Salvador Keep Firing... helps the low fire rate and reload. Claptrap One Last Thing boosts splash on the second-to-last shot and pellet damage on the last, suiting the small magazine.",
+  "notes": "Random world drop. The card damage underrates it because the explosive bonus is not reflected properly. It only spawns at blue rarity or higher. Krieg skills may trigger differently depending on whether the kill comes from pellet damage, splash, or both. Gaige's Close Enough can ricochet pellets so they detonate at range. Salvador's Keep Firing... helps offset the low fire rate and slow reload, and Claptrap's One Last Thing lines up well with the small magazine.",
   "sources": [
     {
       "name": "World Drop",

@@ -11,7 +11,7 @@
   "name": "Sawbar",
   "slug": "sawbar",
   "type": "Assault Rifle",
-  "description": "Pearlescent Bandit assault rifle. Fires a single round that splits into three fanned projectiles, which then detonate after a short delay. At the right range the blasts can hit enemies behind cover. Explosions can take full amp damage, making it deadly on large flesh targets when spaced correctly.",
+  "description": "A Bandit assault rifle whose shots split into three projectiles and then explode after a short delay, making it far deadlier at a specific spacing than the first bullet suggests. At the sweet spot, the delayed blasts can all connect, tear through large targets, and even catch enemies behind cover. It is awkward at the wrong range, but devastating at the right one.",
   "manufacturers": [
     "Bandit"
   ],
@@ -229,9 +229,9 @@
   ],
   "special": {
     "title": "Surpresssing Fires!!!",
-    "description": "Always incendiary. Fires a main bullet; after ~0.15s it spawns three sideways-fanning bullets. After another ~0.15s, those bullets explode in a small radius for fire bullet damage. The main bullet has no splash."
+    "description": "Always incendiary. Fires a main bullet that quickly splits into three sideways-fanning projectiles, which then explode after a short delay. The main bullet itself has no splash."
   },
-  "notes": "Uses the same skin as a purple Bandit rifle. Split and detonation are flight time-based, not distance. Higher projectile speed pushes the explosions further out. Synergises with Make it Sparkle: Deathtrap only needs to be near the line of fire. The first bullet has no splash. The three spawned bullets deal full gun damage and each adds a full splash detonation; if all connect this can reach up to 600% total shot damage. Grenade damage bonuses do not boost this splash. Both bullets and explosions can ignite; if all parts hit, a shot has about a 31% chance to ignite.",
+  "notes": "It uses the same skin as a purple Bandit rifle. The split and detonation are based on flight time rather than distance, so higher projectile speed pushes the explosions farther out. It synergizes well with Make it Sparkle because Deathtrap only needs to be near the line of fire. The first bullet has no splash, but the three spawned bullets each deal full gun damage and add their own splash detonation. Grenade damage bonuses do not increase that splash. Both the bullets and the explosions can ignite.",
   "max": {
     "accuracy": 11.7,
     "damage": 685533,

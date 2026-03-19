@@ -11,7 +11,7 @@
   "name": "Damned Cowboy",
   "slug": "damned-cowboy",
   "type": "Assault Rifle",
-  "description": "The Damned Cowboy is a Jakobs assault rifle tuned for careful shooting, closer to a mid-range marksman rifle than a spray-and-pray AR. It rewards precise hits with solid single-shot impact and critical-focused damage. Its slower tempo makes it less effective for clearing groups or snapping between multiple targets.",
+  "description": "A Jakobs assault rifle tuned for careful shooting, closer to a mid-range marksman rifle than a spray-and-pray AR. It rewards precise hits with strong single-shot impact, boosted critical performance, and fast projectile travel, but its slower tempo makes it less effective for sweeping groups or snapping between several targets.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -212,7 +212,7 @@
     "title": "Speak Softly. Carry This.",
     "description": "Increased critical hit damage and improved projectile speed support a measured, accurate mid-range approach."
   },
-  "notes": "It normally spawns with the prefix \"Sir Hammerlock's\", but standard accessory rolls can replace it.",
+  "notes": "It normally spawns with the prefix \"Sir Hammerlock's,\" but standard accessory rolls can replace it.",
   "elements": [
     "None"
   ],

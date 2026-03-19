@@ -11,7 +11,7 @@
   "name": "Patriot",
   "slug": "patriot",
   "type": "Sniper",
-  "description": "The Patriot is a Vladof Seraph sniper rifle from the Pirate's Booty DLC. It hits hard and fires quickly, but its accuracy is extremely poor for a sniper. Shots stray from the reticle even while scoped, making long-range use unreliable and mid-range awkward, especially with its slow projectile speed. In practice it plays more like a high-powered assault rifle for close to mid-range. Sniper ammo reserves, a smaller magazine, and a lengthy reload limit its uptime, leaving it a niche pick overall.",
+  "description": "A Vladof sniper rifle that hits hard and fires quickly, but behaves far more like an unruly battle rifle than a true precision weapon. Its slow projectiles and severe spread make long-range shooting unreliable even while scoped, pushing it toward close to mid-range pressure instead. It can be fun and surprisingly aggressive, but the small magazine, sniper ammo economy, and long reload keep it niche.",
   "manufacturers": [
     "Vladof"
   ],
@@ -251,7 +251,7 @@
   ],
   "special": {
     "title": "Our voice will not be silenced!",
-    "description": "Our voice will not be silenced! Fires slow-moving projectiles. Very high damage, but with heavy spread even when scoped. Smaller magazine and longer reload than typical sniper rifles."
+    "description": "Fires slow-moving projectiles with very high damage, but suffers from heavy spread even while scoped, along with a smaller magazine and longer reload than most sniper rifles."
   },
   "notes": "",
   "max": {

@@ -10,7 +10,7 @@
   "name": "Vanquisher",
   "slug": "vanquisher",
   "type": "Launcher",
-  "description": "Vladof launcher with a triple-barrel cannon that boosts rocket speed. It fires at very high RPM and will keep firing in full-auto while the trigger is held. It typically has a large magazine, very low per-shot damage for a high-velocity launcher, and shaky accuracy. It shines against packs of mid-tier enemies and fast aircraft such as Buzzards, where the speed reduces the need to lead targets. Its rapid fire can drain even a maxed rocket reserve quickly, making sustained use costly.",
+  "description": "A Vladof launcher built for high-speed automatic fire rather than single massive blasts. Its triple-barrel cannon boosts rocket velocity and fire rate, and its reduced ammo consumption lets it sustain that stream longer than most launchers can. That makes it especially useful against faster targets such as Buzzards or groups of lighter enemies that reward quick follow-up shots. The tradeoff is very low damage per rocket and brutal ammo drain if you simply hold the trigger.",
   "manufacturers": [
     "Vladof"
   ],
@@ -19,7 +19,7 @@
     "Uncommon",
     "Rare"
   ],
-  "notes": "Random world drop from appropriate loot sources. It may play a reload even with no rockets in reserve, but the magazine remains empty.",
+  "notes": "Random world drop from suitable loot sources. It may play a reload animation even with no rockets left in reserve, but the magazine will remain empty.",
   "sources": [
     {
       "name": "World Drop",
@@ -30,7 +30,7 @@
     }
   ],
   "special": {
-    "description": "Always rolls reduced ammo consumption: shots average 0.666 rockets each, effectively giving one free shot for every three fired."
+    "description": "Always rolls reduced ammo consumption, effectively giving one free shot for every three fired."
   },
   "elements": [
     "None",

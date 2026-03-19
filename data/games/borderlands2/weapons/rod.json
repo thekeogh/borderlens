@@ -10,7 +10,7 @@
   "name": "Rod",
   "slug": "rod",
   "type": "Pistol",
-  "description": "The Rod uses a Jakobs barrel, boosting damage and accuracy in exchange for a slower rate of fire.",
+  "description": "A weapon fitted with a Jakobs barrel, gaining stronger damage and cleaner accuracy at the cost of a slower fire rate.",
   "manufacturers": [
     "Torgue"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Explosive"
   ],
-  "notes": "Only appears at green rarity or above.",
+  "notes": "It only appears at green rarity or higher.",
   "sources": [
     {
       "name": "World Drop",

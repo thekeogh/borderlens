@@ -10,7 +10,7 @@
   "name": "Bushwack",
   "slug": "bushwack",
   "type": "Shotgun",
-  "description": "The Bushwack is a triple-barrel Jakobs shotgun made for brutal point-blank bursts. Each shot throws out a large number of pellets for excellent damage per trigger pull, but the spread is very wide and it struggles to stay accurate at range. Its distinctive loading style helps you get another blast off quickly, so it excels up close and becomes inconsistent at distance.",
+  "description": "A triple-barrel Jakobs shotgun built for brutal point-blank bursts. Each shot throws out a heavy pellet load for excellent damage per trigger pull, but the spread is very wide and falls apart quickly at range. Its loading style helps it get back into action fast, which keeps it deadly up close and unreliable at a distance.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -20,7 +20,7 @@
     "Rare",
     "Epic"
   ],
-  "notes": "This weapon only spawns at green rarity or above. It can drop as a regular world item from appropriate loot sources.",
+  "notes": "It only spawns at green rarity or higher and can drop as a regular world item from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

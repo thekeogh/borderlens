@@ -10,7 +10,7 @@
   "name": "SMG",
   "slug": "smg",
   "type": "SMG",
-  "description": "This SMG may roll with one of three barrel types, each altering performance. Bandit or Scav barrels raise damage but worsen accuracy. Tediore barrels lower damage in return for faster reloads. Maliwan barrels improve accuracy; if the gun is elemental, they also increase the chance to apply status effects.",
+  "description": "This SMG line changes noticeably with its barrel roll. Bandit or Scav versions trade accuracy for more damage, Tediore versions sacrifice damage for faster reloads, and Maliwan versions improve accuracy while also boosting status chance if the gun rolls an element.",
   "manufacturers": [
     "Dahl"
   ],
@@ -25,7 +25,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Drops at random from any appropriate loot source.",
+  "notes": "Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

@@ -10,7 +10,7 @@
   "name": "Blaaa",
   "slug": "blaaa",
   "type": "Launcher",
-  "description": "Blaaa is a common Torgue rocket launcher variant with quicker projectile speed and slightly steadier handling than many entry-level launchers. It deals explosive damage only, consistent with standard Torgue launchers.",
+  "description": "A Torgue rocket launcher variant with faster projectile travel and slightly steadier handling than many low-tier launchers. Like other standard Torgue launchers, it deals explosive damage only.",
   "manufacturers": [
     "Torgue"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Explosive"
   ],
-  "notes": "Available as a normal world drop from appropriate loot pools.",
+  "notes": "It is available as a standard world drop from suitable loot pools.",
   "sources": [
     {
       "name": "World Drop",

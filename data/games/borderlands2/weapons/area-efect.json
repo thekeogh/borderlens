@@ -10,8 +10,8 @@
   "name": "Area efect",
   "slug": "area-efect",
   "type": "Launcher",
-  "description": "Area efect is a launcher variant that releases three rockets while only consuming one round. A Maliwan barrel boosts projectile velocity and tightens accuracy. As the shots often travel through standard-sized foes, reliable damage usually comes from placing splash on the ground or nearby walls rather than landing direct impacts.",
-  "notes": "Most effective when you aim at close surfaces just beneath or next to enemies, particularly human-sized targets and Loaders.",
+  "description": "A Bandit launcher variant that fires three rockets for the cost of a single round. Its Maliwan barrel improves projectile speed and accuracy, but the rockets often slip past normal-sized enemies, so it works best when you place the splash on the ground or nearby surfaces instead of relying on direct hits.",
+  "notes": "It is most effective when aimed at surfaces just beneath or beside enemies, especially human-sized targets and Loaders.",
   "manufacturers": [
     "Bandit"
   ],

@@ -11,7 +11,7 @@
   "name": "Hellfire",
   "slug": "hellfire",
   "type": "SMG",
-  "description": "Hellfire is a legendary Maliwan SMG in the base game that always deals Incendiary damage. It fires quickly and applies Ignite often, letting it stack heavy burn damage over time. This makes it especially strong versus unarmoured targets and a dependable choice for sustained mid-range damage.",
+  "description": "A legendary Maliwan SMG locked to incendiary damage, built around fast firing and extremely strong burn application. It is especially effective against flesh targets, where repeated ignites let it stack heavy damage over time while still maintaining solid sustained fire.",
   "elements": [
     "Incendiary"
   ],
@@ -177,7 +177,7 @@
       }
     ]
   },
-  "notes": "It pairs well with Krieg builds focused on self-ignition and fire bonuses because it triggers frequent burn procs. Its impact-splash behaviour is the same as Nirvana. In rare cases, burn ticks can bug out and deal only 1 damage per tick.",
+  "notes": "It pairs especially well with Krieg builds that benefit from frequent self-ignition and fire damage. Its impact splash behaves like Nirvana's, and in rare cases its burn ticks can bug out and deal only 1 damage per tick.",
   "sources": [
     {
       "name": "Scorch",

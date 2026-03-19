@@ -11,7 +11,7 @@
   "name": "Commerce",
   "slug": "commerce",
   "type": "SMG",
-  "description": "Commerce is a unique Hyperion SMG available early on. It always deals shock damage and fires rounds that pass through enemies. It can carry you through the opening stretch, but it tends to be outclassed by higher-tier SMGs as levels and scaling increase.",
+  "description": "A unique Hyperion SMG that always deals shock damage and fires piercing rounds. It is a strong early weapon because it can hit several enemies in a line while still benefiting from Hyperion's tightening accuracy, but it tends to fall behind stronger SMGs as scaling improves around it.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -211,7 +211,7 @@
     "description": "Always shock. Bullets pierce targets, so a single burst can hit multiple enemies in a line. Like other Hyperion guns, accuracy and recoil control improve the longer you keep firing.",
     "title": "I have a Soldier, a Siren, two Scooters and a Claptrap."
   },
-  "notes": "Dropped by Assassin Wot with a fairly generous chance. Its barrel configuration improves handling without taking the usual Tediore damage reduction.",
+  "notes": "It drops from Assassin Wot at a fairly generous rate. Its barrel setup improves handling without suffering the usual Tediore damage penalty.",
   "max": {
     "accuracy": 95.2,
     "damage": 504690,

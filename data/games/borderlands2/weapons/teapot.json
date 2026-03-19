@@ -11,7 +11,7 @@
   "name": "Teapot",
   "slug": "teapot",
   "type": "Pistol",
-  "description": "Teapot is a rare DAHL pistol from Borderlands 2. It is always corrosive, with a strong damage over time effect that shines against armoured targets, especially after slag has been applied.",
+  "description": "A Dahl pistol locked to corrosive damage, built to chew through armored targets with both direct hits and added splash. Its corrosive damage-over-time is strong on its own, and the impact explosion gives it more presence against clustered enemies than a normal pistol shot.",
   "manufacturers": [
     "Dahl"
   ],
@@ -227,9 +227,9 @@
   ],
   "special": {
     "title": "Havin' a tea Partay drinkin' mah Teeea!",
-    "description": "Impact detonations: every projectile explodes on contact. The explosion deals 80% of weapon damage as splash, and that splash is increased by grenade damage boosts. DAHL: fires in bursts while aiming down sights. Always corrosive. Higher accuracy, elemental damage, and corrosive splash, but lower base damage, fire rate, magazine size, and elemental effect chance."
+    "description": "Every projectile explodes on contact, adding a corrosive splash component that scales with grenade damage bonuses. It is always corrosive and keeps Dahl burst fire while aiming."
   },
-  "notes": "A 10/12/13 hotfix improved stability and magazine size for the Teapot and other DAHL pistols. Its shots create an explosion that adds 80% of weapon damage as splash, and this splash portion scales with grenade damage bonuses. It is classed as a Tiny Tina weapon.",
+  "notes": "A hotfix on December 10, 2013 improved both stability and magazine size for the Teapot and other Dahl pistols. Its shots create an added splash explosion that scales with grenade damage bonuses. It is classed internally as a Tiny Tina weapon.",
   "max": {
     "accuracy": 94.7,
     "damage": 759689,

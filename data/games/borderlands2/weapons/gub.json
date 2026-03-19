@@ -11,7 +11,7 @@
   "name": "Gub",
   "slug": "gub",
   "type": "Pistol",
-  "description": "Gub is a Legendary Bandit pistol from the Borderlands 2 base game. It hits very hard and benefits from Bandit style large magazines, but it is locked to corrosive, so it shines mainly against armoured targets and is much weaker versus flesh or shields. It also tends to feel slightly steadier than a typical same level Bandit pistol, though accuracy is still middling. Best used at close to mid range, especially with corrosive focused or pistol focused builds.",
+  "description": "A legendary Bandit pistol locked to corrosive damage, built around heavy per-shot damage and a large magazine. It is at its best against armored targets, where its corrosive damage and strong impact let it hit well above what most Bandit pistols can manage.",
   "manufacturers": [
     "Bandit"
   ],
@@ -230,7 +230,7 @@
     "description": "Always corrosive. Greatly increased weapon damage and a much larger magazine, but fires noticeably slower projectiles due to reduced bullet speed.",
     "title": "Abt Natural"
   },
-  "notes": "During the 2013 Loot Hunt, Sinkhole briefly had a guaranteed Gub drop on 19/10/13. A hotfix that day also boosted the Gub's damage and increased its magazine size.",
+  "notes": "During the 2013 Loot Hunt, Sinkhole briefly had a guaranteed Gub drop on October 19, 2013. A hotfix released that day also increased both its damage and magazine size.",
   "max": {
     "accuracy": 65.5,
     "damage": 1552414,

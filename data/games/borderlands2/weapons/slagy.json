@@ -10,7 +10,7 @@
   "name": "Slagy",
   "slug": "slagy",
   "type": "SMG",
-  "description": "Slagy is one of a small set of SMGs that always roll a Maliwan barrel and a locked element. The Maliwan barrel boosts status chance and gives a minor accuracy lift. Its slag damage-over-time is weaker than other variants in this family, so it works best for applying slag quickly to one or more targets, then swapping to a harder-hitting gun to capitalise on the damage bonus.",
+  "description": "Slagy is part of a small fixed-element SMG set that always rolls with a Maliwan barrel, giving it boosted status chance and slightly cleaner accuracy. Because slag damage-over-time is inherently weak, its real job is not killing by itself but applying slag quickly so you can swap to a harder-hitting weapon and capitalize on the damage bonus.",
   "manufacturers": [
     "Bandit"
   ],
@@ -21,7 +21,7 @@
   "elements": [
     "Slag"
   ],
-  "notes": "Drops randomly from any appropriate loot source. Only appears at green rarity or above. Related Bandit-made variants in the same fixed-element set include Barfy (corrosive), Burny (incendiary), and Shoky (shock).",
+  "notes": "Random world drop from suitable loot sources. It only appears at green rarity or higher. Related Bandit-made variants in the same fixed-element set include Barfy for corrosive, Burny for incendiary, and Shoky for shock.",
   "sources": [
     {
       "name": "World Drop",

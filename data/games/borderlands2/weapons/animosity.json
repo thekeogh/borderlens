@@ -10,8 +10,8 @@
   "name": "Animosity",
   "slug": "animosity",
   "type": "Pistol",
-  "description": "Animosity is a Maliwan pistol that can roll with a Torgue barrel. This boosts base impact well above typical Maliwan pistols, but usually trades off accuracy, fire rate and reload speed. Handling varies a lot with parts, and its projectiles also gain extra value from splash damage scaling.",
-  "notes": "It deals bonus splash damage that can be increased by grenade damage bonuses, so certain builds can greatly raise its burst potential.",
+  "description": "A Maliwan pistol that can roll with a Torgue barrel, pushing its base impact well above that of a typical Maliwan sidearm. The trade-off is lower accuracy, slower fire rate, and longer reloads, while its splash component gives it extra value on builds that scale explosive-style damage.",
+  "notes": "It deals bonus splash damage that can be increased by grenade-damage bonuses, so certain builds can raise its burst potential significantly.",
   "manufacturers": [
     "Maliwan"
   ],

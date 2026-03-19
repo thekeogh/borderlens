@@ -10,7 +10,7 @@
   "name": "Beetle",
   "slug": "beetle",
   "type": "SMG",
-  "description": "The Beetle is a Dahl SMG variant locked to a single element. Its Maliwan-type barrel boosts incendiary chance and burn damage for its level. It can be harder to find than its rarity colour implies due to limited valid parts. It is not an endgame standout, but it stays effective while levelling by applying steady fire pressure.",
+  "description": "A Dahl SMG locked to incendiary damage, built around steady fire and reliable burn application while leveling. Its Maliwan-style barrel improves elemental chance and burn damage for its level, though it is harder to find than its rarity color suggests because relatively few valid part combinations can produce it.",
   "manufacturers": [
     "Dahl"
   ],

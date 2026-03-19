@@ -10,7 +10,7 @@
   "name": "Jericho",
   "slug": "jericho",
   "type": "Sniper",
-  "description": "Jericho is fitted with a Hyperion barrel, improving accuracy and cutting recoil, but it also reduces magazine capacity.",
+  "description": "A Maliwan sniper built with a Hyperion barrel, giving it steadier handling and better accuracy than most versions at the cost of magazine size.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Drops randomly from any appropriate loot source.",
+  "notes": "Random world drop from any suitable loot source.",
   "sources": [
     {
       "name": "World Drop",

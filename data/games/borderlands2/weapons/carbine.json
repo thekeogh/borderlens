@@ -10,7 +10,7 @@
   "name": "Carbine",
   "slug": "carbine",
   "type": "Assault Rifle",
-  "description": "The Carbine is a Dahl assault rifle that fires a longer scoped burst than most, with notably steady handling. Its tight recoil and reliable accuracy make it a solid pick for sustained mid-range engagements and burst-focused setups where quick, consistent follow-up shots matter.",
+  "description": "A Dahl assault rifle with a longer scoped burst than most weapons in its family and notably steady handling. Its tight recoil and reliable accuracy make it a strong choice for sustained mid-range fights and burst-focused setups that value quick, consistent follow-up shots.",
   "manufacturers": [
     "Dahl"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Can appear as a standard world drop from appropriate loot sources.",
+  "notes": "It can appear as a standard world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

@@ -11,7 +11,7 @@
   "name": "Devastator",
   "slug": "devastator",
   "type": "Pistol",
-  "description": "The Devastator is a Seraph Torgue pistol for in-your-face explosive damage. Accuracy is shaky and the rounds travel slowly, but its real damage output is higher than the item card implies thanks to its burst behaviour, giving strong sustained pressure at close range. Many variants keep a low ammo cost per shot, and it performs especially well in high fire-rate and explosive-damage setups.",
+  "description": "A Seraph Torgue pistol built for in-your-face explosive damage, firing an automatic two-round burst with each trigger pull. Its accuracy is shaky and the projectiles are slow, but the real damage output is much higher than the item card suggests, which gives it strong close-range pressure in explosive or fire-rate-focused builds.",
   "manufacturers": [
     "Torgue"
   ],
@@ -237,7 +237,7 @@
     "title": "Hail.",
     "description": "Fires an automatic two-round explosive burst per trigger pull. Projectiles are slow but produce heavy close-range splash damage."
   },
-  "notes": "Double Penetrating variants fire four projectiles per trigger pull. A large portion of its damage comes from splash, which is boosted by grenade damage bonuses.",
+  "notes": "Double Penetrating variants fire four projectiles per trigger pull. A large share of its damage comes from splash, which is increased by grenade-damage bonuses.",
   "max": {
     "accuracy": 68,
     "damage": 2279065,

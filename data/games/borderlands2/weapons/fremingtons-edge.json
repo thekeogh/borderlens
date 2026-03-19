@@ -11,7 +11,7 @@
   "name": "Fremington's Edge",
   "slug": "fremingtons-edge",
   "type": "Sniper",
-  "description": "Fremington's Edge is a rare Hyperion sniper rifle from Borderlands 2. Its standout trait is an extreme 11.4x scope, making it excellent for very long-range shots but awkward up close. On paper its damage sits above other blue Hyperion snipers yet trails many higher-tier or non-Hyperion options, while its accuracy is only a modest improvement. The real power is hidden: while scoped, critical hits gain +75% extra crit damage (taking the usual +100% to +175%). A scoped crit deals 5.5x card damage before other bonuses.",
+  "description": "A rare Hyperion sniper rifle built around an extreme zoom scope and a hidden scoped critical-hit bonus. It is awkward up close, but at very long range it rewards careful shots with much stronger critical damage than the weapon card suggests.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -221,9 +221,9 @@
   ],
   "special": {
     "title": "I can see my house from here.",
-    "description": "One of the highest zoom levels in the game (11.4x) and always rolls a Hyperion scope. While scoped: +75% critical hit damage (total +175% vs the normal +100% on snipers). Hyperion trait: sustained fire tightens accuracy and reduces recoil. Red text: I can see my house from here."
+    "description": "It always rolls with an extremely high-zoom Hyperion scope. While scoped, it gains a much larger critical-hit bonus than a normal sniper rifle, and like other Hyperion weapons it tightens up during sustained fire."
   },
-  "notes": "During the Borderlands 2 $100,000 Loot Hunt, Day 5 tasked players with farming Wilhelm for Fremington's Edge. A 16 October 2013 hotfix slightly boosted its accuracy and increased its scoped critical hit bonus from +150% to +175%, later rolled into a permanent update.",
+  "notes": "During the $100,000 Loot Hunt, Day 5 asked players to farm Wilhelm for this weapon. A hotfix released on October 16, 2013 slightly improved its accuracy and increased the scoped critical-hit bonus before those changes were rolled into a later permanent update.",
   "max": {
     "accuracy": 96.2,
     "damage": 2317768,

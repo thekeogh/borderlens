@@ -11,7 +11,7 @@
   "name": "Veruc",
   "slug": "veruc",
   "type": "Assault Rifle",
-  "description": "Veruc is a legendary DAHL assault rifle from the Borderlands 2 base game. Like other DAHL rifles, it switches to burst fire while aiming down sights. Its unique multi-projectile pattern behaves differently depending on zoom: hip fire keeps a wide horizontal spread, but while scoped the spread tightens with each burst step, finishing with the projectiles nearly stacking on the centre point. This makes it strong up close while still workable at mid range, and it can occasionally tag multiple Loader crit spots at once.",
+  "description": "A Dahl assault rifle that fires a three-projectile pattern whose spacing changes depending on whether you are aiming. Hip fire keeps the spread wide, while aimed bursts pull the shots closer together until the final round is nearly centered. That gives it unusual flexibility, letting it work both up close and at medium range while also excelling against enemies with multiple crit spots lined up.",
   "manufacturers": [
     "Dahl"
   ],
@@ -257,9 +257,9 @@
   ],
   "special": {
     "title": "I want that rifle, Daddy!",
-    "description": "I want that rifle, Daddy! Fires 3 projectiles in a horizontal line for the cost of 2 rounds. When aiming down sights it fires a 5-shot burst using the same pattern, and the spacing between projectiles shrinks with each step of the burst until the final shot is tightly centred."
+    "description": "Fires 3 projectiles in a horizontal line for the cost of 2 rounds. While aiming, it fires a long Dahl burst, and the spacing between the projectiles shrinks with each step until the final shot is tightly centered."
   },
-  "notes": "Consumes 2 ammo per shot while launching 3 projectiles, making it relatively ammo-efficient for its output. Was available via a SHiFT reward as a player-level Breach Veruc; the item card caption reads \"Get it?\" During the Borderlands 2 Loot Hunt (Week 2, Day 9), Rakkman had a guaranteed drop; that day also brought a hotfix buff to damage and accuracy.",
+  "notes": "It consumes 2 ammo per shot while launching 3 projectiles, which makes it relatively efficient for the damage it can produce. It was once available as a SHiFT reward in Breach form. During the Borderlands 2 Loot Hunt, Rakkman had a guaranteed drop on week 2, day 9, and that same day also brought a hotfix buff to both damage and accuracy.",
   "max": {
     "accuracy": 81.5,
     "damage": 925671,

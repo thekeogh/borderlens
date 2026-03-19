@@ -11,7 +11,7 @@
   "name": "Yellow Jacket",
   "slug": "yellow-jacket",
   "type": "SMG",
-  "description": "Yellow Jacket is a Hyperion E-Tech SMG from Sir Hammerlock's Big Game Hunt. It always deals shock damage, stripping shields extremely quickly, and its strong base damage keeps it effective versus many enemies. Its rounds start slow, speed up over distance, and fade from view, so it performs best at close to mid range rather than long range. Elemental-focused builds such as Gaige (Little Big Trouble), Maya (Cataclysm) and Krieg (Hellborn) can get excellent value from it.",
+  "description": "A Hyperion E-Tech SMG that always deals shock damage and fires accelerating bolts instead of conventional rounds. Those bolts ricochet once and then explode, giving the weapon excellent shield stripping and a surprising amount of splash pressure on top of its strong base damage. It performs best at close to medium range, where the unusual projectile behavior is easier to exploit before the shots vanish from view.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -191,9 +191,9 @@
   ],
   "special": {
     "title": "By the people. For the people.",
-    "description": "Always shock. Increased damage, magazine size and projectile size. Fires slow-moving bolts that accelerate; after a set distance they become invisible. Each bolt ricochets off the first surface it hits, then detonates on impact to deal splash damage in a small radius. The explosion deals 70% of weapon damage as splash and is increased by grenade damage bonuses. Hyperion trait: sustained fire improves accuracy and reduces recoil."
+    "description": "Always shock. Fires slow-moving bolts that accelerate and become invisible after traveling far enough. Each bolt ricochets off the first surface it hits, then detonates in a small splash radius. It also has increased damage, magazine size, and projectile size, while keeping Hyperion's sustained-fire accuracy improvement."
   },
-  "notes": "Only E-Tech SMG that can roll with a bladed attachment. Rounds cause explosions that deal +70% weapon damage as splash, and this splash is boosted by grenade damage bonuses. This is 20% higher than typical E-Tech SMGs.",
+  "notes": "It is the only E-Tech SMG that can roll with a bladed attachment. Its rounds explode for splash damage equal to 70% of weapon damage, and that splash is boosted by grenade-damage bonuses. This is 20% higher than a typical E-Tech SMG.",
   "max": {
     "accuracy": 95.6,
     "damage": 954918,

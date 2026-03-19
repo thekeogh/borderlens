@@ -10,7 +10,7 @@
   "name": "Green",
   "slug": "green",
   "type": "SMG",
-  "description": "The Green is a Tediore SMG from a small set that always rolls a fixed-element Maliwan barrel. That barrel boosts status effect chance and damage over time, giving it stronger elemental performance than typical SMGs. Because its parts are locked in, it drops far less often than its item colour suggests, usually as green and only occasionally as blue or purple. Despite the modest rarity, it can carry you well until you find a rarer standout weapon.",
+  "description": "A Tediore SMG with a fixed corrosive Maliwan barrel, giving it stronger elemental output and damage over time than a typical weapon of its rarity. Because its parts are locked in, it drops less often than its color suggests, but it can still carry you surprisingly well while leveling.",
   "manufacturers": [
     "Tediore"
   ],
@@ -21,7 +21,7 @@
   "elements": [
     "Corrosive"
   ],
-  "notes": "Other Tediore SMGs in this set are Chaff (slag), Kindle (incendiary), and Spark (shock). The Green can only appear at green rarity or above. It is a world drop from any appropriate loot source.",
+  "notes": "Other Tediore SMGs in this set are Chaff for slag, Kindle for incendiary, and Spark for shock. It only appears at green rarity or higher and is a world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

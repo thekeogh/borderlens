@@ -11,7 +11,7 @@
   "name": "Cobra",
   "slug": "cobra",
   "type": "Sniper",
-  "description": "The Cobra is a rare Jakobs sniper rifle that launches explosive rounds. It keeps strong critical hit damage for precise shots, while adding substantial splash damage that can catch nearby enemies. This makes it effective for pick-offs that also punish clustered targets.",
+  "description": "A rare Jakobs sniper rifle that fires explosive rounds instead of standard bullets. It keeps strong critical-hit damage for precision shots while adding heavy splash that can catch nearby enemies, making it excellent for pick-offs that also punish clustered targets.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -221,7 +221,7 @@
     "title": "Found out about this I was like DAAAMN, I'm bringing that gun BACK!",
     "description": "Rounds detonate on impact, dealing heavy splash damage. Damage counts as explosive gun damage, not grenade damage."
   },
-  "notes": "It was long known for an extremely low drop rate, which was later improved by a patch. Its projectiles deal explosive gun damage, so general gun damage bonuses apply, while grenade-only boosts typically do not. The splash component can still interact with effects that amplify damage taken and other splash-related modifiers.",
+  "notes": "It was long known for an extremely low drop rate, which was later improved by a patch. Its projectiles deal explosive gun damage, so general gun-damage bonuses apply, while grenade-only boosts usually do not. The splash component can still interact with effects that amplify damage taken and other splash-related modifiers.",
   "max": {
     "accuracy": 96.3,
     "damage": 3696299,

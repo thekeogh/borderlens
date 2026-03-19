@@ -11,7 +11,7 @@
   "name": "Pimpernel",
   "slug": "pimpernel",
   "type": "Sniper",
-  "description": "Rare Maliwan sniper rifle. Deals splash damage and has boosted critical hit damage. Shots spawn extra pellets after impact; aim slightly below a crit spot so the split pellets land their own critical hits, greatly increasing total damage.",
+  "description": "A Maliwan sniper rifle whose impact spawns a secondary burst of pellets, letting a single shot stack far more damage than the card suggests. Because it also deals splash damage and carries boosted critical-hit performance, it becomes exceptionally strong when you place the first impact just below a crit spot and let the split pellets rise into it. In skilled hands, it is one of the nastiest precision weapons in the game.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -245,9 +245,9 @@
   ],
   "special": {
     "title": "Sink me!",
-    "description": "On impact, creates a secondary projectile that rises vertically then splits into five pellets in a star pattern. Pellets use the weapon's normal stats and can hit twice: first at full damage, then again at 50% damage. The gap between hits depends on projectile speed. Splash damage benefits from Reaper but not grenade damage bonuses, and the rifle has increased sniper critical damage."
+    "description": "On impact, it creates a secondary projectile that rises upward and splits into five pellets in a star pattern. Those pellets use the weapon's normal stats and can score multiple hits depending on spacing and projectile speed. The splash damage benefits from Reaper, but not from grenade damage bonuses."
   },
-  "notes": "Usually named \"Captain Scarlett's Pimpernel\"; any accessory can change the prefix. A Gentleman's slag version keeps the bonus crit effect even if not shown on the card. Split pellets take full amp damage. Gaige: Close Enough ricochets spawn pellets at the enemy hit point. Salvador: in off-hand, pellets use main-hand damage/element; if the main-hand mag is empty they also gain Money Shot scaling. Pellets cannot hit the user. Projectile speed affects pellet spread and hit spacing; Vel0city and Accelerate alter this. Can trigger B0re; B0re, Chain Reaction and The Nth Degree can re-trigger repeatedly on grouped targets.",
+  "notes": "It is usually named Captain Scarlett's Pimpernel, though any accessory can replace that prefix. A Gentleman's slag version keeps the bonus critical-hit behavior even if the card does not show it. The split pellets take full amp damage. On Gaige, Close Enough ricochets can spawn pellets at the enemy hit point. On Salvador, pellets fired from the off-hand use the main-hand damage and element, and if the main-hand magazine is empty they can also gain Money Shot scaling. The pellets cannot hit the user. Projectile speed changes the pellet spacing, so skills such as Vel0city and Accelerate affect how it lands. It can trigger B0re, and B0re, Chain Reaction, and The Nth Degree can all retrigger repeatedly on tightly grouped targets.",
   "max": {
     "accuracy": 93.7,
     "damage": 2067198,

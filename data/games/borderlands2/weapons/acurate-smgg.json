@@ -10,7 +10,7 @@
   "name": "Acurate smgg",
   "slug": "acurate-smgg",
   "type": "SMG",
-  "description": "Acurate smgg is a Bandit SMG built with a Hyperion barrel, giving it steadier recoil and more reliable accuracy. In exchange, it typically loses some damage output and magazine capacity. With favourable parts, it can stay effective at longer ranges than most Bandit-made weapons.",
+  "description": "A Bandit SMG built with a Hyperion barrel, giving it steadier recoil and more reliable accuracy than most Bandit guns. In exchange, it usually gives up some damage and magazine size, but with the right parts it can stay effective at longer range than most other Bandit weapons.",
   "manufacturers": [
     "Bandit"
   ],
@@ -21,7 +21,7 @@
   "elements": [
     "None"
   ],
-  "notes": "It may roll with the deliberately misspelt Akurate prefix, can appear at green rarity or above, and most commonly shows up as a standard world drop.",
+  "notes": "It may roll with the deliberately misspelled Akurate prefix, can appear at green rarity or higher, and is most commonly found as a standard world drop.",
   "sources": [
     {
       "name": "World Drop",

@@ -11,7 +11,7 @@
   "name": "Toothpick",
   "slug": "toothpick",
   "type": "Assault Rifle",
-  "description": "Toothpick is an Effervescent DAHL assault rifle from the Fight for Sanctuary DLC. Although the card shows 100.0 accuracy, its recoil and multi-projectile spread make it most reliable at close to mid range, especially against large flesh targets.",
+  "description": "A Dahl assault rifle that looks perfectly accurate on the card, but actually behaves like a concentrated multi-projectile flamethrower for close to mid-range fights. It fires ten incendiary shots in two clustered rows for a steep ammo cost, making it especially deadly against large flesh targets and anything vulnerable to fire. With the right gear, it can become far more dangerous than the stat card suggests.",
   "manufacturers": [
     "Dahl"
   ],
@@ -179,9 +179,9 @@
   ],
   "special": {
     "title": "A simple solution to a dire problem.",
-    "description": "Always incendiary. Each trigger pull fires 10 shots arranged as 2 rows of 5, consuming 6 ammo per shot. Increased damage and magazine size, but reduced fire rate and reload speed. While scoped, it fires in DAHL burst mode. With Mouthwash equipped it gains +200% damage; for Salvador, holding Toothpick in the left hand can pass this bonus to the right-hand weapon. In Writhing Deep, equipping Retainer also grants movement speed and jump height bonuses."
+    "description": "Always incendiary. Each trigger pull fires 10 shots arranged in two rows while consuming 6 ammo. It gains extra damage and magazine size, but loses fire rate and reload speed. While scoped, it still uses Dahl burst fire. With Mouthwash equipped it gains a major damage bonus, and in the Writhing Deep the Retainer also grants movement and jump bonuses while it is equipped."
   },
-  "notes": "Damage is boosted further while the Mouthwash relic is equipped. It only spawns with a Vladof sight. Its spread pattern resembles the Pitchfork: clustered projectile groups with extra ammo consumption per shot. A safer farm spot is near the Dahl Abandon exit to The Burrows, where the bandits are less dangerous than the infected inside.",
+  "notes": "Its damage is boosted further while the Mouthwash relic is equipped. It only spawns with a Vladof sight. The spread pattern resembles the Pitchfork, with clustered projectile groups and extra ammo consumption per shot. A safer farm spot is near the Dahl Abandon exit to the Burrows, where the bandits are less dangerous than the infected deeper inside.",
   "max": {
     "accuracy": 100,
     "damage": 1224918,

@@ -10,7 +10,7 @@
   "name": "Skatergun",
   "slug": "skatergun",
   "type": "Shotgun",
-  "description": "The Skatergun is a hard-hitting shotgun with damage output in line with most Bandit models. Each shot uses a single round, and its Tediore barrel does not provide any extra bonuses to the gun's base stats.",
+  "description": "The Skatergun is a straightforward shotgun with solid damage for its class and a simple one-shell firing pattern. Its Tediore barrel does not add any standout gimmick, leaving it as a plain but serviceable close-range gun.",
   "manufacturers": [
     "Bandit"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "None"
   ],
-  "notes": "The Skatergun can drop at random from any appropriate loot source.",
+  "notes": "Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

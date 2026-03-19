@@ -10,7 +10,7 @@
   "name": "Topneaa",
   "slug": "topneaa",
   "type": "Launcher",
-  "description": "The Topneaa is an E-tech Vladof launcher with reduced ammo use, costing two thirds of a rocket per shot. It fires one slow rocket that hits for very high splash damage. Anything caught in the blast also spawns energy spheres that continue to deal damage around the impact area. As with other Vladof launchers, ammo use is fractional: every third shot does not consume a magazine round, letting you fire more rockets than the listed magazine size. It is one of the few E-tech guns to use under 2 ammo per shot (the Dahl Blaster can do so in burst only).",
+  "description": "An E-tech Vladof launcher with fractional ammo use, letting it fire more shots than the magazine size seems to allow. Each rocket hits for heavy splash damage and then creates lingering energy spheres around the blast, giving it strong crowd control as well as burst. Its combination of efficiency and area damage makes it one of the most practical E-tech launchers in the game.",
   "manufacturers": [
     "Vladof"
   ],
@@ -31,5 +31,5 @@
       ]
     }
   ],
-  "notes": "Pairing it with The Sham can enable near-endless rockets. Stand within range of the energy spheres so absorbed shots count, including the free fractional rockets. If absorbed correctly, the spheres will not harm you, but the initial rocket explosion at close range can still kill you due to The Sham's low capacity."
+  "notes": "Pairing it with the Sham can enable near-endless rockets. To make that work, stand within range of the energy spheres so absorbed shots count, including the free fractional rockets. If the absorption works properly, the spheres will not hurt you, but the initial rocket explosion can still kill you at close range because the Sham has low capacity."
 }

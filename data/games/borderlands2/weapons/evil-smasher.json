@@ -11,7 +11,7 @@
   "name": "Evil Smasher",
   "slug": "evil-smasher",
   "type": "Assault Rifle",
-  "description": "Evil Smasher is a rare Torgue assault rifle. Its base performance is poor: tiny magazine, and roughly half the damage and fire rate of a comparable blue Torgue rifle. On reload it can randomly power up, signalled by a harmless self-explosion and a distinct sound at the start of the reload. Because the buff is unreliable, it is mostly a novelty unless you force the proc.",
+  "description": "A rare Torgue assault rifle with weak normal performance but a chance to become absurdly powerful on reload. Its base damage, fire rate, and magazine are all underwhelming, yet a random reload power-up can transform the next magazine into something dramatically stronger. Because that buff is unreliable, it is more of a novelty unless you deliberately fish for the proc.",
   "manufacturers": [
     "Torgue"
   ],
@@ -221,7 +221,7 @@
     "title": "Evil will be SMASHED!!! WITH SMASHING!!! EVIL!!! SMASH!!! ER!!!",
     "description": "Shots explode on impact, dealing 90% grenade-type splash damage. Each reload has a 7% chance to buff the next magazine: +900% damage, +100% projectile speed, +60% fire rate, +17 mag size, -50% max inaccuracy, +200% max accuracy, +200% recoil recovery, -150% recoil, -200% spread. Assault rifles (except Jakobs) have -20% crit damage scaling."
   },
-  "notes": "Like other Torgue rifles, shots explode on impact for +80% splash damage that scales with grenade damage bonuses. This bonus is applied after internal calculations, so effects like Anarchy do not boost it, while external modifiers (e.g. Death Mark) do. The reload power-up can rarely chain, stacking the stat boost. Mag size changes from skills/class mods affect both base and buffed mags. The proc happens before reload finishes, so you can cancel reload (melee/swap) to retry until it triggers. An old buff-glitch can still be abused by Gunzerker while dual-wielding.",
+  "notes": "Like other Torgue rifles, its shots explode on impact and gain bonus splash that scales with grenade-damage bonuses. That splash is applied after internal calculations, so effects like Anarchy do not boost it, while outside modifiers such as Death Mark do. The reload power-up can rarely chain and stack the stat boost. Magazine-size changes from skills or class mods affect both the base and buffed versions, and because the proc happens before the reload finishes, you can cancel the reload with melee or weapon swap to retry until it triggers. An old buff glitch can still be abused while Gunzerking.",
   "max": {
     "accuracy": 61.4,
     "damage": 932215,

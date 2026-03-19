@@ -11,7 +11,7 @@
   "name": "Seeker",
   "slug": "seeker",
   "type": "Assault Rifle",
-  "description": "Seraph assault rifle made by Torgue, introduced in the Tiny Tina Dragon Keep add-on. Fires homing gyrojets with strong explosive splash, letting you tag enemies behind cover and reliably hit low to mid range fliers. As a primary weapon it is held back by a very slow rate of fire, closer to a Torgue launcher than a typical rifle, and it cannot land critical hits.",
+  "description": "A Torgue assault rifle that fires homing gyrojets, letting it curve explosive shots into enemies behind cover or tag flying targets that would normally slip past a rifle. The tracking and splash are its real identity, not raw rifle handling, and the slow fire rate makes it feel closer to a miniature launcher than a conventional assault rifle. It cannot score critical hits, but it can make awkward targets much easier to kill.",
   "manufacturers": [
     "Torgue"
   ],
@@ -207,9 +207,9 @@
   ],
   "special": {
     "title": "Oh, yeah, that's fair...",
-    "description": "Fires homing projectiles that deal only splash damage. Assault rifles (except Jakobs) have a -20 percent critical hit damage modifier (scales)."
+    "description": "Fires homing projectiles that deal only splash damage, with no normal critical-hit capability."
   },
-  "notes": "Kills with this weapon do not count as assault rifle kills for challenges. Its damage is not treated as grenade damage. Pairs well with an Anarchy Mechromancer, as the tracking largely ignores accuracy penalties. A Jill of All Trades class mod can further increase its damage output.",
+  "notes": "Kills with it do not count as assault-rifle kills for challenges. Its damage is not treated as grenade damage. It pairs well with an Anarchy Mechromancer because the tracking largely ignores accuracy penalties, and a Jill of All Trades class mod can push the damage even higher.",
   "max": {
     "accuracy": 73.4,
     "damage": 6335896,

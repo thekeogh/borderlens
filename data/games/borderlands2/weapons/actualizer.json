@@ -11,7 +11,7 @@
   "name": "Actualizer",
   "slug": "actualizer",
   "type": "SMG",
-  "description": "The Actualizer is a Seraph Hyperion SMG from Captain Scarlett and Her Pirate's Booty with extremely high damage per shot for its class. On-paper DPS is strong, but slow bullets, less reliable at-range performance, and a lengthy reload make it harder to keep damage up in real fights.",
+  "description": "A Seraph Hyperion SMG with unusually high damage per shot and a larger magazine than most weapons in its class. Its listed DPS looks excellent, but slow projectiles, weaker long-range consistency, and a lengthy reload make that damage harder to sustain in real fights.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -232,9 +232,9 @@
   ],
   "special": {
     "title": "We need to talk about your DPS report.",
-    "description": "Provides a huge damage boost and a larger magazine. In exchange it suffers reduced projectile speed, slower reloads, and poorer overall accuracy. As a Hyperion weapon, accuracy improves the longer you hold the trigger, so the initial spread tightens quickly during continuous fire."
+    "description": "Provides a large damage boost and a bigger magazine. In exchange, it has slower projectiles, longer reloads, and worse overall accuracy. As a Hyperion weapon, its accuracy still tightens during sustained fire."
   },
-  "notes": "A later balance pass increased both base damage and magazine capacity, but also made the reload even longer. As a result, its sustained output often falls behind other leading SMGs despite the impressive burst.",
+  "notes": "A later balance pass increased both base damage and magazine size, but also made the reload even longer. As a result, its sustained output often falls behind other top SMGs despite its impressive burst.",
   "max": {
     "accuracy": 86.7,
     "damage": 1100152,

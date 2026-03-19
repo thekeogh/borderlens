@@ -11,7 +11,7 @@
   "name": "Invader",
   "slug": "invader",
   "type": "Sniper",
-  "description": "Hyperion legendary sniper rifle. Unscoped, it is semi-auto; scoped, it fires a fast 5-round burst like a Dahl. Hyperion reverse recoil tightens accuracy during sustained fire, so later shots in the burst are the most precise. Low damage per shot, but the burst and stabilising recoil give strong DPS on critical hits and help when chaining targets. Ammo-hungry. Elemental versions apply status reliably; shock strips shields, slag suits slag-and-swap.",
+  "description": "A legendary Hyperion sniper rifle that changes behavior when scoped, firing semi-auto from the hip but switching to a fast burst while aiming. Its per-shot damage is low for a sniper, yet the burst fire and tightening Hyperion recoil can produce strong sustained critical damage once you stay on target.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -262,7 +262,7 @@
     "title": "The Executioner has arrived.",
     "description": "Unscoped: semi-auto. Scoped: 5-round burst at greatly increased fire rate. Trait: accuracy improves and recoil drops during sustained fire. Other: reduced damage, larger magazine, faster reload."
   },
-  "notes": "If you fire immediately after scoping, the first burst may not gain the reverse recoil accuracy bonus. Waiting about 2 seconds after scoping avoids this.",
+  "notes": "If you fire immediately after scoping, the first burst may not fully benefit from Hyperion's tightening accuracy. Waiting briefly after scoping avoids that issue.",
   "max": {
     "accuracy": 96.4,
     "damage": 1457496,

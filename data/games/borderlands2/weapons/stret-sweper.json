@@ -10,7 +10,7 @@
   "name": "Stret Sweper",
   "slug": "stret-sweper",
   "type": "Shotgun",
-  "description": "The Stret Sweper is a double-barrel shotgun that boosts pellet count at the expense of accuracy. Each trigger pull consumes two shotgun rounds, so ammo drains fast unless you have regeneration or a larger Shotgun SDU. Compared with other double-barrel models, it is even less accurate but typically comes with a bigger magazine.",
+  "description": "The Stret Sweper is a double-barrel shotgun that trades accuracy for a denser pellet blast and a slightly larger magazine than similar models. It still burns through shells quickly at two per trigger pull, so it works best as a close-range bruiser rather than a weapon for careful ammo management.",
   "manufacturers": [
     "Bandit"
   ],
@@ -20,7 +20,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Dropped at random from any appropriate loot source.",
+  "notes": "Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

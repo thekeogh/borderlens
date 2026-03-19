@@ -10,7 +10,7 @@
   "name": "Longarm",
   "slug": "longarm",
   "type": "Pistol",
-  "description": "Longarm is a Jakobs revolver variant built for accuracy. Like other Jakobs revolvers, it gains +33% critical hit damage, letting it serve as a reliable mid-range alternative to a sniper rifle at lower levels. It performs best against targets with large weak spots, such as Constructors.",
+  "description": "A Jakobs revolver variant built for accuracy and clean mid-range crits. Its added critical-hit damage lets it fill a light sniper role at lower levels, especially against larger targets with easy weak spots such as Constructors.",
   "manufacturers": [
     "Jakobs"
   ],

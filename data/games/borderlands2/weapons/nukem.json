@@ -11,7 +11,7 @@
   "name": "Nukem",
   "slug": "nukem",
   "type": "Launcher",
-  "description": "Nukem is a legendary Torgue rocket launcher from Borderlands 2. It lobs a slow, high-arc rocket that detonates in a huge blast, hitting extremely hard. It only rolls with Explosive and benefits from grenade damage bonuses, making it a strong option for scoring Second Winds. The downside is its short effective range and the high risk of self-damage, so it works best as a close-range panic button or from behind cover. The lob can also be used to arc shots over obstacles.",
+  "description": "A Torgue launcher that lobs a slow, high-arc rocket into an enormous explosion. It only comes in explosive form and benefits from grenade damage bonuses, making it an excellent panic weapon for Second Winds and heavy burst damage. Its range is short and the self-damage risk is severe, but the arc also lets it drop shots over cover when used carefully.",
   "manufacturers": [
     "Torgue"
   ],
@@ -228,9 +228,9 @@
   ],
   "special": {
     "title": "Name Dropper.",
-    "description": "Lobs a rocket in a curved path that erupts into a mushroom-cloud explosion. Unique effect: slower, parabolic rockets with higher damage, longer reloads, and increased ammo consumption."
+    "description": "Lobs a rocket in a curved path that erupts into a mushroom-cloud explosion, trading rocket speed for higher damage, a longer reload, and heavier ammo use."
   },
-  "notes": "A projectile speed (rocket velocity) part greatly extends its range, but makes it harder to drop shots over walls with the arc. Projectile speed boosts such as Maya's Accelerate or Zer0's Vel0city help a lot outside of point-blank fights. Extra projectile speed parts and a Maliwan exhaust further improve long-range usability.",
+  "notes": "A projectile-speed part greatly extends its range, but makes it harder to drop shots over walls using the arc. Extra projectile speed from parts or skills such as Maya's Accelerate and Zer0's Vel0city helps a lot outside point-blank fights, and a Maliwan exhaust improves long-range usability further.",
   "max": {
     "accuracy": 73.3,
     "damage": 51111380,

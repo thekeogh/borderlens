@@ -11,7 +11,7 @@
   "name": "Seraphim",
   "slug": "seraphim",
   "type": "Assault Rifle",
-  "description": "The Seraphim is a DAHL Seraph assault rifle from Captain Scarlett and Her Pirate's Booty. It always fires incendiary, slow-travelling rounds that hit extremely hard. It behaves much like a DAHL E-tech blaster but with tighter projectile spread and better ammo efficiency: one round per shot and three per burst, rather than the blaster's heavier ammo use. It also keeps normal critical hit damage. In return it suffers from sluggish projectile speed, higher recoil and lower stability, and it is more sensitive to parts that hurt accuracy or recoil.",
+  "description": "A Dahl assault rifle that always fires large incendiary projectiles, pairing heavy per-shot damage with much better ammo efficiency than a true blaster. It behaves like a cleaner, more practical take on an E-tech rifle: one round per shot, three per burst while aimed, and normal critical-hit scaling instead of the usual blaster drawbacks. The trade-off is slow projectile speed, extra recoil, and shakier handling if the parts lean the wrong way.",
   "manufacturers": [
     "Dahl"
   ],
@@ -215,9 +215,9 @@
   ],
   "special": {
     "title": "Holy? Holy? Holey!",
-    "description": "Always incendiary and fires large, slow projectiles. Scoped firing switches to a 3-round burst. Red text effect: greatly increased weapon damage and magazine size, but with higher recoil, slower reload and a reduced burst count."
+    "description": "Always incendiary and fires large slow projectiles. While scoped, it switches to a 3-round burst. It also gains a major boost to damage and magazine size, at the cost of higher recoil, slower reloads, and a shorter burst than a typical Dahl rifle."
   },
-  "notes": "Later updates boosted its magazine size and damage by roughly 50%. Its handling was also nudged towards standard DAHL assault rifles, with improved accuracy and more manageable recoil compared to earlier versions.",
+  "notes": "Later updates boosted both its damage and magazine size significantly. Its handling was also moved closer to a standard Dahl assault rifle, with improved accuracy and more manageable recoil than earlier versions.",
   "max": {
     "accuracy": 76.6,
     "damage": 1623914,

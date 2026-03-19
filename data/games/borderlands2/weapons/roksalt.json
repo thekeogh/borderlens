@@ -11,7 +11,7 @@
   "name": "RokSalt",
   "slug": "roksalt",
   "type": "Shotgun",
-  "description": "RokSalt is a rare Bandit shotgun from the Borderlands 2 base game. It is a strong pick for its rarity, often beating same-level Bandit shotguns even at higher rarities. The standout feature is its exceptionally quick reload, the fastest among Bandit shotguns, which keeps downtime low and makes it particularly useful through the early game.",
+  "description": "A Bandit shotgun that stands out less for raw gimmicks than for how smoothly it handles compared with the rest of its manufacturer. Its standout trait is an exceptionally fast reload, which cuts one of the usual Bandit shotgun weaknesses and makes it a strong early-game pick even against nominally rarer alternatives.",
   "manufacturers": [
     "Bandit"
   ],
@@ -261,7 +261,7 @@
   ],
   "special": {
     "title": "Don't retreat. Instead, reload!",
-    "description": "No unique effect. It focuses on boosted reload speed, plus improved accuracy, damage, and fire rate. Red text: Don't retreat. Instead, reload!"
+    "description": "It has no extra gimmick beyond faster reloads and a general boost to accuracy, damage, and fire rate."
   },
   "notes": "",
   "max": {

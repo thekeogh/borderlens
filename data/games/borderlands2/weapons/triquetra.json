@@ -11,7 +11,7 @@
   "name": "Triquetra",
   "slug": "triquetra",
   "type": "Shotgun",
-  "description": "Triquetra is a rare Jakobs shotgun from the Borderlands 2 base game. Its high pellet count and consistent, fixed spread make it a strong pick for Gaige builds that stack Anarchy.",
+  "description": "A Jakobs shotgun with an unusually high pellet count and a fixed spread pattern shaped around its namesake symbol. That dependable pattern makes it especially strong on builds that can tolerate or even exploit lower accuracy, such as Gaige with Anarchy. It is still unmistakably a Jakobs shotgun, just one with a more deliberate shot pattern than usual.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -229,9 +229,9 @@
   ],
   "special": {
     "title": "Good things kill in threes.",
-    "description": "Fires an increased number of pellets with boosted damage. The spread pattern forms a triquetra, matching the emblem on the gun. Jakobs shotguns also grant +30% critical hit damage (pre-add)."
+    "description": "Fires an increased number of pellets with boosted damage. The spread pattern forms a triquetra, matching the emblem on the gun. It also keeps the usual Jakobs shotgun critical-hit bonus."
   },
-  "notes": "",
+  "notes": "Its fixed spread makes it easier to predict than most shotguns, which is a large part of why it works so well with heavy Anarchy stacks.",
   "elements": [
     "None"
   ],

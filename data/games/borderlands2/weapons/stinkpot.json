@@ -11,7 +11,7 @@
   "name": "Stinkpot",
   "slug": "stinkpot",
   "type": "Assault Rifle",
-  "description": "Stinkpot is a rare Jakobs assault rifle from Captain Scarlett and Her Pirate's Booty. It is locked to corrosive and fires rocket-fast grenades. The projectile flies straight, then either detonates on a direct impact or ricochets once if it hits at an angle. It cannot score critical hits. The splash and corrosive effect make it strong against armoured targets, including PWR and BUL Loaders, as the blast bypasses their shields.",
+  "description": "A Jakobs assault rifle locked to corrosive damage, firing straight high-speed grenades instead of normal bullets. Those projectiles explode on impact or ricochet once if they strike at an angle, giving the gun a strange hybrid feel between a rifle and a grenade launcher. It cannot crit, but its splash and corrosive pressure make it especially effective against armored enemies and certain Loaders.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -221,9 +221,9 @@
   ],
   "special": {
     "title": "We're pirates, we don't follow the rules",
-    "description": "Fires high-velocity grenades that travel flat, then either bounce once or explode on contact. Always corrosive with a large splash, and the corrosive effect can spread between nearby enemies. Cannot crit."
+    "description": "Fires high-velocity grenades that travel flat, then either bounce once or explode on contact. It is always corrosive, has a large splash radius, and cannot score critical hits."
   },
-  "notes": "Unusually for Jakobs, Stinkpot comes with an elemental capacitor.",
+  "notes": "Unusually for a Jakobs weapon, it comes with an elemental capacitor.",
   "max": {
     "accuracy": 84.4,
     "damage": 3138502,

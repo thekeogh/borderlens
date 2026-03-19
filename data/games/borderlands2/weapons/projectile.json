@@ -10,7 +10,7 @@
   "name": "Projectile",
   "slug": "projectile",
   "type": "Launcher",
-  "description": "Flavour quote: \"Look out, everybody, things are about to get awesome!\" This entry is currently incomplete.",
+  "description": "A Maliwan launcher entry used for Bandit, Scav, or Tediore-barrel variants rather than a distinct named weapon. In practice it represents a generic launcher roll rather than a special item.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Internal name reserved for Maliwan rocket launchers fitted with a Bandit or Scav barrel, or a Tediore barrel.",
+  "notes": "This is an internal name used for Maliwan launchers fitted with a Bandit or Scav barrel, or with a Tediore barrel.",
   "sources": [
     {
       "name": "World Drop",

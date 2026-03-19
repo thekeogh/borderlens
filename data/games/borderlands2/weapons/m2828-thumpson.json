@@ -11,7 +11,7 @@
   "name": "M2828 Thumpson",
   "slug": "m2828-thumpson",
   "type": "Assault Rifle",
-  "description": "M2828 Thumpson is a Legendary Jakobs assault rifle introduced in the Fight for Sanctuary DLC for Borderlands 2. It hits extremely hard and can roll an unusually large magazine for a Jakobs rifle, but its accuracy is slightly worse than typical Jakobs standards.",
+  "description": "A Jakobs assault rifle built around raw damage and an unusually large magazine for its manufacturer. It hits extremely hard and can keep firing far longer than most Jakobs rifles, though its accuracy is a little worse than the brand's usual standard. The result is a heavy-hitting rifle that leans more into sustained pressure than clean long-range precision.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -205,9 +205,9 @@
   ],
   "special": {
     "title": "Every soldier has two families: those you raise, and those you raise hell with.",
-    "description": "No unique special effect. Jakobs trait: +30 percent critical hit damage. Massive damage boost (around +200 percent), with further emphasis on critical hits and a larger magazine."
+    "description": "It has no extra gimmick beyond a massive damage boost, stronger critical-hit performance, and a much larger magazine than a typical Jakobs rifle."
   },
-  "notes": "Can roll any assault rifle accessory, but the accessory prefix is never shown in the weapon name. Can reach a 93-round magazine with a Bandit grip plus a magazine-size accessory, the largest magazine possible on a Jakobs weapon. Uses a Dahl assault rifle barrel rather than the usual Jakobs legendary barrel.",
+  "notes": "It can roll any assault rifle accessory, but the accessory prefix is never shown in the name. With a Bandit grip and a magazine-size accessory, it can reach a 93-round magazine, the largest possible on a Jakobs weapon. It uses a Dahl assault rifle barrel rather than the usual Jakobs legendary barrel.",
   "elements": [
     "None"
   ],

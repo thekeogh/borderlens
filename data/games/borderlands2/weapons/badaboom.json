@@ -11,7 +11,7 @@
   "name": "Badaboom",
   "slug": "badaboom",
   "type": "Launcher",
-  "description": "Badaboom is a Bandit heavy launcher built for close-range burst damage. It fires a wide fan of rockets, making it unreliable at distance, but devastating up close where multiple explosions can overlap on big targets. The heavy splash damage also helps clear groups and can secure quick Second Winds.",
+  "description": "A Bandit launcher built for overwhelming close-range burst. It fires a six-rocket volley for the cost of a single shot, making it unreliable at distance but devastating up close, where several explosions can overlap on large targets. Its heavy splash also makes it excellent for crowd clearing and fast Second Winds.",
   "manufacturers": [
     "Bandit"
   ],
@@ -247,9 +247,9 @@
   ],
   "special": {
     "title": "Multi-kill.",
-    "description": "Fires a six-rocket volley per shot while only consuming one rocket."
+    "description": "Fires a six-rocket volley for the cost of a single rocket."
   },
-  "notes": "Outside UVHM it most often drops in Explosive or Incendiary, while UVHM can roll any available element. The splash can down you at point-blank range, so be careful. It is a popular choice for rocket jumping and certain movement skips, and some players intentionally self-damage for niche resets or ammo-related tricks.",
+  "notes": "Outside UVHM, it most often drops in explosive or incendiary, while UVHM can roll any available element. The splash can easily down you at point-blank range, so spacing matters. It is also a popular choice for rocket jumping and movement skips, and some players deliberately use the self-damage for niche resets or ammo-related tricks.",
   "max": {
     "accuracy": 42.9,
     "damage": 8522554,

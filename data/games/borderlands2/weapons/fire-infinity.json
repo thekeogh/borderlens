@@ -10,7 +10,7 @@
   "name": "Fire Infinity",
   "slug": "fire-infinity",
   "type": "Pistol",
-  "description": "Fire Infinity is a Fire Drill style variant built on the Infinity platform.",
+  "description": "An internal Infinity-platform test weapon built around fixed incendiary damage and the same endless-fire gimmick as the cut Fire Drill.",
   "manufacturers": [
     "Vladof"
   ],
@@ -21,10 +21,10 @@
     "Incendiary"
   ],
   "special": {
-    "description": "Testing Fire Resistance. Always incendiary. Does not consume ammo and has a fixed magazine size of 1. Fires in a fixed pattern that ignores normal recoil. 100% elemental effect chance. Higher damage. Better accuracy while aiming down sights. Lower fire rate.",
+    "description": "It is always incendiary, never consumes ammo, and fires in a fixed pattern that ignores normal recoil. It also has guaranteed elemental application, higher damage, and better aimed accuracy in exchange for a lower fire rate.",
     "title": "Testing Fire Resistance"
   },
-  "notes": "Uses the same 3D model as the Infinity. Appears to be an internal test version of Fire Drill, using the balance entry \"GD_Anemone_Weapons.Testing_Resist_100.100_Fire\" instead of \"GD_Anemone_Weapons.A_Resist_100.100_Fire\".",
+  "notes": "It uses the same model as the Infinity and appears to be an internal Fire Drill test version, using the balance entry `GD_Anemone_Weapons.Testing_Resist_100.100_Fire` instead of `GD_Anemone_Weapons.A_Resist_100.100_Fire`.",
   "sources": [
     {
       "name": "World Drop",

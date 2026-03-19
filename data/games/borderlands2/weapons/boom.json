@@ -10,7 +10,7 @@
   "name": "Boom",
   "slug": "boom",
   "type": "Launcher",
-  "description": "Boom is a common Torgue rocket launcher geared for early progression. It fires standard rockets that detonate on impact, offering reliable explosive damage. Parts and muzzle options can nudge stats like handling and damage, but it largely plays like a no-frills, direct-fire launcher.",
+  "description": "A straightforward Torgue rocket launcher built for early progression. It fires standard impact-detonating rockets and delivers reliable explosive damage without any unusual gimmicks, so most of its feel comes down to the parts it rolls with.",
   "manufacturers": [
     "Torgue"
   ],

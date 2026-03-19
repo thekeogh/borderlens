@@ -11,7 +11,7 @@
   "name": "Judge",
   "slug": "judge",
   "type": "Pistol",
-  "description": "Judge is a rare Jakobs pistol from Borderlands 2. It is better made than most same-level Jakobs handguns and comes with extra critical hit damage, making it a strong early-game option. It is usually overtaken later by higher-tier pistols.",
+  "description": "A finely tuned Jakobs pistol with stronger critical-hit performance than most weapons in its class, making it an excellent early-game sidearm for precise shots. It also fires faster projectiles than a typical Jakobs handgun, which helps it feel cleaner and more reliable at range. Its advantage fades later on, but it is unusually strong for the point in the game where it appears.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -235,9 +235,9 @@
   ],
   "special": {
     "title": "I am free now.",
-    "description": "Grants bonus critical hit damage: +30% additive crit damage (scales with level) alongside an extra +25% multiplicative crit bonus. Also increases projectile velocity. Jakobs pistols have an additional +50% crit damage bonus. Red text: \"I am free now.\""
+    "description": "Adds both an extra critical-hit bonus and a separate multiplicative crit boost, while also increasing projectile speed. It keeps the usual Jakobs pistol critical-hit bonus on top of that."
   },
-  "notes": "Older versions could show different critical hit bonuses on the item card: +95% while dropped by Oney, then +63% after pickup. This display issue has been corrected.",
+  "notes": "Older versions could show different critical-hit bonuses on the item card, with one value while dropped by Oney and a lower value after pickup. That display issue has since been corrected.",
   "elements": [
     "None"
   ],

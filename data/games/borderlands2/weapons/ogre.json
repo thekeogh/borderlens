@@ -11,7 +11,7 @@
   "name": "Ogre",
   "slug": "ogre",
   "type": "Assault Rifle",
-  "description": "Ogre is a Legendary Torgue assault rifle from Borderlands 2s Tiny Tinas Assault on Dragon Keep. It handles like a Spitter style Torgue rifle, but with a very large magazine and extra effects. It suits builds that stack gun, assault rifle, explosive and grenade bonuses. Characters can offset its slow projectile speed with skills, and it can output heavy explosive damage, especially when paired or dual wielded.",
+  "description": "A Torgue assault rifle that behaves like an upgraded Spitter, pairing a very large magazine with explosive splash, extra-shot potential, and a powerful temporary self-buff. It thrives on builds that stack gun, assault rifle, explosive, and grenade bonuses, and it can snowball into absurd sustained damage once the buff is active. Slow projectile speed is still a weakness, but the sheer volume of explosive fire more than makes up for it in the right setup.",
   "manufacturers": [
     "Torgue"
   ],
@@ -208,9 +208,9 @@
   ],
   "special": {
     "title": "Ogres chew their food.",
-    "description": "Fires explosive rounds that deal grenade type splash damage. 25 percent chance to fire an extra shot. Every 6 seconds, has a 23 percent chance to grant a 6 second buff. The buff remains active after swapping weapons. While buffed: +20 percent damage, +50 percent fire rate, +100 percent reload speed, increases the extra shot chance to 75 percent total, and shots ricochet once after hitting a surface."
+    "description": "Fires explosive rounds with grenade-type splash damage and has a chance to fire an extra shot. Every few seconds, it can trigger a temporary buff that remains active after swapping weapons, greatly increasing damage, fire rate, reload speed, and extra-shot chance while also adding a ricochet."
   },
-  "notes": "Shares its name with an explosive assault rifle from the first Borderlands. It does not appear in Torgue vending machines. Promoting Warlord Slog to King of Orcs does not raise its drop chance. Grenade damage bonuses increase its damage. Switching weapons restarts the timer that checks for its self buff.",
+  "notes": "It shares its name with an explosive assault rifle from the first Borderlands. It does not appear in Torgue vending machines, and promoting Warlord Slog to King of Orcs does not increase its drop chance. Grenade damage bonuses raise its damage, while switching weapons restarts the timer that checks for its self-buff.",
   "max": {
     "accuracy": 55.8,
     "damage": 1730127,

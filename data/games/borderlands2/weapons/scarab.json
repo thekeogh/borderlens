@@ -10,7 +10,7 @@
   "name": "Scarab",
   "slug": "scarab",
   "type": "Assault Rifle",
-  "description": "The Scarab is a high-accuracy assault rifle that performs best against exposed targets, including airborne foes. Its precision comes at the cost of raw damage output, and the reload can feel sluggish in extended fights.",
+  "description": "The Scarab is a precise assault rifle built for exposed targets, including flying enemies that are awkward to track with rougher weapons. Its strong accuracy comes at the cost of raw damage, and the reload can feel slow in longer fights, but it rewards players who value clean hits over spray.",
   "manufacturers": [
     "Jakobs"
   ],

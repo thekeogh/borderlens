@@ -10,7 +10,7 @@
   "name": "Fire Drill",
   "slug": "fire-drill",
   "type": "Pistol",
-  "description": "The Fire Drill is an unused effervescent variant concept tied to the Infinity family, effectively mirroring a fire themed Infinity style weapon.",
+  "description": "An unused effervescent Infinity-family weapon built around incendiary damage and the Infinity's endless-fire identity. It appears to be a cut variant rather than a normally obtainable weapon.",
   "manufacturers": [
     "Vladof"
   ],
@@ -21,10 +21,10 @@
     "Incendiary"
   ],
   "special": {
-    "description": "Always deals incendiary damage. Does not consume ammo and has a fixed magazine size of 1. Fires in a fixed shot pattern that ignores normal recoil. 100 percent status effect chance. Higher damage. Better accuracy while aiming down sights. Reduced fire rate.",
+    "description": "It is always incendiary, never consumes ammo, and fires in a fixed pattern that ignores normal recoil. It also has perfect elemental application, higher damage, and better aimed accuracy in exchange for a slower fire rate.",
     "title": "It gets the job done."
   },
-  "notes": "Uses the Infinity model with the effervescent skin. Originally planned as Lt. Angvar's effervescent drop, but it was cut before release and he drops the Infinity instead.",
+  "notes": "It uses the Infinity model with an effervescent skin. It was originally planned as Lt. Angvar's effervescent drop, but it was cut before release and replaced by the Infinity.",
   "sources": [
     {
       "name": "World Drop",

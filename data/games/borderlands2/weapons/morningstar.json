@@ -11,7 +11,7 @@
   "name": "Morningstar",
   "slug": "morningstar",
   "type": "Sniper",
-  "description": "Morningstar is a rare Hyperion sniper rifle from Borderlands 2. It hits harder than typical Hyperion snipers of its tier and is a strong all-round option at level. Its real draw is a crit-stacking perk: consecutive critical hits briefly boost later critical hit damage, stacking up to three active bonuses at once as each stack expires separately. These stacks are separate from, and can combine with, Critical Ascensi0n. It also delivers voice lines while used.",
+  "description": "A Hyperion sniper rifle with strong base performance and a crit-stacking perk that rewards clean consecutive headshots. Each critical hit briefly boosts later critical damage, with separate stacks overlapping for even higher payoff, and those stacks can combine with Critical Ascensi0n. The talking-weapon personality is memorable, but the real value is how quickly it snowballs once the crit chain starts.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -250,9 +250,9 @@
   ],
   "special": {
     "title": "a Rose by any other name...",
-    "description": "Talkative weapon with unique voice lines. Consecutive critical hits grant a short-lived +20% critical hit damage bonus per stack; stacks expire independently and typically cap at 3 active. Hyperion trait: sustained fire improves accuracy and recoil. Sniper rifles gain increased critical damage (except Jakobs). Red text: a Rose by any other name... (+15% damage)."
+    "description": "It has unique voice lines, and consecutive critical hits grant short-lived critical-hit damage stacks that expire independently. It also keeps Hyperion's improving accuracy during sustained fire."
   },
-  "notes": "If you stow the gun mid-quote, its voice lines can keep playing while other weapons are equipped, letting you hear weapon-swap lines. A reload-cancel trick can pass the crit-stacking behaviour to other guns; repeating it can create multiple independent instances, allowing extremely high crit bonuses. This is cleared by quitting the game. Subtitles may truncate lines. Selling it while equipped can make its voice lines trigger for other weapons until you restart.",
+  "notes": "If you stow the gun mid-quote, its voice lines can continue while other weapons are equipped, letting you hear weapon-swap dialogue. A reload-cancel trick can transfer the crit-stacking behavior to other guns, and repeating it can create multiple independent instances for extremely high crit bonuses. This clears when you quit the game. Subtitles may truncate some lines, and selling it while equipped can make its voice lines trigger for other weapons until you restart.",
   "max": {
     "accuracy": 96.4,
     "damage": 2539211,

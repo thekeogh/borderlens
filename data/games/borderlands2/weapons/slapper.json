@@ -10,7 +10,7 @@
   "name": "Slapper",
   "slug": "slapper",
   "type": "Pistol",
-  "description": "Slappers are pistols built with Torgue barrels, so they tend to hit hard and come with stronger-than-usual overall stats. In exchange, they are often less nimble than other Torgue pistols, typically featuring slower reloads, a lower rate of fire, and heavier recoil.",
+  "description": "Slappers are pistols built with Torgue barrels, trading speed and grace for heavier shots and stronger raw stats. They tend to reload more slowly, fire more slowly, and kick harder than nimbler pistols, but each shot carries more weight in return.",
   "manufacturers": [
     "Torgue"
   ],

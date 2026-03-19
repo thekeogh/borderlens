@@ -10,7 +10,7 @@
   "name": "Spiker",
   "slug": "spiker",
   "type": "Pistol",
-  "description": "Spikers fire slow needle rounds that stick to targets or surfaces, then explode after a short delay. The needle itself deals no impact damage; all damage comes from the detonation. They cannot score critical hits, and the travel time plus fuse can make landing shots awkward. Compared with Darts, Spikers shoot slightly faster and stick instead of ricocheting, but do not home. Versus other same-brand purple pistols, they hit harder per shot but fire much slower and consume double ammo, reducing DPS and ammo efficiency.",
+  "description": "Spikers fire slow needle rounds that stick into targets or surfaces before exploding a moment later. The needle itself does no impact damage, so the whole weapon revolves around delayed detonations rather than direct hits. That makes it awkward to land and impossible to crit with, but it also gives the gun a unique ability to stick damage through shields and around cover in ways a normal pistol cannot.",
   "manufacturers": [
     "Bandit"
   ],
@@ -20,7 +20,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Gaige: Close Enough does not work with Spikers. Maya: Cloud Kill triggers only on detonation. Zer0: Be Like Water does not trigger, even after detonation. Effective against Nomad shields, as the explosion can damage through the shield. Hyperion Spikers can rarely spawn non-elemental due to a parts issue; needles are faint, detonate for explosive damage, and the blast appears purple. This also makes Hyperion E-tech Darts and Spikers more common than other brands.",
+  "notes": "Gaige's Close Enough does not work with Spikers. Maya's Cloud Kill triggers only on detonation, and Zer0's Be Like Water does not trigger even after the blast goes off. They are effective against Nomad shields because the explosion can damage through the shield itself. Hyperion Spikers can rarely spawn non-elemental because of a parts issue; in that case the needles are faint, the blast is explosive, and the explosion appears purple. That same issue also makes Hyperion E-tech Darts and Spikers more common than other brands.",
   "sources": [
     {
       "name": "World Drop",

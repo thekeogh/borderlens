@@ -11,7 +11,7 @@
   "name": "Nirvana",
   "slug": "nirvana",
   "type": "SMG",
-  "description": "Nirvana is an Effervescent Maliwan SMG from the Fight for Sanctuary DLC. It pairs strong per shot damage with very high incendiary output. With its fast fire rate, high ignite chance and heavy burn DPS, it shreds flesh targets through damage over time and can finish tougher foes after only a few hits, even if they retreat into cover. Best at mid range, focus fire to stack burns and let the DoT do the rest.",
+  "description": "A Maliwan SMG built to overwhelm flesh targets with incendiary damage. It pairs strong per-shot output with a fast fire rate, heavy burn damage, and an added splash component, letting it stack ignites quickly and keep killing even after enemies retreat into cover. It is at its best in mid-range fights where you can keep feeding burns into the same target or group.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -191,9 +191,9 @@
   ],
   "special": {
     "title": "Look, life's a bitch. Get over it. Burn something to the ground.",
-    "description": "Shots detonate on impact, creating splash damage. Each explosion adds 50% of weapon damage as splash, and this splash is increased by grenade damage boosts. Always incendiary. Reduced bullet damage and accuracy, with larger magazine plus higher elemental damage and status chance. Includes 50% elemental splash damage."
+    "description": "Always incendiary. Shots detonate on impact and add a splash component that scales with grenade damage bonuses, while the weapon also leans into a larger magazine and stronger elemental performance."
   },
-  "notes": "Krieg synergises well with Nirvana, especially Hellborn skills that reward frequent ignites and self-immolation. Its 50% splash component scales with grenade damage bonuses. It uses the same core gimmick as the Hellfire. The name and red text reference the concept of nirvana and or the band Nirvana.",
+  "notes": "Krieg synergizes especially well with it, particularly in Hellborn builds that reward constant ignites and self-immolation. Its splash component scales with grenade damage bonuses. It shares the same core gimmick as the Hellfire. The name and red text reference either the concept of nirvana, the band Nirvana, or both.",
   "max": {
     "accuracy": 93.1,
     "damage": 613856,

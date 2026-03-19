@@ -10,7 +10,7 @@
   "name": "Wheelgun",
   "slug": "wheelgun",
   "type": "Pistol",
-  "description": "The Wheelgun handles like the standard version, aside from the usual rarity stat boost and its blue Jakobs finish. Barrel effects (excluding accessory bonuses): - Tediore: No stat change. - Maliwan: Slight accuracy increase. - Bandit: Higher damage, lower accuracy. - Dahl: Better accuracy, reduced recoil and faster recoil recovery, but lower damage.",
+  "description": "A blue Jakobs revolver variant that otherwise behaves much like the standard model. Its exact handling shifts noticeably with barrel choice, making it one of those weapons whose feel depends heavily on the parts roll rather than on a dramatic built-in gimmick.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -27,7 +27,7 @@
       ]
     }
   ],
-  "notes": "",
+  "notes": "Barrel effects, excluding accessory bonuses: a Tediore barrel makes no meaningful stat change; a Maliwan barrel gives a small accuracy boost; a Bandit barrel increases damage at the cost of accuracy; and a Dahl barrel improves accuracy, lowers recoil, and speeds recoil recovery, but reduces damage.",
   "elements": [
     "None"
   ]

@@ -10,7 +10,7 @@
   "name": "Hed Shoter!",
   "slug": "hed-shoter",
   "type": "Pistol",
-  "description": "Fitting a Hyperion barrel greatly tightens accuracy, cuts recoil and adds a small 8 percent critical hit bonus. In return, it loses some raw damage and has a noticeably smaller magazine, which is painful on most Bandit builds. The improved hit rate makes it better at steady damage, especially when you can land headshots. Best used at close to mid range, using cover to manage frequent reloads.",
+  "description": "A Bandit weapon fitted with a Hyperion barrel, greatly tightening accuracy, reducing recoil, and adding a small critical-hit bonus. In exchange, it gives up some raw damage and a noticeable amount of magazine size, so it works best when you can make the extra accuracy count with steady headshots.",
   "manufacturers": [
     "Bandit"
   ],
@@ -21,7 +21,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Only appears at green rarity or above. World drop from any appropriate loot source.",
+  "notes": "It only appears at green rarity or higher and drops from suitable world loot sources.",
   "sources": [
     {
       "name": "World Drop",

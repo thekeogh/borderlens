@@ -10,7 +10,7 @@
   "name": "Rokgun",
   "slug": "rokgun",
   "type": "SMG",
-  "description": "Fitting a Dahl barrel greatly cuts recoil but also worsens accuracy. On the Rokgun this does not come with the usual damage penalty, so it stays hard-hitting. It performs best up close, where you can hold the trigger and dump long bursts, making good use of its large magazine.",
+  "description": "The Rokgun uses a Dahl barrel to cut recoil sharply without paying the usual damage penalty, leaving it much easier to hold on target than most weapons of its type while still hitting hard. Its large magazine and burst-heavy feel make it strongest up close, where you can simply stay on the trigger and overwhelm targets.",
   "manufacturers": [
     "Bandit"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Only appears at green rarity or above. Drops randomly from any appropriate loot source. A comparable Scav weapon in Borderlands: The Pre-Sequel is the Shooter. Tags: Unique, E-tech, Legendary, Seraph, Pearlescent",
+  "notes": "It only appears at green rarity or higher and drops randomly from suitable loot sources. A comparable Scav weapon in Borderlands: The Pre-Sequel is the Shooter.",
   "sources": [
     {
       "name": "World Drop",

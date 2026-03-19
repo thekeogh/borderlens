@@ -11,7 +11,7 @@
   "name": "Bane",
   "slug": "bane",
   "type": "SMG",
-  "description": "Bane is a unique SMG with standout damage, built around a harsh drawback. Holding it drastically cuts your movement speed and it constantly blares loud spoken lines. It works best when you can stay in cover, fight slow enemies, shoot from a vehicle seat, or use it as a high-power emergency option to secure Second Wind.",
+  "description": "A unique Hyperion SMG with unusually high damage and a larger magazine than usual, balanced by one of the game's harshest drawbacks. While equipped, it severely cuts your movement speed and constantly blares voice lines, so it works best from cover, against slow targets, from a vehicle seat, or as a heavy-hitting emergency weapon for securing Second Wind.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -230,9 +230,9 @@
   ],
   "special": {
     "title": "in Spain, stays mainly on the plain.",
-    "description": "Big boosts to damage and magazine size, offset by a severe movement speed penalty. While equipped it uses a persistent voice module that continuously shouts lines."
+    "description": "Greatly boosts damage and magazine size, but inflicts a severe movement-speed penalty. While equipped, it also uses a persistent voice module that continuously shouts lines."
   },
-  "notes": "Its chatter may still be audible even with low game volume. Aim and turn speed are not reduced like movement. A bug can cause its voice lines to carry over to other guns after swapping; changing areas, getting into a vehicle, or restarting the session usually fixes it. Bane always rolls with an elemental capacitor.",
+  "notes": "Its chatter may still be audible even at low game volume. Aim and turn speed are not reduced along with movement. A bug can cause its voice lines to carry over to other guns after swapping; changing areas, entering a vehicle, or restarting the session usually fixes it. It always rolls with an elemental capacitor.",
   "max": {
     "accuracy": 85.7,
     "damage": 976703,

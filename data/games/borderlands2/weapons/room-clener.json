@@ -10,7 +10,7 @@
   "name": "Room Clener",
   "slug": "room-clener",
   "type": "Shotgun",
-  "description": "The Room Clener is a hard-hitting close-quarters shotgun. Its spread is wildly inconsistent, but the heavy pellet count means some pellets usually connect, and at point-blank range it can drop most standard foes in one or two blasts. Treat it as a burst tool or an execution weapon rather than a mainstay: recoil is severe, follow-up shots are awkward, and long reloads plus sustained firing can drain ammo quickly. Most versions manage at least four shots per magazine.",
+  "description": "The Room Clener is a hard-hitting close-quarters shotgun built around overwhelming pellet volume rather than consistency. Its spread is wildly erratic, but at point-blank range enough pellets usually connect to drop ordinary enemies in one or two blasts. It works best as a burst tool or execution weapon, since the recoil, awkward follow-up shots, and long reload make sustained use clumsy and expensive.",
   "manufacturers": [
     "Bandit"
   ],
@@ -21,7 +21,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Drops randomly from appropriate loot sources. Uses the bandit barrel, so it only appears at green rarity or higher. Borderlands: The Pre-Sequel equivalent Scav shotgun is the Firehose. Its name is a misspelling of Room Cleaner. Without an accessory or elemental capacitor, it can spawn with the prefix Threpul Bareld (misspelt Triple Barrelled). Can roll such low accuracy that the stat display becomes negative.",
+  "notes": "Random world drop from suitable loot sources. It uses the Bandit barrel, so it only appears at green rarity or higher. Its closest Scav counterpart in Borderlands: The Pre-Sequel is the Firehose. The name is a misspelling of Room Cleaner. Without an accessory or elemental capacitor, it can spawn with the prefix Threpul Bareld, itself a misspelling of Triple Barrelled. Its accuracy can roll so low that the displayed stat becomes negative.",
   "sources": [
     {
       "name": "World Drop",

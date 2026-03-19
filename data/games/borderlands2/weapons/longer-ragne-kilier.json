@@ -10,7 +10,7 @@
   "name": "Longer ragne kilier",
   "slug": "longer-ragne-kilier",
   "type": "Shotgun",
-  "description": "The Longer ragne kilier (LRK) is a Bandit shotgun that can roll very high damage and fire rate. With a Hyperion barrel it gains much tighter pellet spread, making it unusually effective at mid-range for a Bandit shotgun. The barrel lowers listed damage, but the narrower cone helps more pellets hit. It is poor for panic firing: no multi-barrel burst and the spread is too tight for spray-and-pray. Best used up close with deliberate aim, especially for critical hits. It usually has around two fewer rounds than most Bandit shotguns, and its long reload can punish prolonged fights.",
+  "description": "The Longer ragne kilier is a Bandit shotgun that can roll very high damage and fire rate, especially when paired with a Hyperion barrel that tightens the spread dramatically. That narrower pattern gives it much better mid-range performance than most Bandit shotguns and makes deliberate critical hits far more practical. It is a poor panic-fire weapon, though, and its slightly smaller magazine and long reload punish sloppy use.",
   "manufacturers": [
     "Bandit"
   ],
@@ -21,7 +21,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Random world drop. Name is a misspelt play on \"Longer Range Killer\". Without an accessory or elemental capacitor it uses the prefix \"Huntining\". Closest Scav analogue in Borderlands: The Pre-Sequel is the Straight-Shooter.",
+  "notes": "Random world drop. The name is a misspelled play on \"Longer Range Killer.\" Without an accessory or elemental capacitor, it uses the prefix \"Huntining.\" Its closest Scav-style counterpart in Borderlands: The Pre-Sequel is the Straight-Shooter.",
   "sources": [
     {
       "name": "World Drop",

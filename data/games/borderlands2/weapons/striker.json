@@ -11,7 +11,7 @@
   "name": "Striker",
   "slug": "striker",
   "type": "Shotgun",
-  "description": "Legendary Jakobs shotgun. Semi-auto with a small magazine, high accuracy and strong crit damage, but heavy recoil can walk shots off target. Very tight pellet cluster that drifts together, making it less forgiving than wider-spread shotguns. Lower pellet count means many other shotguns can beat it up close, even some lower-rarity Jakobs.",
+  "description": "A Jakobs shotgun built more like a precision cannon than a broad close-range sweeper. Its tight pellet cluster, strong critical-hit performance, and high accuracy let it reach farther and hit weak points more reliably than most shotguns, but the heavy recoil and lower pellet count make it less forgiving up close than wider-spread alternatives. It rewards deliberate placement over raw pellet saturation.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -226,9 +226,9 @@
   ],
   "special": {
     "title": "Fandir? Thirteen.",
-    "description": "Adds extra critical hit damage (scales) on top of Jakobs shotgun crit. Extremely accurate with increased ADS zoom and a tiny spread, but notably higher recoil and slightly reduced base damage."
+    "description": "Adds extra critical-hit damage on top of the usual Jakobs shotgun bonus. It also has an unusually tiny spread and higher zoom, trading some base damage and much higher recoil for that precision."
   },
-  "notes": "Zer0 gains little over a same-level purple Scattergun, but the precision helps land pellets on weak points. Salvador: reliable ranged damage even when firing from the hip. Gaige: strong with Anarchy; mag size can hit 1 for easy stacking, accuracy offsets penalties, and it can proc frequent novas with Shock and AAAGGGGHHH!. Axton: likes recoil control (eg Metal Storm, Steady). Jakobs grip can reach 4 rounds, handy for crystalisks. High crit suits Nisha's Showdown; some Luneshine rolls can push crit further.",
+  "notes": "Zer0 gains less from it than you might expect compared with a same-level purple Scattergun, but the precision still helps land pellets on weak points. Salvador gets reliable ranged damage even from the hip, and Gaige can use it well with Anarchy because the accuracy offsets some of the penalties and the magazine can shrink to 1 for easy stacking. Axton benefits from recoil control, and a Jakobs grip can raise the magazine to 4 rounds. Its high crit profile also suits Nisha's Showdown in The Pre-Sequel.",
   "elements": [
     "None"
   ],

@@ -11,7 +11,7 @@
   "name": "Bad Touch",
   "slug": "bad-touch",
   "type": "SMG",
-  "description": "Bad Touch is an Epic Maliwan SMG from the base game. It always spawns with Corrosive damage and is geared towards steady, sustained pressure against armoured targets. Strong base damage and elemental output make it a solid pick for builds that boost SMG and elemental damage.",
+  "description": "An epic Maliwan SMG locked to corrosive damage, built for steady pressure against armored targets. Its strong base damage and elemental output make it a reliable choice for builds that lean into SMG damage, elemental damage, or both, and it also provides life steal while held.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -201,9 +201,9 @@
   ],
   "special": {
     "title": "When I'm good, I'm very good...",
-    "description": "Always Corrosive. Increased critical-hit damage. While held, it grants 2% life steal from all damage you deal."
+    "description": "Always corrosive and gains increased critical-hit damage. While held, it grants 2% life steal from all damage you deal."
   },
-  "notes": "The healing effect can also proc from self-inflicted damage, including environmental sources. Getting extra, level-appropriate copies is typically limited in solo play, but co-op can still be used to pick up additional scaled versions.",
+  "notes": "The healing effect can also trigger from self-inflicted damage, including environmental sources. Getting extra level-appropriate copies is usually limited in solo play, but co-op can still be used to pick up additional scaled versions.",
   "max": {
     "accuracy": 93.8,
     "damage": 583333,

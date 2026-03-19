@@ -10,7 +10,7 @@
   "name": "Umbrage",
   "slug": "umbrage",
   "type": "Pistol",
-  "description": "Fitted with a Vladof pistol barrel, the Umbrage fires at double the usual rate and comes with a larger magazine, but suffers reduced accuracy. Its shots also deal 80% extra splash damage, and this splash portion is increased by grenade damage bonuses.",
+  "description": "A pistol variant fitted with a Vladof barrel, trading cleaner handling for a much faster fire rate and a larger magazine. Its shots also carry a large splash component, giving it more explosive punch than the weapon's straightforward appearance suggests. The loss in accuracy is noticeable, but the added splash makes it much more dangerous at close range.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Drops randomly from any appropriate loot source.",
+  "notes": "Its splash damage is equal to 80% of the shot's weapon damage and is increased by grenade-damage bonuses. Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

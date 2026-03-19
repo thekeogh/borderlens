@@ -11,7 +11,7 @@
   "name": "Twister",
   "slug": "twister",
   "type": "Shotgun",
-  "description": "Twister is a rare Jakobs shotgun. It is always Shock, making it ideal for stripping shields. It fires like a close-range shotgun, but the projectiles spiral into a short, tornado-like column, helping more pellets land on large targets. It is very ammo-hungry, consuming 4 shells per shot despite the item card.",
+  "description": "A Jakobs shotgun that always deals shock damage and fires its projectiles in a tight, twisting column instead of a normal spread. That tornado-like pattern helps multiple pellets connect on large targets, while each pellet also creates its own splash hit, giving the weapon far more bite than a standard shield-stripper. It is extremely ammo-hungry, but the combination of shock damage, unusual pellet behavior, and splash interactions makes it one of the strangest and most rewarding shotguns in the game.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -233,9 +233,9 @@
   ],
   "special": {
     "title": "Putting trouble on the run.",
-    "description": "Always Shock. Fires multiple orbs that rapidly converge into a short tornado. Pellets explode on impact, dealing splash equal to 40% of weapon damage per pellet; this splash is treated as grenade damage and scales with grenade damage bonuses. Putting trouble on the run."
+    "description": "Always shock. Fires multiple orbs that rapidly converge into a short tornado. Each pellet explodes on impact, dealing splash equal to 40% of weapon damage. That splash is treated as grenade damage and scales with grenade-damage bonuses."
   },
-  "notes": "A Jakobs shotgun with an elemental capacitor, unusual for the brand. The spiral path can let Zer0 score multiple hits with B0re. Each pellet also creates its own splash hit worth 40% of weapon damage. This splash counts as grenade damage, can trigger Blood Bath, and benefits from grenade damage bonuses. Strong on Gaige: the pattern can proc The Nth Degree repeatedly, then chain via Close Enough; aiming at the ground or a second target can increase procs.",
+  "notes": "Its spiral path can let Zer0 score multiple hits with B0re. Each pellet creates its own splash hit worth 40% of weapon damage. This splash counts as grenade damage, can trigger Blood Bath, and benefits from grenade-damage bonuses. It is also very strong on Gaige, since the pattern can trigger The Nth Degree repeatedly and then chain through Close Enough. Aiming at the ground or a second target can increase those procs.",
   "max": {
     "accuracy": 90.2,
     "damage": 1464156,

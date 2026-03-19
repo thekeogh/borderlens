@@ -10,7 +10,7 @@
   "name": "Apparatus",
   "slug": "apparatus",
   "type": "Pistol",
-  "description": "The Apparatus is a Hyperion repeater pistol. It uses Hyperion recoil compensation: accuracy starts poor, then improves as you keep firing. Barrel selection makes a big difference, ranging from Maliwan-style parts that favour elemental output and steadier aim to Bandit-style parts that hit harder but are less controllable.",
+  "description": "A Hyperion repeater pistol that follows the usual Hyperion pattern: it starts off less accurate, then tightens up the longer you keep firing. Barrel choice shifts its role noticeably, ranging from Maliwan setups that lean into elemental output to Bandit variants that hit harder but feel less controlled.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "None"
   ],
-  "notes": "In The Pre-Sequel, legacy-style versions typically lose accuracy and fire rate in exchange for higher damage. In Borderlands 2, it is usually found as a standard world drop.",
+  "notes": "Legacy-style versions in The Pre-Sequel usually trade accuracy and fire rate for higher damage. Here, it is most commonly found as a standard world drop.",
   "sources": [
     {
       "name": "World Drop",

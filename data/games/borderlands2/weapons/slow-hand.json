@@ -11,7 +11,7 @@
   "name": "Slow Hand",
   "slug": "slow-hand",
   "type": "Shotgun",
-  "description": "Slow Hand is a Hyperion E-Tech shotgun from the Campaign of Carnage DLC. It consumes 2 ammo per shot and launches a slow elemental glob that does not drop with gravity. Strong splash damage and very high status chance make it excellent for Moxxi-style healing against clustered targets, but the splash can also harm you at close range. Its lifesteal applies to all damage you deal while it is equipped, including melee and grenades, not just the gun's own hits.",
+  "description": "A Hyperion E-tech shotgun that fires a slow elemental glob and heals you through a Moxxi life-steal effect while it is held. Its strong splash damage and very high status chance make it excellent for healing through clustered enemies, but that same splash is dangerous if you fire too close. Because the life steal applies to all damage dealt while it is equipped, it is valuable well beyond its direct gun damage.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -234,9 +234,9 @@
   ],
   "special": {
     "title": "Take your time, Sugar...",
-    "description": "Fires a slow, gravity-free elemental orb that deals splash damage and has a very high chance to inflict status effects. While held, you gain 3.5% lifesteal from all damage you deal. Hyperion: sustained fire improves accuracy and reduces recoil."
+    "description": "Fires a slow gravity-free elemental orb with strong splash damage and a very high chance to inflict status effects. While held, it grants life steal from all damage you deal, and it keeps Hyperion's improving accuracy during sustained fire."
   },
-  "notes": "As a Moxxi E-Tech weapon, it always spawns with an element. It can roll the Practicable prefix, adding 2 extra projectiles; each projectile benefits from amp shield bonuses. A shock version pairs well with The Transformer to rapidly refill shields, trading off some health due to Moxxi healing mechanics.",
+  "notes": "As a Moxxi E-tech weapon, it always spawns with an element. It can roll the Practicable prefix, adding 2 extra projectiles, and each projectile benefits from amp shield bonuses. A Shock version pairs especially well with the Transformer, rapidly refilling shields while sacrificing some health through the usual Moxxi healing behavior.",
   "max": {
     "accuracy": 83.3,
     "damage": 23808093,

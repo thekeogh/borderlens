@@ -10,7 +10,7 @@
   "name": "Zooka!",
   "slug": "zooka",
   "type": "Launcher",
-  "description": "Fires a three-rocket burst while only consuming one round of launcher ammo. The rockets travel slowly but hit hard, making it more dependable at mid range than single-shot launchers that can whiff. Reload time is notably sluggish.",
+  "description": "A Bandit launcher that fires a three-rocket burst for the cost of a single round. The rockets travel slowly but hit hard, giving it better forgiveness than single-shot launchers when one projectile drifts off target. Its damage efficiency is excellent, though the sluggish reload keeps it from feeling nimble.",
   "manufacturers": [
     "Bandit"
   ],
@@ -27,7 +27,7 @@
     "Slag",
     "Explosive"
   ],
-  "notes": "Drops randomly from any appropriate loot source. Among Bandit-made launchers, it is the slowest for both reload speed and rocket travel speed.",
+  "notes": "Among Bandit launchers, it is the slowest for both reload speed and rocket travel speed. Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

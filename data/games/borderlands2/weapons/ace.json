@@ -10,7 +10,7 @@
   "name": "Ace",
   "slug": "ace",
   "type": "SMG",
-  "description": "Ace is a Tediore SMG fitted with a Hyperion barrel, granting a sizeable critical hit boost. The barrel also tightens accuracy, making the gun more reliable over longer bursts and a solid pick for builds focused on steady, precise fire.",
+  "description": "A Tediore SMG fitted with a Hyperion barrel, giving it stronger critical-hit performance and tighter accuracy than a typical Tediore gun. It works well for builds that prefer steady, controlled fire over raw spray.",
   "manufacturers": [
     "Tediore"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Spawns at green rarity or above and most often comes from general world-drop loot.",
+  "notes": "It spawns at green rarity or higher and is most commonly found as a standard world drop.",
   "sources": [
     {
       "name": "World Drop",

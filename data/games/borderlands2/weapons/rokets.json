@@ -10,7 +10,7 @@
   "name": "Rokets!",
   "slug": "rokets",
   "type": "Assault Rifle",
-  "description": "Rokets! is an assault rifle that launches small rockets, consuming 3 AR rounds per shot. The rockets drift unpredictably at low speed and detonate on contact with enemies or terrain. Each blast deals 100 percent of the weapon's listed gun damage as splash in a small radius, with no extra direct-hit impact damage. Splash, grenade and rocket launcher damage bonuses do not boost this explosion, but general gun damage bonuses do. The Torgue barrel trades fire rate and reload speed for higher damage, more recoil and a larger magazine.",
+  "description": "Rokets! is an assault rifle that fires small contact rockets instead of bullets, spending 3 rifle rounds per shot for splash damage with no separate impact hit. The rockets drift unpredictably and travel slowly, so the weapon is more about flooding space than precision shooting, but every blast can still hit hard when general gun damage boosts are stacked. The Torgue barrel pushes it further toward that heavy, awkward explosive role.",
   "manufacturers": [
     "Bandit"
   ],
@@ -26,7 +26,7 @@
     "Slag",
     "Explosive"
   ],
-  "notes": "Drops randomly from suitable loot sources. Cannot spawn at white rarity. If it rolls without an accessory or elemental capacitor, it uses the prefix Rockit rather than the usual grip-based prefix. Its detonating rockets can be absorbed by Absorb Shields and converted into rocket launcher ammo (not AR ammo). Blue and purple versions have extremely slow reload times. Projectiles count as rockets, so Krieg's Blood Overdrive cannot be triggered, even on direct hits.",
+  "notes": "Random world drop from suitable loot sources. It cannot spawn at white rarity. If it rolls without an accessory or elemental capacitor, it uses the Rockit prefix rather than the usual grip-based prefix. Its detonating rockets can be absorbed by absorb shields and converted into launcher ammo, not rifle ammo. Blue and purple versions have extremely slow reload times. The projectiles count as rockets, so Krieg's Blood Overdrive cannot be triggered, even on direct hits.",
   "sources": [
     {
       "name": "World Drop",

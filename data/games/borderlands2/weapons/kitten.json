@@ -11,7 +11,7 @@
   "name": "Kitten",
   "slug": "kitten",
   "type": "Assault Rifle",
-  "description": "Kitten is a rare Vladof assault rifle from the Campaign of Carnage DLC. It hits hardest up close, but its unusual spread makes it unreliable at distance. Shots quickly drift away from the reticle and the pattern expands then tightens again, so it is better treated like a rapid fire shotgun than a conventional rifle. When comparing versions, favour fire rate and damage over accuracy, as accuracy stats do little to improve its effective performance.",
+  "description": "A Vladof assault rifle that behaves more like a rapid-fire shotgun than a conventional rifle. Each shot fires three projectiles for the cost of one round, always rolls an element, and returns health through its Moxxi life-steal effect, making it a strong close-range sustain weapon. Its smiling spread pattern drifts and reshapes as it travels, so it hits hardest up close and gains far less from accuracy stats than the card suggests.",
   "manufacturers": [
     "Vladof"
   ],
@@ -247,10 +247,10 @@
     }
   ],
   "special": {
-    "description": "Consumes 1 ammo per shot but fires 3 projectiles. The bullet pattern forms a smiling face (two eyes and a grin) and shifts from tight, to wide, then tight again. Moxxi weapon effect: while held, you gain 4% life steal from all damage you deal.",
+    "description": "Consumes 1 ammo per shot but fires 3 projectiles. The spread forms a smiling face and shifts from tight, to wide, then back again as it travels. While held, it grants 4% life steal from all damage you deal.",
     "title": "We're all mad here. I'm mad. You're mad."
   },
-  "notes": "Gaige can exploit Kitten with Close Enough, as its high fire rate and multiple projectiles per ammo help spray ricochets. Anarchy further reduces practical range and can throw rounds far outside the reticle. As a Moxxi weapon it always rolls an element and returns health when you deal damage. Krieg pairs well with it at close range. Hellborn skills can improve elemental synergy and healing, while Bloodlust skills benefit from its ammo efficiency and large magazine.",
+  "notes": "Gaige can exploit it with Close Enough, as the high fire rate and multiple projectiles per shot create a steady stream of ricochets. Anarchy cuts its practical range even further. Krieg also pairs well with it at close range, especially with Hellborn for elemental pressure and healing, while Bloodlust benefits from the weapon's ammo efficiency and large magazine.",
   "max": {
     "accuracy": 7.3,
     "damage": 788576,

@@ -10,7 +10,7 @@
   "name": "Fighter",
   "slug": "fighter",
   "type": "Pistol",
-  "description": "Fighter machine pistols trade fire rate for higher damage and accuracy. This variant comes from the Jakobs barrel. Despite the initial accuracy boost, the Jakobs barrel causes accuracy to degrade faster, so it is not a strong pick for medium to long range compared with other Vladof pistols.",
+  "description": "A Vladof machine pistol fitted with a Jakobs barrel, trading some fire rate for higher damage and better initial accuracy. The drawback is that its accuracy falls off faster during sustained fire, so it is less effective at medium to long range than other Vladof variants.",
   "manufacturers": [
     "Vladof"
   ],
@@ -18,7 +18,7 @@
     "Common",
     "Uncommon"
   ],
-  "notes": "Spawns only at green rarity or higher. Drops randomly from any appropriate loot source.",
+  "notes": "It only spawns at green rarity or higher and drops randomly from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

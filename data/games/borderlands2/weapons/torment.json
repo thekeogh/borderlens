@@ -10,7 +10,7 @@
   "name": "Torment",
   "slug": "torment",
   "type": "Pistol",
-  "description": "Torment is a Maliwan pistol built with a Jakobs long barrel, giving it strong base damage and good accuracy.",
+  "description": "A Maliwan pistol built with a Jakobs long barrel, giving it stronger base damage and better accuracy than most pistols in its class.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Like other pistols using the Jakobs long barrel, Torment cannot spawn below green rarity. It is a world drop and can appear from any appropriate loot source.",
+  "notes": "Like other pistols using the Jakobs long barrel, it cannot spawn below green rarity. Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

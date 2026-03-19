@@ -10,7 +10,7 @@
   "name": "Blaster",
   "slug": "blaster",
   "type": "Assault Rifle",
-  "description": "Blaster weapons are E-tech assault rifles that fire elemental energy bolts at the cost of efficiency, spending two assault rifle rounds per shot. Dahl and Vladof versions handle differently, but both suit close to medium range due to bolt spread and slower projectile speed. They burn through reserves fast and can feel clumsy in Fight For Your Life, although the ricochets can help against certain enemies.",
+  "description": "An E-tech assault rifle that fires elemental energy bolts for the cost of two assault rifle rounds per shot. This weapon class handles differently depending on manufacturer, but generally works best at close to medium range because of its slower projectiles and bolt spread. It burns through ammo quickly and can feel clumsy in Fight For Your Life, though the ricochets can still help in some matchups.",
   "manufacturers": [
     "Dahl"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "With high ranks in Pain is Power, the weakened critical bonus can make critical hits deal less damage than body shots in some setups.",
+  "notes": "With high ranks in Pain is Power, the reduced critical-hit bonus can make headshots deal less damage than body shots in some setups.",
   "sources": [
     {
       "name": "World Drop",

@@ -11,7 +11,7 @@
   "name": "Hail",
   "slug": "hail",
   "type": "Assault Rifle",
-  "description": "Hail is a rare Vladof assault rifle from Borderlands 2. Its shots climb sharply then drop in an arc, trading ease at long range for strong damage and area control. You can lob rounds over cover to hit enemies in groups, while aiming lower helps counter the projectile arc. Scoped fire tightens the spread so you can focus damage on a smaller point.",
+  "description": "A rare Vladof assault rifle with heavily arcing shots that climb and then fall, letting it lob rounds over cover and into groups. It also provides Moxxi life steal while held, which makes it a strong sustain weapon once you learn how to work around the projectile arc.",
   "manufacturers": [
     "Vladof"
   ],
@@ -227,7 +227,7 @@
     "title": "What plaything can you offer me today?",
     "description": "Moxxi weapon: while held, heals you for 3% of all damage you deal. +200% critical hit damage (scaled). Fires arcing bullets that split into two after a set distance. Rounds explode on impact, dealing splash damage equal to 80% of weapon damage; this splash is affected by grenade damage bonuses."
   },
-  "notes": "Projectile speed boosts such as Vel0city or Accelerate change how much you must aim down to land hits, making the rifle feel easier or harder depending on your adjustment. Pairs well with Gaige Close Enough, letting you arc shots over obstacles while staying in cover. Unlisted split projectiles receive full amp damage. Each shot deals splash damage equal to 80% of listed gun damage, and this splash is boosted by grenade damage bonuses. Can roll with Vladof sights, Torgue sights, or no sight.",
+  "notes": "Projectile-speed boosts change how much you need to aim downward to land hits, which can make the rifle feel easier or harder depending on your adjustment. It pairs well with Close Enough, its unlisted split projectiles receive full amp damage, and each shot also deals splash damage that is increased by grenade-damage bonuses. It can roll with Vladof sights, Torgue sights, or no sight at all.",
   "max": {
     "accuracy": 77.3,
     "damage": 831668,

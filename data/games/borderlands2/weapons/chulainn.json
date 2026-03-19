@@ -11,7 +11,7 @@
   "name": "Chulainn",
   "slug": "chulainn",
   "type": "SMG",
-  "description": "Chulainn is a unique Maliwan SMG built for fast elemental pressure. It deals shock damage while also spreading slag, letting you set up and cash in on slag bonuses without switching weapons. The trade-off is that it can slag you while you are holding it, making you take more damage and turning aggressive play into a higher-risk choice, especially in tougher difficulties.",
+  "description": "A unique Maliwan SMG built for fast elemental pressure, dealing shock damage while also spreading slag. That lets it set up and cash in on slag bonuses without swapping weapons, but the trade-off is that it can also slag you while held, making aggressive play far riskier in tougher fights.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -203,7 +203,7 @@
     "title": "Riastrad!",
     "description": "Shoots shock projectiles with extra slag splash damage. While equipped it can apply slag to the user, and the self-slag can linger briefly after swapping away."
   },
-  "notes": "The self-slag visual effect typically shows up after you start firing rather than the moment you equip it. It works best in elemental-focused setups, but you will need to manage the self-slag drawback carefully in high-damage fights. Later updates adjusted Maliwan SMG body part distribution, which reduced how unusual this gun could feel compared with other Maliwan SMGs.",
+  "notes": "The self-slag visual effect usually appears after you start firing rather than the moment you equip it. It works best in elemental-focused setups, but the self-slag drawback needs careful management in high-damage fights. Later updates adjusted Maliwan SMG body-part distribution, which made it feel less unusual compared with other Maliwan SMGs.",
   "max": {
     "accuracy": 76,
     "damage": 532461,

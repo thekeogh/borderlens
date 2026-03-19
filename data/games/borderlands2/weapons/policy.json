@@ -10,7 +10,7 @@
   "name": "Policy",
   "slug": "policy",
   "type": "Sniper",
-  "description": "As a Hyperion sniper rifle, the Policy has a slow fire rate. Its accuracy starts poor, then improves the longer you stay aimed down sights, resetting when you stop aiming. This makes it weak for hip fire and quick-scoping, but very steady and accurate while scoped with minimal recoil. With a Jakobs barrel, it trades some fire rate for increased damage and better accuracy.",
+  "description": "A Hyperion sniper rifle that rewards patience more than snap shooting. Its aim starts loose and tightens the longer you stay scoped, making it weak for hip fire and quick-scoping but very steady and accurate once you settle into a firing lane. The Jakobs barrel pushes it further in that direction by trading some fire rate for better damage and cleaner accuracy.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "In The Pre-Sequel, Policy variants often appear with Hyperion's newer materials and the same prefix set used in Borderlands 2. A related Hyperion sniper, the Outlay, also exists in The Pre-Sequel and uses the older Hyperion style. Drops randomly from any appropriate loot source.",
+  "notes": "In The Pre-Sequel, Policy variants often appear with Hyperion's newer materials and the same prefix set used here. A related Hyperion sniper, the Outlay, also exists there and uses the older Hyperion style. Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

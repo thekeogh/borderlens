@@ -11,7 +11,7 @@
   "name": "Hive",
   "slug": "hive",
   "type": "Launcher",
-  "description": "Hive is a rare Maliwan launcher from Borderlands 2. The main rocket does not deal damage while travelling. When it reaches a surface, or stops in mid-air, it rises and starts releasing homing child rockets that explode on impact. Just before the swarm begins, the parent rocket also bursts for a small splash worth about 25 percent of a child rocket.",
+  "description": "A rare Maliwan launcher whose main rocket does almost nothing on the way out, then rises and releases a swarm of homing child rockets once it stops. That delayed behavior makes it very different from a normal launcher, but extremely effective against groups or large armored targets when you place the parent rocket correctly.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -224,7 +224,7 @@
     "title": "Full of bees.",
     "description": "Always corrosive. The fired rocket sticks to the first object hit; if it hits nothing it halts mid-air, slowly rises, then spins while firing 2 homing rockets per second in all directions for 7 seconds. When the effect ends the parent rocket explodes. Child rockets gain full Amp Shield bonus. Uses 4 ammo per shot, with larger magazine, lower fire rate and slower reload."
   },
-  "notes": "Best against groups of armoured targets. Aim at floors or ceilings: the child rockets launch horizontally, so shooting a wall often wastes many rockets as they hit the surface immediately.",
+  "notes": "It works best against groups of armored targets. Aim at floors or ceilings rather than walls, because the child rockets launch horizontally and will often collide immediately if the parent sticks to a vertical surface.",
   "max": {
     "accuracy": 84,
     "damage": 17156826,

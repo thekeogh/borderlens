@@ -11,7 +11,7 @@
   "name": "Unicornsplosion",
   "slug": "unicornsplosion",
   "type": "Shotgun",
-  "description": "Unicornsplosion is an Effervescent Torgue shotgun from the Fight for Sanctuary DLC. It fires a slow explosive round, so landing direct hits at range can be awkward, but the impact splits into multiple explosions that still make it effective at distance. Projectile speed boosts (for example Zer0s Vel0city or Mayas Accelerate) help. With careful aim, the split projectiles can also connect immediately for extreme burst damage, especially with a foregrip.",
+  "description": "A Torgue shotgun that fires a miniature Butt Stallion instead of a normal round, then splits the impact into multiple explosive projectiles. The slow shot can be awkward to land at range, but the follow-up blasts keep it dangerous even when the direct hit is imperfect, and at the right spacing it can produce absurd burst damage. It is essentially a more decorative cousin to the SWORDSPLOSION!!!, with the same brutal core behavior under the joke.",
   "manufacturers": [
     "Torgue"
   ],
@@ -176,9 +176,9 @@
   ],
   "special": {
     "title": "A magnificent gift from a dear friend neither forgotten nor forsaken.",
-    "description": "Consumes 2 ammo per shot. Fires a miniature Butt Stallion that detonates on impact for roughly 150 percent gun damage in an area, then splits into 3 diamond projectiles that also explode on impact for about 70 percent grenade damage each. Swapping to the weapon plays a neigh."
+    "description": "Consumes 2 ammo per shot. Fires a miniature Butt Stallion that explodes on impact and then splits into 3 diamond projectiles, which also detonate. Swapping to the weapon plays a neigh."
   },
-  "notes": "It can roll with any shotgun accessory, but no prefix is shown in the name. With a vertical grip, it fires 3 projectiles for the cost of 1, greatly increasing damage. The split projectiles deal about 70 percent of listed damage as splash and scale with grenade damage bonuses; their kills count as grenade kills (including Pull the Pin progress). Absorb shields do not absorb the explosions. Its special effect matches the SWORDSPLOSION!!!. It can only be claimed once per character.",
+  "notes": "It can roll with any shotgun accessory, but no prefix is shown in the name. With a vertical grip, it fires extra projectiles without increasing ammo cost, dramatically boosting damage. The split projectiles deal splash damage that scales with grenade damage bonuses, and kills from them count as grenade kills, including for Pull the Pin. Absorb shields do not absorb the explosions. Its special effect matches the SWORDSPLOSION!!!. It can only be claimed once per character.",
   "max": {
     "accuracy": 71.3,
     "damage": 3586655,

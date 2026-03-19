@@ -10,7 +10,7 @@
   "name": "Bazooka",
   "slug": "bazooka",
   "type": "Launcher",
-  "description": "The Bazooka is a Tediore rocket launcher that hits hard per shot, but its rockets travel slowly and suffer from wide spread, so you will need to lead moving targets. Reloading tosses the gun as an explosive; the blast scales with how much ammo is left in the magazine. It performs best at close to medium range where travel time is less of a drawback.",
+  "description": "A Tediore rocket launcher that hits hard per shot, but fires slow, widely spread rockets that demand a fair amount of lead on moving targets. Its thrown reload is a meaningful part of the weapon, with the explosion scaling from the rounds left in the magazine. It performs best at close to medium range, where travel time is less punishing.",
   "manufacturers": [
     "Tediore"
   ],
@@ -27,7 +27,7 @@
     "Slag",
     "Explosive"
   ],
-  "notes": "A standard world drop from appropriate loot sources.",
+  "notes": "It is a standard world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

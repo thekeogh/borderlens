@@ -11,13 +11,13 @@
   "name": "12 Pounder",
   "slug": "12-pounder",
   "type": "Launcher",
-  "description": "The 12 Pounder is a Rare Torgue rocket launcher that favours point-blank bursts over accurate long-range fire. It hits very hard per trigger pull and reloads quickly, but the magazine is tiny, limiting sustained damage.",
+  "description": "A Torgue rocket launcher built for close-range burst rather than accurate long-range fire. It launches arcing cannonballs that hit very hard per trigger pull and reload quickly, but the tiny magazine keeps its sustained damage in check.",
   "elements": [
     "Explosive"
   ],
   "special": {
     "title": "Nec Pluribus Impar, Bitches.",
-    "description": "Launches arcing cannonballs. They detonate on hitting an enemy, or after one bounce if they strike a second surface. The weapon trades a steep cut to magazine size for increased damage and faster reloads."
+    "description": "Launches arcing cannonballs that detonate on hitting an enemy, or after one bounce if they strike a second surface. In exchange for the tiny magazine, it gains higher damage and faster reload speed."
   },
   "parts": {
     "Grip": [
@@ -198,7 +198,7 @@
       }
     ]
   },
-  "notes": "The usual one-shot magazine can clash with Gaige's Smaller, Lighter, Faster. With the right parts, the mag can increase to 2 or 3 rounds, making those builds far easier to run.",
+  "notes": "Its usual one-shot magazine can clash with Gaige's Smaller, Lighter, Faster. With the right parts, the magazine can increase to two or three rounds, which makes those builds much easier to use.",
   "sources": [
     {
       "name": "Big Sleep",

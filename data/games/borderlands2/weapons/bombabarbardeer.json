@@ -10,7 +10,7 @@
   "name": "Bombabarbardeer",
   "slug": "bombabarbardeer",
   "type": "Launcher",
-  "description": "Bombabarbardeer is a Bandit multi-barrel rocket launcher that consumes 1 ammo to fire a three-rocket spread. It behaves like a shotgun at close to mid range, making it easier to land hits on large targets or groups. The magazine size is generous for its tier, but individual rockets hit lightly and reloads are slow. Damage is strongest when all three rockets connect.",
+  "description": "A Bandit multi-barrel rocket launcher that fires a three-rocket spread for the cost of a single round. It behaves more like an explosive shotgun than a precision launcher, with a generous magazine, light damage per rocket, and slow reloads. It performs best at close to medium range, where all three rockets can land on large targets or clustered enemies.",
   "manufacturers": [
     "Bandit"
   ],
@@ -25,7 +25,7 @@
     "Slag",
     "Explosive"
   ],
-  "notes": "Can appear as a standard world drop from appropriate loot sources.",
+  "notes": "It can appear as a standard world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

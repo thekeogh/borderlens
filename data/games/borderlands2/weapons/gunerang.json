@@ -11,7 +11,7 @@
   "name": "Gunerang",
   "slug": "gunerang",
   "type": "Pistol",
-  "description": "Legendary Tediore pistol. Solid on paper, but its power is the reload: the thrown gun hits much harder than a normal Tediore chuck. Its boomerang return delays the hit and can be awkward to time. Best used with space to read the arc, or indoors to bank around corners, but the wide turn can loop and detonate without connecting.",
+  "description": "A legendary Tediore pistol whose real power comes from its reload throw rather than its basic gunfire. Instead of exploding immediately, the thrown weapon loops back like a boomerang and can hit much harder than a normal Tediore chuck, though the delayed return makes it awkward to time in open space.",
   "manufacturers": [
     "Tediore"
   ],
@@ -272,7 +272,7 @@
     "title": "Give it a burl.",
     "description": "Reload throws the gun forward; it ricochets off enemies and surfaces for about 1.5 seconds without exploding. It then reverses, slows, and returns, homing onto the nearest enemy in its path. It explodes on contact during the return or after about 3.5 seconds. Reload explosion damage (grenade): card damage x unused ammo x 1.5. Red text: Give it a burl. (+100% weapon damage.)"
   },
-  "notes": "Detonates once it has travelled back as far as it flew out; if you stand still and it hits nothing, it can explode on you. Move or use cover. At max range it randomly hooks left or right before returning. Only seeks targets on the way back, limiting effective range. Often clips an enemy then explodes beside them rather than on impact. Can lock onto destructibles and even airborne rockets. Always spawns with the fixed sight. Great for the High-Flying Hurler achievement/trophy on flying targets.",
+  "notes": "It detonates once it has traveled back as far as it flew out, so if you stand still and it hits nothing, it can explode on you. At maximum range it hooks left or right before returning, and it only seeks targets on the way back, which limits its effective range. It can also lock onto destructible objects and even airborne rockets. It always spawns with a fixed sight and is excellent for the High-Flying Hurler challenge on flying targets.",
   "max": {
     "accuracy": 90.1,
     "damage": 1485861,

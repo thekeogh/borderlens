@@ -11,7 +11,7 @@
   "name": "Carnage",
   "slug": "carnage",
   "type": "Shotgun",
-  "description": "Carnage is a Pearlescent Torgue shotgun that launches rocket-like explosive rounds. Compared with similar explosive shotguns, its shots travel faster and hit with a wider blast, making it great for burst damage and controlling space. The downside is safety up close, as the large splash can easily cause self-damage.",
+  "description": "A pearlescent Torgue shotgun that launches fast, rocket-like explosive rounds instead of a wide pellet spread. Its shots travel faster and hit with a broader blast than most explosive shotguns, making it excellent for burst damage and area control, but also very dangerous to use at point-blank range.",
   "manufacturers": [
     "Torgue"
   ],
@@ -214,7 +214,7 @@
     "title": "huh. It shoots rockets.",
     "description": "Shoots fast explosive rockets with a generous blast radius and fewer projectiles than a normal shotgun, favouring direct explosive hits over wide pellet spread."
   },
-  "notes": "Most of its output comes from splash rather than typical pellet crit behaviour. Some skills that rely on bullets or pellets may not apply as expected, while effects that boost or trigger from explosions can shine. The Casual prefix adds extra rockets for more ammo per shot. Absorb shields can turn incoming shots into rocket ammo.",
+  "notes": "Most of its damage comes from splash rather than normal pellet critical behavior. Some skills that rely on bullets or pellets may not apply as expected, while effects that boost or trigger from explosions can perform very well. The Casual prefix adds extra rockets at a higher ammo cost, and absorb shields can convert incoming shots into rocket ammo.",
   "max": {
     "accuracy": 57.3,
     "damage": 6314830,

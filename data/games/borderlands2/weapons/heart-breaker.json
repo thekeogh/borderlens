@@ -11,7 +11,7 @@
   "name": "Heart Breaker",
   "slug": "heart-breaker",
   "type": "Shotgun",
-  "description": "Hyperion rare shotgun. Fires 10 pellets for 1 ammo (12 with Practicable plus foregrip), giving strong damage per shot. Pellets form a fixed heart pattern and the gun has an innate critical hit damage bonus, letting it compete above its rarity. Always incendiary: excellent versus flesh, weaker into shields and armour. As a Miss Moxxi weapon it returns a portion of damage as health, suiting close-range play. Hyperion recoil settles with sustained fire, but the heart pattern does not tighten.",
+  "description": "A rare Hyperion shotgun locked to incendiary damage, firing in a fixed heart-shaped pattern. It combines strong pellet count, an innate critical-hit bonus, and Moxxi life steal while held, which lets it perform well above its rarity in close-range fights against flesh targets.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -185,7 +185,7 @@
     "title": "I don't want to set the world on fire...",
     "description": "Always incendiary. Fires in a heart-shaped pattern. Bonuses and traits: - +50% critical hit damage (scales) - Increased pellet count and fire rate - Reduced pellet damage and magazine size - Moxxi: heals for 2% of all damage dealt while equipped - Hyperion: sustained fire reduces recoil; accuracy behaviour does not change the fixed spread pattern Red text: I don't want to set the world on fire..."
   },
-  "notes": "With the Critical prefix it can reach +100% critical hit damage, as the accessory stacks with the innate bonus. Cannot spawn with a sight. Limited-time SHiFT distributions (Valentines Day 2013; reissued 2014 and 2020) granted a level-matched copy to the first character loaded after redemption. A level 30 Krieg starts with a free Heart Breaker.",
+  "notes": "With the Critical prefix, its critical-hit bonus can become even larger because the accessory stacks with the built-in bonus. It cannot spawn with a sight. Limited-time SHiFT distributions granted level-matched copies during several Valentine's events, and a level 30 Krieg starts with one by default.",
   "max": {
     "accuracy": 63.6,
     "damage": 456053,

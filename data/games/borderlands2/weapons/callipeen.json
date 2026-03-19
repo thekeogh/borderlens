@@ -10,8 +10,8 @@
   "name": "Callipeen",
   "slug": "callipeen",
   "type": "Sniper",
-  "description": "The Callipeen is a Jakobs sniper family built around strong base damage. Weaker variants tend to handle like slow, bolt-action rifles, while higher-quality rolls can fire more quickly with semi-auto style behaviour and a different damage trade-off. Overall it is a flexible, general-purpose sniper line rather than a gimmick weapon.",
-  "notes": "Can drop as a regular world item from appropriate loot sources. A Gearbox-branded version was available via the Premiere Club pre-order bonus. Some scope markings include Cyrillic text referencing killing or assassination.",
+  "description": "A Jakobs sniper family built around strong base damage and a straightforward marksman feel. Lower-quality versions behave more like slow bolt-action rifles, while better rolls can fire more quickly and feel closer to semi-auto snipers. Overall, it is a flexible general-purpose sniper line rather than a gimmick weapon.",
+  "notes": "It can drop as a regular world item from suitable loot sources. A Gearbox-branded version was available through the Premiere Club pre-order bonus. Some scope markings include Cyrillic text that references killing or assassination.",
   "manufacturers": [
     "Jakobs"
   ],

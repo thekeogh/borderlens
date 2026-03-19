@@ -11,7 +11,7 @@
   "name": "Lady Fist",
   "slug": "lady-fist",
   "type": "Pistol",
-  "description": "Lady Fist is a rare Hyperion pistol from the Borderlands 2 base game. It excels at landing critical hits thanks to huge crit damage, very high accuracy, fast fire rate, and Hyperions reverse recoil that tightens during sustained fire, making it effective even without aiming down sights. Its weak base damage means it underperforms if you cannot reliably hit crit spots. Useful as a backup for tougher or higher-level targets and for Fight For Your Life.",
+  "description": "A Hyperion pistol built almost entirely around critical hits. Its enormous crit bonus, high accuracy, fast fire rate, and Hyperion's tightening accuracy during sustained fire make it devastating when you can stay on a weak spot, even without aiming down sights. Its low base damage keeps it from carrying ordinary body shots, so it works best as a precision sidearm for tougher targets and Fight For Your Life.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -260,9 +260,9 @@
   ],
   "special": {
     "title": "Love is a Lady Finger. True love is a Lady Fist.",
-    "description": "Unique effect: +800 percent critical hit damage (scales) and -43 percent gun damage. Hyperion pistol: sustained fire improves accuracy and reduces recoil. Also increases projectile speed and magazine size. Red text: Love is a Lady Finger. True love is a Lady Fist."
+    "description": "Greatly increases critical-hit damage in exchange for lower base gun damage. It also boosts projectile speed and magazine size, while keeping Hyperion's improving accuracy during sustained fire."
   },
-  "notes": "Its reduced base damage and massive crit bonus result in about 5.14x more damage on critical hits than on non-crits. The crit bonus is multiplicative, so it gains relatively little from additional crit boosts (for example, Zer0s Sniping tree bonuses add only a modest increase on top). During Gunzerking, crit bonuses from both guns apply, letting Salvador stack very high crit damage with another crit-boost weapon. The crit bonus can also carry over to slow projectiles if you swap to Lady Fist before impact, and it can affect vehicle primary guns and the Outrunners turret when equipped on entry.",
+  "notes": "Its reduced base damage and massive crit bonus create an enormous gap between critical and non-critical damage. The bonus is multiplicative, so extra crit boosts add less than you might expect on top of it. During Gunzerking, both guns' crit bonuses apply, letting Salvador stack absurd critical-hit damage with another crit-focused weapon. The bonus can also carry over to some slow projectiles if you swap to it before impact, and it can affect vehicle primary weapons and the Outrunner turret if it is equipped when you enter.",
   "max": {
     "accuracy": 97.5,
     "damage": 611385,

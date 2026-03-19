@@ -11,7 +11,7 @@
   "name": "Maggie",
   "slug": "maggie",
   "type": "Pistol",
-  "description": "The Maggie is a Legendary Jakobs pistol from the Borderlands 2 base game. It fires a burst of six pistol rounds for each trigger pull, giving it far higher damage than most Jakobs pistols at the same level. The wide pellet spread makes it strongest at close to mid range. With its fast fire rate and generous pistol ammo reserves, it can comfortably fill a shotgun-like role.",
+  "description": "A Jakobs pistol that behaves like a hand cannon shotgun, firing six rounds per trigger pull for brutal close to mid-range damage. The spread keeps it from feeling like a precision revolver, but the fast fire rate and healthy pistol ammo reserves let it fill a shotgun-like role with much better convenience. It is one of the clearest examples of raw Jakobs stopping power packed into a sidearm.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -219,10 +219,10 @@
     }
   ],
   "special": {
-    "description": "Fires 6 rounds per shot for 1 ammo. Manufacturer: Jakobs. Jakobs pistols gain +50 percent critical hit damage.",
+    "description": "Fires 6 rounds per shot for the cost of 1 ammo, while keeping the usual Jakobs pistol critical-hit bonus.",
     "title": "Monty's wife don't take no guff."
   },
-  "notes": "With the Two Fer accessory, each shot costs 2 ammo and releases 10 projectiles. It functions much like a Masher-style revolver, but with one fewer pellet. Its most common drop source is Mick Zaford, only available if you back the Hodunks at the end of the Clan Wars chain. Choosing this locks you out of fighting Jimbo and Tector Hodunk, who have better odds to drop the Slagga. You can farm both in one run by saving and quitting after grabbing a Maggie drop from Mick, before the mission becomes ready to hand in, so the side choice resets on reload.",
+  "notes": "With the Two Fer accessory, each shot costs 2 ammo and releases 10 projectiles. It functions much like a Masher-style revolver, but with one fewer pellet. Its most common drop source is Mick Zaford, who is only available if you side with the Hodunks at the end of the Clan Wars chain. That choice locks you out of fighting Jimbo and Tector Hodunk, who have better odds of dropping the Slagga. You can still farm both in one run by saving and quitting after getting a Maggie from Mick before the mission becomes ready to turn in, which resets the side choice on reload.",
   "elements": [
     "None"
   ],

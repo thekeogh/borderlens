@@ -11,7 +11,7 @@
   "name": "Omen",
   "slug": "omen",
   "type": "Shotgun",
-  "description": "Omen is a Tediore Seraph shotgun from the Dragon Keep add-on. It fires E-tech orbs in a ring around a central shot. The centre orb stays true while the ring pulses inward and outward as it travels, giving it better reach than most Tediore splatguns. At the right distance the ring converges, letting all pellets land together for peak damage. Reloading throws the gun like a Tediore and it detonates.",
+  "description": "A Tediore shotgun that fires a central orb surrounded by a shifting ring of E-tech projectiles. The outer ring contracts and expands as it travels, giving the weapon much better reach than most Tediore splatguns and letting all of the shots converge at the right distance for enormous damage. It is dangerous up close, though, because the thrown reload and splash can easily catch the user as well.",
   "manufacturers": [
     "Tediore"
   ],
@@ -233,9 +233,9 @@
   ],
   "special": {
     "title": "I'm gonna need you to stand back.",
-    "description": "Fires 9 E-tech orbs: 1 central orb plus 8 in a ring. The ring repeatedly contracts then expands while in flight. On hit, each orb deals 100 percent card damage as bullet impact and also triggers a 100 percent elemental splash explosion (treated as grenade damage). Reload: the weapon is thrown and explodes on contact or after 1.7s. Reload explosion damage scales with unused ammo: card damage x unused ammo x 4.1, multiplied by (0.5 + 0.4 x pellet count, minimum 1.5). Consumes 1 ammo per shot."
+    "description": "Fires 9 E-tech orbs: 1 central shot and 8 in a ring that contracts and expands in flight. On hit, each orb deals impact damage and triggers an equal elemental splash explosion treated as grenade damage. The thrown reload still explodes on contact or after a short delay."
   },
-  "notes": "Low fire rate, so fire rate boosts help sustain DPS. The thrown reload blast is dangerous and can down the user. Cannot roll a vertical grip or the Gentle prefix. Firing straight up distorts the ring pattern, but it still contracts and expands. Each pellet adds 100 percent elemental splash: splash cannot crit, impact can, and grenade damage bonuses boost the splash. Can spawn non-elemental: pellets appear purple and deal non-elemental impact plus explosive splash.",
+  "notes": "Its low fire rate makes fire-rate bonuses especially valuable. The thrown reload blast is dangerous enough to down the user, and it cannot roll a vertical grip or the Gentle prefix. Firing straight up distorts the ring pattern, though it still contracts and expands. Each pellet adds a full elemental splash instance that cannot crit, while the impact hit can, and grenade damage bonuses increase the splash. Non-elemental versions can spawn as well, with purple pellets that deal non-elemental impact and explosive splash.",
   "max": {
     "accuracy": 66.9,
     "damage": 1035491,

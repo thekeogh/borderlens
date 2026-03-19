@@ -11,7 +11,7 @@
   "name": "Dahlminator",
   "slug": "dahlminator",
   "type": "Pistol",
-  "description": "The Dahlminator is a Dahl E-tech dart pistol locked to corrosive. It launches homing darts that can ricochet and detonate after a brief delay, letting you tag targets hiding behind cover. Corrosive damage and the delayed blast make it a strong pick for stripping armour. It can also perform well in stack-focused setups, although heavy accuracy penalties may cause the tracking to miss more often.",
+  "description": "A Dahl E-tech dart pistol locked to corrosive damage, firing homing darts that can ricochet and explode after a short delay. That makes it very good at tagging enemies behind cover and stripping armor, though its heavy accuracy penalties can still make the tracking less reliable than you might expect.",
   "manufacturers": [
     "Dahl"
   ],
@@ -222,7 +222,7 @@
     "title": "Dodge this.",
     "description": "Shoots slow tracking darts that stick to surfaces or enemies, then explode shortly after. Aiming down sights triggers Dahl-style burst fire."
   },
-  "notes": "As an E-tech pistol, it does not score normal critical hits. A later hotfix buffed Dahl pistols, improving stability and magazine size, which also benefits this weapon.",
+  "notes": "As an E-tech pistol, it does not score normal critical hits. A later hotfix buffed Dahl pistols by improving stability and magazine size, which also benefits this weapon.",
   "max": {
     "accuracy": 92.1,
     "damage": 1469104,

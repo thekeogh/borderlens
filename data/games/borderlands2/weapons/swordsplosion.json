@@ -11,7 +11,7 @@
   "name": "SWORDSPLOSION",
   "slug": "swordsplosion",
   "type": "Shotgun",
-  "description": "SWORDSPLOSION!!! is a Torgue E-Tech shotgun from Tiny Tina's Assault on Dragon Keep. It fires slow-moving explosive sword projectiles. Direct hits are easiest up close, but the impact splits into multiple exploding swords, keeping it effective at mid range. Projectile-speed boosts (eg Zer0 Vel0city, Maya Accelerate) make it much easier to land hits. With precise aim, the spawned swords can connect immediately for huge burst damage, especially with the Casual prefix.",
+  "description": "A Torgue E-tech shotgun that fires explosive swords instead of shells, then splits each impact into smaller swordlets for even more splash damage. It is easiest to land at close range, but the follow-up swords let it keep threatening targets farther out than most shotguns can. When the spacing lines up correctly, especially on a Casual roll, its burst damage becomes absurd.",
   "manufacturers": [
     "Torgue"
   ],
@@ -212,9 +212,9 @@
   ],
   "special": {
     "title": "Because Mister Torgue Said So.",
-    "description": "Consumes 2 ammo per shot. Fires 1 explosive sword projectile that detonates on impact, dealing gun damage in an area. On impact it also spawns 3 smaller swords that each explode, dealing 70% damage as grenade-type splash."
+    "description": "Consumes 2 ammo per shot. Fires one explosive sword projectile that detonates on impact and then spawns smaller swords, each of which explodes for grenade-type splash damage."
   },
-  "notes": "Can roll the Casual prefix (vertical grip), adding 2 extra projectiles without increasing ammo cost. Can also roll Juicy (crit bonus), but E-Tech shotguns cannot score critical hits. Spawned swordlets deal 70% of the listed card damage as splash and scale with grenade damage bonuses. Kills from swordlets count as grenade kills and progress Pull the Pin. Absorb Shields do not absorb its projectiles.",
+  "notes": "It can roll the Casual prefix, adding 2 extra projectiles without increasing ammo cost. It can also roll Juicy for crit damage, though E-tech shotguns cannot actually score critical hits. The spawned swordlets deal splash damage that scales with grenade damage bonuses, and kills from them count as grenade kills for effects such as Pull the Pin. Absorb shields do not absorb its projectiles.",
   "max": {
     "accuracy": 71.3,
     "damage": 35866553,

@@ -10,7 +10,7 @@
   "name": "Biggun",
   "slug": "biggun",
   "type": "Pistol",
-  "description": "Biggun is a hard-hitting Tediore pistol with high damage per shot, heavy recoil and only fair accuracy. Its reload is slower than most Tediore pistols, which can feel clunky, but it makes reload throws easier to time and aim. Versions with larger magazines hit particularly hard when used for reload-explosion bursts.",
+  "description": "A hard-hitting Tediore pistol with high damage per shot, heavy recoil, and only fair accuracy. Its slower-than-usual reload can feel clumsy in normal gunplay, but it also makes the thrown reload easier to time and aim. Versions with larger magazines become especially dangerous when used for reload-explosion bursts.",
   "manufacturers": [
     "Tediore"
   ],
@@ -25,7 +25,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Can drop as a world drop from appropriate loot sources.",
+  "notes": "It can drop as a standard world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

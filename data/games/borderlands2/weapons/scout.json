@@ -10,7 +10,7 @@
   "name": "Scout",
   "slug": "scout",
   "type": "Sniper",
-  "description": "The Scout is a Dahl rifle with burst fire while aiming down sights. It typically offers a larger magazine and faster fire rate than most Dahl rifles, letting you stay on target longer before needing to reload.",
+  "description": "The Scout is a Dahl rifle built around sustained aimed bursts, usually pairing a larger magazine with faster fire rate than most rifles from the same manufacturer. That lets it stay on target for longer stretches before reloading and gives it a comfortable, workmanlike rhythm in medium-range fights.",
   "manufacturers": [
     "Dahl"
   ],
@@ -25,7 +25,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "The Scout can drop randomly from any appropriate loot source.",
+  "notes": "Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

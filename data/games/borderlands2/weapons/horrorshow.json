@@ -10,7 +10,7 @@
   "name": "Horrorshow",
   "slug": "horrorshow",
   "type": "Sniper",
-  "description": "The Horrorshow trades the typical Vladof fire rate for higher damage and accuracy than the Droog, with a mid-sized magazine and manageable recoil. It still hits softer than most non-Vladof sniper rifles and usually reloads slowly. Rather than true long-range sniping, it performs best at mid range, sitting between an assault rifle and a conventional sniper.",
+  "description": "A Vladof sniper rifle that gives up some of the maker's usual fire rate for better damage and accuracy. It still feels softer than most non-Vladof snipers, but its manageable recoil and mid-sized magazine make it comfortable at mid range, where it sits somewhere between an assault rifle and a conventional sniper.",
   "manufacturers": [
     "Vladof"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "It can drop randomly from any appropriate loot source.",
+  "notes": "It can drop randomly from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

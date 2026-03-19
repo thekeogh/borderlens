@@ -11,7 +11,7 @@
   "name": "Pyrophobia",
   "slug": "pyrophobia",
   "type": "Launcher",
-  "description": "Pyrophobia is a Legendary rocket launcher made by Maliwan. Its rocket throws out repeated fire blasts as it travels, so it performs best in tight spaces, on catwalks, or when enemies are lined up. Aim slightly above or beside targets to let the travelling bursts clip multiple foes. The extra blasts trigger by time, not distance, so higher projectile speed reduces the number of bursts over a given stretch.",
+  "description": "A Maliwan launcher whose rocket erupts in repeated fire bursts as it travels, turning a single shot into a moving wall of incendiary damage. It is strongest in tight spaces, on catwalks, or anywhere enemies are lined up closely enough for the traveling bursts to clip multiple targets before the final impact. Faster projectile speed shortens that burst chain, so slower rockets often perform better.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -228,9 +228,9 @@
   ],
   "special": {
     "title": "It's actually a fairly rational fear in this case.",
-    "description": "Always incendiary. Fires a rocket that repeatedly detonates in timed fire bursts during flight before the final impact."
+    "description": "Always incendiary. Fires a rocket that repeatedly erupts in timed fire bursts during flight before the final impact."
   },
-  "notes": "Maliwan scope and exhaust parts can hinder the weapon by increasing rocket speed, shortening the burst chain. A Torgue exhaust slows the rocket, producing more mid-air bursts. The fire novas can damage you, most often when you fire while moving forwards and the rocket is slow enough for the bursts to catch you.",
+  "notes": "Maliwan scope and exhaust parts can make it worse by increasing rocket speed and shortening the burst chain. A Torgue exhaust slows the rocket and usually produces more mid-air bursts instead. The traveling fire novas can damage you, most often when you shoot while moving forward and the rocket is slow enough for the bursts to catch up to you.",
   "max": {
     "accuracy": 87.6,
     "damage": 19351304,

@@ -10,7 +10,7 @@
   "name": "Sniper",
   "slug": "sniper",
   "type": "Sniper",
-  "description": "Snipers built with a Maliwan barrel boost elemental damage and fire in three-round bursts. A Dahl barrel instead improves recoil control and also enables burst fire.",
+  "description": "These snipers change role sharply with the barrel. Maliwan versions lean into stronger elemental damage and burst fire, while Dahl versions improve recoil control and keep the burst-focused handling.",
   "manufacturers": [
     "Dahl"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "The Sniper can drop at random from any appropriate loot source.",
+  "notes": "Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

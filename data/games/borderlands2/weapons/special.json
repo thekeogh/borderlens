@@ -10,7 +10,7 @@
   "name": "Special",
   "slug": "special",
   "type": "SMG",
-  "description": "A solid all-round Tediore SMG, but it is rarely the best pick compared with other models from the same maker. It does not offer standout bonuses to damage, accuracy, or reload speed. Its main advantage is steadier handling, with lower recoil thanks to the fitted Dahl muzzle.",
+  "description": "A straightforward Tediore SMG with no standout gimmick, but steadier handling than many of its peers thanks to the fitted Dahl muzzle. It is rarely the best-in-slot choice for damage or reload tricks, yet it remains a dependable all-rounder if you value lower recoil over flashier traits.",
   "manufacturers": [
     "Tediore"
   ],
@@ -25,7 +25,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Spawns only at green rarity or above. Drops randomly from any appropriate loot source.",
+  "notes": "It only appears at green rarity or higher and drops randomly from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

@@ -11,7 +11,7 @@
   "name": "Infinity",
   "slug": "infinity",
   "type": "Pistol",
-  "description": "Legendary Vladof pistol built for attrition. It effectively never needs to reload, so it is a dependable fallback when other guns run dry. Each shot follows a fixed sideways figure-eight. It takes practice, but helps manage climb and can repeatedly land crits on targets that sit within the loop.",
+  "description": "A legendary Vladof pistol built around endless fire, effectively never needing a normal reload as long as you still have pistol ammo in reserve. Each shot follows a fixed sideways figure-eight pattern, which takes practice but can repeatedly pass through crit spots on the right targets.",
   "manufacturers": [
     "Vladof"
   ],
@@ -268,7 +268,7 @@
     "title": "It's closer than you think! (no it isn't)",
     "description": "Fires a fixed sideways figure-eight. Effectively no ammo consumption and no normal reloads, with a fixed magazine of 1. Reduced damage and fire rate. Aiming down sights tightens the pattern but does not remove it."
   },
-  "notes": "Drops in True Vault Hunter Mode and above. Needs at least 1 pistol round in reserves to fire. Fixed mag enables Zer0's 0ne Sh0t 0ne Kill every shot. Strong with Gaige: Cooking Up Trouble sustain, Close Enough ricochets, and safe Anarchy stacking (no accidental reload), but Discord cannot trigger. Dva variant has a 1-in-4 chance to add a second bullet. Can spawn without an accessory; elemental prefixes (or Rapid if non-elemental), no grip prefixes. Every 8th shot is perfectly accurate at the crossover; great on Loaders, weaker on small distant targets. Mag size to 0 makes it unusable; Neutral",
+  "notes": "It only drops in True Vault Hunter Mode and above, and it still needs at least one pistol round in reserve to fire. Its fixed magazine lets 0ne Sh0t 0ne Kill apply to every shot. It is especially strong with Gaige because it supports Close Enough, Cooking Up Trouble, and safe Anarchy stacking without accidental reloads, though Discord cannot trigger from it. Some variants can add an extra bullet, and every eighth shot is perfectly accurate at the center of the pattern. If the magazine is reduced to zero, it becomes unusable.",
   "max": {
     "accuracy": 89.6,
     "damage": 960384,

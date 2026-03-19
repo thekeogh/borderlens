@@ -10,7 +10,7 @@
   "name": "Subcompact MG",
   "slug": "subcompact-mg",
   "type": "SMG",
-  "description": "The Subcompact MG is a solid SMG with a very high rate of fire, a middling magazine and minimal recoil. Its thrown reload does little damage and can miss easily if you try to arc it towards a target. Barrel parts change its behaviour: - Tediore: faster reload/throw, better accuracy, lower damage. - Bandit or Scav: higher damage, worse accuracy. - Maliwan: better accuracy; if elemental, also boosts status chance and the name varies by element.",
+  "description": "The Subcompact MG is a fast-firing Tediore SMG with low recoil and a comfortable magazine, making it easy to hold on target and dump quickly. Its thrown reload is relatively weak, so the gun leans more on direct fire than on Tediore gimmick damage. Barrel parts still shift the feel noticeably, with Tediore versions favoring speed and handling, Bandit or Scav versions pushing damage, and Maliwan versions improving accuracy and elemental output.",
   "manufacturers": [
     "Tediore"
   ],
@@ -25,7 +25,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Drops randomly from any appropriate loot source.",
+  "notes": "Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

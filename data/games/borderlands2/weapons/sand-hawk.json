@@ -11,7 +11,7 @@
   "name": "Sand Hawk",
   "slug": "sand-hawk",
   "type": "SMG",
-  "description": "Rare Dahl SMG. Each trigger pull costs 3 SMG rounds and fires 8 pellets. Pellets stay tightly grouped at first, letting several hits stack at close range, then fan into a wide, bird-like horizontal pattern. Very slow projectiles and weak hip-fire make it feel more like a shotgun. Aiming triggers Dahl burst fire and can melt targets if you line up crit spots.",
+  "description": "A Dahl SMG that fires a wide flock of slow-moving projectiles for each trigger pull, giving it one of the most distinctive firing patterns in the game. The pellets stay tight at first and then fan outward into a bird-like spread, which lets it hit like a shotgun up close while still doing ridiculous damage at the right mid-range spacing. When aimed and lined up properly, it can shred enemies and bosses with absurd efficiency.",
   "manufacturers": [
     "Dahl"
   ],
@@ -236,9 +236,9 @@
   ],
   "special": {
     "title": "In. Not unlike Errol.",
-    "description": "Consumes 3 rounds to fire 8 slow pellets. After a short distance, the spread opens into a horizontal, flapping bird pattern. While aiming: fires a 3-round burst (4 rounds with a Dahl stock)."
+    "description": "Consumes 3 rounds to fire 8 slow pellets. After a short distance, the spread opens into a horizontal bird-like pattern. While aiming, it fires a Dahl burst, with an extra burst shot if it has a Dahl stock."
   },
-  "notes": "Extra pellets are not shown on the card, and each pellet gets full amp bonus. Projectile speed can be boosted by the Flying prefix, Maya's Accelerate, or Zer0's Vel0city. More ammo-efficient per pellet than Lascaux; the fixed spread can help at range on large, slow targets, but lower fire rate hurts sustained DPS. Hidden parts can alter stats; prefix may override others. Dahl stock raises aimed burst from 3 to 4 rounds (24 to 32 pellets). On Gaige, Anarchy has little effect; Close Enough can merge ricochets, reducing output.",
+  "notes": "The extra pellets are not shown on the item card, and each pellet receives full amp damage. Projectile speed can be boosted by the Flying prefix, Maya's Accelerate, or Zer0's Vel0city. It is more ammo-efficient per pellet than the Lascaux, and the fixed spread can help at range against large, slow targets, though the lower fire rate hurts sustained damage somewhat. Hidden parts can alter the stats, and the displayed prefix can override others. A Dahl stock raises the aimed burst from 3 to 4 rounds. On Gaige, Anarchy has relatively little effect, while Close Enough can merge ricochets and actually reduce total output.",
   "max": {
     "accuracy": 89.7,
     "damage": 490581,

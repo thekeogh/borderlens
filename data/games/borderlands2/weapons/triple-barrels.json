@@ -10,7 +10,7 @@
   "name": "Triple Barrels!",
   "slug": "triple-barrels",
   "type": "Shotgun",
-  "description": "Triple Barrels! is a Bandit style shotgun with a triple barrel setup that spends 3 ammo per shot. Expect the usual Bandit trade-offs: slower fire rate and heavier recoil, offset by higher damage and a larger magazine. It can burn through ammunition quickly, so it suits players who can afford the extra ammo cost.",
+  "description": "A Bandit shotgun built around a triple-barrel layout that dumps extra shells with every trigger pull. It follows the usual Bandit formula of heavy recoil and a slower fire rate in exchange for strong damage and a roomy magazine. The extra ammo cost makes it wasteful, but it hits hard enough to justify that appetite.",
   "manufacturers": [
     "Tediore"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Drops randomly from any appropriate loot source.",
+  "notes": "Consumes 3 shells per shot. Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

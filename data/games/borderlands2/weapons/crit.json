@@ -11,7 +11,7 @@
   "name": "Crit",
   "slug": "crit",
   "type": "SMG",
-  "description": "Crit is a Moxxi-made Maliwan SMG geared towards shock damage. It pairs a large critical hit boost with built-in life steal, letting it punch above its listed rarity in elemental-focused setups. Its main drawback is the reload quirk, which can disrupt sustained fights if you do not account for the risk.",
+  "description": "A Moxxi-made Maliwan SMG built around shock damage, life steal, and a large hidden critical-hit boost. It can hit well above what its listed rarity suggests in elemental setups, but its signature drawback is the chance to drop itself on reload, which can disrupt sustained fights if you are not ready for it.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -203,7 +203,7 @@
     "title": "Slippery when wet.",
     "description": "Locked to shock. Provides life steal and a sizeable hidden critical hit bonus, but reloading has a chance to throw the gun to the ground."
   },
-  "notes": "While Gunzerking, certain reload states can cause the off-hand gun to be dropped instead. Quest items that cannot be dropped are unaffected. A later update adjusted how its rarity is flagged, so older copies and some interface markers may not match current classification.",
+  "notes": "While Gunzerking, certain reload states can cause the off-hand gun to be dropped instead. Quest items that cannot be dropped are unaffected. A later update adjusted how its rarity is flagged, so older copies and some interface markers may not match its current classification.",
   "max": {
     "accuracy": 95.6,
     "damage": 702034,

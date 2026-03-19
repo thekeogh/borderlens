@@ -11,7 +11,7 @@
   "name": "Stalker",
   "slug": "stalker",
   "type": "Pistol",
-  "description": "Stalker is a pearlescent Vladof pistol from the Borderlands 2 Ultimate Upgrade Pack. It performs best at close to mid range, acting like a machine pistol or SMG substitute. In tight spaces its slow, bouncing rounds are more likely to connect after ricochets, letting it shred standard enemies quickly. The very high fire rate drains pistol ammo fast and reserves can feel limited. Low projectile speed and shaky accuracy restrict longer-range use, though Zer0s Vel0city and Mayas Accelerate help.",
+  "description": "A Vladof pistol that behaves more like a close-range SMG, firing slow ricocheting rounds at a furious rate. In tight spaces those bouncing shots can fill the room with damage and shred ordinary enemies far more quickly than the card suggests. It is much weaker at longer range, where the slow projectiles and shaky accuracy become harder to hide.",
   "manufacturers": [
     "Vladof"
   ],
@@ -259,10 +259,10 @@
     }
   ],
   "special": {
-    "description": "Fires slow projectiles that ricochet off surfaces up to 5 times. Boosted damage, fire rate, and magazine size, but with reduced accuracy and bullet speed. You can run, but you cant hide.",
+    "description": "Fires slow projectiles that ricochet off surfaces several times. It boosts damage, fire rate, and magazine size, but sacrifices accuracy and bullet speed in return.",
     "title": "You can run, but you can't hide."
   },
-  "notes": "Unlike most first-generation pearlescents, Stalker has no distinctive weapon skin and instead uses the standard purple Vladof pistol appearance.",
+  "notes": "Unlike most first-generation pearlescents, it has no distinctive weapon skin and instead uses the standard purple Vladof pistol appearance.",
   "max": {
     "accuracy": 76.6,
     "damage": 1157089,

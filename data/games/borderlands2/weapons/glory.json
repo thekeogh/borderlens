@@ -10,7 +10,7 @@
   "name": "Glory",
   "slug": "glory",
   "type": "Launcher",
-  "description": "The Glory behaves like other Vladof rocket launchers, stretching its ammo so each trigger pull costs less than one rocket. In practice, every third shot launches a double rocket while only spending a single round. Its barrel setup also improves accuracy and increases rocket velocity, making it easier to land hits on distant or fast moving targets.",
+  "description": "A Vladof rocket launcher that stretches its ammo farther than usual, effectively giving every third shot an extra rocket without extra cost. Its barrel setup also improves accuracy and rocket speed, which makes it easier to land hits on distant or fast-moving targets than many other launchers in its class.",
   "manufacturers": [
     "Vladof"
   ],
@@ -18,7 +18,7 @@
     "Common",
     "Uncommon"
   ],
-  "notes": "The Glory is a random drop from any appropriate loot source.",
+  "notes": "It is a random drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

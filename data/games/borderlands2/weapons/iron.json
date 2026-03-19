@@ -10,7 +10,7 @@
   "name": "Iron",
   "slug": "iron",
   "type": "Pistol",
-  "description": "Jakobs Iron revolvers hit hard and stay accurate, but kick sharply with each shot. Their maximum fire rate is lower than many other Jakobs revolvers, though this rarely limits practical performance.",
+  "description": "A Jakobs revolver family built around hard-hitting, accurate shots and heavy recoil. Its maximum fire rate is lower than that of many other Jakobs revolvers, but in practice it still performs well as a deliberate precision sidearm.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -18,7 +18,7 @@
     "Common",
     "Uncommon"
   ],
-  "notes": "Only appears at green rarity or above. Drops randomly from any appropriate loot source.",
+  "notes": "It only appears at green rarity or higher and drops randomly from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

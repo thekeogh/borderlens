@@ -11,7 +11,7 @@
   "name": "Buffalo",
   "slug": "buffalo",
   "type": "Sniper",
-  "description": "The Buffalo is a Jakobs sniper rifle built for heavy single-shot damage and critical hits. It always uses iron sights instead of a scope, making long-range shots less comfortable but improving awareness in mid-range engagements. As a level-scaled quest reward, it can stay relevant for quite a while as a precise, hard-hitting option.",
+  "description": "A Jakobs sniper rifle built for heavy single-shot damage and critical hits, but locked to iron sights instead of a scope. That makes true long-range sniping less comfortable, yet it feels surprisingly natural at medium range, where its high damage and clean sight picture can still carry it for quite a while.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -156,7 +156,7 @@
     "title": "Bison Bison had had had had had Bison Bison Bison shi shi shi",
     "description": "Always iron sights: it cannot roll a scope or any scope-linked accessories. Trades a small amount of accuracy for a sizeable damage increase."
   },
-  "notes": "While using Decepti0n, the rifle provides a usable aiming reticle despite the lack of a scope, helping you line up high-damage shots. Since it never spawns with a scope, any scope-dependent parts and accessory rolls are unavailable.",
+  "notes": "While using Decepti0n, the rifle still provides a usable aiming reticle despite the lack of a scope, which helps line up high-damage shots. Because it never spawns with a scope, it also cannot roll any scope-dependent parts or accessories.",
   "elements": [
     "None"
   ],

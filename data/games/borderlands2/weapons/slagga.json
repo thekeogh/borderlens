@@ -11,7 +11,7 @@
   "name": "Slagga",
   "slug": "slagga",
   "type": "SMG",
-  "description": "Legendary Bandit SMG. Built to apply slag fast: huge slag chance, big magazine and 3-pellet shots make it ideal for slag-and-swap, keeping targets slagged with minimal downtime. Even with the usual slag damage penalty, it can still mop up weaker enemies. Its usefulness jumps in Ultimate Vault Hunter Mode, where slag is especially potent.",
+  "description": "A Bandit SMG built almost entirely for applying slag as quickly and reliably as possible. Its huge magazine, high slag chance, and three-projectile shots make it perfect for slag-and-swap play, keeping enemies coated with very little downtime. Even with the usual slag damage penalty, it can still clean up weaker targets on its own when needed.",
   "manufacturers": [
     "Bandit"
   ],
@@ -205,9 +205,9 @@
   ],
   "special": {
     "title": "blagaga",
-    "description": "No unique red-text effect. Always slag. Fires 3 projectiles per shot. Greatly increased elemental effect chance, but reduced bullet damage."
+    "description": "Always slag and fires 3 projectiles per shot, with a greatly increased slag chance in exchange for reduced bullet damage."
   },
-  "notes": "Cannot damage enemies that spawn already slag-element. Strong on Gaige: Close Enough can ricochet missed shots into nearby foes, spreading slag. A 11/05/13 hotfix increased its magazine size and damage (along with other Bandit SMGs). Commonly dropped by Jimbo and Tector Hodunk if you side with the Zafords in Clan Wars, locking you out of fighting Mick Zaford for the Maggie. You can farm both in one playthrough: side with Zafords, kill only Jimbo and Tector, check the drop, then save-quit before the mission becomes turn-in ready to reset the choice.",
+  "notes": "It cannot damage enemies that are already flagged as slag-element spawns. It is especially strong on Gaige, since Close Enough can ricochet missed shots into nearby foes and spread slag more widely. A hotfix on May 11, 2013 increased both its damage and magazine size alongside other Bandit SMGs. It is commonly dropped by Jimbo and Tector Hodunk if you side with the Zafords in Clan Wars, which locks you out of fighting Mick Zaford for the Maggie. You can still farm both in one playthrough by siding with the Zafords, killing only Jimbo and Tector, checking the drop, and then saving and quitting before the mission becomes ready to turn in.",
   "max": {
     "accuracy": 67.8,
     "damage": 431219,

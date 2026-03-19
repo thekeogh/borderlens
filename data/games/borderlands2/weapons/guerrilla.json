@@ -10,7 +10,7 @@
   "name": "Guerrilla",
   "slug": "guerrilla",
   "type": "Assault Rifle",
-  "description": "Guerrilla assault rifles trade a slower rate of fire for harder-hitting shots and stronger recoil, due to their Jakobs barrel. Among standard Vladof assault rifles, they have the lowest fire rate.",
+  "description": "A Vladof assault rifle fitted with a Jakobs barrel, trading rate of fire for harder-hitting shots and heavier recoil. Among standard Vladof rifles, it sits at the slow end of the fire-rate spectrum, so it favors controlled aggression over pure spray.",
   "manufacturers": [
     "Vladof"
   ],
@@ -29,7 +29,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "The Guerrilla only appears at green rarity or above. It is a world drop and can come from any appropriate loot source.",
+  "notes": "It only appears at green rarity or higher. It is a world drop and can come from any suitable loot source.",
   "sources": [
     {
       "name": "World Drop",

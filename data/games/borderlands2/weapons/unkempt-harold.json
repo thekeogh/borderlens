@@ -11,7 +11,7 @@
   "name": "Unkempt Harold",
   "slug": "unkempt-harold",
   "type": "Pistol",
-  "description": "Legendary Torgue pistol. Fires a tight burst that splits after a short distance into a wide horizontal 7-shot spread (3-5-7). Once splitting starts, hits can register as if the full spread connected, giving very high burst at close to mid range and reliable damage once the split is out.",
+  "description": "A Torgue pistol that starts as a tight shot and then blossoms into a wide horizontal spread, giving it outrageous burst damage at close to medium range. Once the split begins, multiple projectiles can connect at once, which is why it remains one of the most infamous pistols in the game. It is raw explosive overkill packaged as a sidearm.",
   "manufacturers": [
     "Torgue"
   ],
@@ -236,9 +236,9 @@
   ],
   "special": {
     "title": "Did I fire six shots, or only five? Three? Seven. Whatever.",
-    "description": "Consumes 3 ammo per shot (6 with Double Penetrating). Fires one projectile that rapidly spawns six more, spreading horizontally. All projectiles deal explosive damage and explode on impact. Centre splash uses 100% grenade-damage scaling; spawned projectiles use 70%."
+    "description": "Consumes 3 ammo per shot, or more with Double Penetrating. Fires one projectile that rapidly splits into a horizontal spread of explosive shots. The center splash gets full grenade-damage scaling, while the spawned projectiles use a smaller splash scale."
   },
-  "notes": "Split distance scales with accuracy: higher accuracy delays the split. Double Penetrating fires two parallel bursts, typically one beneath the other (can form an X), and uses 6 ammo per trigger pull. Spawned projectiles are not listed on the item card and each can receive full amp bonus. Centre projectile splash gets 100% grenade-damage scaling; side projectiles get 70%. Projectile speed boosts push the split farther out, hurting point-blank but improving longer-range consistency.",
+  "notes": "Split distance scales with accuracy, so higher accuracy delays the spread. Double Penetrating versions fire two parallel bursts and use 6 ammo per trigger pull. The spawned projectiles are not listed on the item card, and each can receive full amp damage. Projectile speed boosts push the split farther out, hurting point-blank performance but improving longer-range consistency.",
   "max": {
     "accuracy": 80,
     "damage": 2010940,

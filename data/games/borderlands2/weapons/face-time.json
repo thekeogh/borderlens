@@ -10,7 +10,7 @@
   "name": "Face Time",
   "slug": "face-time",
   "type": "Shotgun",
-  "description": "Face Time uses a Jakobs barrel, boosting pellet count but consuming 2 ammo per shot.",
+  "description": "A shotgun variant with a Jakobs barrel, boosting pellet count at the cost of spending two rounds per shot. That gives it stronger single-shot burst than a more typical version, but it pays for it in ammo efficiency.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "In The Pre-Sequel, Face Time variants often spawn with Hyperion new-style materials and prefixes matching those in Borderlands 2. The internal name is \"Bilateral Face Time\"; \"Bilateral\" functions as a prefix and may be replaced. It can drop randomly from any appropriate loot source.",
+  "notes": "In The Pre-Sequel, Face Time variants often spawn with newer Hyperion materials and prefixes that match the Borderlands 2 version. Its internal name is \"Bilateral Face Time,\" with \"Bilateral\" functioning as a replaceable prefix. It can drop randomly from any suitable loot source.",
   "sources": [
     {
       "name": "World Drop",

@@ -11,7 +11,7 @@
   "name": "Bearcat",
   "slug": "bearcat",
   "type": "Assault Rifle",
-  "description": "Bearcat is a pearlescent Dahl assault rifle that launches grenade volleys. Each shot is cheaper than most grenade-style ARs, but sustained fire still drains assault rifle ammo fast. On-paper stats look strong, yet the wide spread makes it unreliable at distance. It shines up close, where overlapping blasts can stack into heavy burst damage.",
+  "description": "A pearlescent Dahl assault rifle that fires three impact-detonating grenade rounds per shot. Each burst is cheaper than most grenade-style rifles, but sustained fire still burns through assault rifle ammo quickly. Its wide spread makes it unreliable at distance, yet it can deal heavy burst damage up close when several blasts overlap.",
   "manufacturers": [
     "Dahl"
   ],
@@ -265,7 +265,7 @@
     "title": "I love the smell of popcorn in the morning.",
     "description": "Shoots three impact-detonating grenade projectiles per trigger pull. Damage is largely splash-based, and magazine size is higher than typical for the archetype."
   },
-  "notes": "Its damage scaling can differ from standard gun or grenade interactions with some skills. General damage boosts and elemental bonuses still apply. Non-elemental versions may benefit from both explosive and non-elemental modifiers. The listed projectiles can take full amp damage, greatly increasing burst output.",
+  "notes": "Its damage scaling can interact with some skills differently from standard gun or grenade damage. General damage boosts and elemental bonuses still apply, and non-elemental versions may benefit from both explosive and non-elemental modifiers. The listed projectiles can also each receive full amp damage, which can raise its burst output sharply.",
   "max": {
     "accuracy": 76.6,
     "damage": 1384516,

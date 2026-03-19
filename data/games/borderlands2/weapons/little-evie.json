@@ -11,7 +11,7 @@
   "name": "Little Evie",
   "slug": "little-evie",
   "type": "Pistol",
-  "description": "Little Evie is a rare Maliwan pistol from Borderlands 2, introduced in the Captain Scarlett and Her Pirate's Booty DLC. It pairs well with Gaige, as her long action skill cooldown and Little Big Trouble skills reward frequent Shock damage and benefit from the weapon's cooldown boosts.",
+  "description": "A Maliwan pistol built around Shock damage, splash, and rapid action-skill recovery. Its shots arc high and burst on impact, and kills with it sharply accelerate cooldowns, making it especially appealing on builds that want their action skill back as often as possible. Gaige benefits particularly well from the combination of Shock damage and cooldown support.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -235,9 +235,9 @@
   ],
   "special": {
     "title": "Shock and awwwww! So cute!",
-    "description": "Fires Shock projectiles in a high arc. Shots explode on impact, dealing 80% of bullet damage as splash in a small radius. On kill: +70% cooldown rate for 6 seconds. On critical kill: +130% cooldown rate for 6 seconds. Always Shock. Increased damage, magazine size, and elemental chance."
+    "description": "Always fires Shock rounds in a high arc, with each shot exploding on impact for added splash damage. Kills greatly increase cooldown rate for a short time, and critical kills boost it even further."
   },
-  "notes": "Rapidly swapping away from the gun and back after emptying the magazine can stack its effect, allowing extremely fast action skill recharge after kills. It once featured as a guaranteed drop from Grendel during a limited-time event, alongside a hotfix that raised its damage and improved its action skill recharge bonus. Its 80% splash bonus is not increased by grenade damage boosts, unlike typical Maliwan splash interactions.",
+  "notes": "Rapidly swapping away from the gun and back after emptying the magazine can stack its cooldown effect, allowing extremely fast action-skill recharge after kills. It once appeared as a guaranteed drop from Grendel during a limited-time event, alongside a hotfix that raised its damage and improved the cooldown bonus. Its splash portion does not gain extra damage from grenade damage boosts.",
   "max": {
     "accuracy": 92,
     "damage": 1328657,

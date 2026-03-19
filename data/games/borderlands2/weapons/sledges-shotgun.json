@@ -11,7 +11,7 @@
   "name": "Sledge's Shotgun",
   "slug": "sledges-shotgun",
   "type": "Shotgun",
-  "description": "Sledge's Shotgun is a legendary Bandit shotgun from the Borderlands 2 base game. It pairs Bandit's large magazine with a Dahl-style two-shot burst. Used at close range where all pellets land, its burst pattern, extra pellets, and high damage allow heavy spike damage. It is not fully automatic. After each burst there is a forced pause, and you must pull the trigger again to continue firing, so the listed fire rate can be misleading. This makes it less suitable for Gunzerkers relying on Keep Firing.",
+  "description": "A Bandit shotgun that combines the brand's oversized magazine with a Dahl-style two-shot burst, giving it unusually high spike damage when both blasts land at close range. It is not fully automatic, though, and the forced pause between bursts means the listed fire rate overstates how quickly it really cycles. That makes it brutal in short-range chunk damage, but less comfortable for builds that want uninterrupted automatic fire.",
   "manufacturers": [
     "Bandit"
   ],
@@ -265,9 +265,9 @@
   ],
   "special": {
     "title": "The legend lives.",
-    "description": "Fires a two-shot burst per trigger pull with a long pause between bursts, and adds +2 projectiles."
+    "description": "Fires a two-shot burst per trigger pull with a long pause between bursts, and adds extra pellets on top of the normal shotgun blast."
   },
-  "notes": "Each trigger pull fires a two-shot burst, and each shot consumes 2 ammo, so every burst uses 4 rounds. Fire rate bonuses also shorten the delay between bursts; even modest boosts (around +20 percent) are noticeable, including from fire rate accessories. It uses a Jakobs double barrel rather than a Bandit barrel. It can roll different accessories, but the prefix is not shown in the name. A 14/10/2013 hotfix increased Bandit shotgun magazine size by 1 and slightly improved reload speed.",
+  "notes": "Each trigger pull fires a two-shot burst, and each shot consumes 2 ammo, so every burst uses 4 shells. Fire-rate bonuses also shorten the delay between bursts, and even modest boosts are noticeable. It uses a Jakobs double barrel rather than a Bandit barrel. It can roll different accessories, but the prefix is not shown in the name. A hotfix on October 14, 2013 increased Bandit shotgun magazine size by 1 and slightly improved reload speed.",
   "max": {
     "accuracy": 14.7,
     "fire_rate": 8,

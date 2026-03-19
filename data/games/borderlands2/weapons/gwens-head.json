@@ -11,7 +11,7 @@
   "name": "Gwen's Head",
   "slug": "gwens-head",
   "type": "Pistol",
-  "description": "Gwen's Head is a rare DAHL pistol. It stands out for its bonus critical damage and a 7-round burst when aiming down sights, letting it land repeated crits quickly thanks to its strong fire rate. Its crit bonus is applied multiplicatively (Jakobs-style) rather than as the usual additive pistol bonus, so it boosts final crit damage more on its own, but can be less impressive if you already stack large crit multipliers from skills, BAR, or gear. Effective for mobbing and for large targets with easy crit spots.",
+  "description": "A rare Dahl pistol built around rapid bursts and unusually strong critical-hit performance. While aiming, it fires a long burst that can land repeated crits quickly, and its critical bonus scales multiplicatively rather than like a typical pistol bonus. That makes it especially effective against large targets or anything with an easy crit spot.",
   "manufacturers": [
     "Dahl"
   ],
@@ -202,7 +202,7 @@
     "title": "Thinking outside the box.",
     "description": "Red text: Thinking outside the box. While aiming down sights, it fires a 7-round burst. Grants bonus critical hit damage with multiplicative scaling, plus higher base damage and magazine size. Always rolls with a Tediore grip."
   },
-  "notes": "Opening the weapon's container triggers an ECHO message from Handsome Jack: \"Aw, what's in the box?!\". The line is tied to opening the container and can still play after completing The Talon of God. The container also holds a woman's skull. A copy can spawn each time you enter The Dust. If left uncollected, leaving and re-entering reshuffles its location; quitting to menu and loading back in spawns a fresh copy, replacing any unclaimed one. Below Ultimate Vault Hunter Mode, its level is set by the host's current story mission level, not The Dust's area level.",
+  "notes": "Opening its container triggers an ECHO line from Handsome Jack. A new copy can spawn each time you enter The Dust, and if one is left behind, leaving and returning reshuffles its location. Below UVHM, its level is set by the host's current story-mission level rather than The Dust's area level.",
   "max": {
     "accuracy": 93.3,
     "damage": 860236,

@@ -11,7 +11,7 @@
   "name": "Shotgun 1340",
   "slug": "shotgun-1340",
   "type": "Shotgun",
-  "description": "Shotgun 1340 is a rare Hyperion shotgun from the Borderlands 2 base game. It is essentially a blue Projectile Diversification shotgun fitted with a unique voice module. The voice feature is cosmetic only and does not change damage or handling.",
+  "description": "A Hyperion shotgun fitted with a unique voice module that gives it personality without changing the underlying gunplay. Mechanically it behaves like a regular Projectile Diversification shotgun, so the real distinction is the talking-gun novelty rather than any special combat effect.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -203,9 +203,9 @@
   ],
   "special": {
     "title": "I like being a gun.",
-    "description": "Talks while equipped. Hyperion: sustained fire boosts accuracy and reduces recoil. Unique voice module: speaks with the voice of Loader 1340. I like being a gun."
+    "description": "Talks while equipped using the voice of Loader 1340. It otherwise keeps the usual Hyperion behavior, improving accuracy and reducing recoil during sustained fire."
   },
-  "notes": "The voice module can trigger on firing, reloading, switching to the weapon, aiming down sights, or scoring a kill. If you stow it during a line trigger (most often a reload), the voice may continue while other weapons are equipped. It can occasionally play multiple voice lines for the same event at once. It cannot spawn with an elemental capacitor, or with Bandit or Tediore sights.",
+  "notes": "The voice module can trigger on firing, reloading, swapping to the weapon, aiming down sights, or getting a kill. If you stow it during a line trigger, most often during a reload, the voice can continue while other weapons are equipped. It can also occasionally play multiple voice lines for the same event at once. It cannot spawn with an elemental capacitor, or with Bandit or Tediore sights.",
   "elements": [
     "None"
   ],

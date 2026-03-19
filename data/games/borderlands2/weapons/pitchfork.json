@@ -11,7 +11,7 @@
   "name": "Pitchfork",
   "slug": "pitchfork",
   "type": "Sniper",
-  "description": "The Pitchfork is a legendary DAHL sniper rifle. It fires five projectiles per trigger pull, so individual shots hit for less than a typical sniper. If most or all pellets connect, it can deliver strong damage for each round spent, but it also drains your sniper ammo pool quickly because it uses 2 ammo per shot. The horizontal spread helps when tracking sideways targets and can land critical hits more reliably. The pattern also suits tall targets such as Loaders and large bosses.",
+  "description": "A Dahl sniper rifle that fires five projectiles in a horizontal line for each shot, turning it into a hybrid between a sniper and a precision shotgun. Individual projectiles hit for less than a normal sniper round, but if most of them connect the weapon can deliver excellent damage for the trigger pull. Its wide horizontal spread is especially effective against sideways-moving enemies, tall targets such as Loaders, and large bosses.",
   "manufacturers": [
     "Dahl"
   ],
@@ -260,9 +260,9 @@
   ],
   "special": {
     "title": "Mainstream'd!",
-    "description": "Fires five shots in a horizontal line and consumes 2 ammo per shot. While aiming down sights: burst fire (4-round burst, or 5-round with a DAHL stock). Reduced damage, with improved accuracy and larger magazine."
+    "description": "Fires five shots in a horizontal line and consumes 2 ammo per trigger pull. While aiming, it switches to Dahl burst fire, trading some per-projectile damage for better accuracy and a larger magazine."
   },
-  "notes": "Because the extra projectiles are not shown on the item card, each projectile can receive the full damage bonus from an amplify shield.",
+  "notes": "Because the extra projectiles are not shown on the item card, each one can receive the full damage bonus from an amp shield.",
   "max": {
     "accuracy": 97.2,
     "damage": 1944239,

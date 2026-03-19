@@ -11,7 +11,7 @@
   "name": "Tinderbox",
   "slug": "tinderbox",
   "type": "Pistol",
-  "description": "The Tinderbox is a rare Bandit pistol from the Borderlands 2 base game. It is often the first unique gun players find and serves as an early introduction to incendiary damage, making it strong against flesh targets. Its locked fire element, slow arcing shots and poor ammo economy limit its all round value. It is most useful early on, particularly during The Road to Sanctuary, but is usually replaced quickly by more dependable weapons.",
+  "description": "A Bandit pistol that often serves as the player's first real introduction to incendiary damage. It is always fire-elemental, launches slow arcing explosive shots, and hits flesh targets much harder than most early guns. Its awkward projectile arc and poor ammo economy keep it from aging well, but as an early-game fire weapon it does its job clearly.",
   "manufacturers": [
     "Bandit"
   ],
@@ -251,9 +251,9 @@
   ],
   "special": {
     "title": "Good for starting fires.",
-    "description": "Fires slow, arcing rounds that explode on contact, dealing splash damage. The blast adds +100% weapon damage as splash, and this portion is boosted by grenade damage. Always incendiary. Lower direct bullet damage and reduced fire rate. Higher elemental effect chance. Uses 2 ammo per shot."
+    "description": "Fires slow arcing rounds that explode on contact for splash damage, and that splash scales with grenade damage bonuses. It is always incendiary, uses 2 ammo per shot, and trades direct bullet damage for stronger elemental pressure."
   },
-  "notes": "While A Train to Catch is active, shooting the snowmans head in the southern Tundra Express (by the vending machines) makes a Tinderbox drop. After you pick it up or finish the mission, it will not spawn there again. This one off drop is a safety net so players are likely to have a fire weapon; Roland notes he stashed it. Appears as a mission weapon in Clan War: Trailer Trashing, but you do not need it to complete the objective. Its splash damage scales with grenade damage bonuses.",
+  "notes": "While A Train to Catch is active, shooting the snowman's head in southern Tundra Express near the vending machines makes a Tinderbox drop. After you pick it up or finish the mission, it will not appear there again. That one-off drop acts as a safety net so players are likely to get a fire weapon early, which Roland explicitly hints at. It also appears as a mission weapon in Clan War: Trailer Trashing, but you do not need it to complete the objective. Its splash damage scales with grenade damage bonuses.",
   "max": {
     "accuracy": 82.4,
     "damage": 651561,

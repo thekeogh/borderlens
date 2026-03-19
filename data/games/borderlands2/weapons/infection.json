@@ -11,7 +11,7 @@
   "name": "Infection",
   "slug": "infection",
   "type": "Pistol",
-  "description": "Infection is a Maliwan Seraph pistol from the Big Game Hunt DLC. Its direct hit damage is poor, but it excels at corrosive damage over time, with top-tier corrosive DPS and strong performance versus armour. It is awkward at range because shots detonate after a short flight, limiting effective distance. Against targets that resist or ignore corrosion, its damage falls off sharply. In higher difficulties, enemy health regeneration can outpace its damage-over-time output.",
+  "description": "A Maliwan Seraph pistol built almost entirely around corrosive damage over time rather than direct impact. Its shots explode on impact or after a short flight, which limits its useful range, but against armored targets it can deliver some of the strongest corrosive damage-over-time output available on a pistol.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -245,7 +245,7 @@
     "title": "Itchy. Tasty.",
     "description": "Fires slow, slightly arcing corrosive shots that explode on impact and deal splash damage. Projectiles also self-detonate after about 0.85 seconds, making long-range use unreliable. Red text: Itchy. Tasty. Always corrosive. Greatly increased status chance and status damage, but heavily reduced projectile damage."
   },
-  "notes": "Explosions add 80% of weapon damage as splash, and this bonus is affected by grenade damage boosts. If a shot auto-detonates at maximum flight rather than hitting something, the splash radius is 20% larger. With a Siren, 5/5 Flicker plus a class mod that adds +5 Flicker can reach 100% corrosive status chance. A Witch class mod combined with an Elemental relic or a Bone of the Ancients can also reach 100% status chance, though it offers fewer extra perks than Legendary Siren.",
+  "notes": "Its explosions add extra splash damage that is affected by grenade-damage bonuses. If a shot detonates at the end of its flight instead of on impact, the splash radius becomes slightly larger. Certain Siren setups can push its corrosive status chance to 100%, though some of those builds are less broadly useful than a Legendary Siren setup.",
   "max": {
     "accuracy": 92.6,
     "damage": 309893,

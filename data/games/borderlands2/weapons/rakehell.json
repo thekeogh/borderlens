@@ -10,7 +10,7 @@
   "name": "Rakehell",
   "slug": "rakehell",
   "type": "Sniper",
-  "description": "Rakehell is a sniper rifle built with a Vladof barrel, boosting its fire rate above most snipers and increasing magazine capacity.",
+  "description": "A sniper rifle built with a Vladof barrel, giving it higher fire rate and a larger magazine than most weapons in its class.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Drops randomly from any appropriate loot source.",
+  "notes": "Random world drop from any suitable loot source.",
   "sources": [
     {
       "name": "World Drop",

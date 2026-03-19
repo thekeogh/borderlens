@@ -11,7 +11,7 @@
   "name": "Blockhead",
   "slug": "blockhead",
   "type": "Shotgun",
-  "description": "Blockhead is a unique Tediore shotgun that always fires incendiary shots in a fixed 3x3 grid. The spread is consistent, making it reliable and relatively ammo-friendly. It shines in tight areas where bounces and overlapping splash can stack damage, quickly punishing grouped targets and wearing down defences through repeated explosions.",
+  "description": "A unique Tediore shotgun locked to incendiary damage, firing in a fixed 3x3 grid of bouncing fireballs. The pattern never changes, so it is unusually consistent for a shotgun, and the repeated splash explosions make it especially nasty in tight spaces or against grouped enemies.",
   "manufacturers": [
     "Tediore"
   ],
@@ -234,7 +234,7 @@
     "title": "Also try Minecraft!",
     "description": "Always incendiary. Fires a 3x3 grid of fireballs that can ricochet and then explode on impact or after bouncing. Most of its output comes from splash damage, and the thrown-weapon reload also benefits strongly from explosive-style scaling."
   },
-  "notes": "The 3x3 layout never changes. Extra pellet bonuses from parts, prefixes or other effects can still raise damage even if you cannot clearly see additional projectiles. Grenade damage boosts both the splash from shots and the damage from Tediore reload throws. Some effects that depend on standard pellet hits may not behave normally.",
+  "notes": "The 3x3 layout never changes. Extra pellet bonuses from parts, prefixes, or other effects can still raise its damage even when additional projectiles are not obvious on screen. Grenade-damage bonuses increase both the splash from its shots and the damage from its Tediore reload throw, while some effects that expect normal pellet hits may not behave as usual.",
   "max": {
     "accuracy": 53.1,
     "damage": 605102,

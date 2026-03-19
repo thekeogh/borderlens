@@ -11,7 +11,7 @@
   "name": "CHOPPER",
   "slug": "chopper",
   "type": "Assault Rifle",
-  "description": "CHOPPER is a Bandit assault rifle built for holding the trigger and emptying the mag in one continuous burst at an extreme rate of fire. It can put out massive damage in a very short window, but it chews through ammo fast, so it is best saved for emergencies or quick Second Winds. Swapping weapons or using melee will cut the burst short to save rounds.",
+  "description": "A Bandit assault rifle built around one continuous, extremely fast burst that keeps going until the magazine is empty or you cancel it. It can dump huge damage in a very short window, but it devours ammo just as quickly, so it is best used for emergencies, short burn phases, or quick Second Winds.",
   "manufacturers": [
     "Bandit"
   ],
@@ -256,7 +256,7 @@
     "title": "Get to it.",
     "description": "Holding the trigger initiates uninterrupted full-auto fire that continues until the magazine is empty or you cancel it with a weapon swap or melee. Each shot releases multiple projectiles and consumes ammo rapidly."
   },
-  "notes": "",
+  "notes": "Swapping weapons or using melee cuts the burst short, which lets you stop the weapon before it empties the magazine.",
   "max": {
     "accuracy": 1,
     "damage": 562072,

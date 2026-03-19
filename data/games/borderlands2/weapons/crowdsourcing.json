@@ -10,7 +10,7 @@
   "name": "Crowdsourcing",
   "slug": "crowdsourcing",
   "type": "Shotgun",
-  "description": "Crowdsourcing is a Hyperion shotgun variant with a Bandit-like triple barrel. Each trigger pull fires a dense spread with a high pellet count and consumes 3 ammo. It excels at close-range burst damage and stagger pressure, but it is not designed for ammo efficiency over long fights.",
+  "description": "A Hyperion shotgun variant with a Bandit-style triple barrel, firing a dense, high-pellet spread for the cost of three shells per shot. It excels at close-range burst damage and stagger pressure, but it is not built for ammo efficiency in drawn-out fights.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Similar triple-barrel variants exist in The Pre-Sequel, such as Focus Group. In Borderlands 2 it can spawn from green rarity upwards and is obtained through normal world drops. Its internal label includes \"Tri Fusion Crowdsourcing\", with the prefix swapped by the game engine.",
+  "notes": "Similar triple-barrel variants exist in The Pre-Sequel, such as Focus Group. Here, it can spawn at green rarity or higher and is obtained through normal world drops. Its internal label includes \"Tri Fusion Crowdsourcing,\" with the prefix swapped by the game engine.",
   "sources": [
     {
       "name": "World Drop",

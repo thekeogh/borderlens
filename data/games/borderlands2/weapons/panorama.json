@@ -10,7 +10,7 @@
   "name": "Panorama",
   "slug": "panorama",
   "type": "Launcher",
-  "description": "Panorama functions like a standard rocket launcher, but its blasts cannot be absorbed by absorb shields, so the hit still goes through.",
+  "description": "A straightforward launcher whose blasts ignore absorb shields, preventing enemies from nullifying the hit through rocket absorption.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -19,7 +19,7 @@
     "Uncommon",
     "Rare"
   ],
-  "notes": "Drops randomly from any appropriate loot source. Axton is shown using one in the game's opening sequence.",
+  "notes": "Random world drop from suitable loot sources. Axton is shown using one in the opening sequence.",
   "sources": [
     {
       "name": "World Drop",

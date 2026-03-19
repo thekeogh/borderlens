@@ -11,7 +11,7 @@
   "name": "Infection Cleaner",
   "slug": "infection-cleaner",
   "type": "SMG",
-  "description": "Infection Cleaner is an Effervescent Tediore SMG from the Fight for Sanctuary add-on in Borderlands 2. It plays the same as the Avenger and can match its stats when level and parts align. Key differences: it is always incendiary, and the bullets fired by the thrown gun do not apply elemental effects.",
+  "description": "An effervescent Tediore SMG that behaves much like the Avenger, combining ammo regeneration with a thrown reload that keeps firing after you toss it. Its main differences are that it is always incendiary and the bullets fired by the thrown gun do not apply elemental effects.",
   "manufacturers": [
     "Tediore"
   ],

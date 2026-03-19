@@ -10,7 +10,7 @@
   "name": "Backburner",
   "slug": "backburner",
   "type": "SMG",
-  "description": "The Backburner is a Hyperion SMG built around a fixed-element Maliwan barrel, boosting status chance and damage over time for its rarity. As with other Hyperion SMGs, accuracy improves the longer you hold the trigger, starting less steady and tightening during sustained fire.",
+  "description": "A Hyperion SMG built around a fixed incendiary Maliwan barrel, giving it stronger elemental application and better damage over time than most weapons of similar rarity. Like other Hyperion SMGs, it starts a little loose and becomes more accurate the longer you hold the trigger.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Incendiary"
   ],
-  "notes": "Part of the fixed-element Hyperion SMG line. It can spawn from green rarity upwards, and in Borderlands 2 it is most commonly obtained as a standard world drop.",
+  "notes": "It belongs to the fixed-element Hyperion SMG line, can spawn at green rarity or higher, and is most commonly obtained as a standard world drop.",
   "sources": [
     {
       "name": "World Drop",

@@ -10,7 +10,7 @@
   "name": "Presence",
   "slug": "presence",
   "type": "SMG",
-  "description": "As a Hyperion SMG, the Presence uses reverse recoil: it starts off unsteady, then tightens its aim the longer you hold the trigger. The on-card accuracy reflects its best-case accuracy after sustained fire. Overall it is a solid, no-frills SMG. A Dahl barrel improves initial accuracy and speeds up the accuracy ramp, but slightly increases its final spread.",
+  "description": "A straightforward Hyperion SMG that leans on the manufacturer's trademark reverse recoil, starting loose and tightening the longer you hold the trigger. That makes it feel best in sustained bursts rather than quick taps, and the displayed accuracy reflects that fully stabilized state. A Dahl barrel improves the early handling and speeds up the accuracy ramp, though it slightly worsens the final spread.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "In The Pre-Sequel, Presence variants often appear with the newer Hyperion materials and prefix set used in Borderlands 2. A related variant, the Confidence, is produced by the older Hyperion line. Presence only appears at green rarity or higher. It is a world drop from any appropriate loot source.",
+  "notes": "In The Pre-Sequel, Presence variants often appear with Hyperion's newer materials and prefix set. A related variant there, the Confidence, uses the older Hyperion line. It only appears at green rarity or higher and drops randomly from suitable world-drop sources.",
   "sources": [
     {
       "name": "World Drop",

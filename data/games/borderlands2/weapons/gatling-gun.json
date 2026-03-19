@@ -10,7 +10,7 @@
   "name": "Gatling Gun",
   "slug": "gatling-gun",
   "type": "Assault Rifle",
-  "description": "Although it has a rotating, minigun-like barrel, this Jakobs rifle is semi-automatic and unleashes several shots per trigger pull. It can reach very high practical fire rates, but you must keep tapping the trigger and contend with Jakobs-style slow reloads. Strong per-shot damage lets it dump heavy damage quickly. Recoil is pronounced, and the magazine empties fast because each trigger pull spends three rounds on a modest capacity.",
+  "description": "A Jakobs assault rifle with a rotating barrel, behaving more like a hand-cranked minigun than a normal semi-auto rifle. It can reach a very high practical fire rate if you keep tapping fast enough, and its strong per-shot damage lets it dump heavy burst quickly. The downside is fierce recoil, a thirsty magazine, and the usual slow Jakobs reload.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -18,7 +18,7 @@
     "Common",
     "Uncommon"
   ],
-  "notes": "Only appears at green rarity or higher.",
+  "notes": "It only appears at green rarity or higher.",
   "sources": [
     {
       "name": "World Drop",

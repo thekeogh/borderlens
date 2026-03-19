@@ -10,7 +10,7 @@
   "name": "Dispatch",
   "slug": "dispatch",
   "type": "Launcher",
-  "description": "Dispatch is a Tediore rocket launcher geared for quick bursts and fast reloads, favouring responsiveness over heavy single-shot impact. It fires from multiple barrels, so accuracy is average, but it shines when you need an emergency kill or a Second Wind. Reloading tosses the weapon to explode in typical Tediore fashion, with the blast scaling by how much ammo was left in the magazine.",
+  "description": "A Tediore rocket launcher geared toward quick bursts and fast reloads, favoring responsiveness over heavy single-shot damage. Its multi-barrel firing pattern keeps accuracy only average, but it is very effective when you need an emergency kill, a fast Second Wind, or a strong Tediore reload explosion.",
   "manufacturers": [
     "Tediore"
   ],
@@ -25,7 +25,7 @@
     "Slag",
     "Explosive"
   ],
-  "notes": "Available as a standard world drop from appropriate loot sources.",
+  "notes": "It is available as a standard world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

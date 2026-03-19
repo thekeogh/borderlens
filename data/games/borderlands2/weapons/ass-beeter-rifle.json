@@ -10,7 +10,7 @@
   "name": "Ass Beeter! (rifle)",
   "slug": "ass-beeter-rifle",
   "type": "Assault Rifle",
-  "description": "Ass Beeter! combines a Jakobs barrel with a Bandit assault rifle, boosting damage and accuracy in exchange for a slower rate of fire and harsher recoil. It performs best with controlled bursts or paced shots to keep the weapon stable and shots on target.",
+  "description": "A Bandit assault rifle built with a Jakobs barrel, trading some of Bandit's usual wildness for higher damage and better accuracy. The slower fire rate and harsher recoil still reward controlled bursts or paced shots rather than constant spray.",
   "manufacturers": [
     "Bandit"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Typically found as a standard world drop.",
+  "notes": "It is typically found as a standard world drop.",
   "sources": [
     {
       "name": "World Drop",

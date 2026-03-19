@@ -10,7 +10,7 @@
   "name": "Repeater",
   "slug": "repeater",
   "type": "Pistol",
-  "description": "Dahl pistols fire single shots from the hip, but switch to a fast 2-round burst while aiming. This improves control and makes them reliable at close to mid range, though they are less useful in Fight For Your Life. The Repeater can roll different barrels that change its behaviour: - Dahl: 4-round bursts, steadier handling, slightly lower damage. - Tediore: no special effect. - Maliwan: better accuracy and stronger elemental effect damage (if elemental). - Bandit/Scav: higher damage, worse accuracy.",
+  "description": "The Repeater is a Dahl pistol line built around fast burst fire while aiming, giving it cleaner control and more reliable damage at close to medium range than hip-fire suggests. Different barrels shift the balance noticeably: Dahl versions extend the burst and steady the handling, Maliwan versions improve accuracy and elemental output, Bandit or Scav versions hit harder but lose precision, and Tediore versions stay comparatively plain. It is a flexible early pistol line, even if it is less comfortable in Fight For Your Life than a pure single-shot sidearm.",
   "manufacturers": [
     "Dahl"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "The Repeater is the first gun used by player characters in Borderlands 2. Repeaters with Tediore grips reload very quickly and have reduced recoil.",
+  "notes": "The Repeater is the first gun used by the player characters. Versions with Tediore grips reload very quickly and also have reduced recoil.",
   "sources": [
     {
       "name": "World Drop",

@@ -11,7 +11,7 @@
   "name": "Avenger",
   "slug": "avenger",
   "type": "SMG",
-  "description": "The Avenger is a pearlescent Tediore SMG with reliable general performance and a tricky reload mechanic. Reloading throws the gun as a bouncing device that spits out full-strength bullets no matter how many rounds were left. Only the final blast gains extra damage from unused magazine ammo, so good timing and keeping enough reserve ammo matter.",
+  "description": "A pearlescent Tediore SMG with solid all-around handling, built around a thrown reload that matters more than its normal gunfire. While equipped, it regenerates SMG ammo, and reloading turns the weapon into a bouncing charge that sprays full-strength bullets regardless of how many rounds were left in the magazine, making timing and ammo management central to its performance.",
   "manufacturers": [
     "Tediore"
   ],
@@ -246,9 +246,9 @@
   ],
   "special": {
     "title": "Counterbution revengence. The reckoning.",
-    "description": "While equipped, it regenerates SMG ammo. Reloading tosses a bouncing unit that sprays shots in all directions, then detonates. The roaming bullets benefit strongly from gun damage and amp effects. The final explosion also scales with leftover magazine rounds, and the fuse becomes shorter when your SMG reserves are low."
+    "description": "While equipped, it regenerates SMG ammo. Reloading throws a bouncing charge that sprays bullets in all directions before exploding. Those roaming shots scale well with gun-damage and amp effects, while the final blast grows stronger with leftover rounds in the magazine and goes off sooner when your SMG reserves are low."
   },
-  "notes": "Its SMG ammo regeneration can combine with other sustain tools. If your reserves run low, the thrown reload can become risky at close range and may catch you in the blast.",
+  "notes": "Its SMG ammo regeneration can stack well with other sustain tools. If your reserves run low, the shortened fuse makes the thrown reload much riskier at close range and much easier to catch yourself in.",
   "max": {
     "accuracy": 93.3,
     "damage": 703430,

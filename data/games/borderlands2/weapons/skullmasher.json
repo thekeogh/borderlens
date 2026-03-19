@@ -11,7 +11,7 @@
   "name": "Skullmasher",
   "slug": "skullmasher",
   "type": "Sniper",
-  "description": "Skullmasher is a legendary Jakobs sniper rifle in Borderlands 2. It fires more quickly than its earlier incarnation but shoots five pellets rather than six, with a wider spread. When all five projectiles land, its single-shot damage can outstrip most other snipers. The trade-off is poor accuracy for the class, so it performs best at mid range or against large or airborne targets where multiple hits are easier to land.",
+  "description": "A Jakobs sniper rifle that behaves like a precision shotgun, firing five pellets with enough total damage to outstrip most conventional snipers if they all land. Its spread is much wider than a standard sniper rifle's, so it shines at mid range or against large airborne targets that can catch multiple projectiles at once. It rewards aggressive sniping far more than long-range pin-point play.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -225,9 +225,9 @@
   ],
   "special": {
     "title": "Makes your brain hurt.",
-    "description": "Fires five projectiles per shot in a tight cluster. Consumes 1 ammo per shot. Low accuracy, and each pellet deals reduced damage compared with a single-projectile sniper round. Jakobs sniper rifles gain increased critical hit damage."
+    "description": "Fires five projectiles per shot in a tight cluster. Each pellet deals less damage than a normal sniper round on its own, but the rifle keeps the usual Jakobs critical-hit bonus."
   },
-  "notes": "A single trigger pull can score several critical hits, which helps with the Longshot Headshot challenge. Because one shot can crit multiple times, it can grant Zer0 multiple Critical Ascensi0n stacks from a single round.",
+  "notes": "A single trigger pull can score several critical hits, which helps with challenges that count sniper crits. Because one shot can crit multiple times, it can also grant Zer0 multiple Critical Ascensi0n stacks from a single round.",
   "elements": [
     "None"
   ],

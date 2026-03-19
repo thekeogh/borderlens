@@ -10,7 +10,7 @@
   "name": "Bratchny",
   "slug": "bratchny",
   "type": "Sniper",
-  "description": "Bratchny is a Vladof sniper variant fitted with a Hyperion-like barrel. It tightens accuracy for more reliable precision, but reduces fire rate and slightly alters recoil. A solid pick when you prefer consistent shot placement over rapid follow-up shots.",
+  "description": "A Vladof sniper variant fitted with a Hyperion-style barrel, trading some of Vladof's usual speed for steadier accuracy and more reliable precision. It suits players who value consistent shot placement more than rapid follow-up fire.",
   "manufacturers": [
     "Vladof"
   ],
@@ -25,7 +25,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Can drop as a standard world item from appropriate loot sources.",
+  "notes": "It can drop as a standard world item from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

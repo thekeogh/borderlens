@@ -11,7 +11,7 @@
   "name": "Landscaper",
   "slug": "landscaper",
   "type": "Shotgun",
-  "description": "Rare Torgue shotgun from Borderlands 2. It often rolls high accuracy, but each shot places mines at the four corners of a square, so it is unreliable beyond point-blank range. It shines for trapping choke points, tagging enemies behind cover, or laying mines in the path of slow or advancing targets. A typical magazine fires three volleys, planting twelve mines that can stack heavy explosive damage in a small area.",
+  "description": "A Torgue shotgun that fires sticky mines in a square instead of a normal spread, turning each shot into a short-lived trap. It is poor beyond point-blank range, but excellent for choke points, enemies behind cover, and slow targets that walk into stacked explosions. A full magazine can carpet a small area with mines and build heavy explosive damage very quickly.",
   "manufacturers": [
     "Torgue"
   ],
@@ -231,9 +231,9 @@
   ],
   "special": {
     "title": "Get off my lawn!",
-    "description": "Fires 4 sticky mines in a square pattern. Mines stick to surfaces, then detonate on enemy contact, when a target comes close, or after 6 seconds. Deals explosive damage, with a smaller pellet count and slower fire rate offset by higher damage."
+    "description": "Each shot places 4 sticky explosive mines in a square pattern. The mines cling to surfaces and detonate on contact, when enemies come close, or after several seconds, trading pellet count and fire rate for much heavier per-shot damage."
   },
-  "notes": "Absorbed splash damage can be converted into rocket launcher ammo by an Absorb Shield. With the vertical grip (Casual prefix), each trigger pull fires 6 mines instead of 4. The two extra mines appear as an added pair on either the upper or lower side of the square, alternating each shot.",
+  "notes": "Its splash damage can be absorbed by an absorb shield and converted into launcher ammo. With the vertical grip, shown by the Casual prefix, each trigger pull fires 6 mines instead of 4. The extra pair alternates between the upper and lower side of the square from shot to shot.",
   "max": {
     "accuracy": 83.3,
     "damage": 1637959,

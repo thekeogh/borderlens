@@ -10,7 +10,7 @@
   "name": "Oberkil!",
   "slug": "oberkil",
   "type": "Shotgun",
-  "description": "With a Torgue barrel, the Oberkil! fires a huge cluster of pellets for massive close-range damage. It kicks hard, spreads widely, and shoots very slowly while consuming 4 shells per trigger pull. Precision is effectively impossible, and it is unreliable beyond point-blank range. Used up close, it can blanket the area ahead with pellets and tear through targets without careful aiming.",
+  "description": "A shotgun built for pure point-blank excess. Its Torgue barrel throws an enormous cloud of pellets for massive close-range damage, but the recoil, spread, slow fire rate, and 4-shell cost make precision almost impossible. Used at kissing distance, it can simply erase whatever is standing in front of it.",
   "manufacturers": [
     "Bandit"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Only appears at blue rarity or higher.",
+  "notes": "It only appears at blue rarity or higher.",
   "sources": [
     {
       "name": "World Drop",

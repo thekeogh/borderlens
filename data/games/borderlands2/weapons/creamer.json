@@ -11,7 +11,7 @@
   "name": "Creamer",
   "slug": "creamer",
   "type": "Launcher",
-  "description": "The Creamer is a Moxxi-style Torgue rocket launcher built for burst splash damage and steady self-healing. While it is equipped, a portion of your damage returns as health, making it a strong pick for staying alive under pressure. Its splitting rockets reward close-to-mid range play and can help you recover quickly, including during Fight For Your Life.",
+  "description": "A Moxxi-style Torgue rocket launcher built around burst splash damage and steady self-healing. While it is equipped, a portion of your damage returns as health, and its rockets split into two follow-up explosives after a short flight. That makes it a strong survival weapon at close to medium range, including in Fight For Your Life.",
   "manufacturers": [
     "Torgue"
   ],
@@ -205,7 +205,7 @@
     "title": "non-dairy",
     "description": "Launches high-speed rockets that split into two secondary explosives after a short flight. While held, all damage you deal provides Moxxi life steal."
   },
-  "notes": "The rocket divides into two follow-up explosives, each carrying much of the original blast damage. If both secondary blasts land, the combined splash can be extremely high. The Creamer also appeared during the BL2 Loot Hunt community event.",
+  "notes": "The rocket divides into two follow-up explosives, each carrying much of the original blast damage. If both secondary blasts land, the combined splash can be extremely high. It was also featured during the Loot Hunt community event.",
   "max": {
     "accuracy": 73.3,
     "damage": 32175032,

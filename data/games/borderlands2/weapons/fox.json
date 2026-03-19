@@ -10,7 +10,7 @@
   "name": "Fox",
   "slug": "fox",
   "type": "SMG",
-  "description": "With a Dahl barrel, this SMG trades a bit of accuracy for steadier handling and reduced recoil. Because the barrel matches the weapon maker, it also gains a small damage boost.",
+  "description": "A Dahl SMG fitted with a matching Dahl barrel, giving it steadier recoil control and a small damage boost. The trade-off is a slight loss of raw accuracy, but overall it still favors controlled burst fire.",
   "manufacturers": [
     "Dahl"
   ],

@@ -10,7 +10,7 @@
   "name": "Launcher (E-tech)",
   "slug": "launcher-e-tech",
   "type": "Launcher",
-  "description": "Fires at the cost of 2 rockets per shot, launching a slow, drifting plasma sphere that ignores gravity. On impact it detonates, dealing elemental damage over a huge area and enveloping targets in volatile plasma, similar to other E-Tech launchers. Reloading throws the launcher as an explosive. Unlike most thrown reloads, this damage does not scale with how many rockets remain in the magazine.",
+  "description": "An E-tech launcher that spends 2 rockets per shot to fire a slow drifting plasma sphere. The projectile ignores gravity, detonates over a huge area, and leaves targets caught in volatile plasma, making it better for crowd control and area denial than direct-impact sniping. Reloading throws the launcher as an explosive, though that blast does not scale with the remaining ammo the way most Tediore-style reloads do.",
   "manufacturers": [
     "Tediore",
     "Bandit"
@@ -18,7 +18,7 @@
   "rarities": [
     "Common"
   ],
-  "notes": "Drops randomly from any appropriate loot source.",
+  "notes": "Random world drop from any suitable loot source.",
   "sources": [
     {
       "name": "World Drop",

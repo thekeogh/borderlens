@@ -10,7 +10,7 @@
   "name": "Corinthian",
   "slug": "corinthian",
   "type": "Sniper",
-  "description": "The Corinthian is a Maliwan sniper rifle with a hint of Jakobs-style feel. It tends to hit hard for its class, but the handling is less forgiving, with shakier accuracy and a slower rhythm. If it rolls with the right element, it can still shine in matchups where status effects or elemental coverage matter.",
+  "description": "A Maliwan sniper rifle with a hint of Jakobs-style heft. It tends to hit hard for its class, but the handling is less forgiving, with shakier accuracy and a slower rhythm. With the right element, it can still perform well in matchups where status effects or elemental coverage matter.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Can appear as a regular world drop from most appropriate loot sources.",
+  "notes": "It can appear as a regular world drop from most suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

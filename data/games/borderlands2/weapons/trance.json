@@ -10,7 +10,8 @@
   "name": "Trance",
   "slug": "trance",
   "type": "SMG",
-  "description": "Look out, everyone. Things are about to get spectacular.",
+  "description": "This entry appears to be placeholder data rather than a properly documented weapon record.",
+  "notes": "The current text does not describe a distinct item and reads like leftover placeholder copy rather than final weapon data.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -33,6 +34,5 @@
         "General"
       ]
     }
-  ],
-  "notes": ""
+  ]
 }

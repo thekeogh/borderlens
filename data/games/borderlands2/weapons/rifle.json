@@ -10,7 +10,7 @@
   "name": "Rifle",
   "slug": "rifle",
   "type": "Assault Rifle",
-  "description": "Rifles vary by parts and maker, but usually offer quick fire, good accuracy, average reloads and low recoil. Dahl rifles hit hard with strong accuracy and average reloads. Burst fire can be clumsy under pressure. With a Vladof barrel and the Double Tap prefix, they fire 2 rounds per trigger pull (costs 2 ammo) and switch to a fixed 2-round burst while aiming, for 4 rounds total. Jakobs rifles deal high damage with precise semi-auto fire, but have heavy kick, slow reloads and often small magazines. Torgue rifles fire gyrojet rounds: slow, less accurate projectiles with high damage and splash",
+  "description": "Rifles cover a broad middle ground, usually offering fast fire, good accuracy, manageable recoil, and average reloads. Their exact feel changes sharply by manufacturer: Dahl versions lean into controlled burst fire, Jakobs versions hit hard with precise semi-auto shots and heavier kick, and Torgue versions trade bullet speed for gyrojet splash damage. Some part combinations, such as Vladof-barreled Dahl Double Tap rolls, push them into much stranger territory with multi-shot bursts and rapid ammo use.",
   "manufacturers": [
     "Dahl"
   ],
@@ -20,7 +20,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Most makers can roll Rifles, but Bandit uses the Mashine Gun title instead. Rifles drop randomly from suitable loot sources.",
+  "notes": "Most manufacturers can roll the Rifle title, but Bandit uses the Mashine Gun name instead. Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

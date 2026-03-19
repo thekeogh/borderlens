@@ -10,7 +10,7 @@
   "name": "Aimshot",
   "slug": "aimshot",
   "type": "Pistol",
-  "description": "Aimshot is a Tediore pistol built with a Hyperion barrel. This combination improves accuracy and boosts critical hit performance compared with more typical parts, making it well suited to controlled, sustained fire.",
+  "description": "A Tediore pistol built with a Hyperion barrel, giving it better accuracy and stronger critical-hit performance than a more typical Tediore roll. It is best suited to controlled, sustained fire.",
   "manufacturers": [
     "Tediore"
   ],
@@ -35,5 +35,5 @@
       ]
     }
   ],
-  "notes": "A general world drop. It can spawn in several non-explosive elements."
+  "notes": "It is a standard world drop and can spawn in several non-explosive elements."
 }

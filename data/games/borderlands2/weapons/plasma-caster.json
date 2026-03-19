@@ -10,7 +10,7 @@
   "name": "Plasma Caster",
   "slug": "plasma-caster",
   "type": "SMG",
-  "description": "Plasma Casters are E-tech SMGs that fire slow plasma orbs. They usually hit harder than same-brand standard SMGs, with larger magazines and higher elemental chance, but cost 2 ammo per shot. Best used in short, controlled bursts at close to mid range; most can reach further, except Bandit. Brand traits: Maliwan offers the strongest elemental output; shots create a small splash that can damage nearby targets and apply elements. Hyperion has the best direct damage, large mags and a straighter flight path. Tediore excels with reload throws due to big mags. Dahl has low recoil, high direct damage",
+  "description": "Plasma Casters are E-tech SMGs that fire slow plasma orbs instead of bullets, trading ammo efficiency for heavier hits, larger magazines, and stronger elemental output. They spend 2 ammo per shot and work best in short controlled bursts at close to medium range, though some versions can comfortably reach farther than others. Maliwan versions lean hardest into elemental damage and splash, Hyperion versions offer the strongest direct damage with a straighter flight path, Tediore versions pair well with thrown reloads because of their large magazines, and Dahl versions stay controllable with low recoil.",
   "manufacturers": [
     "Bandit"
   ],
@@ -23,7 +23,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Plasma Casters deal 50% bonus splash damage that counts as grenade damage, so gun damage, fire rate and grenade damage boosts all improve them. Bandit Plasma Casters are the exception: their damage does not benefit from grenade damage bonuses.",
+  "notes": "Plasma Casters deal a bonus splash component that counts as grenade damage, so gun damage, fire rate, and grenade damage boosts all improve them. Bandit Plasma Casters are the exception, as their damage does not benefit from grenade damage bonuses.",
   "sources": [
     {
       "name": "World Drop",

@@ -11,7 +11,7 @@
   "name": "Bekah",
   "slug": "bekah",
   "type": "Assault Rifle",
-  "description": "Bekah is a pearlescent Jakobs assault rifle built around delayed projectile splitting. A round fires as a single shot, then breaks into several projectiles mid-flight for heavy burst at mid range when your spacing is right. It also benefits from strong critical hit damage, though recoil can be difficult to manage without the right parts. Best used with careful aim and a controlled engagement distance.",
+  "description": "A pearlescent Jakobs assault rifle built around delayed projectile splitting. Each round starts as a single shot, then breaks into multiple projectiles mid-flight, letting it deliver heavy burst damage when you keep enemies at the right distance. It also carries strong critical-hit potential, though recoil can be difficult to manage without the right parts.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -205,9 +205,9 @@
   ],
   "special": {
     "title": "Shoot them in the face. Twice.",
-    "description": "Fires a single projectile that splits into multiple shots after a short travel time. The new projectiles briefly hang, then lunge forward rapidly. Split timing depends on projectile speed, so changes to velocity shift the ideal range."
+    "description": "Fires a single projectile that splits into multiple shots after a short travel time. The new projectiles briefly hang in the air before surging forward, and the split timing depends on projectile speed, so changes to velocity also change the ideal combat range."
   },
-  "notes": "The extra split projectiles are unlisted and can each gain the full amp bonus, enabling large burst peaks. The multi-hit pattern also pairs well with skills or gear that trigger on repeated hits, on-hit effects, or ricochets.",
+  "notes": "The extra split projectiles are unlisted and can each receive the full amp bonus, enabling very large burst spikes. The multi-hit pattern also pairs well with skills or gear that trigger from repeated hits, on-hit effects, or ricochets.",
   "elements": [
     "None"
   ],

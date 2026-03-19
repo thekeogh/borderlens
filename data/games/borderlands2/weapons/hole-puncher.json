@@ -10,7 +10,7 @@
   "name": "Hole Puncher",
   "slug": "hole-puncher",
   "type": "Pistol",
-  "description": "Fitted with a Hyperion barrel, the Hole Puncher grants increased critical hit damage.",
+  "description": "A weapon fitted with a Hyperion barrel, gaining improved critical-hit performance along with Hyperion's steadier handling. It is a straightforward accuracy-focused variant rather than a dramatic gameplay changer.",
   "manufacturers": [
     "Torgue"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Explosive"
   ],
-  "notes": "Obtained at random from any appropriate loot source. Only appears at green rarity or higher.",
+  "notes": "It is obtained randomly from suitable loot sources and only appears at green rarity or higher.",
   "sources": [
     {
       "name": "World Drop",

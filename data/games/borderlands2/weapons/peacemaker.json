@@ -10,7 +10,7 @@
   "name": "Peacemaker",
   "slug": "peacemaker",
   "type": "Pistol",
-  "description": "The Peacemaker pairs a Jakobs barrel with Dahl burst fire, boosting raw damage but lowering fire rate and adding stronger recoil. The kick makes burst shots less dependable at longer ranges. Up close it can outdamage many other Dahl pistols, especially when used with Salvador and his I'm Your Huckleberry skill.",
+  "description": "A Dahl pistol that swaps some of the manufacturer's usual smoothness for a Jakobs barrel and a much harder hit. The added recoil makes long-range bursts less dependable, but up close it can outdamage many other Dahl sidearms, especially in the hands of Salvador with I'm Your Huckleberry.",
   "manufacturers": [
     "Dahl"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "The Peacemaker only appears at green rarity or above.",
+  "notes": "It only appears at green rarity or higher.",
   "sources": [
     {
       "name": "World Drop",

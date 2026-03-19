@@ -10,7 +10,7 @@
   "name": "Falcon",
   "slug": "falcon",
   "type": "SMG",
-  "description": "A Hyperion barrel boosts accuracy but reduces damage and magazine size. Since Dahl SMGs are already very accurate thanks to burst fire, the trade-off is usually poor, though it can help you land quick critical hits.",
+  "description": "A Dahl SMG fitted with a Hyperion barrel, trading some damage and magazine size for even tighter accuracy. Since Dahl SMGs are already highly accurate in burst fire, the trade-off is usually modest, but it can still help with quick critical-hit bursts.",
   "manufacturers": [
     "Dahl"
   ],

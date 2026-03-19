@@ -10,7 +10,7 @@
   "name": "Injector",
   "slug": "injector",
   "type": "Pistol",
-  "description": "When fitted with a Vladof barrel, the Injector fires quicker, carries more rounds per magazine, and kicks less than most other Torgue pistols.",
+  "description": "A Torgue pistol fitted with a Vladof barrel, giving it faster fire, a larger magazine, and softer recoil than most other Torgue variants. It feels smoother and more sustained than the usual hard-kicking Torgue sidearm.",
   "manufacturers": [
     "Torgue"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Explosive"
   ],
-  "notes": "The Injector can drop from any appropriate loot source. It only appears at green rarity or above.",
+  "notes": "It can drop from suitable loot sources and only appears at green rarity or higher.",
   "sources": [
     {
       "name": "World Drop",

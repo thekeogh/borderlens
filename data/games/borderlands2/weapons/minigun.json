@@ -10,7 +10,7 @@
   "name": "Minigun",
   "slug": "minigun",
   "type": "Assault Rifle",
-  "description": "The Minigun is Dahl's take on a rotary assault rifle, built around a three barrel assembly for very high fire rate. Unlike many rotary guns, it reaches top speed instantly with no spin up. It still suffers heavy accuracy bloom when firing continuously without zoom, with the reticle widening quickly and shots spreading badly. When zoomed, Dahl burst fire kicks in. With three barrels, this becomes a 9 shot burst released almost instantly, staying very accurate even across repeated bursts. It excels at precise, long range bullet volume, but burns through magazines and ammo quickly.",
+  "description": "Dahl's take on a rotary assault rifle, built around a three-barrel assembly and an instant full-speed spin with no wind-up. Hip-fired, it blooms badly under sustained fire, but aiming turns it into a brutally fast nine-shot burst that stays surprisingly accurate even at range. It excels at pouring precise bullet volume downrange, though it chews through magazines and ammo very quickly.",
   "manufacturers": [
     "Dahl"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Uses a Vladof style rotary barrel, so it only appears at green rarity or higher. World drop from any appropriate loot source.",
+  "notes": "It uses a Vladof-style rotary barrel, so it only appears at green rarity or higher. Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

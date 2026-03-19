@@ -11,7 +11,7 @@
   "name": "Mongol",
   "slug": "mongol",
   "type": "Launcher",
-  "description": "The Mongol is a legendary Vladof rocket launcher from Borderlands 2. Based on the Vanquisher, it trades heavy ammo use for wide coverage: a large main rocket hits a tight area, while numerous smaller rockets scatter along the flight path to blanket a broader zone. It performs well against big enemies, clustered mobs, and fast targets that are hard to tag with a single projectile.",
+  "description": "A Vladof launcher built for area coverage rather than a single clean hit. It fires one large rocket while shedding smaller rockets along the way, letting it blanket a broad stretch of space and catch big enemies, clustered mobs, or fast targets that are hard to tag with a normal launcher. The trade-off is heavy ammo use for every shot.",
   "manufacturers": [
     "Vladof"
   ],
@@ -255,9 +255,9 @@
   ],
   "special": {
     "title": "The Horde will always return!",
-    "description": "Consumes 2 ammo per shot. Fires one large rocket that detonates on impact for [weapon element] launcher damage. While in flight, it sheds multiple smaller rockets at random angles; these arc downward and explode on impact for 60% explosive launcher damage."
+    "description": "Consumes 2 ammo per shot. It fires one large main rocket and sheds multiple smaller rockets in flight, which arc downward and explode on impact."
   },
-  "notes": "If the main rocket is elemental, only that projectile applies the element; the spawned rockets are always explosive. The item card jokes about reduced ammo use, but it does not get the usual Vladof free-shot behaviour and instead spends 2 ammo per trigger pull. A Loot Hunt hotfix (Day 27) increased damage and reload speed for the Mongol and other Vladof launchers.",
+  "notes": "If the main rocket is elemental, only that projectile applies the element; the spawned rockets are always explosive. Despite the item card joke about reduced ammo use, it does not receive the usual Vladof free-shot behavior and always spends 2 ammo per trigger pull. A Loot Hunt hotfix on Day 27 increased damage and reload speed for the Mongol and other Vladof launchers.",
   "max": {
     "accuracy": 80.2,
     "damage": 15139502,

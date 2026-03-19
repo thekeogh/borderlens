@@ -11,7 +11,7 @@
   "name": "Roaster",
   "slug": "roaster",
   "type": "Launcher",
-  "description": "The Roaster is a rare Bandit rocket launcher from Borderlands 2. It can spawn with elemental damage, letting it spread status effects over an area, but it is otherwise a fairly standard blue launcher. Compared with typical Bandit launchers, its lower base damage means it only really shines when you exploit an enemy's elemental weakness; outside of that it tends to lag behind.",
+  "description": "A Bandit launcher that stands out mainly because it can roll an element, letting it spread status effects over a broad area instead of relying on raw launcher damage alone. Outside those elemental matchups it is fairly ordinary, and its lower base damage leaves it behind stronger launchers when elemental weakness is not in play.",
   "manufacturers": [
     "Bandit"
   ],
@@ -246,7 +246,7 @@
   ],
   "special": {
     "title": "Toasty!",
-    "description": "Toasty!: Boosts elemental effect chance, damage over time, and accuracy, but reduces base damage."
+    "description": "Boosts elemental effect chance, damage over time, and accuracy, but lowers base damage in return."
   },
   "notes": "",
   "max": {

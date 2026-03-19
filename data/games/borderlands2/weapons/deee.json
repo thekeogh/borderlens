@@ -10,7 +10,7 @@
   "name": "Deee!",
   "slug": "deee",
   "type": "Launcher",
-  "description": "Deee! is a Torgue rocket launcher with a high-velocity, multi-barrel firing style. It can dump damage quickly but is not the most precise. It shines against big targets or at mid range, and its burst output makes it a solid option for scoring Second Winds.",
+  "description": "A Torgue rocket launcher with a fast, multi-barrel firing style. It can dump out damage quickly, though accuracy is only average, so it is most comfortable against large targets or at medium range. Its burst output also makes it a solid option for securing Second Winds.",
   "manufacturers": [
     "Torgue"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "Explosive"
   ],
-  "notes": "Can appear as a standard world drop from appropriate loot sources.",
+  "notes": "It can appear as a standard world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

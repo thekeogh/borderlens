@@ -10,7 +10,7 @@
   "name": "Handgun",
   "slug": "handgun",
   "type": "Pistol",
-  "description": "Alongside the trademark explosive reload, the barrel fitted changes the pistol's handling: - Bandit or Scav (side rail): Slight damage boost, but worse accuracy. - Dahl (large front sight): Much lower recoil and faster recovery, traded for reduced damage and increased spread. - Maliwan (finned): Better accuracy and stronger elemental damage if the gun is elemental. - Tediore (boxy): Higher damage on Tediore weapons.",
+  "description": "A Tediore pistol whose handling changes noticeably with its barrel. Some variants trade accuracy for more damage, some lean into recoil control, and elemental versions can pick up better accuracy and stronger elemental output. Like other Tediore pistols, its thrown reload remains a major part of the weapon's identity.",
   "manufacturers": [
     "Tediore"
   ],

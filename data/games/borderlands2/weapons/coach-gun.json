@@ -10,7 +10,7 @@
   "name": "Coach Gun",
   "slug": "coach-gun",
   "type": "Shotgun",
-  "description": "The Coach Gun is a Jakobs double-barrel shotgun that fires a heavy spread of pellets per shot, costing 2 shells each time you pull the trigger. Most variants have a very small magazine, so it plays best at close range with constant reloads. It suits builds that gain value from frequent empty-mag reload effects.",
+  "description": "A Jakobs double-barrel shotgun that fires a heavy pellet spread for the cost of two shells per shot. Most versions have a very small magazine, so it plays as a close-range weapon built around constant reloading. That also makes it a natural fit for builds that benefit from empty-mag or reload-triggered effects.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -19,7 +19,7 @@
     "Uncommon",
     "Rare"
   ],
-  "notes": "A rare common-quality version can spawn with a 1-round magazine, yet still spends 2 shells by taking the second from reserves. With Smaller, Lighter, Faster this can reduce the usable magazine to 0 and cause odd behaviour, but it can also be used to trigger instant empty-mag synergies such as Money Shot-type effects. Available as a regular world drop.",
+  "notes": "A rare common-quality version can spawn with a one-round magazine, yet still spends two shells by taking the second from reserves. With Smaller, Lighter, Faster, this can reduce the usable magazine to zero and cause odd behavior, but it can also be used to trigger instant empty-mag synergies such as Money Shot-style effects. It is available as a regular world drop.",
   "sources": [
     {
       "name": "World Drop",

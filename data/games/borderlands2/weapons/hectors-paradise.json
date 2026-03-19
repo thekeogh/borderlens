@@ -11,7 +11,7 @@
   "name": "Hector's Paradise",
   "slug": "hectors-paradise",
   "type": "Pistol",
-  "description": "Hector's Paradise is a Legendary DAHL pistol added in the Fight for Sanctuary DLC for Borderlands 2.",
+  "description": "A legendary Dahl pistol locked to shock damage, with impact explosions and a six-round burst while aiming. Its fixed blade, strong elemental application, and explosive shots give it a more aggressive identity than a standard Dahl sidearm.",
   "manufacturers": [
     "Dahl"
   ],
@@ -161,7 +161,7 @@
     "title": "The whip at the New Pandoran's backs.",
     "description": "Always Shock. Shots explode on impact, dealing splash damage. The explosion deals 80% of listed weapon damage as splash and is boosted by grenade damage bonuses. While aiming down sights, it fires a 6-round burst. Lower bullet damage and accuracy. Higher elemental effect chance. Fixed blade for melee."
   },
-  "notes": "Always spawns with the bladed accessory. Does not roll a prefix.",
+  "notes": "It always spawns with the bladed accessory and does not roll a prefix.",
   "max": {
     "accuracy": 82,
     "damage": 927267,

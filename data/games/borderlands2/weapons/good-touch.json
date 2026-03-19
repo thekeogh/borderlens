@@ -11,7 +11,7 @@
   "name": "Good Touch",
   "slug": "good-touch",
   "type": "SMG",
-  "description": "Good Touch is an Epic Maliwan SMG from Borderlands 2. It is a strong Provacateur variant that is easy to obtain and broadly comparable to the HellFire. Against like-for-like parts, HellFire tends to hit a little harder up front and is slightly more likely to ignite, but its burn ticks are weaker. Good Touch trades that for better accuracy and a large crit bonus, while HellFire mainly wins on total incendiary damage over time.",
+  "description": "An epic Maliwan SMG locked to incendiary damage, offering strong accuracy, a large critical-hit bonus, and Moxxi life steal while held. It is easy to obtain and works as a dependable fire weapon for flesh targets, with a more precise feel than the Hellfire even if the Hellfire usually wins on raw burn damage over time.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -203,7 +203,7 @@
     "title": "...but when I'm bad, I'm better.",
     "description": "Always Incendiary. Grants +70% critical hit damage. Moxxi weapon: while held, you gain 2.5% life steal from all damage you deal. Also triggers an unlisted effect on rumble-enabled controllers: continuous vibration while the gun is equipped, even when not firing."
   },
-  "notes": "The +70% critical hit damage may not show on the card when first picked up, but usually appears after restarting. On controllers with rumble, it causes constant vibration that builds over time. Shooting briefly stops it, aiming reduces it, and leaving ADS can spike it. Internally it is labelled Miss Moxxi's Good Touch, though the prefix can be swapped. If dual-wielded during Gunzerking, the left-hand copy does not trigger the rumble effect.",
+  "notes": "The critical-hit bonus may not appear on the card immediately, but usually shows correctly after restarting. On controllers with rumble, it can cause constant vibration that builds over time. Firing briefly stops the effect, aiming reduces it, and leaving ADS can make it spike. Internally, it is labeled Miss Moxxi's Good Touch, though the prefix can be swapped. If dual-wielded during Gunzerking, the left-hand copy does not trigger the rumble effect.",
   "max": {
     "accuracy": 93.9,
     "damage": 983333,

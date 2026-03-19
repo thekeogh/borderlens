@@ -10,7 +10,7 @@
   "name": "Burny",
   "slug": "burny",
   "type": "SMG",
-  "description": "Burny is a Bandit SMG with locked-in incendiary damage. For its rarity it delivers reliable ignite chance and solid damage over time, letting you keep pressure on targets between bursts. It shines against flesh and in busy fights, where quick fire application can tag several enemies while you reposition or focus higher-value threats.",
+  "description": "A Bandit SMG locked to incendiary damage, offering reliable ignite chance and solid damage over time for its rarity. It is especially effective against flesh targets and in messy fights where you can spread fire quickly, then let the burn keep working while you reposition or swap focus.",
   "manufacturers": [
     "Bandit"
   ],

@@ -10,7 +10,7 @@
   "name": "Double Barrels!",
   "slug": "double-barrels",
   "type": "Shotgun",
-  "description": "Double Barrels! is a Tediore shotgun built for chunky pellet damage with steady handling. It performs best at close to mid range, and its real strength comes from tossing the gun on reload. Reload explosions scale with the shells left in the magazine, so reloading early can dramatically boost burst damage. With good timing at higher levels, the reload throw can hit as hard as some launchers.",
+  "description": "A Tediore shotgun built for chunky pellet damage and a powerful thrown reload. It performs best at close to medium range, but its real strength comes from reloading early and turning the gun itself into a burst-damage projectile. With good timing, that reload throw can hit hard enough to rival some launchers.",
   "manufacturers": [
     "Tediore"
   ],
@@ -34,5 +34,5 @@
       ]
     }
   ],
-  "notes": ""
+  "notes": "Its reload explosion scales with the shells left in the magazine, so it rewards reloading before the weapon is completely empty."
 }

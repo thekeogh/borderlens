@@ -10,7 +10,7 @@
   "name": "Splatgun",
   "slug": "splatgun",
   "type": "Shotgun",
-  "description": "Splatguns fire arcing energy globes, closer to a grenade launcher than a standard shotgun. They have an increased chance to apply elemental status effects and consume 2 ammo per shot. Tediore versions explode when thrown on reload, scattering extra bomblets like a MIRV. Hyperion shots ricochet off surfaces until they strike an enemy. Both makes tend to reload slowly, which makes thrown-reload hits awkward, and the 2-ammo cost can limit how much benefit Hyperion gains from its accuracy stabilisation. Maya's Flicker skill boosts their elemental output further.",
+  "description": "Splatguns fire arcing energy globes that feel closer to mini grenade launchers than true shotguns. They spend 2 ammo per shot, carry boosted elemental chance, and lean heavily into splashy area damage over direct precision. Tediore versions add MIRV-style thrown reloads, while Hyperion versions bounce off surfaces until they find a target, giving each manufacturer its own flavor of chaos.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -23,7 +23,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Can roll a critical hit damage accessory even though it cannot land critical hits. Cannot roll the vertical grip accessory, or the Gentle (Tediore) and Practicable (Hyperion) prefixes that would grant x3 projectiles. Absorb shields can convert absorbed shots into rocket ammo. The barrel model is based on a modified grenadier or rocketeer style. Krieg's Blood Overdrive will not trigger from Tediore Splatguns due to elemental splash, but it will always trigger from Hyperion Splatguns.",
+  "notes": "It can roll a critical-hit accessory even though it cannot land critical hits. It cannot roll the vertical grip, or the Gentle and Practicable prefixes that would grant three-projectile versions. Absorb shields can convert absorbed shots into launcher ammo. Krieg's Blood Overdrive will not trigger from Tediore Splatguns because of the elemental splash, but it will trigger from Hyperion versions.",
   "sources": [
     {
       "name": "World Drop",

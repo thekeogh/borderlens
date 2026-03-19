@@ -10,7 +10,7 @@
   "name": "Pistal",
   "slug": "pistal",
   "type": "Pistol",
-  "description": "The Pistal is a pistol with middling damage, poor accuracy and a very large magazine. Performance depends heavily on its barrel. Bandit: higher damage and steadier handling, but worse accuracy. Dahl: much lower recoil and faster accuracy recovery, but reduced damage with more shot spread. Maliwan: slightly better accuracy and increased elemental damage. Tediore: no notable changes. Low-tier rolls are rarely worth using, but strong parts can make it effective at close to mid range.",
+  "description": "The Pistal is a magazine-heavy sidearm with mediocre damage and poor accuracy, so its usefulness depends heavily on the barrel roll. Bandit versions hit harder and feel steadier but lose even more accuracy, Dahl versions cut recoil sharply at the cost of damage, Maliwan versions improve accuracy and elemental output, and Tediore versions stay relatively plain. Weak rolls are easy to skip, but a good one can still work at close to medium range.",
   "manufacturers": [
     "Bandit"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Drops randomly from most appropriate loot sources.",
+  "notes": "Random world drop from most suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

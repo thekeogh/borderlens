@@ -11,7 +11,7 @@
   "name": "Baby Maker",
   "slug": "baby-maker",
   "type": "SMG",
-  "description": "Baby Maker is a legendary Tediore SMG from the base game that shines through its thrown reload rather than sustained gunfire. The discarded gun detonates and can split into MIRV-like child blasts, letting you stack heavy burst in confined areas or on direct hits, at the cost of burning through ammo quickly.",
+  "description": "A legendary Tediore SMG whose real power comes from its thrown reload rather than its sustained gunfire. The discarded weapon explodes and can split into MIRV-like child blasts, giving it enormous burst in tight spaces or on direct tosses at the cost of extremely heavy ammo use.",
   "manufacturers": [
     "Tediore"
   ],
@@ -232,9 +232,9 @@
   ],
   "special": {
     "title": "Who's a widdle gunny wunny!!!",
-    "description": "Reloading throws the weapon as an explosive. After the initial blast it can spawn 1 to 3 smaller charges that explode again. One child is most common, while multi-child chains are rarer but can deliver extreme burst."
+    "description": "Reloading throws the weapon as an explosive charge. After the first detonation, it can spawn one to three smaller child blasts that explode again. A single child is the most common result, but larger chains can produce enormous burst damage."
   },
-  "notes": "Reload-throw focused play can delete bosses and packed groups early on, but keeping it up long term usually needs strong ammo sustain (regen, returns, or big reserves).",
+  "notes": "A reload-throw playstyle can melt bosses and clustered enemies, especially early on, but sustaining it for longer fights usually requires strong ammo support through regeneration, ammo returns, or large reserves.",
   "max": {
     "accuracy": 92.1,
     "damage": 710293,

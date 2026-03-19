@@ -10,7 +10,7 @@
   "name": "Development",
   "slug": "development",
   "type": "Shotgun",
-  "description": "Development is a Hyperion automatic shotgun with a quad-style layout. It burns multiple shells per trigger pull to deliver heavy close-range output and reliable pressure in sustained brawls. The trade-off is brutal ammo consumption, so it suits aggressive play but demands strong ammunition support to keep firing through longer encounters.",
+  "description": "A Hyperion automatic shotgun with a quad-style layout, built for heavy close-range output and sustained pressure in brawls. It burns multiple shells per trigger pull, so it rewards aggressive play but demands strong ammo support if you want to keep it running through longer fights.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Similar models show up in The Pre-Sequel, including the Crowd-Pleaser. In Borderlands 2 it appears at blue rarity or above from standard world drops. It shines with builds that scale damage during continuous, in-your-face fighting, but you may want ammo relics or regeneration to avoid running dry.",
+  "notes": "Similar models show up in The Pre-Sequel, including the Crowd-Pleaser. Here, it appears at blue rarity or higher from standard world drops. It shines in builds that scale damage during continuous close-range fighting, but ammo relics or regeneration help prevent it from running dry.",
   "sources": [
     {
       "name": "World Drop",

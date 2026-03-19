@@ -10,7 +10,7 @@
   "name": "Bangstick",
   "slug": "bangstick",
   "type": "Shotgun",
-  "description": "The Bangstick is a low-level Torgue shotgun built for basic use and low running costs. It fires for one shell per trigger pull, but offers little to set it apart and is usually outclassed by other shotguns as you progress. Best treated as a stopgap weapon while levelling until better options turn up.",
+  "description": "A low-level Torgue shotgun built for simple, inexpensive use. It fires a single shell per trigger pull but offers little beyond basic explosive shotgun damage, so it is usually a stopgap weapon while leveling rather than something worth building around.",
   "manufacturers": [
     "Torgue"
   ],
@@ -32,5 +32,5 @@
       ]
     }
   ],
-  "notes": "It uses an unusual component layout compared with later, higher-grade Torgue shotguns, which helps explain its weaker overall stats and feel."
+  "notes": "It uses an unusual component layout compared with later, higher-grade Torgue shotguns, which helps explain its weaker overall stats and handling."
 }

@@ -10,7 +10,7 @@
   "name": "Carbene",
   "slug": "carbene",
   "type": "Assault Rifle",
-  "description": "The Carbene is a Bandit assault rifle variant tuned with Dahl-like handling. It trades some damage for better accuracy and recoil management, making it more dependable for controlled bursts than most Bandit rifles with wide spread.",
+  "description": "A Bandit assault rifle variant tuned with Dahl-like handling. It gives up some damage for better accuracy and recoil control, making it more dependable for controlled bursts than most Bandit rifles.",
   "manufacturers": [
     "Bandit"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Obtained as a regular world drop from appropriate loot sources. Internally it is listed as \"Carbinated Carbene\", where the first word acts as a swappable prefix.",
+  "notes": "It is obtained as a regular world drop from suitable loot sources. Internally, it is listed as \"Carbinated Carbene,\" with the first word functioning as a swappable prefix.",
   "sources": [
     {
       "name": "World Drop",

@@ -10,7 +10,7 @@
   "name": "Venom",
   "slug": "venom",
   "type": "SMG",
-  "description": "Venom is a Maliwan SMG variant that always spawns with a fixed elemental Maliwan barrel. This gives it above-average elemental damage over time and a strong status effect chance for its level. With a Maliwan grip, those elemental bonuses can be even higher. Although it is not a top-tier rarity, its reliable elemental procs can carry fights well until you replace it with a rarer or better-suited weapon.",
+  "description": "A Maliwan SMG variant that always spawns with a corrosive barrel, giving it stronger status chance and damage over time than most weapons in its tier. A matching Maliwan grip pushes those strengths even further. It is not a flashy rarity piece, but its reliable corrosive pressure can carry fights for a long time.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Corrosive"
   ],
-  "notes": "Related Maliwan fixed-element SMGs include Provacateur (incendiary), Vexation (shock), Revenant (slag), and Hyperborean (cryo). There is a parts-generation quirk for this set: some blue-rarity guns display purple title text on the item card (and can show as [Purple] in Colourblind Mode). As a result, blue and purple versions with matching parts can end up with identical stats. Dropped at random from any appropriate loot source.",
+  "notes": "Related Maliwan fixed-element SMGs include Provacateur for incendiary, Vexation for shock, Revenant for slag, and Hyperborean for cryo. A parts-generation quirk can make some blue versions display purple title text on the item card, and in Colorblind Mode they may even show as purple. Because of that bug, blue and purple versions with matching parts can end up with identical stats. Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

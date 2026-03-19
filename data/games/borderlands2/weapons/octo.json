@@ -11,7 +11,7 @@
   "name": "Octo",
   "slug": "octo",
   "type": "Shotgun",
-  "description": "The Octo is a rare Tediore shotgun from Borderlands 2. It stands out for staying accurate at longer ranges thanks to its unusual pellet formation in flight. Up close it is less impressive than many other shotguns due to middling overall stats. Instead of steadily spreading out with distance, its pattern repeatedly tightens and loosens as it travels, making the best engagement range harder to judge.",
+  "description": "A Tediore shotgun with an unusual pellet grid that repeatedly tightens and loosens in flight instead of simply spreading outward. That odd pattern gives it better range than most shotguns, though it can feel less impressive up close because its raw stats are only middling. At the right distance, though, the shifting grid can keep far more pellets together than most players expect.",
   "manufacturers": [
     "Tediore"
   ],
@@ -261,9 +261,9 @@
   ],
   "special": {
     "title": "Octo means 9.",
-    "description": "Fires a slow-moving 3x3 pellet grid that cycles between contracting towards the centre and spreading back out as it travels. Reload: thrown like a Tediore, detonating on hitting an enemy or after 1.7s. Reload blast has radius falloff. Damage: [Element] grenade damage = card damage x unused ammo x 4.5 Factor = 0.5 + 0.4 x pellets (min 1.5) Pellets travel in a sine-wave path and leave yellow-orange trails. The grid typically fires 10 pellets with the centre-left point missing; two grid points each carry an extra pellet."
+    "description": "Fires a slow-moving 3x3 pellet grid that contracts toward the center and then spreads back out as it travels. The pellets move in a subtle sine-wave pattern, and the thrown Tediore reload still explodes on impact or after a short delay."
   },
-  "notes": "During the $100,000 Loot Hunt (week 2, day 14) it was a featured drop from the Sheriff of Lynchwood alongside the Fastball, and a same-day hotfix boosted its damage. With the Gentle accessory, it fires 12 pellets; four points in the grid receive two pellets each. The doubled-up grid points can change between shots.",
+  "notes": "During the $100,000 Loot Hunt, it was a featured drop from the Sheriff of Lynchwood alongside the Fastball, and a same-day hotfix boosted its damage. With the Gentle accessory, it fires 12 pellets, with four grid points carrying two pellets each. The doubled-up points can change between shots.",
   "max": {
     "accuracy": 93,
     "damage": 605102,

@@ -10,7 +10,7 @@
   "name": "Troublemaker",
   "slug": "troublemaker",
   "type": "Pistol",
-  "description": "A fully automatic Vladof pistol that pairs strong per shot damage with a very fast fire rate. Its magazine is smaller than many Bandit pistols, but it is generally more accurate, and the recoil, while punchy, is easier to manage.",
+  "description": "A fully automatic Vladof pistol that combines strong per-shot damage with the manufacturer's trademark fire rate. Compared with bulkier Bandit-style pistols, it gives up magazine size for better accuracy and more manageable recoil. The result is a sidearm that still feels aggressive, but less sloppy than other high-capacity bullet hoses.",
   "manufacturers": [
     "Vladof"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Drops randomly from any appropriate loot source.",
+  "notes": "Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

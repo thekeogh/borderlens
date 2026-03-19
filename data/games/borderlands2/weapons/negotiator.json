@@ -10,7 +10,7 @@
   "name": "Negotiator",
   "slug": "negotiator",
   "type": "Pistol",
-  "description": "Dahl pistol with a two-round burst while aiming down sights, plus a fast fire rate and a large magazine. Compared to most Dahl pistols it shoots quicker and kicks less, making burst fire steadier and more damaging over time. With fire rate boosting skills such as Metal Storm, Lay Waste, or Embrace the Pain, the barrel can spin so quickly it can look like both shots happen at once.",
+  "description": "A Dahl pistol with a two-round burst while aiming, backed by a fast fire rate, low recoil, and a generous magazine. Compared with most Dahl pistols, it stays steadier while delivering better sustained damage, and with enough fire-rate boosts the burst can become so quick that it almost looks instantaneous.",
   "manufacturers": [
     "Dahl"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Only appears at green rarity or above. Random world drop from any appropriate loot source.",
+  "notes": "It only appears at green rarity or higher and drops randomly from suitable world-drop sources.",
   "sources": [
     {
       "name": "World Drop",

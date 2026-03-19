@@ -10,7 +10,7 @@
   "name": "Rocketeer",
   "slug": "rocketeer",
   "type": "Assault Rifle",
-  "description": "The Rocketeer is a Vladof launcher that spits compact rockets at a rapid rate, dealing splash damage that can be explosive or elemental. Its key advantage over similar Torpedo-class weapons is ammo efficiency, using just 2 rounds per rocket instead of the 3 to 4 rounds typical of comparable launchers.",
+  "description": "The Rocketeer is a Vladof launcher built around rapid compact rockets and unusually good ammo efficiency for its class. It fires quickly, deals splash damage in either explosive or elemental form, and spends just 2 rounds per shot where similar launchers often demand much more. That efficiency is its real selling point, especially in longer fights where launcher ammo matters.",
   "manufacturers": [
     "Vladof"
   ],
@@ -21,7 +21,7 @@
   "aliases": [
     "Rocketeer (assault rifle)"
   ],
-  "notes": "Available only at green rarity or higher. If it spawns without an accessory or elemental capacitor, it uses the standard grip prefix rather than a unique one. Drops randomly from any appropriate loot source.",
+  "notes": "It only appears at green rarity or higher. If it spawns without an accessory or elemental capacitor, it uses the standard grip prefix rather than a unique one. Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

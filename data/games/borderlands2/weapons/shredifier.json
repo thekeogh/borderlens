@@ -11,7 +11,7 @@
   "name": "Shredifier",
   "slug": "shredifier",
   "type": "Assault Rifle",
-  "description": "Legendary Vladof assault rifle. Starts with a high fire rate and spools up even faster, backed by a much larger magazine (often 90-100 rounds). The extreme rate of fire chews through ammo and kicks up heavy spread, making it most effective up close. Strong with sustained-fire builds: Gaige can lean on The Better Half and Close Enough to raise output and soften accuracy issues, while Salvador can stack gun skills for more fire rate, magazine size, recoil control and damage.",
+  "description": "A Vladof assault rifle built entirely around absurd sustained fire. It starts fast, spins up even faster, and carries a huge magazine, letting it flood the screen with bullets once it gets going. The recoil and spread make it most effective up close, but for builds that can feed its ammo hunger and capitalize on nonstop fire, it is a monster.",
   "manufacturers": [
     "Vladof"
   ],
@@ -248,9 +248,9 @@
     }
   ],
   "special": {
-    "description": "Speed Kills. Very short spin-up. Greatly boosts fire rate and magazine size, with slightly reduced damage. Assault rifle. Non-Jakobs assault rifles suffer a critical hit damage penalty."
+    "description": "It has an extremely short spin-up time and greatly boosts both fire rate and magazine size, trading away a little per-shot damage in return."
   },
-  "notes": "Often misreported as a common drop from Bonehead 2.0, likely confused with the Bone Shredder. Can reach roughly 15.7 base fire rate without skills or class mods; skills can push it higher, and few guns exceed it naturally.",
+  "notes": "It is often misreported as a common drop from Bone Head 2.0, likely because of confusion with the Bone Shredder. Even without skills or class mods, its base fire rate can climb to extremely high levels, and very few guns naturally exceed it.",
   "max": {
     "accuracy": 73.3,
     "damage": 870450,

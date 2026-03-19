@@ -11,7 +11,7 @@
   "name": "Bunny",
   "slug": "bunny",
   "type": "Launcher",
-  "description": "Bunny is a legendary Tediore rocket launcher. Reloading throws the weapon, which then hops and ricochets rather than travelling in a straight line, dropping explosives as it goes before detonating at the end. It excels at area control and sudden burst damage, but uneven ground can send it off course and the reload throw can easily down you at close range.",
+  "description": "A legendary Tediore rocket launcher whose thrown reload hops and ricochets instead of flying in a straight line, dropping explosives as it goes before ending in a final blast. That gives it excellent area control and burst damage, but uneven terrain can send it veering off course and the reload throw is dangerous at close range.",
   "manufacturers": [
     "Tediore"
   ],
@@ -248,7 +248,7 @@
     "title": "Hippity hoppity!",
     "description": "Reload throws the launcher. It bounces in a hopping path, repeatedly drops live explosives, then finishes with a final detonation."
   },
-  "notes": "Bounce direction is highly terrain-dependent, so throwing it in tight spaces is dangerous. A Loot Hunt balance pass increased its damage and magazine size. Both the thrown reload explosion and the dropped explosives scale with grenade damage bonuses.",
+  "notes": "Its bounce pattern depends heavily on the terrain, so using it in cramped spaces is risky. A Loot Hunt balance pass increased both its damage and magazine size. The dropped explosives and the final reload detonation both scale with grenade-damage bonuses.",
   "max": {
     "accuracy": 75.3,
     "damage": 16558332,

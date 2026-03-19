@@ -10,7 +10,7 @@
   "name": "BlASSter",
   "slug": "blasster",
   "type": "Assault Rifle",
-  "description": "The BlASSter is a Bandit E-tech assault rifle that launches elemental energy bolts, consuming two rounds per trigger pull. It can roll very large magazines and keeps Bandit-style recoil and reload feel. Downsides include slow projectiles, weaker critical hits, and poor damage per ammo spent, so it tends to fall off quickly and is usually replaced by stronger AR options during progression.",
+  "description": "A Bandit E-tech assault rifle that fires elemental energy bolts for the cost of two rounds per shot. It can roll very large magazines and keeps the usual Bandit feel for recoil and reloads, but slow projectiles, weak critical hits, and poor ammo efficiency make it hard to justify for long.",
   "manufacturers": [
     "Bandit"
   ],
@@ -23,7 +23,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "A standard world drop from appropriate loot sources. A version tied to Medical Mystery: X-Com-municate can bug out and spawn missing typical E-tech parts, such as the capacitor, sight, or accessory.",
+  "notes": "It is a standard world drop from suitable loot sources. A version tied to Medical Mystery: X-Com-municate can bug out and spawn without typical E-tech parts such as the capacitor, sight, or accessory.",
   "sources": [
     {
       "name": "World Drop",

@@ -10,7 +10,7 @@
   "name": "Sportsman",
   "slug": "sportsman",
   "type": "Shotgun",
-  "description": "A fairly weak Tediore shotgun, with noticeably low damage and a smaller magazine than similar models. In return it only spends one round per trigger pull, and the Hyperion barrel helps keep its accuracy steadier than most Tediore shotguns.",
+  "description": "A fairly weak Tediore shotgun whose main saving grace is that it spends only one shell per shot. Its damage and magazine size are both underwhelming, but the Hyperion barrel helps it stay more accurate than most Tediore shotguns. It is serviceable, though rarely exciting.",
   "manufacturers": [
     "Tediore"
   ],
@@ -25,7 +25,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Drops randomly from any appropriate loot source.",
+  "notes": "Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

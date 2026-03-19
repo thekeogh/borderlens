@@ -10,7 +10,7 @@
   "name": "Scattergun",
   "slug": "scattergun",
   "type": "Shotgun",
-  "description": "The Scattergun is a Jakobs shotgun built for close-quarters fights, delivering strong per-shot damage with a firing speed limited only by the trigger pull. Accuracy is middling to poor, and many variants carry just one or two shells, so you will be reloading often. Versions with a Tediore barrel typically fire fewer pellets, reducing overall damage and leaving them behind other Jakobs shotguns.",
+  "description": "The Scattergun is a Jakobs shotgun built for aggressive close-quarters play, delivering heavy per-shot damage as fast as you can pull the trigger. Its accuracy is only fair, and many rolls carry just one or two shells, so it trades comfort for raw burst. Versions with a Tediore barrel lose pellet count and fall noticeably behind the stronger Jakobs variants.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -18,7 +18,7 @@
     "Common",
     "Uncommon"
   ],
-  "notes": "Drops randomly from any appropriate loot source.",
+  "notes": "Random world drop from any suitable loot source.",
   "sources": [
     {
       "name": "World Drop",

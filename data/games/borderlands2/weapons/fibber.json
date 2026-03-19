@@ -11,7 +11,7 @@
   "name": "Fibber",
   "slug": "fibber",
   "type": "Pistol",
-  "description": "Hyperion rare pistol with three distinct barrel variants. Variant 1 fires slow, shotgun-like pellets; the card shows x1 damage (x2 with Redundant). Bullet-speed boosts such as Zer0's Vel0city and Maya's Accelerate help. Variant 2 fires a round that shatters on impact or after ricocheting, spawning extra pellets; it has the highest listed damage. Variant 3 fires arcing shots that can ricochet and has an unlisted +700% critical hit damage bonus; it shows low listed gun damage.",
+  "description": "A rare Hyperion pistol with three radically different barrel variants, each behaving almost like a different weapon. One fires slow, shotgun-like pellets, one fires a round that shatters into extra projectiles on impact or after a ricochet, and one fires arcing ricochet shots with a massive hidden critical-hit bonus. Its weapon card is famously misleading, so the real value of a Fibber depends heavily on which barrel it rolled.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -260,9 +260,9 @@
   ],
   "special": {
     "title": "Would I lie to you?",
-    "description": "Would I lie to you? Weapon card stats are inaccurate. Effects depend on the barrel. The shatter/ricochet variant can produce ricocheted pellets that ignore some penalties, letting Gaige's Close Enough and high Anarchy stacks hit for full damage. The spawned pellets are not treated as multiple projectiles, so amp shields (notably The Bee) apply their full bonus, making this variant extremely strong."
+    "description": "Its weapon card stats are inaccurate, and the exact behavior depends on the barrel. The shatter variant is especially notable because its spawned pellets can ignore some penalties and still receive full amp-shield bonuses, which makes it extremely strong in the right setups."
   },
-  "notes": "Hotfix 23 Oct 2013 increased magazine size and accuracy recovery for the Fibber and other Hyperion pistols.",
+  "notes": "A hotfix released on October 23, 2013 increased magazine size and accuracy recovery for the Fibber and other Hyperion pistols.",
   "max": {
     "accuracy": 90.5,
     "damage": 6798891,

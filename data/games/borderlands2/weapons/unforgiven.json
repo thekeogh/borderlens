@@ -11,7 +11,7 @@
   "name": "Unforgiven",
   "slug": "unforgiven",
   "type": "Pistol",
-  "description": "Unforgiven is a Pearlescent Jakobs pistol from Borderlands 2 Ultimate Upgrade Pack. A true hand-cannon, it delivers very high damage, exceptional accuracy, and the strongest critical hit output of any pistol. The trade-off is a notably slow fire rate for a Jakobs weapon, so it performs best at mid to long range where you can line up precision shots. Ideal for consistently hitting weak spots.",
+  "description": "A Jakobs hand cannon built almost entirely around precision and critical hits. It combines very high damage, excellent accuracy, and one of the most punishing critical-hit bonuses any pistol can offer, making it devastating when you can consistently hit weak spots. The cost is an unusually slow fire rate, so it shines most at medium to long range where deliberate shots matter more than panic fire.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -234,9 +234,9 @@
   ],
   "special": {
     "title": "It's a helluva thing...",
-    "description": "Grants +75% critical hit damage that scales with level and is multiplicative. This stacks on top of the standard Jakobs pistol bonus (+50% crit damage, additive). Effect profile: higher damage and accuracy, slower fire rate, increased recoil, and longer accuracy recovery."
+    "description": "Adds a large multiplicative critical-hit bonus on top of the usual Jakobs pistol crit damage. It also leans into higher damage and accuracy at the cost of slower fire rate, heavier recoil, and slower accuracy recovery."
   },
-  "notes": "Its combined critical hit bonuses work out to about 4.375x damage on crits. For comparison, a Jakobs sniper rifle typically reaches around 5.2x on critical hits.",
+  "notes": "Its combined critical-hit bonuses produce extremely high crit damage for a pistol, though Jakobs sniper rifles still edge it out overall on pure critical multipliers.",
   "elements": [
     "None"
   ],

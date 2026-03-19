@@ -10,7 +10,7 @@
   "name": "Renegade",
   "slug": "renegade",
   "type": "Assault Rifle",
-  "description": "Renegades generally fire faster than most guns of their type and stay steady under sustained fire. With Dahl parts, recoil is reduced but raw damage also drops. The stability improves accuracy, making it easier to land most or all shots in a magazine and keep rounds on target quickly, which helps stretch your ammo.",
+  "description": "Renegades generally fire faster than most weapons in their class and stay steady during sustained fire. Dahl parts push them further toward control by reducing recoil at the cost of some raw damage. The result is a weapon line built around keeping rounds on target quickly and efficiently rather than chasing the hardest single-shot numbers.",
   "manufacturers": [
     "Vladof"
   ],
@@ -28,7 +28,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "The Gearbox Renegade was only available through the Premiere Club pre-order bonus. The Renegade can drop at random from any appropriate loot source.",
+  "notes": "The Gearbox Renegade was only available through the Premiere Club pre-order bonus. Standard Renegades are random world drops from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

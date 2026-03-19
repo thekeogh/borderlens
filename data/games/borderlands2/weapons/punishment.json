@@ -10,7 +10,7 @@
   "name": "Punishment",
   "slug": "punishment",
   "type": "Launcher",
-  "description": "A Torgue barrel boosts this launcher's damage, but the projectile travels slower and follows a lobbed trajectory, reducing effective range and making long shots harder.",
+  "description": "A launcher fitted with a Torgue barrel, trading easier long-range use for heavier damage, slower projectiles, and a more pronounced lobbed trajectory.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Dropped randomly from any appropriate loot source.",
+  "notes": "Random world drop from any suitable loot source.",
   "sources": [
     {
       "name": "World Drop",

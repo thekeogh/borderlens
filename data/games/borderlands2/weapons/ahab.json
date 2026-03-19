@@ -11,7 +11,7 @@
   "name": "Ahab",
   "slug": "ahab",
   "type": "Launcher",
-  "description": "Ahab is a Seraph-grade Torgue rocket launcher with very high per-shot burst damage. The projectile has a pronounced arc and the splash radius is tiny, so it is less dependable at range. Increasing projectile speed helps extend its usable distance.",
+  "description": "A Seraph-grade Torgue rocket launcher with very high burst damage per shot. It fires an arcing harpoon-like rocket with only minimal splash, which makes it less dependable at range, though higher projectile speed helps extend its practical reach.",
   "manufacturers": [
     "Torgue"
   ],
@@ -212,9 +212,9 @@
   ],
   "special": {
     "title": "for hate's sake.",
-    "description": "Shoots an arcing harpoon rocket that detonates on hitting an enemy, or after about 1.5 seconds if it strikes terrain. It trades damage for a slow reload, small magazine and minimal splash. The damage is treated as neutral rather than explosive, so explosive damage boosts such as relic bonuses do not apply."
+    "description": "Shoots an arcing harpoon-like rocket that detonates on hitting an enemy, or after a short delay if it strikes terrain. It trades its enormous damage for a slow reload, a tiny magazine, and minimal splash. Its damage is treated as neutral rather than explosive, so explosive-damage bonuses do not apply."
   },
-  "notes": "Hip-fire spread can feel inconsistent, making it a shaky option for Fight For Your Life unless you can line up shots or control distance.",
+  "notes": "Its hip-fire spread can feel inconsistent, which makes it a shaky Fight For Your Life weapon unless you can control the distance or line up shots carefully.",
   "max": {
     "accuracy": 73.3,
     "damage": 63847332,

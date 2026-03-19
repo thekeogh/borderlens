@@ -10,7 +10,7 @@
   "name": "Ratatater!",
   "slug": "ratatater",
   "type": "Pistol",
-  "description": "Ratatater! handles like a pocket SMG: slower firing than most, but it hits harder. Its Vladof barrel raises fire rate and magazine size while reducing recoil, trading away accuracy. That makes it strongest up close to mid-range where sustained fire and wide spread can overwhelm targets. Use longer bursts to get the most out of it; the heavy scatter makes it unreliable at distance, but a good roll can still be extremely effective.",
+  "description": "Ratatater! behaves like a pocket SMG, trading some of a pistol's usual precision for heavier sustained damage. Its Vladof barrel boosts fire rate and magazine size while reducing recoil, but the accuracy loss keeps it strongest at close to medium range. Lean into longer bursts and raw pressure rather than trying to use it like a careful marksman's sidearm.",
   "manufacturers": [
     "Bandit"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "World drop from any appropriate loot source. Only appears at green rarity or higher.",
+  "notes": "Random world drop from suitable loot sources. It only appears at green rarity or higher.",
   "sources": [
     {
       "name": "World Drop",

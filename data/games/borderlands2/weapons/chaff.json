@@ -10,7 +10,7 @@
   "name": "Chaff",
   "slug": "chaff",
   "type": "SMG",
-  "description": "Chaff is a Tediore SMG that always spawns in slag. For its rarity it offers high status application and respectable damage over time, making it especially useful in longer engagements where keeping slag on targets is important. Its limited set of possible parts also makes it show up less frequently than its colour tier might imply.",
+  "description": "A Tediore SMG locked to slag damage, offering strong status application and respectable damage over time for its rarity. It is especially useful in longer fights where keeping slag active matters, and its limited pool of valid parts makes it rarer than its color tier might suggest.",
   "manufacturers": [
     "Tediore"
   ],
@@ -21,7 +21,7 @@
   "elements": [
     "Slag"
   ],
-  "notes": "Other Tediore SMGs with locked elements include Green (corrosive), Kindle (incendiary) and Spark (shock). Chaff can appear as a normal world drop from appropriate loot sources.",
+  "notes": "Other Tediore SMGs with locked elements include Green for corrosive, Kindle for incendiary, and Spark for shock. It can appear as a normal world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

@@ -10,14 +10,14 @@
   "name": "ERROR MESSAGE",
   "slug": "error-message",
   "type": "Launcher",
-  "description": "Error Message is a hacked rocket launcher that cannot be obtained normally. It only functions once the Captain Scarlett and Her Pirate's Booty DLC is installed, and is typically added via save editing or acquired through trades.",
+  "description": "A hacked rocket launcher that cannot be obtained normally. It is typically added through save editing or acquired by trade, and it only functions if the required content is installed.",
   "manufacturers": [
     "Torgue"
   ],
   "rarities": [
     "Rare"
   ],
-  "notes": "Access is limited to save editors, mods, or trading, and the Captain Scarlett and Her Pirate's Booty DLC must be present. It is treated as a Torgue launcher but uses a purple Tediore-style skin. Its behaviour matches the Ahab, firing explosive harpoons. If spawned with Master Gee, it rolls a random prefix and parts but always has a Maliwan barrel. Its damage largely scales with Master Gee's remaining health, increasing as his health drops.",
+  "notes": "Access is limited to save editors, mods, or trading, and the required content must be present. It is treated as a Torgue launcher but uses a purple Tediore-style skin. Its behavior matches the Ahab, firing explosive harpoons. If spawned with Master Gee, it rolls random parts and a random prefix but always uses a Maliwan barrel. Its damage also scales largely from Master Gee's remaining health, increasing as his health drops.",
   "sources": [
     {
       "name": "World Drop",

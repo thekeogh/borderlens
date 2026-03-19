@@ -10,7 +10,7 @@
   "name": "Ass Beeter! (pistol)",
   "slug": "ass-beeter-pistol",
   "type": "Pistol",
-  "description": "A Bandit-bodied pistol fitted with a Jakobs barrel. It hits harder and shoots straighter, but the slower fire rate and kick make rapid follow-up shots less forgiving. Best used for deliberate headshots, with the larger Bandit magazine helping it stay efficient between reloads.",
+  "description": "A Bandit pistol fitted with a Jakobs barrel, giving it stronger damage and better accuracy than a more typical Bandit sidearm. The slower fire rate and heavier kick make rapid follow-up shots less forgiving, so it is best used for deliberate, well-placed hits.",
   "manufacturers": [
     "Bandit"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Spawns at green rarity or above and is most commonly found as a world drop.",
+  "notes": "It spawns at green rarity or higher and is most commonly found as a standard world drop.",
   "sources": [
     {
       "name": "World Drop",

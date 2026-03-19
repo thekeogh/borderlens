@@ -11,7 +11,7 @@
   "name": "Conference Call",
   "slug": "conference-call",
   "type": "Shotgun",
-  "description": "Conference Call is a legendary Hyperion shotgun built around extreme pellet density. Its main pellets keep travelling and keep producing extra side shots, so damage ramps up when multiple hits land on the same target. It shines on big enemies, bosses and anything with broad hit areas, where the spawned projectiles overlap for strong sustained DPS. Practicable versions amplify this even further.",
+  "description": "A legendary Hyperion shotgun built around traveling center pellets that keep spawning extra sideways shots in flight. When several of those hits overlap on the same target, its damage ramps up dramatically, which makes it especially strong against bosses, large enemies, and anything with a broad hitbox.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -260,7 +260,7 @@
     "title": "Let's just ping everyone all at once.",
     "description": "Fires penetrating centre pellets that periodically spawn additional sideways pellets while in flight, producing multiple horizontal waves from a single trigger pull."
   },
-  "notes": "Works best with skills and effects that benefit from repeated pellet impacts, including multi-hit critical setups. Slag versions are particularly useful in UVHM because the high pellet count makes slag application reliable. It can also be acquired from Butt Stallion in the Tiny Tina's Assault on Dragon Keep content.",
+  "notes": "It works best with skills and effects that benefit from repeated pellet impacts, including multi-hit critical setups. Slag versions are especially useful in UVHM because the high pellet count makes slag application reliable. It can also be acquired from Butt Stallion.",
   "max": {
     "accuracy": 70.4,
     "damage": 693056,

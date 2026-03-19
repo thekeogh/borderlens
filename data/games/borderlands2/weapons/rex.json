@@ -11,7 +11,7 @@
   "name": "Rex",
   "slug": "rex",
   "type": "Pistol",
-  "description": "Rex is a rare Jakobs pistol. It handles more like a slow, hard-hitting rifle than a sidearm, suiting medium to long range. Its large pistol ammo pool supports sustained picks, but it lacks sniper projectile speed and built-in crit scaling, and some versions may have no scope. Its crit bonus is additive, stacking cleanly with most crit boosts. Versus a standard Jakobs pistol, the rise from 250% to 300% crit damage is roughly a 20% real gain, aside from its much higher base damage.",
+  "description": "A Jakobs pistol that behaves more like a compact rifle than a normal sidearm, with heavy shots and a pace better suited to medium- and long-range picking than panic firing. Its real appeal is the added critical-hit bonus layered on top of a very high base damage profile, giving it excellent payoff for clean aimed shots. It still lacks true sniper projectile speed, but it remains one of the most rifle-like pistols in the game.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -228,9 +228,9 @@
   ],
   "special": {
     "title": "Basically, it's a big gun.",
-    "description": "Unique bonuses: - Greatly increased damage (about +220%). - +50% additive critical hit damage, on top of the usual Jakobs additive crit bonus. Trade-off: extremely low fire rate for a Jakobs pistol."
+    "description": "It carries a massive damage boost and an extra additive critical-hit bonus on top of the usual Jakobs crit bonus. The trade-off is an extremely low fire rate for a Jakobs pistol."
   },
-  "notes": "The red text is not literal. Jakobs guns still have a listed maximum fire rate, and Rex has an unusually low cap for a Jakobs pistol.",
+  "notes": "The red text is not literal. Jakobs weapons still have a listed maximum fire rate, and Rex has an unusually low cap for one of their pistols.",
   "elements": [
     "None"
   ],

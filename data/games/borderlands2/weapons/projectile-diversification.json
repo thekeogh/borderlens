@@ -10,7 +10,7 @@
   "name": "Projectile Diversification",
   "slug": "projectile-diversification",
   "type": "Shotgun",
-  "description": "Uses a Tediore barrel, trading a small amount of accuracy for this setup.",
+  "description": "A straightforward launcher roll built around a Tediore barrel, sacrificing a little accuracy in exchange for the Tediore-style setup.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Dropped at random from any appropriate loot source.",
+  "notes": "Random world drop from any suitable loot source.",
   "sources": [
     {
       "name": "World Drop",

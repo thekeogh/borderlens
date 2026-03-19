@@ -10,7 +10,7 @@
   "name": "Defender",
   "slug": "defender",
   "type": "Assault Rifle",
-  "description": "The Defender is a Dahl assault rifle geared towards accurate long-range fire. It trades rate of fire for tighter handling and improved damage per shot, rewarding careful trigger discipline. Up close, especially when firing from the hip, it tends to underperform compared to faster options.",
+  "description": "A Dahl assault rifle geared toward accurate long-range fire. It trades fire rate for tighter handling and stronger damage per shot, rewarding careful trigger discipline and controlled bursts. Up close, especially from the hip, it tends to feel weaker than faster rifles.",
   "manufacturers": [
     "Dahl"
   ],
@@ -29,7 +29,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Can appear as a standard world drop from appropriate loot sources.",
+  "notes": "It can appear as a standard world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

@@ -10,7 +10,7 @@
   "name": "Shotgun Supreme!",
   "slug": "shotgun-supreme",
   "type": "Shotgun",
-  "description": "Shotgun Supreme! is widely considered one of the weaker variants. It burns through ammo at an extreme rate per trigger pull, yet still fails to deliver the damage you would expect compared with other versions or even most Tediore shotguns.",
+  "description": "Shotgun Supreme! is one of the weaker variants in its line, chewing through ammo at an absurd rate without delivering the payoff you would expect. Even by Tediore standards, its damage struggles to justify the cost per trigger pull.",
   "manufacturers": [
     "Tediore"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Only appears in blue or purple rarity.",
+  "notes": "It only appears at blue or purple rarity.",
   "sources": [
     {
       "name": "World Drop",

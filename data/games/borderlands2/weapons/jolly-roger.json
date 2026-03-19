@@ -11,7 +11,7 @@
   "name": "Jolly Roger",
   "slug": "jolly-roger",
   "type": "Shotgun",
-  "description": "Rare Bandit shotgun from the Pirate's Booty DLC. It fires 18 pellets per shot, or 20 with a foregrip, while consuming 3 shells, making it efficient for a triple barrel and closer to quad barrel pellet output. The fixed pellet layout rewards careful positioning, especially against broad targets like skags, spiderants, and loaders. Gaige can get extra value from Close Enough, helping more pellets land for strong damage per ammo spent.",
+  "description": "A Bandit shotgun with an unusually high pellet count and a fixed skull-and-crossbones spread. It delivers the kind of coverage you would expect from a much heavier multi-barrel shotgun while staying relatively ammo-efficient for the damage it can put out. The locked pattern rewards deliberate positioning, especially against broad targets such as skags, spiderants, and loaders, and Gaige can get extra mileage from Close Enough.",
   "manufacturers": [
     "Bandit"
   ],
@@ -261,9 +261,9 @@
   ],
   "special": {
     "title": "A Pirate's Life for me!",
-    "description": "Fires a fixed spread that draws a skull and crossbones. Unique red text effect: higher pellet count with a locked pattern."
+    "description": "Fires a fixed pellet pattern shaped like a skull and crossbones, with a higher pellet count than most comparable Bandit shotguns."
   },
-  "notes": "Its in-game name is Captain Scarlett's Jolly Roger, but the Captain Scarlett's prefix is overridden by grip or accessory prefixes. A 14/10/2013 hotfix increased Bandit shotgun magazine size by 1 and slightly improved reload speed, affecting this weapon as well.",
+  "notes": "Its full in-game name is Captain Scarlett's Jolly Roger, though the Captain Scarlett's prefix can be replaced by grip or accessory prefixes. A hotfix on October 14, 2013 increased Bandit shotgun magazine size by 1 and slightly improved reload speed, which affected this weapon as well.",
   "max": {
     "accuracy": 36,
     "damage": 70861,

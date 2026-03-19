@@ -10,7 +10,7 @@
   "name": "Anaconda",
   "slug": "anaconda",
   "type": "Pistol",
-  "description": "Anaconda is a Dahl pistol built with a Hyperion barrel, giving it tighter grouping and better critical hit output. It suits measured, accurate shooting more than uncontrolled spray-and-pray fire.",
+  "description": "A Dahl pistol built with a Hyperion barrel, giving it tighter grouping and better critical-hit performance. It suits measured, accurate shooting far more than wild spray-and-pray fire.",
   "manufacturers": [
     "Dahl"
   ],
@@ -25,7 +25,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Typically found as a random world drop.",
+  "notes": "It is typically found as a standard world drop.",
   "sources": [
     {
       "name": "World Drop",

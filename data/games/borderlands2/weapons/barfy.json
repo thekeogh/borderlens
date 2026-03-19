@@ -10,7 +10,7 @@
   "name": "Barfy",
   "slug": "barfy",
   "type": "SMG",
-  "description": "Barfy is a Bandit SMG with always-on corrosive damage and a Maliwan-type barrel. It is built for reliable status effects over pinpoint accuracy, letting you melt armour and keep corrosive damage ticking on several enemies. Spray into crowds, keep firing, and let the damage over time finish the job.",
+  "description": "A Bandit SMG with fixed corrosive damage and a Maliwan-style barrel, built more around status output than pinpoint accuracy. It is well suited to melting armor and spreading corrosive damage over time through groups rather than picking off targets with precision.",
   "manufacturers": [
     "Bandit"
   ],
@@ -31,5 +31,5 @@
       ]
     }
   ],
-  "notes": "Best in armour-heavy areas, such as encounters packed with Loaders, where its fixed corrosive element stays consistently effective."
+  "notes": "It performs best in armor-heavy areas, especially against groups of Loaders, where its fixed corrosive element stays consistently useful."
 }

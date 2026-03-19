@@ -10,7 +10,7 @@
   "name": "Wellness",
   "slug": "wellness",
   "type": "SMG",
-  "description": "Hyperion SMGs tighten their spread the longer you hold the trigger, rather than kicking wider. The accuracy stat shown reflects their fully stabilised performance. Wellness is a Hyperion SMG variant that always rolls with a fixed-element Maliwan barrel, giving stronger damage-over-time and a higher status chance than standard parts. A Maliwan grip can push these elemental bonuses further. Even at lower rarities, its reliable procs can carry you until you find a better drop.",
+  "description": "A Hyperion SMG that tightens up the longer you hold the trigger and always spawns with a slag Maliwan barrel. That fixed element gives it stronger status chance and damage over time than standard parts, while a matching Maliwan grip can push those strengths even further. Even at lower rarities, its dependable slag application can make it worth carrying for a long time.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Slag"
   ],
-  "notes": "Related Hyperion SMGs with fixed-element Maliwan barrels include Backburner (incendiary), Cooler (cryo), Storm (shock), and Weisenheimer (corrosive). Wellness spawns at green rarity or above. It is a world drop from any appropriate loot source.",
+  "notes": "Related Hyperion SMGs with fixed-element Maliwan barrels include Backburner for incendiary, Cooler for cryo, Storm for shock, and Weisenheimer for corrosive. It appears at green rarity or above and drops randomly from suitable world-drop sources.",
   "sources": [
     {
       "name": "World Drop",

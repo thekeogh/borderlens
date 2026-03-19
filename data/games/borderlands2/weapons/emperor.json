@@ -11,7 +11,7 @@
   "name": "Emperor",
   "slug": "emperor",
   "type": "SMG",
-  "description": "The Emperor is a Legendary Dahl SMG with notably high damage per shot for its class, traded for a slower rate of fire. While aiming it fires in a 6-round burst (7 with a Dahl stock), letting it keep pace even if not every round connects. It is strongest at medium to long range, where burst control makes critical hits easier to land.",
+  "description": "A legendary Dahl SMG with unusually high damage per shot for its class, balanced by a slower fire rate. While aiming, it fires a long burst that can pierce targets, which helps it keep pressure up even when every round does not land cleanly. It is strongest at medium to long range, where burst control makes critical hits easier to line up.",
   "manufacturers": [
     "Dahl"
   ],
@@ -264,7 +264,7 @@
     "title": "you know... for him.",
     "description": "Aiming switches the Emperor to a 6-round burst (7 with a Dahl stock) that fires in a straight line and pierces targets. It also comes with boosted magazine size and damage. In exchange, it fires more slowly and has reduced accuracy."
   },
-  "notes": "A Dahl stock changes the aimed burst to 7 rounds. Assassins have an increased chance to drop it; seeing multiple copies in a single run is uncommon but can happen. A 2013 hotfix (Patch 1.8) increased magazine size by 8 and boosted damage by 8% across all variants.",
+  "notes": "A Dahl stock changes the aimed burst to seven rounds. Assassins have an increased chance to drop it, and while seeing multiple copies in one run is uncommon, it can happen. A 2013 hotfix increased both its magazine size and damage across all variants.",
   "max": {
     "accuracy": 89.1,
     "damage": 937242,

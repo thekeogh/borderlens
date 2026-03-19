@@ -10,7 +10,7 @@
   "name": "Moloko",
   "slug": "moloko",
   "type": "Sniper",
-  "description": "An E-tech sniper with an extreme fire rate that can empty its magazine in seconds. Shots ricochet off surfaces and targets. Against grounded foes, firing into the floor and letting recoil climb can make the bouncing rounds strike enemies, which is handy versus shielded Nomads. It handles more like a rapid-fire, low-capacity assault rifle than a traditional sniper. Zer0s B0re does not interact with it.",
+  "description": "An E-tech sniper with such an extreme fire rate that it behaves more like a frantic assault rifle than a traditional long-range weapon. Its shots ricochet off both surfaces and targets, which lets it do odd but effective work by bouncing rounds up from the floor into grounded enemies. It is better treated as an elemental bullet hose than a crit-focused sniper.",
   "manufacturers": [
     "Vladof"
   ],
@@ -31,5 +31,5 @@
       ]
     }
   ],
-  "notes": "Its very high elemental effect chance makes it a strong pick for elemental play, particularly on Gaige and Maya. Gaige can get good results in Ordered Chaos thanks to the high fire rate, accuracy, small magazine and solid damage, while Little Big Trouble pairs especially well with a shock version. Like other E-tech guns it has reduced critical hit damage, so crit-focused sniping is inefficient and it is best used for elemental damage."
+  "notes": "Its very high elemental effect chance makes it especially strong for elemental play, particularly on Gaige and Maya. Gaige can get good results in Ordered Chaos thanks to the high fire rate, decent accuracy, small magazine, and solid damage, while Little Big Trouble pairs especially well with a Shock version. Like other E-tech guns, it has reduced critical-hit damage, so crit-focused sniping is inefficient compared with leaning into elemental damage."
 }

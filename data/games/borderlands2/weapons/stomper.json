@@ -11,7 +11,7 @@
   "name": "Stomper",
   "slug": "stomper",
   "type": "Assault Rifle",
-  "description": "Rare Jakobs assault rifle. Hits hard per shot with a brisk semi-auto cadence and a generous magazine. It advertises a large critical hit bonus, but its crit calculation is unusual, so the real boost is smaller than the card implies, particularly when combined with other crit bonuses. Still, it outperforms most standard Jakobs ARs on crits and suits players who want reliable, high per-shot damage.",
+  "description": "A Jakobs assault rifle with heavy per-shot damage, a brisk semi-automatic pace, and a surprisingly generous magazine for the manufacturer. Its advertised critical-hit bonus is less explosive in practice than the card implies, but it still outperforms most standard Jakobs rifles when you are landing weak-point hits. The overall result is a dependable rifle for players who want hard, deliberate shots rather than automatic spray.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -217,7 +217,7 @@
   ],
   "special": {
     "title": "Oh, sorry, was that your head?",
-    "description": "Passive: +50% critical hit damage (scales). Jakobs ARs also have +30% critical hit damage. Flavour text: Oh, sorry, was that your head?"
+    "description": "Adds an extra critical-hit bonus on top of the usual Jakobs assault-rifle crit damage, reinforcing its identity as a precision semi-auto rifle."
   },
   "notes": "",
   "elements": [

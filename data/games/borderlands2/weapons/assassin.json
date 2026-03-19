@@ -10,8 +10,8 @@
   "name": "Assassin",
   "slug": "assassin",
   "type": "Pistol",
-  "description": "Assassin is a machine pistol variant fitted with a Hyperion barrel. It offers a small boost to critical hit damage and improves accuracy and stability the longer you keep firing. Best used as a quick sidearm for precise close to mid range fights.",
-  "notes": "Usually found as a standard world drop.",
+  "description": "A Vladof machine pistol fitted with a Hyperion barrel, giving it better critical-hit performance and the usual Hyperion-style accuracy improvement during sustained fire. It works best as a quick sidearm for precise engagements at close to medium range.",
+  "notes": "It is usually found as a standard world drop.",
   "manufacturers": [
     "Vladof"
   ],

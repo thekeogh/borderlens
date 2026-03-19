@@ -10,7 +10,7 @@
   "name": "Synergy",
   "slug": "synergy",
   "type": "Pistol",
-  "description": "Hyperion repeaters start off with noticeable sway, then steady up as you keep firing. The accuracy stat shown reflects the weapon at maximum stability during sustained fire. With a Vladof barrel, Synergy gains a larger magazine, faster fire rate and lighter recoil, but loses some pinpoint precision compared to other Hyperion pistols. It performs best at close to mid range and can drop targets quickly, particularly for Zer0.",
+  "description": "A Hyperion repeater that trades some of the brand's usual pinpoint feel for a Vladof barrel's faster pace, larger magazine, and lighter recoil. It still rewards sustained fire as the aim tightens, but it plays more like an aggressive close- to mid-range machine pistol than a careful precision sidearm.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "A related Hyperion pistol, the Expeditious, appears in Borderlands: The Pre-Sequel. Drops randomly from any appropriate loot source. Only appears at green rarity or higher.",
+  "notes": "A related Hyperion pistol, the Expeditious, appears in Borderlands: The Pre-Sequel. It only appears at green rarity or higher and drops randomly from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

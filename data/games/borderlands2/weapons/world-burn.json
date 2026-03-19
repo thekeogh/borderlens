@@ -11,7 +11,7 @@
   "name": "World Burn",
   "slug": "world-burn",
   "type": "Launcher",
-  "description": "World Burn is an Effervescent Torgue rocket launcher from the Fight for Sanctuary DLC. It launches incendiary rockets on a steep arc, detonating for huge damage and a wide splash, often dropping foes in one or two hits and helping secure Second Wind. The blast can also catch you at close range, so keep distance and use cover. The arc limits long-range use but lets you lob shots over obstacles and into enemies behind cover.",
+  "description": "An incendiary Torgue launcher that fires arcing rockets and ends each shot in a huge mushroom-cloud explosion. It hits extremely hard, has a generous splash radius, and often drops enemies in a shot or two, making it excellent for crowd clearing and emergency Second Winds. The steep arc limits direct long-range use, but it also lets you lob shots over cover and into enemies that would normally be hard to reach.",
   "manufacturers": [
     "Torgue"
   ],
@@ -205,9 +205,9 @@
   ],
   "special": {
     "title": "War does not compute.",
-    "description": "War does not compute. Always incendiary. Fires arcing rockets that detonate into a mushroom-cloud explosion. Higher damage and magazine size, but slower reload speed."
+    "description": "Always incendiary. Fires arcing rockets that detonate into a mushroom-cloud explosion. It also has higher damage and magazine size in exchange for slower reload speed."
   },
-  "notes": "Shares its core behaviour with the Nukem, but World Burn is always incendiary, consumes 1 rocket per shot, and generally offers higher base damage, a larger magazine, and slower reloads. It can roll different accessories but never gets a prefix. A rocket-velocity part boosts effective range while flattening the arc, making indirect shots over cover harder. Maya's Accelerate and Zer0's Vel0city help at medium to long range. Lt. Bolson has a 20% drop chance.",
+  "notes": "It shares its core behavior with the Nukem, but it is always incendiary, consumes only 1 rocket per shot, and generally offers higher base damage, a larger magazine, and slower reloads. It can roll different accessories but never gets a prefix. A rocket-velocity part increases effective range while flattening the arc, which makes indirect shots over cover harder. Maya's Accelerate and Zer0's Vel0city help at medium to long range. Lt. Bolson has a 20% drop chance.",
   "max": {
     "accuracy": 73.3,
     "damage": 56557676,

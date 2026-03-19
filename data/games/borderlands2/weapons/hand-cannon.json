@@ -10,7 +10,7 @@
   "name": "Hand Cannon",
   "slug": "hand-cannon",
   "type": "Pistol",
-  "description": "Hand Cannons are pistols that can roll with one of four barrel types, each changing performance: - Dahl barrel: better handling, including accuracy, recoil and recoil recovery. - Tediore barrel: higher damage at the cost of accuracy. - Bandit or scav barrel: higher damage at the cost of accuracy. - Maliwan barrel: small accuracy boost.",
+  "description": "A pistol family whose feel changes heavily with barrel type. Dahl barrels favor cleaner handling, Tediore and Bandit-style barrels push damage at the cost of accuracy, and Maliwan barrels offer a smaller accuracy-focused adjustment. In practice, the exact roll matters more than the base name.",
   "manufacturers": [
     "Torgue"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Explosive"
   ],
-  "notes": "Drops randomly from any appropriate loot source.",
+  "notes": "It drops randomly from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

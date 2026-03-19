@@ -10,7 +10,7 @@
   "name": "Chinook",
   "slug": "chinook",
   "type": "Sniper",
-  "description": "The Chinook is a Jakobs sniper rifle variant tuned for steadier shooting. It typically gives up some peak damage in exchange for better accuracy and cleaner handling, making it a strong pick when reliable shot placement matters more than the hardest possible hit.",
+  "description": "A Jakobs sniper rifle variant tuned for steadier shooting. It usually gives up some peak damage in exchange for better accuracy and cleaner handling, making it a strong pick when reliable shot placement matters more than the hardest possible hit.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -19,7 +19,7 @@
     "Uncommon",
     "Rare"
   ],
-  "notes": "Available as a standard world drop from appropriate loot sources.",
+  "notes": "It is available as a standard world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

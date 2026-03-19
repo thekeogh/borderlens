@@ -11,7 +11,7 @@
   "name": "Madhous!",
   "slug": "madhous",
   "type": "Assault Rifle",
-  "description": "Madhous! is a Legendary Bandit assault rifle from Borderlands 2. Shots wobble in flight, making mid range aim unreliable despite the boosted damage, accuracy and magazine size. On impact, the round splits into two and both ricochet, speeding up with each bounce. Bounce paths are consistent for the same hit point and angles, which can let you bank shots around cover or into big, static targets if you have suitable surfaces.",
+  "description": "A Bandit assault rifle built around chaotic ricochets rather than clean aim. Its shots wobble in flight, then split and bounce after impact, letting you bank damage around cover or into large stationary targets if the surfaces cooperate. It is unreliable at mid range despite its boosted damage and magazine size, but in tight spaces it can flood an area with explosive-looking nonsense that still gets results.",
   "manufacturers": [
     "Bandit"
   ],
@@ -249,9 +249,9 @@
   ],
   "special": {
     "title": "It's a Madhouse! A MADHOUSE!!!",
-    "description": "Shots sway left-right or up-down (chosen at random). On impact, each projectile splits into two, ricochets and gains speed with every bounce. Red text: It's a Madhouse! A MADHOUSE!!! Bonus: +100% weapon damage, plus increased accuracy and magazine size."
+    "description": "Shots randomly sway left and right or up and down in flight. On impact, each projectile splits into two ricocheting rounds that gain speed with every bounce. It also carries a large damage boost, plus increased accuracy and magazine size."
   },
-  "notes": "Fires poorly at distance but can blanket an area when aimed at the ground in the middle of a mob, especially in tight arenas. Ricochets split at fixed angles, so Gaige's Close Enough tends to perform badly because the split rounds often veer past the target. Shots are absorbed by ION Loader shields. Buzzard towers can be used as dependable banking surfaces to hit Buzzards.",
+  "notes": "It performs poorly at distance but can blanket an area if you aim at the ground in the middle of a group, especially in tight arenas. The ricochets split at fixed angles, so Gaige's Close Enough tends to work poorly because the split rounds often veer past the target. Shots are absorbed by ION Loader shields, while Buzzard towers can serve as reliable banking surfaces for hitting Buzzards.",
   "max": {
     "accuracy": 66.7,
     "damage": 951948,

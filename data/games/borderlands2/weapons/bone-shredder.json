@@ -11,7 +11,7 @@
   "name": "Bone Shredder",
   "slug": "bone-shredder",
   "type": "SMG",
-  "description": "The Bone Shredder is a multi-pellet SMG that releases three projectiles each time you fire, consuming two rounds. With the right elemental roll it can hit very hard up close, but its shaky accuracy makes it unreliable at longer ranges. It shines when you push in aggressively or when shooting big targets that are easy to tag with multiple pellets.",
+  "description": "A multi-pellet SMG that fires three projectiles per trigger pull for the cost of two rounds. With the right element it can hit very hard up close, but its shaky accuracy makes it unreliable at longer range. It is at its best when you play aggressively or unload into large targets that can catch several pellets at once.",
   "manufacturers": [
     "Bandit"
   ],
@@ -254,7 +254,7 @@
     "description": "Each trigger pull fires three projectiles for the cost of two ammo, favouring close-range damage over precision.",
     "title": "The Lead Wind Blows!"
   },
-  "notes": "During the BL2 Loot Hunt event it was spotlighted via Son of Mothrakk. A hotfix on the same day boosted its damage, magazine capacity, and projectile count.",
+  "notes": "It was spotlighted through Son of Mothrakk during the Loot Hunt event. A hotfix released the same day increased its damage, magazine size, and projectile count.",
   "max": {
     "accuracy": 30.4,
     "damage": 560311,

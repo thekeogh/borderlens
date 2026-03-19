@@ -11,7 +11,7 @@
   "name": "Chere-amie",
   "slug": "chere-amie",
   "type": "Sniper",
-  "description": "Chere-amie is a Moxxi sniper rifle that grants life steal while it is in your hands. The healing applies to most damage you deal, not just bullets, and its own shots also return extra health in a transfusion-like effect. It suits builds that can keep firing regularly for steady sustain.",
+  "description": "A Moxxi sniper rifle built around sustain, granting life steal while it is held. The healing applies to most damage you deal, not just its own shots, and the rifle also returns extra health from its own hits in a transfusion-like effect. It works best in builds that can keep firing regularly for steady recovery.",
   "manufacturers": [
     "Maliwan"
   ],

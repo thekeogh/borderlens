@@ -11,7 +11,7 @@
   "name": "Bitch",
   "slug": "bitch",
   "type": "SMG",
-  "description": "Bitch is a legendary Hyperion SMG from the base game. It can spawn with Incendiary, Shock, Corrosive or Slag. Hyperion stability ramps up quickly as you keep firing, giving it rapid accuracy recovery, very low recoil and a generous magazine. With strong critical damage it stays dependable at most ranges and is a solid choice for securing a Second Wind.",
+  "description": "A legendary Hyperion SMG built around accuracy, critical-hit damage, and unusually stable sustained fire. Its recoil settles quickly as you keep firing, letting it stay dependable at most ranges, and its larger magazine helps it maintain pressure long enough to secure Second Wind or finish wounded targets cleanly.",
   "elements": [
     "None",
     "Incendiary",
@@ -21,7 +21,7 @@
   ],
   "special": {
     "title": "yup. back.",
-    "description": "Grants +15% weapon damage and +75% critical hit damage. Also boosts accuracy and magazine size, and speeds up recoil reduction as Hyperion handling improves during sustained fire."
+    "description": "Greatly boosts critical-hit damage while also improving weapon damage, accuracy, and magazine size. Its recoil settles faster than usual during sustained fire, making it exceptionally easy to keep on target."
   },
   "parts": {
     "Grip": [
@@ -242,7 +242,7 @@
   "rarities": [
     "Legendary"
   ],
-  "notes": "",
+  "notes": "It can spawn in non-elemental, incendiary, shock, corrosive, or slag variants.",
   "max": {
     "accuracy": 97,
     "damage": 646294,

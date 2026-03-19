@@ -10,7 +10,7 @@
   "name": "Muckamuck",
   "slug": "muckamuck",
   "type": "Sniper",
-  "description": "Muckamuck sniper rifles are built for hard-hitting, accurate shots. They typically trade a slower rate of fire and heavier recoil for boosted damage and strong precision. Lower rarities can be bolt-action. Depending on parts, they use either a 7-round cylinder or a 7 to 8-round box magazine. They are broadly comparable to the Jakobs Chinook line.",
+  "description": "Muckamuck sniper rifles are built for hard-hitting, accurate shots, trading fire rate and recoil control for stronger damage and reliable precision. Lower rarities can be bolt-action, and depending on parts they use either a 7-round cylinder or a 7- to 8-round box magazine. They fill much the same role as the Jakobs Chinook line.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -20,7 +20,7 @@
     "Rare",
     "Epic"
   ],
-  "notes": "The Gearbox Muckamuck is only included with the Premiere Club pre-order bonus. The standard Muckamuck can drop from most appropriate loot sources.",
+  "notes": "The Gearbox Muckamuck is only included with the Premiere Club pre-order bonus. The standard Muckamuck can drop from most suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

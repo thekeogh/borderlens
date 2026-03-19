@@ -11,7 +11,7 @@
   "name": "Boom Puppy",
   "slug": "boom-puppy",
   "type": "Assault Rifle",
-  "description": "Boom Puppy is a Tina-styled Torgue assault rifle that fires arcing explosive grenades rather than hitscan rounds. The slow, bouncy shots can feel unruly and need practice to land at range. It shines in tight spaces, where repeated ricochets and blasts can pile on splash damage, but it plays slower and less predictably than a typical AR.",
+  "description": "A Torgue assault rifle that fires slow, arcing explosive grenades instead of normal bullets. The bouncy shots take practice to place at range, but in tight spaces they can ricochet repeatedly and stack splash damage in a way that few assault rifles can match.",
   "manufacturers": [
     "Torgue"
   ],
@@ -221,7 +221,7 @@
     "title": "Boom! Boom! Boom! BOOM! BOOOM!!!! GOOD DOGGY!!!",
     "description": "Launches slow grenades that bounce and trigger a chain of splash detonations, ending in a final explosion."
   },
-  "notes": "A single trigger pull can cause several separate explosions, so absorb shields may proc multiple times from one shot. A Loot Hunt hotfix increased the splash radius, making hits more reliable.",
+  "notes": "A single trigger pull can cause several separate explosions, so absorb shields may trigger multiple times from one shot. A Loot Hunt hotfix increased the splash radius, which made its hits more reliable.",
   "max": {
     "accuracy": 74,
     "damage": 2591240,

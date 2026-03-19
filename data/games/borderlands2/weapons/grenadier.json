@@ -10,7 +10,7 @@
   "name": "Grenadier",
   "slug": "grenadier",
   "type": "Assault Rifle",
-  "description": "Fires arcing, grenade-like explosive spheres that are pulled down by gravity. Each trigger pull consumes 3 rounds. Projectiles ricochet off surfaces; after the second bounce they rapidly lose speed and come to rest. They detonate on hitting an enemy at any point, or 1 second after stopping. The explosion deals 100 percent of the card damage as splash in a small radius, with no separate direct-hit impact damage. Grenade, splash, and rocket launcher damage bonuses do not boost this damage, but general gun damage bonuses do.",
+  "description": "An assault rifle that fires arcing, grenade-like explosive rounds instead of standard bullets. The projectiles bounce off surfaces and only detonate on hitting an enemy or shortly after coming to rest, so the weapon rewards indirect shots, banked angles, and careful spacing more than normal rifle aim.",
   "manufacturers": [
     "Dahl"
   ],
@@ -28,7 +28,7 @@
     "Slag",
     "Explosive"
   ],
-  "notes": "Only appears at green rarity or above. Explosive versions benefit from Axton's Duty Calls; non-explosive elements do not. Sells for far more than most assault rifles of similar level and rarity. Detonating projectiles can be absorbed by Absorption Shields; when absorbed they are converted into rocket launcher ammo, not assault rifle ammo. World drop from any appropriate loot source.",
+  "notes": "It only appears at green rarity or higher. Explosive versions benefit from Duty Calls, while non-explosive elements do not. It also sells for much more than most assault rifles of similar level and rarity. Its projectiles can be absorbed by absorption shields and converted into rocket launcher ammo rather than assault rifle ammo. It is a world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

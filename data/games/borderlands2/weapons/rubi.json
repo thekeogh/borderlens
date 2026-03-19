@@ -11,7 +11,7 @@
   "name": "Rubi",
   "slug": "rubi",
   "type": "Pistol",
-  "description": "Rubi is a rare Maliwan pistol from Borderlands 2. While it is in your hands, 12 percent of all damage you deal is returned as health. This applies to any of your damage sources, not just shots from Rubi, and it still works in Fight For Your Life, often leaving you with a good chunk of health after a Second Wind. It is mainly carried for sustain rather than raw damage; slag variants are commonly favoured. It pairs well with high damage setups, such as Gunzerking with Rubi in one hand and a heavy hitter in the other.",
+  "description": "A Maliwan pistol valued far more for survival than for its own gun damage. While you are holding it, a portion of all damage you deal is returned as health, including damage from other sources, which makes it one of the best sustain tools in the game and a staple off-hand choice for high-damage setups. Slag versions are especially prized because they support both healing and damage amplification at the same time.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -264,9 +264,9 @@
   ],
   "special": {
     "title": "Whenever I'm caught between two evils, I take the one I've never tried.",
-    "description": "Moxxi weapon. Grants 12 percent lifesteal to all damage dealt while held. Projectiles explode on impact, dealing splash damage. The explosion deals 80 percent of weapon damage as splash and is increased by grenade damage bonuses. Plus 15 percent critical hit damage."
+    "description": "While held, it grants life steal from all damage you deal. Its projectiles also explode on impact for splash damage, and that splash scales with grenade damage bonuses. It also carries a small critical-hit bonus."
   },
-  "notes": "Rubi shots detonate on impact and the splash component is boosted by grenade damage bonuses. Axton does not receive healing from Sabre Turret damage. Damaging health bar objects (eg barrels or fuse boxes) will also trigger healing. Self damage can still heal you if the hit is fully absorbed by shields; if it reaches health, the lifesteal may partially offset it.",
+  "notes": "Rubi shots detonate on impact, and the splash portion is boosted by grenade damage bonuses. Axton does not receive healing from Sabre Turret damage. Damaging health-bar objects such as barrels or fuse boxes will also trigger healing. Self-damage can still heal you if the hit is fully absorbed by shields; if it reaches health, the life steal may only offset part of the damage.",
   "max": {
     "accuracy": 93.3,
     "damage": 1041380,

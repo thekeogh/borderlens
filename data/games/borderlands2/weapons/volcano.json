@@ -11,7 +11,7 @@
   "name": "Volcano",
   "slug": "volcano",
   "type": "Sniper",
-  "description": "Volcano is a legendary Maliwan sniper rifle from Borderlands 2. Use it like a conventional long range rifle, but its rounds detonate on impact, letting you punish clustered enemies. Even if the shot drops a single target, the resulting fire blast can catch nearby foes and spread burning to the group.",
+  "description": "A Maliwan sniper rifle that behaves like a conventional long-range weapon until the shot lands and erupts into a fire blast. That impact explosion lets it punish clustered enemies and spread burning beyond the original target, giving it far more crowd pressure than most sniper rifles. It sacrifices some base damage and elemental chance for that larger splash component, but the explosive fire burst is the whole point of the weapon.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -225,9 +225,9 @@
   ],
   "special": {
     "title": "Pele humbly requests a sacrifice, if it's not too much trouble.",
-    "description": "Impact detonations create a fire blast that deals grenade type splash damage. Always incendiary. Lower base damage and elemental chance than comparable snipers. Higher splash share than typical Maliwan snipers: 80% instead of 50%. Red text: \"Pele humbly requests a sacrifice, if it's not too much trouble.\""
+    "description": "Always incendiary. Shots detonate on impact to create a fire blast that deals grenade-type splash damage. It has lower base damage and elemental chance than comparable sniper rifles, but a much larger splash share than a typical Maliwan sniper."
   },
-  "notes": "The impact fire cloud deals 80% of the listed weapon damage and is treated as grenade damage for skill bonuses. The incendiary damage over time can rarely bug out and tick for only 1 damage.",
+  "notes": "The impact fire cloud deals 80% of the listed weapon damage and is treated as grenade damage for skill bonuses. The incendiary damage-over-time effect can rarely bug out and tick for only 1 damage.",
   "max": {
     "accuracy": 96.8,
     "damage": 2401637,

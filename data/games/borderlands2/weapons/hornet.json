@@ -11,7 +11,7 @@
   "name": "Hornet",
   "slug": "hornet",
   "type": "Pistol",
-  "description": "Hornet is a legendary DAHL pistol from Borderlands 2.",
+  "description": "A legendary Dahl pistol locked to corrosive damage, firing burst rounds that explode on impact. That gives it excellent early and midgame performance against armored targets, especially for a weapon you can obtain so early.",
   "manufacturers": [
     "Dahl"
   ],
@@ -238,7 +238,7 @@
     "title": "Fear the Swarm!",
     "description": "Always corrosive. Shots detonate on impact, dealing splash damage equal to 80% of the weapon's damage; the splash is treated as grenade damage for bonuses. DAHL: aiming down sights switches to a 6-round burst. Reduced accuracy, higher elemental effect chance, and the burst rounds carry the corrosive splash effect."
   },
-  "notes": "Always corrosive, making it strong against armoured targets. Knuckle Dragger can drop it very early, allowing a level 0-1 Hornet, or level 2 if you level up on the kill. Its shots create an impact explosion that adds 80% of weapon damage as splash; this splash counts as grenade damage and is boosted by grenade-damage skills (eg Steady).",
+  "notes": "Knuckle Dragger can drop it extremely early, allowing a very low-level Hornet. Its impact explosion adds extra splash damage that counts as grenade damage, so grenade-damage skills can increase its real output significantly.",
   "max": {
     "accuracy": 82,
     "damage": 910509,

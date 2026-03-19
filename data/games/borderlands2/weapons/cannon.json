@@ -10,7 +10,7 @@
   "name": "Cannon",
   "slug": "cannon",
   "type": "Assault Rifle",
-  "description": "Cannon is a Jakobs assault rifle variant that lobs explosive, gravity-affected shells, consuming 2 rounds per trigger pull. Each shot can bounce once off surfaces, then explodes on hitting an enemy or on the next impact. Damage is dealt as splash-based gun damage, favouring careful arcs and bank shots over typical hitscan rifle aim.",
+  "description": "A Jakobs assault rifle variant that lobs explosive, gravity-affected shells for the cost of two rounds per trigger pull. Each shot can bounce once before exploding on an enemy or on the next impact, so it favors careful arcs and bank shots over normal hitscan rifle aim.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "Explosive"
   ],
-  "notes": "The explosion radius is modest, and the long post-bounce travel often helps avoid self-damage. Despite its explosive shots, it can scale with some gun damage bonuses. It tends to sell for more than expected for its level. Shots can be absorbed as rocket ammo by absorb shields due to its barrel behaviour. It does not spawn in white rarity.",
+  "notes": "Its explosion radius is modest, and the long travel after a bounce often helps avoid self-damage. Despite the explosive shots, it still scales with some gun-damage bonuses. It tends to sell for more than expected for its level, its shots can be absorbed as rocket ammo because of the barrel behavior, and it does not spawn in white rarity.",
   "sources": [
     {
       "name": "World Drop",

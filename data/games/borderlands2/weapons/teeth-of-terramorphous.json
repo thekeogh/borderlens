@@ -11,7 +11,7 @@
   "name": "Teeth of Terramorphous",
   "slug": "teeth-of-terramorphous",
   "type": "Shotgun",
-  "description": "Rare Bandit shotgun from the Borderlands 2 base game. Its broad, consistent pattern is ideal for clearing swarms of small, quick targets such as rakks and varkids. Range is poor, so it struggles at distance, but up close it hits hard. It always spawns with an incendiary element, making it especially effective against flesh at close to mid range.",
+  "description": "A Bandit shotgun with a wide, consistent pellet formation that is excellent for catching swarms of small fast targets such as rakks and varkids. It is always incendiary, hits hard up close, and gains extra splash from its unusual pellet behavior, but it falls off badly at longer range.",
   "manufacturers": [
     "Bandit"
   ],
@@ -232,9 +232,9 @@
   ],
   "special": {
     "title": "His teeth made them flee in shame...",
-    "description": "Fires 12 projectiles in two horizontal rows of six. The rows rise apart, then converge after a fixed distance; when they meet, they trigger six small incendiary explosions and the pellets vanish. Pellets also explode on impact, dealing splash damage. The explosions deal 50 percent of the weapon damage as splash and are boosted by grenade damage. Always incendiary."
+    "description": "Fires 12 projectiles in two horizontal rows that separate and then converge after a fixed distance. The pellets explode on impact, and when the rows meet they trigger additional incendiary explosions that scale with grenade damage."
   },
-  "notes": "A 14/10/2013 hotfix during the Loot Hunt increased magazine size by one round for this and other Bandit shotguns, and slightly improved reload speed. During week 4 day 1 of the Loot Hunt it was temporarily available from Motor Momma; a same-day hotfix increased its splash radius and damage. Its damage can be improved by bonuses to grenade damage.",
+  "notes": "A Loot Hunt hotfix on October 14, 2013 increased its magazine size by one round and slightly improved reload speed along with other Bandit shotguns. During week 4, day 1 of the Loot Hunt, it was temporarily available from Motor Momma, and a same-day hotfix also increased its splash radius and damage. Its splash damage benefits from grenade damage bonuses.",
   "max": {
     "accuracy": 36,
     "damage": 895347,

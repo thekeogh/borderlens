@@ -11,7 +11,7 @@
   "name": "Orc",
   "slug": "orc",
   "type": "SMG",
-  "description": "Orc is a Bandit E-tech SMG from the Tiny Tina DLC. It can randomly grant a short buff that carries over when you swap weapons, letting other guns benefit from its boosted damage, fire rate, reload speed and extra projectiles. This makes it a strong swap tool, especially for launchers (more projectiles without extra ammo and faster reloads). Gunzerker off-hand use can pass the boost to the other hand, and Mechromancer builds can exploit the ricochet and Anarchy synergy, including shock variants.",
+  "description": "A Bandit E-tech SMG whose real strength is the temporary buff it can roll onto itself and then carry across weapon swaps. When that buff is active, it grants extra damage, fire rate, reload speed, ricochets, and more projectiles, turning it into a strong weapon on its own and an even stronger swap tool for launchers or other burst-heavy guns. It is especially abusable on Salvador and plays well with Gaige's ricochet-focused chaos.",
   "manufacturers": [
     "Bandit"
   ],
@@ -235,9 +235,9 @@
   ],
   "special": {
     "title": "Have I achieved worth yet?",
-    "description": "Every 6 seconds, there is a 23% chance to trigger a 6-second buff. The effect remains active after weapon swaps. Buff effects: +1 projectile, +20% damage, +50% fire rate, +100% reload speed, 50% chance to fire an extra shot, and shots ricochet once on impact then split into two."
+    "description": "Every few seconds, it has a chance to trigger a temporary buff that remains active after weapon swaps. The buff adds an extra projectile, higher damage, faster fire and reload speed, a chance for an extra shot, and ricocheting rounds that split after impact."
   },
-  "notes": "Its red text is a quote from a Discworld novel. The buff can trigger while in a vehicle and will also improve vehicle machine guns. While the buff is active, the card may show an added x1 pellet line, but it typically only appears after swapping away and back. Swapping weapons restarts the 6-second roll timer.",
+  "notes": "Its red text is a quote from a Discworld novel. The buff can trigger while you are in a vehicle and will also improve vehicle machine guns. While the buff is active, the card may show an added x1 projectile line, though it usually only appears after swapping away and back. Swapping weapons restarts the roll timer.",
   "max": {
     "accuracy": 87.4,
     "damage": 638234,

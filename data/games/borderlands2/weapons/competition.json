@@ -10,7 +10,7 @@
   "name": "Competition",
   "slug": "competition",
   "type": "Sniper",
-  "description": "Competition is a Hyperion sniper rifle variant tuned for higher fire rate and a larger magazine in a Vladof-like fashion. It keeps Hyperion handling, becoming more accurate the longer you remain on target, so it favours steady scoped strings over snap shots and rewards consistent follow-up fire once stabilised.",
+  "description": "A Hyperion sniper rifle variant tuned toward higher fire rate and a larger magazine, giving it a slightly more Vladof-like rhythm. It still keeps Hyperion's tightening accuracy, so it rewards steady scoped strings and consistent follow-up shots far more than quick snap firing.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "None"
   ],
-  "notes": "It appears in The Pre-Sequel with similar presentation and a related variant named Fast Turnaround. In Borderlands 2 it can drop as a regular world item from appropriate loot sources.",
+  "notes": "It appears in The Pre-Sequel with similar presentation and a related variant named Fast Turnaround. Here, it can drop as a regular world item from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

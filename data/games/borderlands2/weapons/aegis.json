@@ -10,7 +10,7 @@
   "name": "Aegis",
   "slug": "aegis",
   "type": "Pistol",
-  "description": "Aegis is a Maliwan pistol with a measured fire rate but excellent elemental application and strong damage over time, most notably on Shock, Incendiary and Corrosive versions. Barrel choice heavily alters performance, ranging from steadier, easier handling on Dahl-style builds to harder-hitting but less controlled Bandit-style variants.",
+  "description": "A Maliwan pistol with a measured fire rate, strong elemental application, and excellent damage-over-time potential, especially in shock, incendiary, and corrosive variants. Barrel choice shifts its handling noticeably, ranging from steadier Dahl-style versions to heavier-hitting but less controlled Bandit-style rolls.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Each round carries an extra splash portion worth 80% of the projectile damage, and this splash benefits from grenade damage bonuses. It is primarily obtained as a standard world drop.",
+  "notes": "Each shot carries an extra splash component worth 80% of the projectile damage, and that splash benefits from grenade-damage bonuses. It is primarily found as a standard world drop.",
   "sources": [
     {
       "name": "World Drop",

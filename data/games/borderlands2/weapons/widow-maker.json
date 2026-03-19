@@ -10,7 +10,7 @@
   "name": "Widow Maker",
   "slug": "widow-maker",
   "type": "Pistol",
-  "description": "Fitted with a Torgue barrel, this weapon trades speed for stopping power. Fire rate drops and recoil kicks harder, similar to a Jakobs long barrel, but with an even bigger damage boost. In return it loses accuracy and reload speed compared to the Jakobs option.",
+  "description": "A weapon fitted with a Torgue barrel, trading speed and handling for much heavier stopping power. It fires more slowly and kicks harder, but the damage boost is even larger than the comparable Jakobs long-barrel option. The price is worse accuracy and slower reloads, so it leans hard into raw punch over comfort.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -20,7 +20,7 @@
     "Rare",
     "Epic"
   ],
-  "notes": "Drops at random from any appropriate loot source.",
+  "notes": "Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

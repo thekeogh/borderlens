@@ -10,7 +10,7 @@
   "name": "SubMalevolent Grace",
   "slug": "submalevolent-grace",
   "type": "SMG",
-  "description": "Maliwan SMGs always spawn with an element, offering strong status effect chance and improved damage over time. SubMalevolent Grace can roll with two barrel styles that change its handling: - Tediore (light): faster reloads and better accuracy, but lower damage. - Bandit or Scav (heavy): higher base damage, but worse accuracy.",
+  "description": "A Maliwan SMG that always rolls an element, giving it the brand's usual strong status chance and damage-over-time pressure. Its handling depends on the barrel: Tediore versions are lighter, cleaner, and faster to reload, while Bandit or Scav versions sacrifice accuracy for more base damage.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "SubMalevolent Grace is a random drop from any appropriate loot source.",
+  "notes": "Random world drop from suitable loot sources.",
   "sources": [
     {
       "name": "World Drop",

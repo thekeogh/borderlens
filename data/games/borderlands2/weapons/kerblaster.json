@@ -11,7 +11,7 @@
   "name": "KerBlaster",
   "slug": "kerblaster",
   "type": "Assault Rifle",
-  "description": "Legendary Torgue assault rifle. Fires a slow explosive rocket that hits very hard for its level and is unusually accurate, making it strong for clearing groups. On impact it explodes and drops a child grenade that detonates shortly after, letting you tag enemies behind cover by shooting nearby surfaces. Weak points: high ammo cost, small magazine, slow projectile (lead targets), and serious self-damage risk. Performs well on Axton and Krieg thanks to explosive and grenade boosts plus magazine skills.",
+  "description": "A Torgue assault rifle that fires a slow explosive rocket and drops a child grenade after impact, giving each shot a brutal two-stage blast. It hits hard for its level, is unusually accurate for a Torgue rifle, and can punish enemies behind cover by detonating nearby surfaces instead of relying on a direct hit. The trade-offs are heavy ammo use, a tiny magazine, slow projectile speed, and a serious risk of self-damage.",
   "manufacturers": [
     "Torgue"
   ],
@@ -231,9 +231,9 @@
   ],
   "special": {
     "title": "Torgue got more BOOM!",
-    "description": "Rockets explode on impact for splash damage and drop a child grenade that detonates about 1 second later for splash. The child grenade scales with grenade damage bonuses. Cannot score critical hits; as a non-Jakobs assault rifle it also has reduced critical damage."
+    "description": "Each rocket explodes on impact and then drops a child grenade that detonates shortly afterward. The child grenade scales with grenade damage bonuses. The weapon cannot score critical hits."
   },
-  "notes": "Point-blank shots can damage you and allies via the rocket and child grenade. With the Grog Nozzle drunk effect it can fire 6 rockets, each dropping a grenade. Kills count for Pull the Pin. Absorb shields can absorb the main rocket as launcher ammo; the child grenade cannot be absorbed. Amp shields boost both rocket and child grenade. Grenade damage bonuses boost the child grenade. Axton: does not benefit from Steady. Gaige: poor for Anarchy; Close Enough will not bounce rockets, and high Anarchy risks self-hits. Krieg: strong at range with Strip the Flesh, Blood Bath, and Pa",
+  "notes": "Point-blank shots can damage you and nearby allies with both the main rocket and the child grenade. Under the Grog Nozzle drunk effect, it can fire six rockets at once, with each rocket spawning its own grenade. Kills count for Pull the Pin. Absorb shields can absorb the main rocket as launcher ammo, but not the child grenade, and amp shields boost both parts of the shot. Grenade damage bonuses increase the child grenade's damage. It works especially well with explosive-focused builds, but it is a poor fit for high-Anarchy Gaige because the rockets do not benefit from Close Enough and the spread makes self-hits more likely.",
   "max": {
     "accuracy": 75.3,
     "damage": 4992876,

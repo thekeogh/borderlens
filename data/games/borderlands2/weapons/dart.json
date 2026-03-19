@@ -10,7 +10,7 @@
   "name": "Dart",
   "slug": "dart",
   "type": "Pistol",
-  "description": "Dart pistols launch slow, guided spikes that latch onto targets and detonate after a short delay. They typically cannot score critical hits and do not deal instant on-hit damage, but the tracking makes them dependable against fast-moving or flying foes. If no lock is found, shots can bounce and may still acquire a nearby enemy, helping keep damage output steady despite the slower feel.",
+  "description": "Dart pistols fire slow guided spikes that stick to targets and detonate after a short delay. They usually cannot score critical hits and do not deal immediate impact damage, but the tracking makes them dependable against fast-moving or flying enemies. If a shot fails to lock on, it can bounce and still pick up a nearby target, which helps smooth out their slower rhythm.",
   "manufacturers": [
     "Bandit"
   ],
@@ -23,7 +23,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Some effects that rely on hit timing only count when the dart explodes, not when it sticks. In rare cases, unusual Hyperion part combinations can create non-elemental E-tech dart or spiker variants that behave more like explosive detonations and may appear visually atypical.",
+  "notes": "Some effects that rely on hit timing only count when the dart explodes rather than when it sticks. In rare cases, unusual Hyperion part combinations can create non-elemental E-tech dart or spiker variants that behave more like explosive detonations and may look visually unusual.",
   "sources": [
     {
       "name": "World Drop",

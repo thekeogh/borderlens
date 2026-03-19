@@ -11,7 +11,7 @@
   "name": "Deliverance",
   "slug": "deliverance",
   "type": "Shotgun",
-  "description": "Deliverance is a legendary Tediore shotgun. Reloading throws the weapon as a self-guided, drone-like explosive that seeks enemies, rebounds off surfaces, and fires while airborne before detonating. You can use the throw to keep pressure on foes, reach targets above you, and extend its time in play by giving it space to travel and bounce.",
+  "description": "A legendary Tediore shotgun whose thrown reload becomes a self-guided, drone-like explosive that hunts enemies, rebounds off surfaces, and fires while airborne before detonating. That gives it unusual reach for a shotgun and lets it keep pressure on targets even after you have already reloaded.",
   "manufacturers": [
     "Tediore"
   ],
@@ -259,7 +259,7 @@
     "title": "Kiki got a shotgun",
     "description": "On reload, the thrown gun tracks enemies and fires during flight, then explodes. Ammo left in the magazine mainly increases the final explosion damage, not how long it stays airborne."
   },
-  "notes": "The homing reload throw is strong against flying enemies and is useful for reload-throw challenges. Shots fired in mid-air can receive amp damage, but they do not benefit from every stealth-style damage bonus. It will not lock on to cloaked targets until they are revealed. With high reload speed you can have several throws active at once. The final blast is boosted by grenade damage bonuses.",
+  "notes": "The homing reload throw is especially strong against flying enemies and is useful for reload-throw challenges. Shots fired in mid-air can receive amp damage, but they do not benefit from every stealth-style damage bonus. It will not lock on to cloaked targets until they are revealed. With high reload speed, you can have several throws active at once. The final blast is boosted by grenade-damage bonuses.",
   "max": {
     "accuracy": 57.5,
     "damage": 707372,
