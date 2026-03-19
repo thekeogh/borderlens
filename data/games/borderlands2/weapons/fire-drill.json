@@ -24,7 +24,7 @@
     "description": "Always deals incendiary damage. Does not consume ammo and has a fixed magazine size of 1. Fires in a fixed shot pattern that ignores normal recoil. 100 percent status effect chance. Higher damage. Better accuracy while aiming down sights. Reduced fire rate.",
     "title": "It gets the job done."
   },
-  "notes": "Uses the Infinity model with the effervescent skin.\n\nOriginally planned as Lt. Angvar's effervescent drop, but it was cut before release and he drops the Infinity instead.",
+  "notes": "Uses the Infinity model with the effervescent skin. Originally planned as Lt. Angvar's effervescent drop, but it was cut before release and he drops the Infinity instead.",
   "sources": [
     {
       "name": "World Drop",

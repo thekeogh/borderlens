@@ -19,7 +19,7 @@
     "Uncommon",
     "Rare"
   ],
-  "notes": "Drops randomly from any appropriate loot source.\nAxton is shown using one in the game's opening sequence.",
+  "notes": "Drops randomly from any appropriate loot source. Axton is shown using one in the game's opening sequence.",
   "sources": [
     {
       "name": "World Drop",

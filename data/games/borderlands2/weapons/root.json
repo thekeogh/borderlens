@@ -10,7 +10,7 @@
   "name": "Root",
   "slug": "root",
   "type": "Assault Rifle",
-  "description": "Root is often among the earliest rifles you can find, either as a common drop or bought from a vending machine.\n\nIt typically spawns with a Dahl-style muzzle, improving handling through lower recoil, better accuracy and quicker recoil recovery. Compared with most other Torgue assault rifles, it generally trades per-shot damage for easier control.",
+  "description": "Root is often among the earliest rifles you can find, either as a common drop or bought from a vending machine. It typically spawns with a Dahl-style muzzle, improving handling through lower recoil, better accuracy and quicker recoil recovery. Compared with most other Torgue assault rifles, it generally trades per-shot damage for easier control.",
   "manufacturers": [
     "Torgue"
   ],

@@ -11,7 +11,7 @@
   "name": "Law",
   "slug": "law",
   "type": "Pistol",
-  "description": "Law is a rare Jakobs pistol from Borderlands 2. It always rolls with a fixed bayonet that doubles melee damage, making it a strong pick for melee builds such as Zer0 (Bloodshed) or Krieg (Mania).\n\nWhen aiming down sights it also gains a hidden +100% accuracy boost, giving it near sniper-like precision. This is especially useful on Gaige: the scoped accuracy bonus offsets Anarchy spread, letting you keep perfect accuracy up to 57 Anarchy stacks.",
+  "description": "Law is a rare Jakobs pistol from Borderlands 2. It always rolls with a fixed bayonet that doubles melee damage, making it a strong pick for melee builds such as Zer0 (Bloodshed) or Krieg (Mania). When aiming down sights it also gains a hidden +100% accuracy boost, giving it near sniper-like precision. This is especially useful on Gaige: the scoped accuracy bonus offsets Anarchy spread, letting you keep perfect accuracy up to 57 Anarchy stacks.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -165,7 +165,7 @@
     }
   ],
   "special": {
-    "description": "With the Order shield equipped:\n- +25% melee lifesteal\n- +100% melee damage\n\nAlways spawns with a melee bayonet (+100% melee) and gains +100% accuracy while scoped.",
+    "description": "With the Order shield equipped: - +25% melee lifesteal - +100% melee damage Always spawns with a melee bayonet (+100% melee) and gains +100% accuracy while scoped.",
     "title": "De Da."
   },
   "notes": "Its unique melee accessory does not grant the Bowie prefix; the prefix is determined by the grip instead.",

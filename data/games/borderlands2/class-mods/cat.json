@@ -10,7 +10,7 @@
   "name": "Cat",
   "slug": "cat",
   "type": "Siren",
-  "description": "Cat is a common Hyperion class mod in Borderlands 2.",
+  "description": "Hyperion class mod for Maya the Siren, centred on Mind's Eye, Wreck, and Accelerate. Dropped randomly from any appropriate loot source.",
   "manufacturers": [
     "Hyperion"
   ],

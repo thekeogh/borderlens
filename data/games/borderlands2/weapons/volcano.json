@@ -225,9 +225,9 @@
   ],
   "special": {
     "title": "Pele humbly requests a sacrifice, if it's not too much trouble.",
-    "description": "Impact detonations create a fire blast that deals grenade type splash damage.\nAlways incendiary.\nLower base damage and elemental chance than comparable snipers.\nHigher splash share than typical Maliwan snipers: 80% instead of 50%.\nRed text: \"Pele humbly requests a sacrifice, if it's not too much trouble.\""
+    "description": "Impact detonations create a fire blast that deals grenade type splash damage. Always incendiary. Lower base damage and elemental chance than comparable snipers. Higher splash share than typical Maliwan snipers: 80% instead of 50%. Red text: \"Pele humbly requests a sacrifice, if it's not too much trouble.\""
   },
-  "notes": "The impact fire cloud deals 80% of the listed weapon damage and is treated as grenade damage for skill bonuses.\nThe incendiary damage over time can rarely bug out and tick for only 1 damage.",
+  "notes": "The impact fire cloud deals 80% of the listed weapon damage and is treated as grenade damage for skill bonuses. The incendiary damage over time can rarely bug out and tick for only 1 damage.",
   "max": {
     "accuracy": 96.8,
     "damage": 2401637,

@@ -1,10 +1,12 @@
 .root {
   gap: .375rem;
-  justify-content: center;
-  align-items: center;
   display: inline-flex;
   &.vertical {
+    justify-content: center;
     align-items: flex-end;
     flex-direction: column;
+  }
+  &.horizontal {
+    flex-wrap: wrap;
   }
 }

@@ -38,9 +38,9 @@
     "None",
     "Shock"
   ],
-  "notes": "Its effect only activates on a full shield break. The ensuing shock nova can hit extremely hard, making it excellent for mobbing.\n\nIt can roll the Grounded prefix via a Maliwan capacitor (shock immunity), but cannot spawn with other elemental immunities.\n\nNotable synergies include Gaige, Krieg and Maya. In TPS, the Doppelganger can pass it to Digi-Jacks for area control, though despawning may prevent the nova.\n\nThe pull can affect the Cara-Van, and triggering it point-blank can damage you.",
+  "notes": "Its effect only activates on a full shield break. The ensuing shock nova can hit extremely hard, making it excellent for mobbing. It can roll the Grounded prefix via a Maliwan capacitor (shock immunity), but cannot spawn with other elemental immunities. Notable synergies include Gaige, Krieg and Maya. In TPS, the Doppelganger can pass it to Digi-Jacks for area control, though despawning may prevent the nova. The pull can affect the Cara-Van, and triggering it point-blank can damage you.",
   "special": {
-    "description": "On break: spawns a large singularity that drags in nearby enemies, then detonates a shock nova.\n\nBoosts shield capacity and nova damage, but lowers nova radius.",
+    "description": "On break: spawns a large singularity that drags in nearby enemies, then detonates a shock nova. Boosts shield capacity and nova damage, but lowers nova radius.",
     "title": "You are the center of the universe."
   },
   "max": {

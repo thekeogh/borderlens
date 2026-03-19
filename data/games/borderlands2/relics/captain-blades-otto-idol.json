@@ -14,7 +14,7 @@
   ],
   "slug": "captain-blades-otto-idol",
   "type": "Unique",
-  "description": "Captain Blade's Otto Idol is a cursed unique Eridian relic from the Pirate's Booty DLC, awarded for the mission Message in a Bottle in The Rustyards.\n\nIt heals you for a percentage of your maximum health every time you score a kill, making it especially effective with weapons that can secure rapid multi-kills. It also pairs well with kill-triggered shield or health skills, helping offset their drawbacks, but its shorter Fight For Your Life window can make Second Winds harder to clutch in solo play.",
+  "description": "Captain Blade's Otto Idol is a cursed unique Eridian relic from the Pirate's Booty DLC, awarded for the mission Message in a Bottle in The Rustyards. It heals you for a percentage of your maximum health every time you score a kill, making it especially effective with weapons that can secure rapid multi-kills. It also pairs well with kill-triggered shield or health skills, helping offset their drawbacks, but its shorter Fight For Your Life window can make Second Winds harder to clutch in solo play.",
   "manufacturers": [
     "Eridian"
   ],
@@ -31,10 +31,10 @@
     }
   ],
   "special": {
-    "description": "Every man for himself! Killing an enemy restores a percentage of your maximum health and slightly speeds up ally revives.\n\nCurse: Fight For Your Life duration is reduced by roughly 3 seconds.",
+    "description": "Every man for himself! Killing an enemy restores a percentage of your maximum health and slightly speeds up ally revives. Curse: Fight For Your Life duration is reduced by roughly 3 seconds.",
     "title": "Every man for himself. Curse of the Sudden-er Death!"
   },
-  "notes": "Strong with wide-area explosive weapons for quick kill chains and easier Second Winds.\n\nCan offset Gaige's Blood Soaked Shields health drain on kill, though incoming damage multipliers (such as being Slagged) may outpace the healing.\n\nWorks well with Zer0's Resurgence and kill-chaining setups, enabling near-instant recovery after a few kills.\n\nThe FFYL penalty competes with relics that extend FFYL time, but the faster ally revive can be valuable in co-op.",
+  "notes": "Strong with wide-area explosive weapons for quick kill chains and easier Second Winds. Can offset Gaige's Blood Soaked Shields health drain on kill, though incoming damage multipliers (such as being Slagged) may outpace the healing. Works well with Zer0's Resurgence and kill-chaining setups, enabling near-instant recovery after a few kills. The FFYL penalty competes with relics that extend FFYL time, but the faster ally revive can be valuable in co-op.",
   "max": {
     "level": 90
   }

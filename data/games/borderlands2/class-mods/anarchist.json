@@ -11,7 +11,7 @@
   "name": "Anarchist",
   "slug": "anarchist",
   "type": "Mechromancer",
-  "description": "Epic Anarchist is a class mod for Gaige the Mechromancer in Borderlands 2.",
+  "description": "Epic Vladof class mod for Gaige the Mechromancer, boosting Annoyed Android, Fancy Mathematics, and Death From Above. It trades accuracy for raw gun damage.",
   "manufacturers": [
     "Vladof"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At the level cap, this class mod increases gun damage by 58% but reduces accuracy by 46%."
+    "description": "At max level, increases gun damage by 58% but reduces accuracy by 46%."
   },
   "notes": "",
   "max": {

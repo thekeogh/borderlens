@@ -11,7 +11,7 @@
   "name": "Crunch",
   "slug": "crunch",
   "type": "Psycho",
-  "description": "Crunch is an Epic class mod for Krieg in Borderlands 2, introduced with the Psycho Pack.",
+  "description": "Epic Bandit class mod for Krieg the Psycho, built around Taste of Blood, Blood Trance, and Strip the Flesh. Focuses on explosive damage.",
   "manufacturers": [
     "Bandit"
   ],
@@ -37,7 +37,7 @@
   ],
   "notes": "Crunch and the rest of Krieg's class mods were added to the loot pool on 18 April 2013.",
   "special": {
-    "description": "At maximum level, Crunch increases Explosive Damage by 58%."
+    "description": "At max level, increases Explosive Damage by 58%."
   },
   "abilities": [
     "+5 Taste of Blood Skill",

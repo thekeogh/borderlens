@@ -11,7 +11,7 @@
   "name": "Killer",
   "slug": "killer",
   "type": "Assassin",
-  "description": "Epic class mod for Zer0 in Borderlands 2.",
+  "description": "Epic Hyperion class mod for Zer0 the Assassin, built around Fearless, Killer, and Ambush. Boosts team critical hit damage.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At maximum level, grants: Team critical hit damage +59%."
+    "description": "At max level, boosts team critical hit damage by 59%."
   },
   "notes": "",
   "abilities": [

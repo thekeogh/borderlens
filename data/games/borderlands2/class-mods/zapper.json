@@ -11,7 +11,7 @@
   "name": "Zapper",
   "slug": "zapper",
   "type": "Mechromancer",
-  "description": "Zapper is an Epic Class Mod for Gaige, the Mechromancer, in Borderlands 2.",
+  "description": "Maliwan class mod for Gaige the Mechromancer, built around More Pep, Wires Don't Talk, Electrical Burn. Boosts electrocution damage.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At max level, this Class Mod boosts Electrocution Damage by 37% and increases Electrocute Chance by 37%."
+    "description": "At max level: boosts electrocution damage by 37% and electrocute chance by 37%."
   },
   "notes": "",
   "abilities": [

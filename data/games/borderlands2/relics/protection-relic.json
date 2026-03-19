@@ -20,7 +20,7 @@
     "Rare",
     "Epic"
   ],
-  "notes": "Improves up to two shield stats at once.\n\nThe bonus can reach 30 percent in Normal Mode, rising to 39 percent at OP8.\n\nIts effects overlap with Skin of the Ancients, which merges the benefits of a resistance relic and a protection relic.",
+  "notes": "Improves up to two shield stats at once. The bonus can reach 30 percent in Normal Mode, rising to 39 percent at OP8. Its effects overlap with Skin of the Ancients, which merges the benefits of a resistance relic and a protection relic.",
   "special": {
     "description": "Boosts shield capacity and or shield recharge rate."
   },

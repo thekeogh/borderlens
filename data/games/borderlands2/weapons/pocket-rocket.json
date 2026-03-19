@@ -11,7 +11,7 @@
   "name": "Pocket Rocket",
   "slug": "pocket-rocket",
   "type": "Pistol",
-  "description": "Pocket Rocket is a rare Torgue pistol from the Campaign of Carnage DLC in Borderlands 2.\n\nIt burns through pistol ammo quickly, but delivers very high explosive damage and can catch multiple targets more reliably than most Torgue revolvers. Salvador makes especially good use of it thanks to magazine, pistol damage and ammo sustain bonuses, while Axton and Krieg can also benefit from its explosive focus.",
+  "description": "Pocket Rocket is a rare Torgue pistol from the Campaign of Carnage DLC in Borderlands 2. It burns through pistol ammo quickly, but delivers very high explosive damage and can catch multiple targets more reliably than most Torgue revolvers. Salvador makes especially good use of it thanks to magazine, pistol damage and ammo sustain bonuses, while Axton and Krieg can also benefit from its explosive focus.",
   "manufacturers": [
     "Torgue"
   ],
@@ -227,9 +227,9 @@
   ],
   "special": {
     "title": "Did you ever have the feeling...",
-    "description": "Shots are explosive gyrojets that detonate on impact, dealing splash damage.\n\nThe blast deals 100 percent of listed weapon damage as splash and is increased by grenade damage bonuses.\n\nRed text effect: higher damage, projectile speed, magazine size and blast radius. Uses 2 ammo per shot."
+    "description": "Shots are explosive gyrojets that detonate on impact, dealing splash damage. The blast deals 100 percent of listed weapon damage as splash and is increased by grenade damage bonuses. Red text effect: higher damage, projectile speed, magazine size and blast radius. Uses 2 ammo per shot."
   },
-  "notes": "Double Penetrating variants fire two gyrojets at once and use 4 ammo per trigger pull.\nIts damage scales with grenade damage bonuses.",
+  "notes": "Double Penetrating variants fire two gyrojets at once and use 4 ammo per trigger pull. Its damage scales with grenade damage bonuses.",
   "max": {
     "accuracy": 88.4,
     "damage": 2470583,

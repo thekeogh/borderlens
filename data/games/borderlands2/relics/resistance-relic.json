@@ -20,7 +20,7 @@
     "Rare",
     "Epic"
   ],
-  "notes": "Can roll up to four separate elemental resistance bonuses.\n\nIts resist effects overlap with Skin of the Ancients, which also includes the benefits of a Protection Relic.",
+  "notes": "Can roll up to four separate elemental resistance bonuses. Its resist effects overlap with Skin of the Ancients, which also includes the benefits of a Protection Relic.",
   "special": {
     "description": "Reduces incoming damage from certain elemental types."
   },

@@ -28,7 +28,7 @@
     }
   ],
   "special": {
-    "description": "Grants a damage boost for one weapon category, which can roll as Assault Rifle, Pistol, Rocket Launcher, Shotgun, SMG, Sniper Rifle, or other weapon types.\n\nIt also includes Tenacity-style bonuses, increasing Fight For Your Life duration and/or the health restored on Second Wind. In effect, it merges Aggression and Tenacity relic traits into a single item."
+    "description": "Grants a damage boost for one weapon category, which can roll as Assault Rifle, Pistol, Rocket Launcher, Shotgun, SMG, Sniper Rifle, or other weapon types. It also includes Tenacity-style bonuses, increasing Fight For Your Life duration and/or the health restored on Second Wind. In effect, it merges Aggression and Tenacity relic traits into a single item."
   },
   "notes": "",
   "abilities": [

@@ -11,7 +11,7 @@
   "name": "Slayer Of Terramorphous",
   "slug": "slayer-of-terramorphous-psycho",
   "type": "Psycho",
-  "description": "Slayer Of Terramorphous is a legendary class mod shared across all Vault Hunters. It can drop from Terramorphous the Invincible, and the specific class variant is random. Compared with most legendary mods it boosts skills by +4 rather than +5, but it typically rolls a wider mix of extra bonuses such as survivability and damage-oriented stats.",
+  "description": "Bandit class mod for Krieg the Psycho. Drops from Terramorphous the Invincible. Built around Blood Trance, Thrill of the Kill, Strip the Flesh, Burn, Baby, Burn, Flame Flare, Sentry, Ready, Impact, Expertise, Healthy.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -39,9 +39,9 @@
       ]
     }
   ],
-  "notes": "Terramorphous always drops a Slayer Of Terramorphous, but the class version is chosen at random.\n\nThe Assassin variant was previously incorrect, boosting Inconceivable rather than Fast Hands, leaving it with fewer bonuses; this was later corrected.\n\nEach class variant uses unique artwork. Notably, the Psycho version is the only one with a lowercase \"o\" in \"Of\".",
+  "notes": "Part of a set of Terramorphous-only items. Collecting all of them combines their red text into a short poem.",
   "special": {
-    "description": "At max level, Krieg's Slayer Of Terramorphous grants:\nBurn Damage: +37%\nIgnite Chance: +37%\nHealth: +1,101,229"
+    "description": "At max level, Krieg's Slayer Of Terramorphous grants: Burn Damage: +37% Ignite Chance: +37% Health: +1,101,229"
   },
   "max": {
     "damage": 37,

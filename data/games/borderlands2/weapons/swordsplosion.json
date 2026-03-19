@@ -214,7 +214,7 @@
     "title": "Because Mister Torgue Said So.",
     "description": "Consumes 2 ammo per shot. Fires 1 explosive sword projectile that detonates on impact, dealing gun damage in an area. On impact it also spawns 3 smaller swords that each explode, dealing 70% damage as grenade-type splash."
   },
-  "notes": "Can roll the Casual prefix (vertical grip), adding 2 extra projectiles without increasing ammo cost.\nCan also roll Juicy (crit bonus), but E-Tech shotguns cannot score critical hits.\nSpawned swordlets deal 70% of the listed card damage as splash and scale with grenade damage bonuses.\nKills from swordlets count as grenade kills and progress Pull the Pin.\nAbsorb Shields do not absorb its projectiles.",
+  "notes": "Can roll the Casual prefix (vertical grip), adding 2 extra projectiles without increasing ammo cost. Can also roll Juicy (crit bonus), but E-Tech shotguns cannot score critical hits. Spawned swordlets deal 70% of the listed card damage as splash and scale with grenade damage bonuses. Kills from swordlets count as grenade kills and progress Pull the Pin. Absorb Shields do not absorb its projectiles.",
   "max": {
     "accuracy": 71.3,
     "damage": 35866553,

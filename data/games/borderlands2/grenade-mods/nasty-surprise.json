@@ -11,7 +11,7 @@
   "name": "Nasty Surprise",
   "slug": "nasty-surprise",
   "type": "MIRV",
-  "description": "Nasty Surprise is a Hyperion legendary grenade mod from Borderlands 2. It behaves like a Longbow grenade, teleporting to the target point before detonating.\n\nOn detonation it spawns up to four child grenades above nearby enemies. If fewer than four targets are available, the remaining child grenades land in quick succession at the impact point, creating a tight, MIRV-like cluster. It can tag several foes at once or stack multiple blasts on a single target, but its damage and radius are low compared with many other options.",
+  "description": "Nasty Surprise is a Hyperion legendary grenade mod from Borderlands 2. It behaves like a Longbow grenade, teleporting to the target point before detonating. On detonation it spawns up to four child grenades above nearby enemies. If fewer than four targets are available, the remaining child grenades land in quick succession at the impact point, creating a tight, MIRV-like cluster. It can tag several foes at once or stack multiple blasts on a single target, but its damage and radius are low compared with many other options.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -41,9 +41,9 @@
       ]
     }
   ],
-  "notes": "The red text references a gag from the film UHF.\n\nIt is the only Hyperion grenade mod that is not a Singularity type.",
+  "notes": "The red text references a gag from the film UHF. It is the only Hyperion grenade mod that is not a Singularity type.",
   "special": {
-    "description": "Longbow delivery. After the initial blast, up to 4 child grenades drop from above onto nearby enemies; unused child grenades fall at the target point.\n\nSupplies! Reduced damage and blast radius.",
+    "description": "Longbow delivery. After the initial blast, up to 4 child grenades drop from above onto nearby enemies; unused child grenades fall at the target point. Supplies! Reduced damage and blast radius.",
     "title": "Supplies!"
   },
   "max": {

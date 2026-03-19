@@ -10,7 +10,7 @@
   "name": "Mashine Gun",
   "slug": "mashine-gun",
   "type": "Assault Rifle",
-  "description": "Bandit Mashine Guns are basic assault rifles built around huge magazines. In return they suffer lengthy reloads and very low accuracy, so they are often outclassed.\n\nA Vladof barrel boosts fire rate and nudges magazine size up, while a Bandit barrel trades that for higher damage and slightly better accuracy.",
+  "description": "Bandit Mashine Guns are basic assault rifles built around huge magazines. In return they suffer lengthy reloads and very low accuracy, so they are often outclassed. A Vladof barrel boosts fire rate and nudges magazine size up, while a Bandit barrel trades that for higher damage and slightly better accuracy.",
   "manufacturers": [
     "Bandit"
   ],

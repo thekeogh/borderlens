@@ -11,7 +11,7 @@
   "name": "Cleric",
   "slug": "cleric",
   "type": "Siren",
-  "description": "Cleric is a common Siren class mod for Maya introduced in Tiny Tina's Assault on Dragon Keep. It is made by Bandit and is found only from treasure chests within that DLC area.",
+  "description": "Bandit class mod for Maya the Siren, built around Suspension, Restoration, and Life Tap. Combines combat support with healing and rolls additional bonuses from two pools. Found only from treasure chests within the Tiny Tina's Assault on Dragon Keep DLC area.",
   "manufacturers": [
     "Bandit"
   ],
@@ -49,9 +49,9 @@
       ]
     }
   ],
-  "notes": "Earlier versions of the \"Good\" variant applied the opposite reload bonus, increasing reload time instead of improving it. This has since been corrected.\n\nThe name references a tabletop cleric archetype, fitting its focus on mixing combat support with healing, which complements Maya's sustain and support tools.",
+  "notes": "Earlier versions of the Good variant applied the opposite reload bonus, increasing reload time instead of improving it. This has since been corrected. The name references a tabletop cleric archetype, fitting its focus on mixing combat support with healing, which complements Maya's sustain and support tools. The item card may show incorrect fire rate, reload speed, and accuracy values.",
   "special": {
-    "description": "At maximum level, it rolls one bonus from each of two pools.\n\nPool 1: Neutral +58.5% magazine size; Chaotic +58.5% fire rate; Lawful +58.5% maximum accuracy.\n\nPool 2: Neutral +58.5% magazine size; Evil +58.5% critical hit damage; Good +58.5% reload speed.\n\nThe 2x magazine size prefix is True Neutral, giving +93.6% magazine size. The item card may show incorrect fire rate, reload speed, and accuracy values."
+    "description": "At max level, the mod rolls one bonus from each of two pools. Pool 1: Neutral gives +58.5% magazine size, Chaotic gives +58.5% fire rate, Lawful gives +58.5% maximum accuracy. Pool 2: Neutral gives +58.5% magazine size, Evil gives +58.5% critical hit damage, Good gives +58.5% reload speed. True Neutral is the double magazine size prefix, giving +93.6% magazine size."
   },
   "max": {
     "fire_rate": 377,

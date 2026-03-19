@@ -23,7 +23,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Projectiles can damage enemies through walls and other cover.\n\nAmp shields boost both the main shot and each individual energy orb.\n\nThe DoT is non-elemental; on Slag variants this DoT is not increased against slagged targets, making other elements plus a slag grenade generally stronger.",
+  "notes": "Projectiles can damage enemies through walls and other cover. Amp shields boost both the main shot and each individual energy orb. The DoT is non-elemental; on Slag variants this DoT is not increased against slagged targets, making other elements plus a slag grenade generally stronger.",
   "sources": [
     {
       "name": "World Drop",

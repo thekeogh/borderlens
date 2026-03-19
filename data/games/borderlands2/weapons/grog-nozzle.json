@@ -11,7 +11,7 @@
   "name": "Grog Nozzle",
   "slug": "grog-nozzle",
   "type": "Pistol",
-  "description": "The Grog Nozzle is a Maliwan pistol from Tiny Tina's Assault on Dragon Keep. It is usually only available while the mission The Beard Makes the Man is active, as it is issued for that quest and is removed when you turn it in.\n\nIts main strength is support, not raw damage: while held, you gain very high lifesteal that applies to all damage you deal, including grenades, melee and other effects. This makes it a powerful off-hand healing tool, even in Fight for Your Life once you secure a Second Wind.",
+  "description": "The Grog Nozzle is a Maliwan pistol from Tiny Tina's Assault on Dragon Keep. It is usually only available while the mission The Beard Makes the Man is active, as it is issued for that quest and is removed when you turn it in. Its main strength is support, not raw damage: while held, you gain very high lifesteal that applies to all damage you deal, including grenades, melee and other effects. This makes it a powerful off-hand healing tool, even in Fight for Your Life once you secure a Second Wind.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -235,9 +235,9 @@
   ],
   "special": {
     "title": "Hand over the keys, Sugar...",
-    "description": "Always Slag. Very low base damage and very high slag application.\n\nWhile held: 65% lifesteal on all damage you deal.\n\nProjectile behaviour: slow shots that detonate three times in flight. Two mid-air blasts at 0.6s and 1.2s deal 50% bullet damage in an area; a final blast at 2.0s deals 80% bullet damage with 60% increased radius.\n\nCrit: +400% critical damage.\n\nDrunk: every 5s, 13% chance to intoxicate you for 5s. While drunk: +5 projectiles, -50% fire rate, worse accuracy, swaying view. Persists through weapon swaps; swapping resets the 5s check.\n\nKnown issue: magazine is 2 larger than shown."
+    "description": "Always Slag. Very low base damage and very high slag application. While held: 65% lifesteal on all damage you deal. Projectile behaviour: slow shots that detonate three times in flight. Two mid-air blasts at 0.6s and 1.2s deal 50% bullet damage in an area; a final blast at 2.0s deals 80% bullet damage with 60% increased radius. Crit: +400% critical damage. Drunk: every 5s, 13% chance to intoxicate you for 5s. While drunk: +5 projectiles, -50% fire rate, worse accuracy, swaying view. Persists through weapon swaps; swapping resets the 5s check. Known issue: magazine is 2 larger than shown."
   },
-  "notes": "Normally it cannot be kept outside the quest, though it has been available briefly as a special event drop.\n\nThe drunken state can carry over after swapping weapons; swapping can also refresh the internal timer and let it trigger sooner.\n\nGrenade damage boosts can increase its damage. Damage dealt by separate entities such as Axton's Sabre Turret does not return healing.\n\nDamaging objects with health bars (for example barrels or fuse boxes) can still heal you.\n\nThe true magazine size is always 2 rounds higher than the card value.",
+  "notes": "Normally it cannot be kept outside the quest, though it has been available briefly as a special event drop. The drunken state can carry over after swapping weapons; swapping can also refresh the internal timer and let it trigger sooner. Grenade damage boosts can increase its damage. Damage dealt by separate entities such as Axton's Sabre Turret does not return healing. Damaging objects with health bars (for example barrels or fuse boxes) can still heal you. The true magazine size is always 2 rounds higher than the card value.",
   "max": {
     "accuracy": 93.9,
     "damage": 201558,

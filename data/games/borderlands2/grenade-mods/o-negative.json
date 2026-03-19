@@ -41,7 +41,7 @@
       ]
     }
   ],
-  "notes": "Its minimum fuse time can roll as low as 0.1 seconds.\n\nThe name references the O-negative blood type, known as a universal donor.",
+  "notes": "Its minimum fuse time can roll as low as 0.1 seconds. The name references the O-negative blood type, known as a universal donor.",
   "special": {
     "description": "After the first blast, it releases 8 homing child grenades. On hit, each child spawns a healing orb that can restore health to an ally.",
     "title": "Universal donor!"

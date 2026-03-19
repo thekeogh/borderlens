@@ -11,7 +11,7 @@
   "name": "Legendary Mechromancer",
   "slug": "legendary-mechromancer",
   "type": "Mechromancer",
-  "description": "Legendary Mechromancer is a legendary Hyperion class mod for Gaige in Borderlands 2. It can world drop from any appropriate loot source, with boosted drop odds from Vermivorous the Invincible, Pete the Invincible, Voracidous the Invincible, and the Ancient Dragons of Destruction.",
+  "description": "Legendary Vladof class mod for Gaige the Mechromancer. Built around More Pep, Strength of Five Gorillas, Cooking Up Trouble, Smaller, Lighter, Faster, 20% Cooler, The Better Half. Trades accuracy for cooldown rate and gun damage.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -42,10 +42,10 @@
       ]
     }
   ],
-  "notes": "In normal play it is notable for lacking a unique in-game red flavour line. A special SHiFT reward version includes the red text \"I am such a B.A.\" plus an extra caption about the lunch box holding more than sandwiches. That variant is available via a SHiFT code included with the Diamond Plate Loot Chest.",
+  "notes": "Requires the Digistruct Peak Challenge DLC. The red flavour line references the film Fight Club.",
   "special": {
-    "description": "Max level bonus: +51% action skill cooldown rate.",
-    "title": "\"I am such a B.A.\""
+    "description": "At max level: +61% cooldown rate, -43% accuracy.",
+    "title": "I am such a B.A."
   },
   "max": {
     "cooldown_rate_bonus": 5,

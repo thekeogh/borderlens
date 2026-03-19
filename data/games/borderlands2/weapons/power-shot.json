@@ -10,7 +10,7 @@
   "name": "Power Shot",
   "slug": "power-shot",
   "type": "Pistol",
-  "description": "Power Shot pistols pair a long, accurate, hard-hitting barrel with average magazine sizes. Their damage can feel only middling for the barrel type, but they compensate with very fast reloads. Holding the trigger enables burst fire.\n\nOn reload, the gun is thrown forward. Any remaining rounds are discarded but greatly increase the damage of the resulting explosion. If it misses, it bounces a few times like a lobbed grenade; if it hits an enemy, it detonates immediately.",
+  "description": "Power Shot pistols pair a long, accurate, hard-hitting barrel with average magazine sizes. Their damage can feel only middling for the barrel type, but they compensate with very fast reloads. Holding the trigger enables burst fire. On reload, the gun is thrown forward. Any remaining rounds are discarded but greatly increase the damage of the resulting explosion. If it misses, it bounces a few times like a lobbed grenade; if it hits an enemy, it detonates immediately.",
   "manufacturers": [
     "Tediore"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Appears only at green rarity or higher.\nDrops randomly from any appropriate loot source.",
+  "notes": "Appears only at green rarity or higher. Drops randomly from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

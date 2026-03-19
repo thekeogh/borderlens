@@ -10,7 +10,7 @@
   "name": "Hybridfication",
   "slug": "hybridfication",
   "type": "Sniper",
-  "description": "Uses 2 ammo per trigger pull. As with other Hyperion guns, recoil tightens the longer you keep firing. Projectiles bounce once off terrain and then pass through enemies.\n\nAs an E-tech weapon it has a lower critical hit bonus, so crits deal about half the damage of a comparable same-level Hyperion purple sniper, while costing twice the ammo.",
+  "description": "Uses 2 ammo per trigger pull. As with other Hyperion guns, recoil tightens the longer you keep firing. Projectiles bounce once off terrain and then pass through enemies. As an E-tech weapon it has a lower critical hit bonus, so crits deal about half the damage of a comparable same-level Hyperion purple sniper, while costing twice the ammo.",
   "manufacturers": [
     "Hyperion"
   ],

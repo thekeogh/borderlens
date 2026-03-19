@@ -10,7 +10,7 @@
   "name": "Smig",
   "slug": "smig",
   "type": "SMG",
-  "description": "The Smig can roll with different barrels, each changing its stats:\n- Tediore: faster reloads and better accuracy, but lower bullet damage.\n- Bandit: higher bullet damage, but worse accuracy.\n- Maliwan: improved accuracy. If the gun also spawns with an element, its title changes accordingly, and the Maliwan barrel also boosts elemental effect chance.",
+  "description": "The Smig can roll with different barrels, each changing its stats: - Tediore: faster reloads and better accuracy, but lower bullet damage. - Bandit: higher bullet damage, but worse accuracy. - Maliwan: improved accuracy. If the gun also spawns with an element, its title changes accordingly, and the Maliwan barrel also boosts elemental effect chance.",
   "manufacturers": [
     "Bandit"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "None"
   ],
-  "notes": "It always comes with an exceptionally large magazine. Salvador (Filled to the Brim) and Krieg (Blood-Filled Guns) can keep it firing for a long time, which makes it strong for clearing groups.\n\nA comparable Scav-made weapon in Borderlands: The Pre-Sequel is the SMG.",
+  "notes": "It always comes with an exceptionally large magazine. Salvador (Filled to the Brim) and Krieg (Blood-Filled Guns) can keep it firing for a long time, which makes it strong for clearing groups. A comparable Scav-made weapon in Borderlands: The Pre-Sequel is the SMG.",
   "sources": [
     {
       "name": "World Drop",

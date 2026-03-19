@@ -11,7 +11,7 @@
   "name": "Raider",
   "slug": "raider",
   "type": "Gunzerker",
-  "description": "Epic Raider is a Salvador class mod from the Borderlands 2 base game.",
+  "description": "Bandit class mod for Salvador the Gunzerker, built around Locked and Loaded, Money Shot, Incite.",
   "manufacturers": [
     "Bandit"
   ],
@@ -36,9 +36,9 @@
     }
   ],
   "special": {
-    "description": "At max level, this class mod provides:\n\n- Assault Rifle max accuracy: +57.5%\n- Assault Rifle spread: +57.5%\n- Shield capacity: -335,157\n\nNote: While Gunzerking, the assault rifle accuracy bonus only applies to the right-hand weapon. The item card also shows an incorrect assault rifle accuracy value."
+    "description": "At max level, boosts assault rifle max accuracy by 57.5% and assault rifle spread by 57.5%, while reducing shield capacity by 335,157."
   },
-  "notes": "",
+  "notes": "While Gunzerking, the assault rifle accuracy bonus only applies to the right-hand weapon. The item card also shows an incorrect assault rifle accuracy value.",
   "max": {
     "accuracy": 53.7,
     "level": 90

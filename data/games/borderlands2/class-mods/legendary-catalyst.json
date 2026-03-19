@@ -11,7 +11,7 @@
   "name": "Legendary Catalyst",
   "slug": "legendary-catalyst",
   "type": "Mechromancer",
-  "description": "Legendary Catalyst is a Legendary class mod for Gaige in Borderlands 2. It is a Maliwan mod (orange rarity) introduced with Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge.",
+  "description": "Legendary Maliwan class mod for Gaige the Mechromancer, part of the Digistruct Peak content. Built around More Pep, Electrical Burn, Evil Enchantress, Wires Don't Talk, Interspersed Outburst. Significantly boosts team elemental damage.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Any sub-level 50 versions show reduced skill bonuses, but are not obtainable through legitimate play. This mod requires the Digistruct Peak DLC and is unavailable without it.",
+  "notes": "Requires the Digistruct Peak Challenge DLC. Sub-level 50 versions are not obtainable legitimately.",
   "special": {
-    "description": "At maximum level: Team elemental effect damage +62%.",
-    "title": "\"Shocking, isn't it?\""
+    "description": "At max level: +62% team elemental effect damage.",
+    "title": "Shocking, isn't it?"
   },
   "abilities": [
     "+5 Wires Don't Talk Skill",

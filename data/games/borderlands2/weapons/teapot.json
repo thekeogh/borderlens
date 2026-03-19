@@ -227,9 +227,9 @@
   ],
   "special": {
     "title": "Havin' a tea Partay drinkin' mah Teeea!",
-    "description": "Impact detonations: every projectile explodes on contact.\n\nThe explosion deals 80% of weapon damage as splash, and that splash is increased by grenade damage boosts.\n\nDAHL: fires in bursts while aiming down sights.\n\nAlways corrosive. Higher accuracy, elemental damage, and corrosive splash, but lower base damage, fire rate, magazine size, and elemental effect chance."
+    "description": "Impact detonations: every projectile explodes on contact. The explosion deals 80% of weapon damage as splash, and that splash is increased by grenade damage boosts. DAHL: fires in bursts while aiming down sights. Always corrosive. Higher accuracy, elemental damage, and corrosive splash, but lower base damage, fire rate, magazine size, and elemental effect chance."
   },
-  "notes": "A 10/12/13 hotfix improved stability and magazine size for the Teapot and other DAHL pistols.\n\nIts shots create an explosion that adds 80% of weapon damage as splash, and this splash portion scales with grenade damage bonuses.\n\nIt is classed as a Tiny Tina weapon.",
+  "notes": "A 10/12/13 hotfix improved stability and magazine size for the Teapot and other DAHL pistols. Its shots create an explosion that adds 80% of weapon damage as splash, and this splash portion scales with grenade damage bonuses. It is classed as a Tiny Tina weapon.",
   "max": {
     "accuracy": 94.7,
     "damage": 759689,

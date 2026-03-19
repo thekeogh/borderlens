@@ -11,7 +11,7 @@
   "name": "Magic Missile",
   "slug": "magic-missile-rare",
   "type": "Unique",
-  "description": "Magic Missile is a Maliwan grenade mod from Tiny Tina's Assault on Dragon Keep.\n\nOn throw, it releases homing projectiles that ricochet and will continue seeking targets, including newly spawned foes and Stalkers as they uncloak. They detonate on contact or after travelling for a while, with a wide blast that can also damage the user. It always applies Slag, making it especially valuable in Ultimate Vault Hunter Mode. Like other magic grenades, it regenerates grenade ammo over time.",
+  "description": "Magic Missile is a Maliwan grenade mod from Tiny Tina's Assault on Dragon Keep. On throw, it releases homing projectiles that ricochet and will continue seeking targets, including newly spawned foes and Stalkers as they uncloak. They detonate on contact or after travelling for a while, with a wide blast that can also damage the user. It always applies Slag, making it especially valuable in Ultimate Vault Hunter Mode. Like other magic grenades, it regenerates grenade ammo over time.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -51,9 +51,9 @@
       ]
     }
   ],
-  "notes": "Purple Magic Missile drops from Badass Wizards.\n\nIts mix of grenade regeneration, Slag application and strong homing makes it useful in many situations.\n\nA common farming route is Magic Slaughter (Badass Round) at Murderlin's Temple. A Badass Wizard can also be summoned via the Sacrificial Altar in Dragon Keep, but the drop remains rare.\n\nNamed after the Dungeons and Dragons spell.\n\nKilling The Darkness with it can open the door behind to a Dice Chest.\n\nWith it equipped, Axton may call out \"Magic Missile!\" when deploying his Sabre Turret.",
+  "notes": "Purple Magic Missile drops from Badass Wizards. Its mix of grenade regeneration, Slag application and strong homing makes it useful in many situations. A common farming route is Magic Slaughter (Badass Round) at Murderlin's Temple. A Badass Wizard can also be summoned via the Sacrificial Altar in Dragon Keep, but the drop remains rare. Named after the Dungeons and Dragons spell. Killing The Darkness with it can open the door behind to a Dice Chest. With it equipped, Axton may call out \"Magic Missile!\" when deploying his Sabre Turret.",
   "special": {
-    "description": "Launches homing orbs that explode on impact. Always Slag. Grenades regenerate over time.\n\nConsumes 1 grenade to spawn 2 (blue) or 4 (purple) seeking projectiles. No wand required.",
+    "description": "Launches homing orbs that explode on impact. Always Slag. Grenades regenerate over time. Consumes 1 grenade to spawn 2 (blue) or 4 (purple) seeking projectiles. No wand required.",
     "title": "No wand required. Just point and shoot."
   },
   "max": {

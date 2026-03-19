@@ -11,7 +11,7 @@
   "name": "Professional",
   "slug": "professional",
   "type": "Assassin",
-  "description": "Professional is a common (white) Class Mod for Zer0 in Borderlands 2. It is manufactured by Dahl.",
+  "description": "Jakobs class mod for Zer0 the Assassin, built around Tw0Fang, Killer, Ambush. Focused on pistol and critical hit performance.",
   "manufacturers": [
     "Dahl"
   ],
@@ -36,9 +36,9 @@
     }
   ],
   "special": {
-    "description": "At max level, this Class Mod provides +58.5% reload speed and +1,053,349 shield capacity. Known issue: the item card can show an incorrect reload speed value."
+    "description": "At max level, this Class Mod provides +58.5% reload speed and +1,053,349 shield capacity."
   },
-  "notes": "",
+  "notes": "The item card can show an incorrect reload speed value.",
   "max": {
     "capacity": 1053349,
     "level": 90,

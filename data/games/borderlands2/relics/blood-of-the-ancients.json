@@ -11,7 +11,7 @@
   "name": "Blood of the Ancients",
   "slug": "blood-of-the-ancients",
   "type": "Universal",
-  "description": "Blood of the Ancients is an Eridian E-tech relic introduced with the Borderlands 2 Ultimate Upgrade Pack.\n\nIt boosts maximum health and increases carrying capacity for up to two ammo types at once. The extra durability and ammo reserves suit sustained, high fire rate builds, though the added health can be a drawback in some raid boss fights where large hits tend to trigger health-gating anyway.",
+  "description": "Blood of the Ancients is an Eridian E-tech relic introduced with the Borderlands 2 Ultimate Upgrade Pack. It boosts maximum health and increases carrying capacity for up to two ammo types at once. The extra durability and ammo reserves suit sustained, high fire rate builds, though the added health can be a drawback in some raid boss fights where large hits tend to trigger health-gating anyway.",
   "manufacturers": [
     "Eridian"
   ],
@@ -28,7 +28,7 @@
     }
   ],
   "special": {
-    "description": "Always rolls with two separate ammo capacity bonuses, drawn from Assault Rifle, Pistol, Rocket Launcher, Shotgun, SMG, or Sniper Rifle.\n\nIncreases maximum health and ammo carrying capacity."
+    "description": "Always rolls with two separate ammo capacity bonuses, drawn from Assault Rifle, Pistol, Rocket Launcher, Shotgun, SMG, or Sniper Rifle. Increases maximum health and ammo carrying capacity."
   },
   "notes": "Drops from Legendary Loot Midgets in Ultimate Vault Hunter Mode.",
   "abilities": [

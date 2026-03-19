@@ -10,7 +10,7 @@
   "name": "Phobia",
   "slug": "phobia",
   "type": "Pistol",
-  "description": "Phobia is identified by its Hyperion barrel, which increases critical hit damage.\n\nIts shots also create an extra 80% splash damage component, and this splash portion scales with any grenade damage bonuses.",
+  "description": "Phobia is identified by its Hyperion barrel, which increases critical hit damage. Its shots also create an extra 80% splash damage component, and this splash portion scales with any grenade damage bonuses.",
   "manufacturers": [
     "Maliwan"
   ],

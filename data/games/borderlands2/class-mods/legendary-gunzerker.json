@@ -11,7 +11,7 @@
   "name": "Legendary Gunzerker",
   "slug": "legendary-gunzerker",
   "type": "Gunzerker",
-  "description": "Legendary Gunzerker is a legendary class mod for Salvador in Borderlands 2. Manufactured by Torgue.",
+  "description": "Legendary Torgue class mod for Salvador the Gunzerker. Built around Lay Waste, All in the Reflexes, Last Longer, Yippee Ki Yay, Incite. Trades accuracy for raw gun damage and boosts action skill cooldown.",
   "manufacturers": [
     "Torgue"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Introduced with Ultimate Vault Hunter Upgrade Pack 2 (Digistruct Peak) and unavailable without that add-on.\n\nNot to be confused with the Legendary Berserker class mod.\n\nIts red text is a quote from the 1987 film Dirty Dancing.",
+  "notes": "A SHiFT reward version exists via the Diamond Plate Loot Chest. The item card may show incorrect stats. Do not confuse this with the Legendary Berserker class mod.",
   "special": {
-    "description": "At max level: +55% action skill cooldown rate.",
-    "title": "\"Nobody puts this baby in a corner.\""
+    "description": "At max level: +60.5% gun damage, -46% accuracy, +51% action skill cooldown rate.",
+    "title": "Nobody puts this baby in a corner."
   },
   "max": {
     "cooldown_rate_bonus": 557,

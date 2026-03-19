@@ -11,7 +11,7 @@
   "name": "Trickster",
   "slug": "trickster",
   "type": "Siren",
-  "description": "Trickster is an Epic class mod for Maya in Borderlands 2.",
+  "description": "Vladof class mod for Maya the Siren, built around Life Tap, Kinetic Reflection, Chain Reaction. Boosts fire rate.",
   "manufacturers": [
     "Vladof"
   ],
@@ -36,9 +36,9 @@
     }
   ],
   "special": {
-    "description": "At maximum level, Trickster provides up to +52% fire rate. The item card may show an incorrect fire rate value."
+    "description": "At max level boosts fire rate by 52%."
   },
-  "notes": "",
+  "notes": "The item card may show an incorrect fire rate value.",
   "max": {
     "fire_rate": 34,
     "level": 90

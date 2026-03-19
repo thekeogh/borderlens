@@ -11,7 +11,7 @@
   "name": "Legendary Reaper",
   "slug": "legendary-reaper",
   "type": "Psycho",
-  "description": "Legendary Reaper is a legendary Psycho (Krieg) class mod. It is included with the Digistruct Peak upgrade content and can only drop from Tubby enemies once you have reached level 61.",
+  "description": "Legendary Bandit class mod for Krieg the Psycho, part of the Digistruct Peak content. Built around Taste of Blood, Blood Overdrive, Blood Bath, Thrill of the Kill, Fuel the Fire. Greatly extends kill skill duration.",
   "manufacturers": [
     "Bandit"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Low level (below 50) versions would show smaller skill bonuses than +5, but these cannot be obtained legitimately.\n\nThis class mod is only available if you own the Digistruct Peak upgrade content. It has no optional prefixes.",
+  "notes": "Requires the Digistruct Peak Challenge DLC. Below-level-50 versions cannot be obtained legitimately. It has no optional prefixes.",
   "special": {
-    "description": "Grants up to +99% team kill skill duration. At endgame this extends the standard 7s kill skill timer to 13.9s, benefiting Krieg skills including Blood Bath, Blood Overdrive, Blood Twitch, Fuel the Blood, Fuel the Fire and Nervous Blood.\n\nAlso boosts skills: +5 Thrill of the Kill, +5 Fuel the Fire, +5 Blood Overdrive, +5 Blood Bath, +5 Taste of Blood.",
-    "title": "\"This is gonna get ugly.\""
+    "description": "At max level: extends kill skill duration by +99%, bringing the standard 7s timer to 13.9s. Also boosts skills: +5 Thrill of the Kill, +5 Fuel the Fire, +5 Blood Overdrive, +5 Blood Bath, +5 Taste of Blood.",
+    "title": "This is gonna get ugly."
   },
   "abilities": [
     "+5 Thrill of the Kill Skill",

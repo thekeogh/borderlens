@@ -41,9 +41,9 @@
     "Corrosive",
     "Explosive"
   ],
-  "notes": "Enemies killed by the thrown shield blast count towards the Boomerbang challenge.\n\nThe nova damage benefits from grenade damage boosts.\n\nIn TVHM and UVHM its damage falls behind due to enemy health scaling.\n\nIts name and flavour text nod to the phrase \"from the cradle to the grave\", fitting the idea of the shield being tossed away when it runs out.\n\nElemental prefixes can read oddly because they appear before \"The\" (eg \"Blast Proof The Cradle\").",
+  "notes": "Enemies killed by the thrown shield blast count towards the Boomerbang challenge. The nova damage benefits from grenade damage boosts. In TVHM and UVHM its damage falls behind due to enemy health scaling. Its name and flavour text nod to the phrase \"from the cradle to the grave\", fitting the idea of the shield being tossed away when it runs out. Elemental prefixes can read oddly because they appear before \"The\" (eg \"Blast Proof The Cradle\").",
   "special": {
-    "description": "From the cradle...\n\nWhen depleted, the shield is thrown and explodes on impact and also triggers an explosive nova. Lower capacity, faster recharge. At OP10 the thrown explosion is extremely weak (around 18,000 damage).",
+    "description": "From the cradle... When depleted, the shield is thrown and explodes on impact and also triggers an explosive nova. Lower capacity, faster recharge. At OP10 the thrown explosion is extremely weak (around 18,000 damage).",
     "title": "... to the grave."
   },
   "max": {

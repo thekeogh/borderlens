@@ -11,7 +11,7 @@
   "name": "Shot",
   "slug": "shot",
   "type": "Assassin",
-  "description": "Shot is a common Hyperion class mod for Zer0 in Borderlands 2. It can drop from any appropriate loot source.",
+  "description": "Bandit class mod for Salvador the Gunzerker, built around 0ptics, Precisi0n, Kill C0nfirmed.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -36,9 +36,9 @@
     }
   ],
   "special": {
-    "description": "At the level cap, grants a team-wide accuracy bonus of up to +57.5%.\n\nKnown issue: the item card may show an incorrect accuracy value."
+    "description": "At the level cap, grants a team-wide accuracy bonus of up to +57.5%."
   },
-  "notes": "",
+  "notes": "The item card may show an incorrect accuracy value.",
   "max": {
     "accuracy": 37.4,
     "level": 90

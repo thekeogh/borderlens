@@ -10,7 +10,7 @@
   "name": "Pistal",
   "slug": "pistal",
   "type": "Pistol",
-  "description": "The Pistal is a pistol with middling damage, poor accuracy and a very large magazine. Performance depends heavily on its barrel.\n\nBandit: higher damage and steadier handling, but worse accuracy.\nDahl: much lower recoil and faster accuracy recovery, but reduced damage with more shot spread.\nMaliwan: slightly better accuracy and increased elemental damage.\nTediore: no notable changes.\n\nLow-tier rolls are rarely worth using, but strong parts can make it effective at close to mid range.",
+  "description": "The Pistal is a pistol with middling damage, poor accuracy and a very large magazine. Performance depends heavily on its barrel. Bandit: higher damage and steadier handling, but worse accuracy. Dahl: much lower recoil and faster accuracy recovery, but reduced damage with more shot spread. Maliwan: slightly better accuracy and increased elemental damage. Tediore: no notable changes. Low-tier rolls are rarely worth using, but strong parts can make it effective at close to mid range.",
   "manufacturers": [
     "Bandit"
   ],

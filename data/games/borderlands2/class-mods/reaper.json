@@ -11,7 +11,7 @@
   "name": "Reaper",
   "slug": "reaper",
   "type": "Psycho",
-  "description": "Reaper is a common Bandit-manufactured class mod for Krieg in Borderlands 2. It can drop randomly from any appropriate loot source.",
+  "description": "Bandit class mod for Krieg the Psycho, built around Blood Twitch, Fuel the Fire, Blood Overdrive.",
   "manufacturers": [
     "Bandit"
   ],

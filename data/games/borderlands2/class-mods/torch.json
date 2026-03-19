@@ -10,7 +10,7 @@
   "name": "Torch",
   "slug": "torch",
   "type": "Psycho",
-  "description": "Torch is a common white class mod for Krieg in Borderlands 2, made by Bandit. It can drop at random from any appropriate loot source.",
+  "description": "Bandit class mod for Krieg the Psycho, built around Burn, Baby, Burn, Fuel the Fire, Flame Flare. Focused on incendiary damage.",
   "manufacturers": [
     "Bandit"
   ],
@@ -25,7 +25,7 @@
     "Fuel the Fire",
     "Flame Flare"
   ],
-  "notes": "Torch, along with the rest of Krieg's class mods, was added to the loot pool on 18 April 2013.",
+  "notes": "Krieg class mods were added to the loot pool on 18 April 2013.",
   "sources": [
     {
       "name": "Krieg Pool",

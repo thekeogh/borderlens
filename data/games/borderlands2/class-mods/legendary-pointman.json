@@ -11,7 +11,7 @@
   "name": "Legendary Pointman",
   "slug": "legendary-pointman",
   "type": "Commando",
-  "description": "Legendary Pointman is Axton's Legendary class mod in Borderlands 2. It is a Pangolin-made class mod (orange rarity).",
+  "description": "Legendary Pangolin class mod for Axton the Commando, part of the Digistruct Peak content. Built around Pressure, Grit, Last Ditch Effort, Able, Healthy. Focused on turret durability and reload speed.",
   "manufacturers": [
     "Pangolin"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Below level 50, versions with less than +5 skill bonuses are not obtainable through normal gameplay.\n\nRequires Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge to appear in-game.",
+  "notes": "Below level 50, versions with less than +5 skill bonuses cannot be obtained legitimately. Requires Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge to appear in-game.",
   "special": {
-    "description": "At maximum level it provides two passive bonuses:\n\n- Health regeneration: +38,902 per second\n- Maximum health: +1,196,988\n\nThe item uses the standard Pointman skin for clearer visual identification.",
-    "title": "\"Point taken.\""
+    "description": "At max level: +50.6% turret reload speed, +51% turret shield capacity. While the turret is active, grants +51% reload speed.",
+    "title": "Point taken."
   },
   "abilities": [
     "+5 Pressure Skill",

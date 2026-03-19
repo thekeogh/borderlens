@@ -20,5 +20,6 @@
  * Applies a muted text colour to elements.
  */
 .muted {
-  color: var(--color-zinc-500) !important
+  color: var(--color-zinc-0) !important;
+  opacity: .5 !important;
 }

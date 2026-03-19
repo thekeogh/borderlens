@@ -11,7 +11,7 @@
   "name": "Pyrophobia",
   "slug": "pyrophobia",
   "type": "Launcher",
-  "description": "Pyrophobia is a Legendary rocket launcher made by Maliwan.\n\nIts rocket throws out repeated fire blasts as it travels, so it performs best in tight spaces, on catwalks, or when enemies are lined up. Aim slightly above or beside targets to let the travelling bursts clip multiple foes. The extra blasts trigger by time, not distance, so higher projectile speed reduces the number of bursts over a given stretch.",
+  "description": "Pyrophobia is a Legendary rocket launcher made by Maliwan. Its rocket throws out repeated fire blasts as it travels, so it performs best in tight spaces, on catwalks, or when enemies are lined up. Aim slightly above or beside targets to let the travelling bursts clip multiple foes. The extra blasts trigger by time, not distance, so higher projectile speed reduces the number of bursts over a given stretch.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -228,9 +228,9 @@
   ],
   "special": {
     "title": "It's actually a fairly rational fear in this case.",
-    "description": "Always incendiary.\n\nFires a rocket that repeatedly detonates in timed fire bursts during flight before the final impact."
+    "description": "Always incendiary. Fires a rocket that repeatedly detonates in timed fire bursts during flight before the final impact."
   },
-  "notes": "Maliwan scope and exhaust parts can hinder the weapon by increasing rocket speed, shortening the burst chain.\n\nA Torgue exhaust slows the rocket, producing more mid-air bursts.\n\nThe fire novas can damage you, most often when you fire while moving forwards and the rocket is slow enough for the bursts to catch you.",
+  "notes": "Maliwan scope and exhaust parts can hinder the weapon by increasing rocket speed, shortening the burst chain. A Torgue exhaust slows the rocket, producing more mid-air bursts. The fire novas can damage you, most often when you fire while moving forwards and the rocket is slow enough for the bursts to catch you.",
   "max": {
     "accuracy": 87.6,
     "damage": 19351304,

@@ -21,7 +21,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Only appears at green rarity or above.\nWorld drop from any appropriate loot source.",
+  "notes": "Only appears at green rarity or above. World drop from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

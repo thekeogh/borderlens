@@ -10,7 +10,7 @@
   "name": "Nurse",
   "slug": "nurse",
   "type": "Siren",
-  "description": "Nurse is a common, white-rarity Class Mod in Borderlands 2 made by Anshin.",
+  "description": "Maliwan class mod for Maya the Siren, built around Restoration, Elated, Sweet Release. Focused on healing and health regen.",
   "manufacturers": [
     "Anshin"
   ],
@@ -25,7 +25,7 @@
     "Elated",
     "Sweet Release"
   ],
-  "notes": "",
+  "notes": "The red flavour text references the classic nursery rhyme.",
   "sources": [
     {
       "name": "Maya Pool",

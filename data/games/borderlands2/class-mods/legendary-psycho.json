@@ -11,7 +11,7 @@
   "name": "Legendary Psycho",
   "slug": "legendary-psycho",
   "type": "Psycho",
-  "description": "Legendary Psycho is a legendary Bandit-manufactured class mod for Krieg in Borderlands 2. It can drop from any appropriate loot source, with better odds from raid bosses.",
+  "description": "Legendary Bandit class mod for Krieg the Psycho. Built around Blood-Filled Guns, Blood Twitch, Empty the Rage, Feed the Meat, Burn, Baby, Burn, Fuel the Fire. Uniquely boosts six skills rather than the usual five, focused on fire rate and magazine size.",
   "manufacturers": [
     "Bandit"
   ],
@@ -42,10 +42,10 @@
       ]
     }
   ],
-  "notes": "Krieg class mods were added to the drop pool on 18 April 2013.\n\nUnlike most other legendary class mods, Legendary Psycho does not reduce Action Skill cooldown.\n\nIt is the only class mod with two separate red flavour text lines, reflecting Krieg's two voices.",
+  "notes": "Krieg class mods were added to the drop pool on 18 April 2013. Unlike most other legendary class mods, Legendary Psycho does not reduce Action Skill cooldown. It is the only class mod with two separate red flavour text lines, reflecting Krieg's two voices.",
   "special": {
-    "description": "At max level it provides: +40% Burn Damage, +40% Magazine Size, and +1.5s Shield Recharge Delay.\n\nIt boosts 6 skills rather than the usual 5 (with a few other legendary class mod exceptions).\n\nRed text: \"- One day I'll escape this hell and you'll be gone. - NIPPLE SALADS!\"",
-    "title": "\"One day I'll escape this hell and you'll be gone.\" \"NIPPLE SALADS!\""
+    "description": "At max level: +40% Burn Damage, +40% Magazine Size, +1.5s Shield Recharge Delay.",
+    "title": "One day I'll escape this hell and you'll be gone.\" \"NIPPLE SALADS!"
   },
   "max": {
     "level": 90,

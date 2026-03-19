@@ -11,7 +11,7 @@
   "name": "Blister",
   "slug": "blister",
   "type": "Psycho",
-  "description": "Blister is an Epic class mod for Krieg in Borderlands 2, included with the Psycho Pack.",
+  "description": "Epic Bandit class mod for Krieg the Psycho, built around Fuel the Blood, Blood Overdrive, and Blood Bath. Extends grenade capacity and kill skill duration.",
   "manufacturers": [
     "Bandit"
   ],
@@ -35,9 +35,9 @@
       ]
     }
   ],
-  "notes": "If this mod pushes you above your normal grenade limit, any extra grenades are lost when you unequip it.\n\nIt originally boosted Boiling Blood rather than Blood Bath. This was corrected in the 25 September hotfix and later rolled into Patch 1.8 (11 February 2014).",
+  "notes": "If this mod pushes you above your normal grenade limit, any extra grenades are lost when you unequip it. It originally boosted Boiling Blood rather than Blood Bath, which was corrected in the 25 September hotfix and later rolled into Patch 1.8 (11 February 2014).",
   "special": {
-    "description": "At max level it adds +6 Grenade Capacity and +66% Kill Skill Duration. Most Kill Skills last 7s, increasing to about 11.6s with this mod. Affected Krieg Kill Skills include Blood Bath, Blood Overdrive, Blood Twitch, Fuel the Blood, Fuel the Fire, and Nervous Blood."
+    "description": "At max level, adds +6 grenade capacity and +66% kill skill duration. Most kill skills last 7 seconds, extending to about 11.6 seconds with this mod. Affected skills include Blood Bath, Blood Overdrive, Blood Twitch, Fuel the Blood, Fuel the Fire, and Nervous Blood."
   },
   "max": {
     "capacity": 6,

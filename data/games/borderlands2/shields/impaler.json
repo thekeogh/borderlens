@@ -45,9 +45,9 @@
     "None",
     "Corrosive"
   ],
-  "notes": "Only bullet impacts launch the spike; most other ranged damage will not. Reflected rounds that hit you can still trigger it.\n\nThe launched spike deals corrosive splash damage and benefits from grenade damage bonuses. Spike kills can activate Blood Bath, but they do not progress the Game of Thorns challenge.\n\nThe spike can damage you if it detonates too close. Impaler can spawn with the Alkaline prefix for corrosive immunity, but it cannot roll other elemental immunities.",
+  "notes": "Only bullet impacts launch the spike; most other ranged damage will not. Reflected rounds that hit you can still trigger it. The launched spike deals corrosive splash damage and benefits from grenade damage bonuses. Spike kills can activate Blood Bath, but they do not progress the Game of Thorns challenge. The spike can damage you if it detonates too close. Impaler can spawn with the Alkaline prefix for corrosive immunity, but it cannot roll other elemental immunities.",
   "special": {
-    "description": "Bullet hit (shield up or down): launches a homing corrosive spike.\n\nMelee hit (shield up or down): retaliates with corrosive damage.",
+    "description": "Bullet hit (shield up or down): launches a homing corrosive spike. Melee hit (shield up or down): retaliates with corrosive damage.",
     "title": "Vlad would be proud."
   },
   "max": {

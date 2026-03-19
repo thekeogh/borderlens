@@ -10,7 +10,7 @@
   "name": "Hoarder",
   "slug": "hoarder",
   "type": "Gunzerker",
-  "description": "The Hoarder is a Common (white) class mod for the Gunzerker in Borderlands 2, made by Vladof. It can drop at random from any appropriate loot source.",
+  "description": "Common Vladof class mod for Salvador the Gunzerker, centred on Lay Waste, 5 Shots or 6, and Filled to the Brim. Restores ammo for the equipped weapon directly to reserves.",
   "manufacturers": [
     "Vladof"
   ],

@@ -11,7 +11,7 @@
   "name": "Antagonist",
   "slug": "antagonist",
   "type": "Reflect",
-  "description": "Returns enemy gunfire by bouncing bullets back at them for extra damage.\n\nWith any charge remaining, being hit also launches homing slag orbs at the attacker and provides damage reduction. These orbs can trigger from melee and other non-bullet damage. They explode on contact with surfaces, can be stopped by cover, and can splash you with slag if they detonate nearby.\n\nIn UVHM it applies slag very consistently, but it is best used alongside another slag option.",
+  "description": "Returns enemy gunfire by bouncing bullets back at them for extra damage. With any charge remaining, being hit also launches homing slag orbs at the attacker and provides damage reduction. These orbs can trigger from melee and other non-bullet damage. They explode on contact with surfaces, can be stopped by cover, and can splash you with slag if they detonate nearby. In UVHM it applies slag very consistently, but it is best used alongside another slag option.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "Krieg can have trouble proccing the hit effects if he is constantly damaging himself (especially in Mania or Hellborn). Even so, as long as there is some charge, the orbs can support Buzz Axe Rampage, particularly with Blood Trance.\n\nReflected bullets are treated as your shots: they can activate on-hit and on-kill skills and advance weapon challenges based on the enemy weapon type. This can clash with bonuses for not firing, such as Gaige's Interspersed Outburst, which reflections will consume.\n\nOnly projectiles from handheld guns are reflected; some mounted or heavy weapons are not.",
+  "notes": "Krieg can have trouble proccing the hit effects if he is constantly damaging himself (especially in Mania or Hellborn). Even so, as long as there is some charge, the orbs can support Buzz Axe Rampage, particularly with Blood Trance. Reflected bullets are treated as your shots: they can activate on-hit and on-kill skills and advance weapon challenges based on the enemy weapon type. This can clash with bonuses for not firing, such as Gaige's Interspersed Outburst, which reflections will consume. Only projectiles from handheld guns are reflected; some mounted or heavy weapons are not.",
   "special": {
-    "description": "Bullet reflection deals increased damage.\n\nWhile charged, taking damage fires homing slag orbs at the attacker and grants damage reduction. When the shield is empty it can still reflect bullets, but it will not release orbs.\n\nHigher capacity, reduced recharge delay, slower recharge rate.",
+    "description": "Bullet reflection deals increased damage. While charged, taking damage fires homing slag orbs at the attacker and grants damage reduction. When the shield is empty it can still reflect bullets, but it will not release orbs. Higher capacity, reduced recharge delay, slower recharge rate.",
     "title": "I'm rubber, you're glue."
   },
   "elements": [

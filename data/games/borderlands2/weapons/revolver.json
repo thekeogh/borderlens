@@ -10,7 +10,7 @@
   "name": "Revolver",
   "slug": "revolver",
   "type": "Pistol",
-  "description": "The Revolver is an early-game handgun and is guaranteed to drop from Knuckle Dragger on first kill. As a Jakobs pistol, it fires at the rate you can pull the trigger, complete with the signature fanning-style firing animation.\n\nBase performance depends on the barrel: Tediore gives no change; Maliwan slightly boosts accuracy; Bandit/Scav raises damage but lowers accuracy; Dahl improves accuracy and recoil recovery while reducing damage, and also cuts recoil.",
+  "description": "The Revolver is an early-game handgun and is guaranteed to drop from Knuckle Dragger on first kill. As a Jakobs pistol, it fires at the rate you can pull the trigger, complete with the signature fanning-style firing animation. Base performance depends on the barrel: Tediore gives no change; Maliwan slightly boosts accuracy; Bandit/Scav raises damage but lowers accuracy; Dahl improves accuracy and recoil recovery while reducing damage, and also cuts recoil.",
   "manufacturers": [
     "Jakobs"
   ],

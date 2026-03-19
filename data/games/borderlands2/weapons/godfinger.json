@@ -11,7 +11,7 @@
   "name": "Godfinger",
   "slug": "godfinger",
   "type": "Sniper",
-  "description": "Pearlescent Jakobs sniper rifle from the Digistruct Peak Upgrade Pack.\n\nIts shot gains power over flight time: the longer the projectile stays airborne, the more extra pellets it produces, up to 14 total. The splits are time-based rather than distance-based, so faster bullet speed (for example from Vel0city or Accelerate) pushes the full split further away. The added pellets are not shown on the item card, which makes it especially strong with Amplify shields. Performs best at extreme range; Jakobs crit bonuses can make it less ideal for crit-focused snipers.",
+  "description": "Pearlescent Jakobs sniper rifle from the Digistruct Peak Upgrade Pack. Its shot gains power over flight time: the longer the projectile stays airborne, the more extra pellets it produces, up to 14 total. The splits are time-based rather than distance-based, so faster bullet speed (for example from Vel0city or Accelerate) pushes the full split further away. The added pellets are not shown on the item card, which makes it especially strong with Amplify shields. Performs best at extreme range; Jakobs crit bonuses can make it less ideal for crit-focused snipers.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -209,9 +209,9 @@
   ],
   "special": {
     "title": "Such a Cod Finger.",
-    "description": "Fires a single bullet that spawns additional pellets over time in flight, up to 13 extra (14 total). Extra pellets appear at roughly 30 ms intervals in a fixed pattern: +1 five times, then +2 twice, then +4 at the end.\n\nIncreased zoom. Reduced damage and fire rate. Damage scales with travel time, reaching up to 14x at maximum split."
+    "description": "Fires a single bullet that spawns additional pellets over time in flight, up to 13 extra (14 total). Extra pellets appear at roughly 30 ms intervals in a fixed pattern: +1 five times, then +2 twice, then +4 at the end. Increased zoom. Reduced damage and fire rate. Damage scales with travel time, reaching up to 14x at maximum split."
   },
-  "notes": "Shares its material set with the Bekah.\n\nAt full ramp it can surpass other sniper rifles for damage, though the Pimpernel is usually easier to use for similar output. High damage and low fire rate also make it ammo-efficient. Extra pellets cannot trigger Gaige's Close Enough.",
+  "notes": "Shares its material set with the Bekah. At full ramp it can surpass other sniper rifles for damage, though the Pimpernel is usually easier to use for similar output. High damage and low fire rate also make it ammo-efficient. Extra pellets cannot trigger Gaige's Close Enough.",
   "elements": [
     "None"
   ],

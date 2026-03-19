@@ -10,7 +10,7 @@
   "name": "Revenant",
   "slug": "revenant",
   "type": "SMG",
-  "description": "The Revenant is a Maliwan SMG from a small set that always spawns with a fixed-element Maliwan barrel. This gives it unusually strong elemental damage-over-time and a higher chance to apply status effects. Fitting a Maliwan grip boosts these elemental stats further.\n\nAlthough it is not a high-rarity weapon, its reliable procs and potent DoT can carry you well until you find a better or rarer alternative.",
+  "description": "The Revenant is a Maliwan SMG from a small set that always spawns with a fixed-element Maliwan barrel. This gives it unusually strong elemental damage-over-time and a higher chance to apply status effects. Fitting a Maliwan grip boosts these elemental stats further. Although it is not a high-rarity weapon, its reliable procs and potent DoT can carry you well until you find a better or rarer alternative.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Slag"
   ],
-  "notes": "Related Maliwan SMGs in this fixed-element set include the Provacateur (incendiary), Venom (corrosive), Vexation (shock), and Hyperborean (cryo) in Borderlands: The Pre-Sequel.\n\nA generation bug can cause blue versions to show purple title text on the item card; with Colourblind Mode enabled it may display as [Purple] rather than [Blue]. As a result, blue and purple variants with identical parts can end up with the same stats.\n\nDrops randomly from any appropriate loot source.",
+  "notes": "Related Maliwan SMGs in this fixed-element set include the Provacateur (incendiary), Venom (corrosive), Vexation (shock), and Hyperborean (cryo) in Borderlands: The Pre-Sequel. A generation bug can cause blue versions to show purple title text on the item card; with Colourblind Mode enabled it may display as [Purple] rather than [Blue]. As a result, blue and purple variants with identical parts can end up with the same stats. Drops randomly from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

@@ -11,7 +11,7 @@
   "name": "Scorpio",
   "slug": "scorpio",
   "type": "Assault Rifle",
-  "description": "Scorpio is a rare DAHL assault rifle from the Borderlands 2 base game.\n\nLike other DAHL guns, it switches to burst fire while aiming, but the burst length is larger and varies per burst. When scoped it stays very accurate with minimal recoil.",
+  "description": "Scorpio is a rare DAHL assault rifle from the Borderlands 2 base game. Like other DAHL guns, it switches to burst fire while aiming, but the burst length is larger and varies per burst. When scoped it stays very accurate with minimal recoil.",
   "manufacturers": [
     "Dahl"
   ],
@@ -252,7 +252,7 @@
     }
   ],
   "special": {
-    "description": "Has a 30 percent chance to fire an extra shot.\n\nAiming changes it from full-auto to a longer, variable burst. Boosts fire rate and magazine size, and increases the burst count.",
+    "description": "Has a 30 percent chance to fire an extra shot. Aiming changes it from full-auto to a longer, variable burst. Boosts fire rate and magazine size, and increases the burst count.",
     "title": "Say not in grief: \"He is no more.\" but live in thankfulness that he was."
   },
   "notes": "Its unscoped double-shot behaviour is comparable to Zer0s Two Fang skill or the Shadow of the Seraphs relic.",

@@ -261,9 +261,9 @@
   ],
   "special": {
     "title": "Octo means 9.",
-    "description": "Fires a slow-moving 3x3 pellet grid that cycles between contracting towards the centre and spreading back out as it travels.\n\nReload: thrown like a Tediore, detonating on hitting an enemy or after 1.7s.\nReload blast has radius falloff. Damage:\n[Element] grenade damage = card damage x unused ammo x 4.5\nFactor = 0.5 + 0.4 x pellets (min 1.5)\n\nPellets travel in a sine-wave path and leave yellow-orange trails. The grid typically fires 10 pellets with the centre-left point missing; two grid points each carry an extra pellet."
+    "description": "Fires a slow-moving 3x3 pellet grid that cycles between contracting towards the centre and spreading back out as it travels. Reload: thrown like a Tediore, detonating on hitting an enemy or after 1.7s. Reload blast has radius falloff. Damage: [Element] grenade damage = card damage x unused ammo x 4.5 Factor = 0.5 + 0.4 x pellets (min 1.5) Pellets travel in a sine-wave path and leave yellow-orange trails. The grid typically fires 10 pellets with the centre-left point missing; two grid points each carry an extra pellet."
   },
-  "notes": "During the $100,000 Loot Hunt (week 2, day 14) it was a featured drop from the Sheriff of Lynchwood alongside the Fastball, and a same-day hotfix boosted its damage.\nWith the Gentle accessory, it fires 12 pellets; four points in the grid receive two pellets each.\nThe doubled-up grid points can change between shots.",
+  "notes": "During the $100,000 Loot Hunt (week 2, day 14) it was a featured drop from the Sheriff of Lynchwood alongside the Fastball, and a same-day hotfix boosted its damage. With the Gentle accessory, it fires 12 pellets; four points in the grid receive two pellets each. The doubled-up grid points can change between shots.",
   "max": {
     "accuracy": 93,
     "damage": 605102,

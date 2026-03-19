@@ -11,7 +11,7 @@
   "name": "War Dog",
   "slug": "war-dog",
   "type": "Gunzerker",
-  "description": "War Dog is a common Gunzerker class mod made by Dahl in Borderlands 2. It is part of the base game and can drop from any appropriate loot source.",
+  "description": "Dahl class mod for Salvador the Gunzerker, built around 5 Shots or 6, Out of Bubblegum, Filled to the Brim. Boosts reload speed and magazine size.",
   "manufacturers": [
     "Dahl"
   ],
@@ -36,9 +36,9 @@
     }
   ],
   "special": {
-    "description": "At max level, War Dog boosts reload speed by 57.5% and magazine size by 57.5%.\n\nKnown issue: the item card shows an incorrect reload speed value."
+    "description": "At max level: boosts reload speed by 57.5% and magazine size by 57.5%."
   },
-  "notes": "",
+  "notes": "The item card may show an incorrect reload speed value.",
   "max": {
     "level": 90,
     "mag_size": 58,

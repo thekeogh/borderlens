@@ -11,7 +11,7 @@
   "name": "Beast",
   "slug": "beast",
   "type": "Gunzerker",
-  "description": "Beast is an Epic class mod for Salvador in Borderlands 2 (base game).",
+  "description": "Epic Torgue class mod for Salvador the Gunzerker, built around Just Got Real, Incite, and Sexual Tyrannosaurus. Boosts reload speed and health.",
   "manufacturers": [
     "Torgue"
   ],
@@ -35,9 +35,9 @@
       ]
     }
   ],
-  "notes": "The Altered prefix is a nod to the 1988 game Altered Beast.",
+  "notes": "The Altered prefix is a nod to the 1988 game Altered Beast. The item card may show an incorrect Reload Speed value.",
   "special": {
-    "description": "At max level, this class mod boosts Reload Speed by 57.5% and increases Health by 1,101,229. The item card may show an incorrect Reload Speed value."
+    "description": "At max level, boosts Reload Speed by 57.5% and increases Health by 1,101,229."
   },
   "max": {
     "level": 90,

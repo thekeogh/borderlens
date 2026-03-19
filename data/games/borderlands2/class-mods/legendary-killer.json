@@ -11,7 +11,7 @@
   "name": "Legendary Killer",
   "slug": "legendary-killer",
   "type": "Assassin",
-  "description": "Legendary Killer is a Legendary class mod for Zer0 in Borderlands 2.",
+  "description": "Legendary Hyperion class mod for Zer0 the Assassin. Built around Headsh0t, Killer, Vel0city, Ambush, Tw0Fang. Boosts critical hit performance and action skill cooldown.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Added with Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. It cannot be obtained without this DLC.\n\nIts red text is a shortened, commonly memed version of a line from Anchorman.",
+  "notes": "Requires the Digistruct Peak Challenge DLC.",
   "special": {
-    "description": "At max level: Team critical hit damage +62%.",
-    "title": "\"Well, that escalated quickly.\""
+    "description": "At max level: +51% critical hit damage, +57.5% action skill cooldown rate.",
+    "title": "Well, that escalated quickly."
   },
   "abilities": [
     "+5 Killer Skill",

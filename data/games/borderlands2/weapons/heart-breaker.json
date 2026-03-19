@@ -11,7 +11,7 @@
   "name": "Heart Breaker",
   "slug": "heart-breaker",
   "type": "Shotgun",
-  "description": "Hyperion rare shotgun. Fires 10 pellets for 1 ammo (12 with Practicable plus foregrip), giving strong damage per shot. Pellets form a fixed heart pattern and the gun has an innate critical hit damage bonus, letting it compete above its rarity. Always incendiary: excellent versus flesh, weaker into shields and armour.\n\nAs a Miss Moxxi weapon it returns a portion of damage as health, suiting close-range play. Hyperion recoil settles with sustained fire, but the heart pattern does not tighten.",
+  "description": "Hyperion rare shotgun. Fires 10 pellets for 1 ammo (12 with Practicable plus foregrip), giving strong damage per shot. Pellets form a fixed heart pattern and the gun has an innate critical hit damage bonus, letting it compete above its rarity. Always incendiary: excellent versus flesh, weaker into shields and armour. As a Miss Moxxi weapon it returns a portion of damage as health, suiting close-range play. Hyperion recoil settles with sustained fire, but the heart pattern does not tighten.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -183,9 +183,9 @@
   ],
   "special": {
     "title": "I don't want to set the world on fire...",
-    "description": "Always incendiary. Fires in a heart-shaped pattern.\n\nBonuses and traits:\n- +50% critical hit damage (scales)\n- Increased pellet count and fire rate\n- Reduced pellet damage and magazine size\n- Moxxi: heals for 2% of all damage dealt while equipped\n- Hyperion: sustained fire reduces recoil; accuracy behaviour does not change the fixed spread pattern\n\nRed text: I don't want to set the world on fire..."
+    "description": "Always incendiary. Fires in a heart-shaped pattern. Bonuses and traits: - +50% critical hit damage (scales) - Increased pellet count and fire rate - Reduced pellet damage and magazine size - Moxxi: heals for 2% of all damage dealt while equipped - Hyperion: sustained fire reduces recoil; accuracy behaviour does not change the fixed spread pattern Red text: I don't want to set the world on fire..."
   },
-  "notes": "With the Critical prefix it can reach +100% critical hit damage, as the accessory stacks with the innate bonus.\n\nCannot spawn with a sight.\n\nLimited-time SHiFT distributions (Valentines Day 2013; reissued 2014 and 2020) granted a level-matched copy to the first character loaded after redemption.\n\nA level 30 Krieg starts with a free Heart Breaker.",
+  "notes": "With the Critical prefix it can reach +100% critical hit damage, as the accessory stacks with the innate bonus. Cannot spawn with a sight. Limited-time SHiFT distributions (Valentines Day 2013; reissued 2014 and 2020) granted a level-matched copy to the first character loaded after redemption. A level 30 Krieg starts with a free Heart Breaker.",
   "max": {
     "accuracy": 63.6,
     "damage": 456053,

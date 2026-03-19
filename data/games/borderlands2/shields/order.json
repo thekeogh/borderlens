@@ -11,7 +11,7 @@
   "name": "Order",
   "slug": "order",
   "type": "Roid",
-  "description": "Order is a rare Bandit shield in Borderlands 2 built around roid melee damage rather than survivability. Its capacity tends to be on the low side for its level, but the roid bonus is strong.\n\nOn its own it behaves much like a typical Maylay shield. Its standout feature comes when paired with the Law pistol, which adds melee lifesteal and greatly improves the staying power of melee-focused builds.",
+  "description": "Order is a rare Bandit shield in Borderlands 2 built around roid melee damage rather than survivability. Its capacity tends to be on the low side for its level, but the roid bonus is strong. On its own it behaves much like a typical Maylay shield. Its standout feature comes when paired with the Law pistol, which adds melee lifesteal and greatly improves the staying power of melee-focused builds.",
   "manufacturers": [
     "Bandit"
   ],
@@ -33,9 +33,9 @@
     "Shock",
     "Corrosive"
   ],
-  "notes": "Order can roll a Maliwan capacitor, potentially granting immunity to a single element (fire, shock, or corrosive).\n\nIt cannot spawn with Bandit or Torgue shield parts.\n\nDespite the Bandit branding, it uses a Hyperion amplify shield body with a Bandit-style skin. Its name, flavour text, and synergy with Law reference the TV series Law and Order.",
+  "notes": "Order can roll a Maliwan capacitor, potentially granting immunity to a single element (fire, shock, or corrosive). It cannot spawn with Bandit or Torgue shield parts. Despite the Bandit branding, it uses a Hyperion amplify shield body with a Bandit-style skin. Its name, flavour text, and synergy with Law reference the TV series Law and Order.",
   "special": {
-    "description": "With Law equipped, Order provides 25 percent melee lifesteal.\n\nEquipping two Laws (for example via Salvador) does not add extra lifesteal or change the effect.",
+    "description": "With Law equipped, Order provides 25 percent melee lifesteal. Equipping two Laws (for example via Salvador) does not add extra lifesteal or change the effect.",
     "title": "Chung-gunk!"
   },
   "max": {

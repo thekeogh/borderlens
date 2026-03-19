@@ -11,7 +11,7 @@
   "name": "Tidal Wave",
   "slug": "tidal-wave",
   "type": "Shotgun",
-  "description": "Jakobs rare shotgun from Borderlands 2.\n\nIt fires a wide, horizontal fan of slow projectiles, so it struggles beyond point-blank range and is awkward against tall humanoids. It performs best on broad targets like skags and loaders, where the recoil can walk shots through multiple critical spots. In tight areas the ricochets can tag enemies from odd angles, but careless shots can rebound and hurt you. Skilled use can thin grouped fliers and help clear drone-heavy bosses.",
+  "description": "Jakobs rare shotgun from Borderlands 2. It fires a wide, horizontal fan of slow projectiles, so it struggles beyond point-blank range and is awkward against tall humanoids. It performs best on broad targets like skags and loaders, where the recoil can walk shots through multiple critical spots. In tight areas the ricochets can tag enemies from odd angles, but careless shots can rebound and hurt you. Skilled use can thin grouped fliers and help clear drone-heavy bosses.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -229,9 +229,9 @@
   ],
   "special": {
     "title": "Flee the Wave, Dude!",
-    "description": "Fires 13 slow, horizontal projectiles that travel in a wave-like path. Shots pierce targets and can ricochet up to 3 times off surfaces.\n\nJakobs shotgun: +30 percent critical hit damage.\n\nRed text: Flee the Wave, Dude!"
+    "description": "Fires 13 slow, horizontal projectiles that travel in a wave-like path. Shots pierce targets and can ricochet up to 3 times off surfaces. Jakobs shotgun: +30 percent critical hit damage. Red text: Flee the Wave, Dude!"
   },
-  "notes": "Originally featured as a Loot Hunt drop from DJ Tanner; a hotfix later boosted its damage and increased the ricochet behaviour.\n\nIn cramped spaces the bouncing pellets can easily down the user.\n\nMaya can exploit the multi-hit pattern for strong Life Tap healing and quick reload pacing.\n\nGaige with Close Enough benefits heavily, as missed shots and bounces can still redirect into enemies and potentially strike repeatedly in enclosed rooms.",
+  "notes": "Originally featured as a Loot Hunt drop from DJ Tanner; a hotfix later boosted its damage and increased the ricochet behaviour. In cramped spaces the bouncing pellets can easily down the user. Maya can exploit the multi-hit pattern for strong Life Tap healing and quick reload pacing. Gaige with Close Enough benefits heavily, as missed shots and bounces can still redirect into enemies and potentially strike repeatedly in enclosed rooms.",
   "elements": [
     "None"
   ],

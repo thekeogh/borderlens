@@ -11,7 +11,7 @@
   "name": "The Sham",
   "slug": "the-sham",
   "type": "Absorb",
-  "description": "The Sham is a legendary Vladof shield in Borderlands 2 that focuses on absorbing bullets, turning many incoming shots into ammo. It shines against enemies using firearms.\n\nThe trade-off is poor basic defence, with low capacity and weak recharge performance. It does little against non-bullet damage, so its usefulness depends on the encounter.",
+  "description": "The Sham is a legendary Vladof shield in Borderlands 2 that focuses on absorbing bullets, turning many incoming shots into ammo. It shines against enemies using firearms. The trade-off is poor basic defence, with low capacity and weak recharge performance. It does little against non-bullet damage, so its usefulness depends on the encounter.",
   "manufacturers": [
     "Vladof"
   ],
@@ -34,9 +34,9 @@
       ]
     }
   ],
-  "notes": "Dropped by BNK3R (3.33% chance).\n\nUseful for the Ammo Eater challenge.\n\nCan work against Krieg in Mania and Hellborn, as absorbed hits may not trigger damage-based mechanics. Bloodlust builds tend to gain more from the extra ammo.\n\nStrong for launcher-heavy setups, helping top up rockets via self-splash with gear such as Logan's Gun, KerBlaster, or the Grenadier, and lowering the chance of self-inflicted deaths.\n\nCannot roll with a Maliwan capacitor, or with Anshin, Bandit, Pangolin, or Torgue parts.\n\nRed text references a ShamWow catchphrase.",
+  "notes": "Dropped by BNK3R (3.33% chance). Useful for the Ammo Eater challenge. Can work against Krieg in Mania and Hellborn, as absorbed hits may not trigger damage-based mechanics. Bloodlust builds tend to gain more from the extra ammo. Strong for launcher-heavy setups, helping top up rockets via self-splash with gear such as Logan's Gun, KerBlaster, or the Grenadier, and lowering the chance of self-inflicted deaths. Cannot roll with a Maliwan capacitor, or with Anshin, Bandit, Pangolin, or Torgue parts. Red text references a ShamWow catchphrase.",
   "special": {
-    "description": "Absorption chance varies by parts, from 77% to 94%.\n\nWow, I CAN do this all day. Massive bullet absorption. Greatly reduced shield capacity and recharge delay, with a slightly reduced recharge rate. Cannot spawn with elemental resistance.",
+    "description": "Absorption chance varies by parts, from 77% to 94%. Wow, I CAN do this all day. Massive bullet absorption. Greatly reduced shield capacity and recharge delay, with a slightly reduced recharge rate. Cannot spawn with elemental resistance.",
     "title": "Wow, I CAN do this all day."
   },
   "elements": [

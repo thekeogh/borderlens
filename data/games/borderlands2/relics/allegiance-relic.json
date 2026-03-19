@@ -20,9 +20,9 @@
     "Rare",
     "Epic"
   ],
-  "notes": "Each manufacturer has a set of three possible weapon traits linked to its Allegiance Relic. A relic roll can enhance up to two of those traits.\n\nBurst Delay can only appear on Dahl versions.\n\nMax Accuracy can only appear on Hyperion versions, improving starting accuracy and reaching the listed maximum accuracy faster.",
+  "notes": "Each manufacturer has a set of three possible weapon traits linked to its Allegiance Relic. A relic roll can enhance up to two of those traits. Burst Delay can only appear on Dahl versions. Max Accuracy can only appear on Hyperion versions, improving starting accuracy and reaching the listed maximum accuracy faster.",
   "special": {
-    "description": "Improves weapon traits for one specific manufacturer only.\n\nPossible bonuses depend on the chosen manufacturer and will not apply to other brands."
+    "description": "Improves weapon traits for one specific manufacturer only. Possible bonuses depend on the chosen manufacturer and will not apply to other brands."
   },
   "sources": [
     {

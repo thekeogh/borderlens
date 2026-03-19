@@ -44,9 +44,9 @@
       ]
     }
   ],
-  "notes": "Its name nods to Operation Rolling Thunder, the US bombing campaign during the Vietnam War.\n\nThe item card flavour text warns that using it indoors is both impressive and potentially fatal.",
+  "notes": "Its name nods to Operation Rolling Thunder, the US bombing campaign during the Vietnam War. The item card flavour text warns that using it indoors is both impressive and potentially fatal.",
   "special": {
-    "description": "Thrown with a very shallow arc, it skims along the ground and bounces in a straight line. It detonates on every bounce after the first.\n\nOn direct contact with an enemy, it releases 10 child grenades. After a short series of bounces, it ends in a larger MIRV-style blast.",
+    "description": "Thrown with a very shallow arc, it skims along the ground and bounces in a straight line. It detonates on every bounce after the first. On direct contact with an enemy, it releases 10 child grenades. After a short series of bounces, it ends in a larger MIRV-style blast.",
     "title": "The thunder shall bring forth the pain!"
   },
   "max": {

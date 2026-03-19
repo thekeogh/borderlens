@@ -11,7 +11,7 @@
   "name": "Tunguska",
   "slug": "tunguska",
   "type": "Launcher",
-  "description": "The Tunguska is a Pearlescent Torgue launcher from the Borderlands 2 Ultimate Upgrade Pack.\n\nIt hits for enormous area damage, but the big hit is delayed. After impact, the rocket pops upward and then detonates; the item card damage reflects this airburst, not the initial impact. It spends 2 launcher rounds per shot and can be awkward to time, so many Legendary launchers can match or beat its output with less danger.\n\nThe blast radius is large enough to down you if fired carelessly.",
+  "description": "The Tunguska is a Pearlescent Torgue launcher from the Borderlands 2 Ultimate Upgrade Pack. It hits for enormous area damage, but the big hit is delayed. After impact, the rocket pops upward and then detonates; the item card damage reflects this airburst, not the initial impact. It spends 2 launcher rounds per shot and can be awkward to time, so many Legendary launchers can match or beat its output with less danger. The blast radius is large enough to down you if fired carelessly.",
   "manufacturers": [
     "Torgue"
   ],
@@ -226,9 +226,9 @@
   ],
   "special": {
     "title": "It will split the sky in two.",
-    "description": "Fires a high, mortar-like arc. On impact it deals a small hit, rises briefly, then detonates in a huge airburst.\n\nExtremely high damage and increased splash radius, with a very slow reload. Consumes 2 ammo per shot."
+    "description": "Fires a high, mortar-like arc. On impact it deals a small hit, rises briefly, then detonates in a huge airburst. Extremely high damage and increased splash radius, with a very slow reload. Consumes 2 ammo per shot."
   },
-  "notes": "Direct impact damage is about one tenth of the later explosion.\nVery high sale value: roughly $2,000,000 at level 61, $18,000,000 at level 80, and $55,000,000 at OP10.",
+  "notes": "Direct impact damage is about one tenth of the later explosion. Very high sale value: roughly $2,000,000 at level 61, $18,000,000 at level 80, and $55,000,000 at OP10.",
   "max": {
     "accuracy": 73.3,
     "damage": 30331672,

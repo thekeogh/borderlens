@@ -154,10 +154,10 @@
     }
   ],
   "special": {
-    "title": "\"Hated by large numbers of people.\"",
-    "description": "Cannot roll any sight or the fire-rate, magazine, or damage accessories.\n\nJakobs sniper rifles grant +160% critical hit damage. The Elephant Gun adds +150% weapon damage, but reduces accuracy, fire rate, reload speed, and magazine size."
+    "title": "Hated by large numbers of people.",
+    "description": "Cannot roll any sight or the fire-rate, magazine, or damage accessories. Jakobs sniper rifles grant +160% critical hit damage. The Elephant Gun adds +150% weapon damage, but reduces accuracy, fire rate, reload speed, and magazine size."
   },
-  "notes": "Zer0: Legendary Hunter reload bonuses and One Shot One Kill help counter the slow reload and improve one-hit kills.\n\nWhile in Deception, the crosshair can sit above the barrel; aiming using the muzzle position can throw off shots.\n\nAxton: Ready and Pressure speed up reloads, and Metal Storm helps the fire rate.\n\nIt cannot roll a scope, and cannot take scope-linked accessories (Klook, Skookum, Hyiu).",
+  "notes": "Zer0: Legendary Hunter reload bonuses and One Shot One Kill help counter the slow reload and improve one-hit kills. While in Deception, the crosshair can sit above the barrel; aiming using the muzzle position can throw off shots. Axton: Ready and Pressure speed up reloads, and Metal Storm helps the fire rate. It cannot roll a scope, and cannot take scope-linked accessories (Klook, Skookum, Hyiu).",
   "elements": [
     "None"
   ],

@@ -11,7 +11,7 @@
   "name": "Crossfire",
   "slug": "crossfire",
   "type": "Bouncing Betty",
-  "description": "The Crossfire is a DAHL Seraph grenade mod from the Campaign of Carnage DLC.\n\nIt behaves like a Bouncing Betty, then scatters additional child grenades across a wide area for heavy crowd control. It can wipe out clustered spawns, but the secondary blasts can catch you if you throw it too close. Its bullet spray does not damage allies.\n\nIt closely resembles the Bouncing Bonny, spawning child grenades a little faster in exchange for slightly lower damage, and it can release children while still in mid-air.",
+  "description": "The Crossfire is a DAHL Seraph grenade mod from the Campaign of Carnage DLC. It behaves like a Bouncing Betty, then scatters additional child grenades across a wide area for heavy crowd control. It can wipe out clustered spawns, but the secondary blasts can catch you if you throw it too close. Its bullet spray does not damage allies. It closely resembles the Bouncing Bonny, spawning child grenades a little faster in exchange for slightly lower damage, and it can release children while still in mid-air.",
   "manufacturers": [
     "Dahl"
   ],
@@ -34,7 +34,7 @@
       ]
     }
   ],
-  "notes": "Can roll with any elemental accessory. It cannot spawn with Homing Sticky, Lobbed Sticky, or Longbow Sticky delivery.\n\nThere is an item card display bug with fuse time: the part that shows 1.0s actually functions as a 0.0s fuse.\n\nThe red text is a reference to small-unit tactics: find, fix, flank, finish.",
+  "notes": "Can roll with any elemental accessory. It cannot spawn with Homing Sticky, Lobbed Sticky, or Longbow Sticky delivery. There is an item card display bug with fuse time: the part that shows 1.0s actually functions as a 0.0s fuse. The red text is a reference to small-unit tactics: find, fix, flank, finish.",
   "special": {
     "description": "Fires a child grenade in a random direction every 2.5 seconds.",
     "title": "Find, fix, flank, finish!"

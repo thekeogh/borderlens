@@ -11,7 +11,7 @@
   "name": "Warder",
   "slug": "warder",
   "type": "Siren",
-  "description": "Warder is a common Siren class mod in Borderlands 2, made by Anshin. It can drop at random from any appropriate loot source.",
+  "description": "Anshin class mod for Maya the Siren, built around Wreck, Ward, Recompense. Boosts shield capacity.",
   "manufacturers": [
     "Anshin"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At maximum level, Warder boosts Shield Capacity by 1,484,265."
+    "description": "At max level: boosts Shield Capacity by 1,484,265."
   },
   "notes": "",
   "max": {

@@ -11,7 +11,7 @@
   "name": "Legendary Sickle",
   "slug": "legendary-sickle",
   "type": "Psycho",
-  "description": "Legendary Sickle is a legendary Psycho class mod. It was added with the Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge and only drops from Tubby enemies in Ultimate Vault Hunter Mode at level 62 or higher.",
+  "description": "Legendary Bandit class mod for Krieg the Psycho, part of the Digistruct Peak content. Built around Taste of Blood, Fuel the Blood, Empty the Rage, Silence the Voices, Pain is Power. Focused on melee damage and melee override cooldowns.",
   "manufacturers": [
     "Bandit"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Below-level-50 versions would show reduced bonuses instead of +5, but cannot be obtained legitimately.\n\nRequires the Digistruct Peak Challenge add-on.\n\nAlthough it is the legendary Sickle, it uses the Meat class mod model.\n\nThe red flavour line quotes Walter Sobchak from The Big Lebowski.",
+  "notes": "Requires the Digistruct Peak Challenge DLC. Below-level-50 versions cannot be obtained legitimately. Although it is the legendary Sickle, it uses the Meat class mod model. The red flavour line quotes Walter Sobchak from The Big Lebowski.",
   "special": {
-    "description": "At maximum level: +61% melee damage.\n\nThe standard Sickle is strictly worse than the legendary variant in all stats. Some displays may use the regular Sickle texture to help differentiate it.",
-    "title": "\"You're entering a world of pain.\""
+    "description": "At max level: +61% melee damage. Also improves melee override cooldown rate.",
+    "title": "You're entering a world of pain."
   },
   "abilities": [
     "+5 Empty the Rage Skill",

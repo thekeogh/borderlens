@@ -219,7 +219,7 @@
   ],
   "special": {
     "title": "Found out about this I was like DAAAMN, I'm bringing that gun BACK!",
-    "description": "Rounds detonate on impact, dealing heavy splash damage.\nDamage counts as explosive gun damage, not grenade damage."
+    "description": "Rounds detonate on impact, dealing heavy splash damage. Damage counts as explosive gun damage, not grenade damage."
   },
   "notes": "It was long known for an extremely low drop rate, which was later improved by a patch. Its projectiles deal explosive gun damage, so general gun damage bonuses apply, while grenade-only boosts typically do not. The splash component can still interact with effects that amplify damage taken and other splash-related modifiers.",
   "max": {

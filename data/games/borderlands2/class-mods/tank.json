@@ -11,7 +11,7 @@
   "name": "Tank",
   "slug": "tank",
   "type": "Gunzerker",
-  "description": "Epic class mod for Salvador in Borderlands 2.",
+  "description": "Pangolin class mod for Salvador the Gunzerker, built around I'm the Juggernaut, Hard to Kill, Asbestos. Boosts shield capacity and recharge rate.",
   "manufacturers": [
     "Pangolin"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At the level cap, Tank provides two bonuses:\n\n- Shield Capacity: +1,580,024\n- Shield Recharge Rate: +58%"
+    "description": "At max level: boosts Shield Capacity by 1,580,024 and Shield Recharge Rate by 58%."
   },
   "notes": "",
   "max": {

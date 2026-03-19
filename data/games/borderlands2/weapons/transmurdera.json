@@ -10,7 +10,7 @@
   "name": "Transmurdera",
   "slug": "transmurdera",
   "type": "SMG",
-  "description": "Like most Hyperion SMGs, the Transmurdera starts inaccurate but stabilises the longer you hold the trigger. The on-card Accuracy reflects its best-case value after sustained fire.\n\nIt uses a Hyperion barrel, trading magazine size for a large accuracy boost. Because the gun and barrel match manufacturers, the usual Hyperion-barrel damage penalty is cancelled out. Overall it suits continuous firing, offering strong SMG damage and tight grouping, though smaller mags mean more reload breaks.",
+  "description": "Like most Hyperion SMGs, the Transmurdera starts inaccurate but stabilises the longer you hold the trigger. The on-card Accuracy reflects its best-case value after sustained fire. It uses a Hyperion barrel, trading magazine size for a large accuracy boost. Because the gun and barrel match manufacturers, the usual Hyperion-barrel damage penalty is cancelled out. Overall it suits continuous firing, offering strong SMG damage and tight grouping, though smaller mags mean more reload breaks.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "In The Pre-Sequel it commonly appears with the newer Hyperion materials and prefixes used in Borderlands 2. A related variant, the Pro-Target, is produced by the older Hyperion.\n\nIt only spawns at green rarity or higher. The Transmurdera is world drop loot from any appropriate source.",
+  "notes": "In The Pre-Sequel it commonly appears with the newer Hyperion materials and prefixes used in Borderlands 2. A related variant, the Pro-Target, is produced by the older Hyperion. It only spawns at green rarity or higher. The Transmurdera is world drop loot from any appropriate source.",
   "sources": [
     {
       "name": "World Drop",

@@ -250,9 +250,9 @@
   ],
   "special": {
     "title": "a Rose by any other name...",
-    "description": "Talkative weapon with unique voice lines.\n\nConsecutive critical hits grant a short-lived +20% critical hit damage bonus per stack; stacks expire independently and typically cap at 3 active.\n\nHyperion trait: sustained fire improves accuracy and recoil. Sniper rifles gain increased critical damage (except Jakobs).\n\nRed text: a Rose by any other name... (+15% damage)."
+    "description": "Talkative weapon with unique voice lines. Consecutive critical hits grant a short-lived +20% critical hit damage bonus per stack; stacks expire independently and typically cap at 3 active. Hyperion trait: sustained fire improves accuracy and recoil. Sniper rifles gain increased critical damage (except Jakobs). Red text: a Rose by any other name... (+15% damage)."
   },
-  "notes": "If you stow the gun mid-quote, its voice lines can keep playing while other weapons are equipped, letting you hear weapon-swap lines.\n\nA reload-cancel trick can pass the crit-stacking behaviour to other guns; repeating it can create multiple independent instances, allowing extremely high crit bonuses. This is cleared by quitting the game.\n\nSubtitles may truncate lines. Selling it while equipped can make its voice lines trigger for other weapons until you restart.",
+  "notes": "If you stow the gun mid-quote, its voice lines can keep playing while other weapons are equipped, letting you hear weapon-swap lines. A reload-cancel trick can pass the crit-stacking behaviour to other guns; repeating it can create multiple independent instances, allowing extremely high crit bonuses. This is cleared by quitting the game. Subtitles may truncate lines. Selling it while equipped can make its voice lines trigger for other weapons until you restart.",
   "max": {
     "accuracy": 96.4,
     "damage": 2539211,

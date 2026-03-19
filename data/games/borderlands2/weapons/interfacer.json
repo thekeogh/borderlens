@@ -11,7 +11,7 @@
   "name": "Interfacer",
   "slug": "interfacer",
   "type": "Shotgun",
-  "description": "Hyperion Seraph shotgun firing slow gyrojet pellets. Each pellet quickly splits into three: a centre pellet continues straight while two side pellets arc outward, then curve back and vanish when they rejoin.\n\nBest at mid-range where all three paths connect; weak up close due to wide spread and at long range where the side pellets disappear. Slow projectiles struggle versus fast or airborne targets, but at the right distance it hits extremely hard on large enemies and bosses, and the curved paths can repeatedly trigger Zer0's B0re.",
+  "description": "Hyperion Seraph shotgun firing slow gyrojet pellets. Each pellet quickly splits into three: a centre pellet continues straight while two side pellets arc outward, then curve back and vanish when they rejoin. Best at mid-range where all three paths connect; weak up close due to wide spread and at long range where the side pellets disappear. Slow projectiles struggle versus fast or airborne targets, but at the right distance it hits extremely hard on large enemies and bosses, and the curved paths can repeatedly trigger Zer0's B0re.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -230,9 +230,9 @@
   ],
   "special": {
     "title": "Because it enters your face. Get it? IT ENTERS YOUR FACE!",
-    "description": "+60 percent critical hit damage (scales).\nConsumes 2 ammo per shot.\nSlow pellets; each splits into two extra pellets after a short distance. Side pellets arc left and right, then curve back to the centre pellet and vanish on contact.\nNo movement speed penalty while aiming.\nHyperion: sustained fire increases accuracy and reduces recoil."
+    "description": "+60 percent critical hit damage (scales). Consumes 2 ammo per shot. Slow pellets; each splits into two extra pellets after a short distance. Side pellets arc left and right, then curve back to the centre pellet and vanish on contact. No movement speed penalty while aiming. Hyperion: sustained fire increases accuracy and reduces recoil."
   },
-  "notes": "Never spawns with a scope.\nNo aim-walk slowdown comes from using the NULL scope part (not Scope_None); forcing NULL on other guns gives the same effect.\nOnly Interfacer and Greed can roll with NULL.\nWith enough Expertise, Axton can move faster than sprint speed while aiming, especially with a Legendary Soldier class mod.",
+  "notes": "Never spawns with a scope. No aim-walk slowdown comes from using the NULL scope part (not Scope_None); forcing NULL on other guns gives the same effect. Only Interfacer and Greed can roll with NULL. With enough Expertise, Axton can move faster than sprint speed while aiming, especially with a Legendary Soldier class mod.",
   "max": {
     "accuracy": 72.4,
     "fire_rate": 45,

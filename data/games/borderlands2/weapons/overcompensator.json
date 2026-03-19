@@ -146,7 +146,7 @@
   ],
   "special": {
     "title": "You can either surf, or you can fight!",
-    "description": "Each shot has a 16.7% chance to add 2 rounds to the magazine instead of consuming 1, letting it fire roughly twice as many shots as the mag size suggests on average. At very high fire rates (around 10+), the benefit scales less efficiently due to how the effect is applied.\n\nReduced pellet count with higher accuracy, fire rate, and magazine size. Uses 1 ammo per shot. Hyperion handling: sustained fire improves accuracy and reduces recoil."
+    "description": "Each shot has a 16.7% chance to add 2 rounds to the magazine instead of consuming 1, letting it fire roughly twice as many shots as the mag size suggests on average. At very high fire rates (around 10+), the benefit scales less efficiently due to how the effect is applied. Reduced pellet count with higher accuracy, fire rate, and magazine size. Uses 1 ammo per shot. Hyperion handling: sustained fire improves accuracy and reduces recoil."
   },
   "notes": "Its mechanics match The Butcher, but it uses fixed parts. It always rolls a Hyperion sight. The Social prefix version includes the ShotgunShell (overall boost) accessory, though the accessory is not shown in the weapon name.",
   "max": {

@@ -11,7 +11,7 @@
   "name": "Slayer Of Terramorphous",
   "slug": "slayer-of-terramorphous-gunzerker",
   "type": "Gunzerker",
-  "description": "Slayer Of Terramorphous is a legendary class mod from Borderlands 2. It can roll for any class and may be made by Dahl, Jakobs, Maliwan, or Bandit.\n\nIt is a guaranteed drop from Terramorphous the Invincible, but the class you get is random. Compared with most legendary class mods it typically gives slightly smaller stat boosts, while offering a broader mix of bonuses.",
+  "description": "Bandit class mod for Salvador the Gunzerker. Drops from Terramorphous the Invincible. Built around Locked and Loaded, Quick Draw, Filled to the Brim, Hard to Kill, Incite, Sentry, Ready, Impact, Expertise, Healthy.",
   "manufacturers": [
     "Bandit"
   ],
@@ -39,9 +39,9 @@
       ]
     }
   ],
-  "notes": "Terramorphous always drops one, but the character version is random.\n\nThe Assassin variant was once bugged and could roll the wrong skill bonus, leaving it with fewer effects; this was later corrected.\n\nEach character version uses unique artwork: Gunzerker references Brick's Berserk, Siren echoes Lilith's Phasewalk imagery, Mechromancer shows a cartoon Claptrap, and Psycho is notable for its unusual lowercase \"o\" in \"Of\" on the item name.",
+  "notes": "Part of a set of Terramorphous-only items. Collecting all of them combines their red text into a short poem.",
   "special": {
-    "description": "At max level, Salvador's Slayer Of Terramorphous grants:\n- Burn Damage: +37%\n- Ignite Chance: +37%\n- Health: +1,101,229"
+    "description": "At max level, Salvador's Slayer Of Terramorphous grants: - Burn Damage: +37% - Ignite Chance: +37% - Health: +1,101,229"
   },
   "abilities": [
     "+4 Quick Draw Skill",

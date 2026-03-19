@@ -10,7 +10,7 @@
   "name": "Snider",
   "slug": "snider",
   "type": "Sniper",
-  "description": "The Snider hits hard with strong elemental output. With a Maliwan barrel it trades some base damage for higher elemental damage and a very high status chance, while variants with a Dahl barrel can roll with reduced recoil.\n\nEach shot also adds 50 percent extra damage as splash. The splash portion cannot score critical hits and does not benefit from grenade damage boosts.",
+  "description": "The Snider hits hard with strong elemental output. With a Maliwan barrel it trades some base damage for higher elemental damage and a very high status chance, while variants with a Dahl barrel can roll with reduced recoil. Each shot also adds 50 percent extra damage as splash. The splash portion cannot score critical hits and does not benefit from grenade damage boosts.",
   "manufacturers": [
     "Maliwan"
   ],

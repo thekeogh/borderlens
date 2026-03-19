@@ -233,9 +233,9 @@
   ],
   "special": {
     "title": "I'm gonna need you to stand back.",
-    "description": "Fires 9 E-tech orbs: 1 central orb plus 8 in a ring. The ring repeatedly contracts then expands while in flight. On hit, each orb deals 100 percent card damage as bullet impact and also triggers a 100 percent elemental splash explosion (treated as grenade damage).\n\nReload: the weapon is thrown and explodes on contact or after 1.7s. Reload explosion damage scales with unused ammo: card damage x unused ammo x 4.1, multiplied by (0.5 + 0.4 x pellet count, minimum 1.5). Consumes 1 ammo per shot."
+    "description": "Fires 9 E-tech orbs: 1 central orb plus 8 in a ring. The ring repeatedly contracts then expands while in flight. On hit, each orb deals 100 percent card damage as bullet impact and also triggers a 100 percent elemental splash explosion (treated as grenade damage). Reload: the weapon is thrown and explodes on contact or after 1.7s. Reload explosion damage scales with unused ammo: card damage x unused ammo x 4.1, multiplied by (0.5 + 0.4 x pellet count, minimum 1.5). Consumes 1 ammo per shot."
   },
-  "notes": "Low fire rate, so fire rate boosts help sustain DPS.\nThe thrown reload blast is dangerous and can down the user.\nCannot roll a vertical grip or the Gentle prefix.\nFiring straight up distorts the ring pattern, but it still contracts and expands.\nEach pellet adds 100 percent elemental splash: splash cannot crit, impact can, and grenade damage bonuses boost the splash.\nCan spawn non-elemental: pellets appear purple and deal non-elemental impact plus explosive splash.",
+  "notes": "Low fire rate, so fire rate boosts help sustain DPS. The thrown reload blast is dangerous and can down the user. Cannot roll a vertical grip or the Gentle prefix. Firing straight up distorts the ring pattern, but it still contracts and expands. Each pellet adds 100 percent elemental splash: splash cannot crit, impact can, and grenade damage bonuses boost the splash. Can spawn non-elemental: pellets appear purple and deal non-elemental impact plus explosive splash.",
   "max": {
     "accuracy": 66.9,
     "damage": 1035491,

@@ -11,7 +11,7 @@
   "name": "Logan's Gun",
   "slug": "logans-gun",
   "type": "Pistol",
-  "description": "Logan's Gun is a Legendary Hyperion pistol from Borderlands 2. It behaves like an E-tech Spiker with piercing rounds and typically cannot land critical hits.\n\nIts shots deal normal damage to enemies they hit, but when they strike terrain or other inert surfaces they trigger rapid successive detonations, each applying the gun's damage. This makes it strongest when fired at the ground or walls near targets, creating hazardous patches that can catch fast-moving enemies.",
+  "description": "Logan's Gun is a Legendary Hyperion pistol from Borderlands 2. It behaves like an E-tech Spiker with piercing rounds and typically cannot land critical hits. Its shots deal normal damage to enemies they hit, but when they strike terrain or other inert surfaces they trigger rapid successive detonations, each applying the gun's damage. This makes it strongest when fired at the ground or walls near targets, creating hazardous patches that can catch fast-moving enemies.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -219,9 +219,9 @@
   ],
   "special": {
     "title": "Gun, Gunner!",
-    "description": "Consumes 2 ammo per shot. Fires a piercing, rocket-like projectile. On contact it detonates, and when it hits an inert surface (such as walls or ground) it produces additional delayed blasts in quick succession.\n\nHyperion trait: sustained fire improves accuracy and recoil.\n\nProjectiles count as rockets for absorption effects, enabling pistol ammo to be turned into launcher ammo when shot into nearby surfaces with an absorb shield."
+    "description": "Consumes 2 ammo per shot. Fires a piercing, rocket-like projectile. On contact it detonates, and when it hits an inert surface (such as walls or ground) it produces additional delayed blasts in quick succession. Hyperion trait: sustained fire improves accuracy and recoil. Projectiles count as rockets for absorption effects, enabling pistol ammo to be turned into launcher ammo when shot into nearby surfaces with an absorb shield."
   },
-  "notes": "Fired into the ground with an absorb shield, it can convert pistol rounds into launcher ammo, often up to four rockets per shot. The Sham is ideal thanks to its high absorb chance, reducing self-damage risk.\n\nAlways incendiary, so it performs poorly against shields. Redundant variants consume extra ammo but create more blasts. Explosions receive full amp bonus from amp shields. Occasionally, piercing hits may fail to register damage; aiming at enemies' feet to rely on the blasts can help.",
+  "notes": "Fired into the ground with an absorb shield, it can convert pistol rounds into launcher ammo, often up to four rockets per shot. The Sham is ideal thanks to its high absorb chance, reducing self-damage risk. Always incendiary, so it performs poorly against shields. Redundant variants consume extra ammo but create more blasts. Explosions receive full amp bonus from amp shields. Occasionally, piercing hits may fail to register damage; aiming at enemies' feet to rely on the blasts can help.",
   "max": {
     "accuracy": 98.7,
     "damage": 903726,

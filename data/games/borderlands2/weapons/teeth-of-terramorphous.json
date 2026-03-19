@@ -232,9 +232,9 @@
   ],
   "special": {
     "title": "His teeth made them flee in shame...",
-    "description": "Fires 12 projectiles in two horizontal rows of six. The rows rise apart, then converge after a fixed distance; when they meet, they trigger six small incendiary explosions and the pellets vanish. Pellets also explode on impact, dealing splash damage. The explosions deal 50 percent of the weapon damage as splash and are boosted by grenade damage.\n\nAlways incendiary."
+    "description": "Fires 12 projectiles in two horizontal rows of six. The rows rise apart, then converge after a fixed distance; when they meet, they trigger six small incendiary explosions and the pellets vanish. Pellets also explode on impact, dealing splash damage. The explosions deal 50 percent of the weapon damage as splash and are boosted by grenade damage. Always incendiary."
   },
-  "notes": "A 14/10/2013 hotfix during the Loot Hunt increased magazine size by one round for this and other Bandit shotguns, and slightly improved reload speed.\n\nDuring week 4 day 1 of the Loot Hunt it was temporarily available from Motor Momma; a same-day hotfix increased its splash radius and damage.\n\nIts damage can be improved by bonuses to grenade damage.",
+  "notes": "A 14/10/2013 hotfix during the Loot Hunt increased magazine size by one round for this and other Bandit shotguns, and slightly improved reload speed. During week 4 day 1 of the Loot Hunt it was temporarily available from Motor Momma; a same-day hotfix increased its splash radius and damage. Its damage can be improved by bonuses to grenade damage.",
   "max": {
     "accuracy": 36,
     "damage": 895347,

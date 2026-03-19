@@ -10,7 +10,7 @@
   "name": "Impact",
   "slug": "impact",
   "type": "Pistol",
-  "description": "Hyperion repeater pistols tighten up the longer you keep firing, with accuracy improving over a sustained burst. The accuracy shown on the card reflects the weapon once this effect has fully ramped up.\n\nImpact models use a Torgue barrel, boosting damage but worsening handling. Expect lower base accuracy, heavier recoil, and slower reload and fire rate.",
+  "description": "Hyperion repeater pistols tighten up the longer you keep firing, with accuracy improving over a sustained burst. The accuracy shown on the card reflects the weapon once this effect has fully ramped up. Impact models use a Torgue barrel, boosting damage but worsening handling. Expect lower base accuracy, heavier recoil, and slower reload and fire rate.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -28,7 +28,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "In Borderlands: The Pre-Sequel, Impact variants often appear with Hyperion's newer material set and prefix style, matching Borderlands 2.\n\nA related variant, the Devigorator, is also found in The Pre-Sequel and is produced by the older Hyperion line.",
+  "notes": "In Borderlands: The Pre-Sequel, Impact variants often appear with Hyperion's newer material set and prefix style, matching Borderlands 2. A related variant, the Devigorator, is also found in The Pre-Sequel and is produced by the older Hyperion line.",
   "sources": [
     {
       "name": "World Drop",

@@ -11,7 +11,7 @@
   "name": "Shredifier",
   "slug": "shredifier",
   "type": "Assault Rifle",
-  "description": "Legendary Vladof assault rifle.\n\nStarts with a high fire rate and spools up even faster, backed by a much larger magazine (often 90-100 rounds). The extreme rate of fire chews through ammo and kicks up heavy spread, making it most effective up close.\n\nStrong with sustained-fire builds: Gaige can lean on The Better Half and Close Enough to raise output and soften accuracy issues, while Salvador can stack gun skills for more fire rate, magazine size, recoil control and damage.",
+  "description": "Legendary Vladof assault rifle. Starts with a high fire rate and spools up even faster, backed by a much larger magazine (often 90-100 rounds). The extreme rate of fire chews through ammo and kicks up heavy spread, making it most effective up close. Strong with sustained-fire builds: Gaige can lean on The Better Half and Close Enough to raise output and soften accuracy issues, while Salvador can stack gun skills for more fire rate, magazine size, recoil control and damage.",
   "manufacturers": [
     "Vladof"
   ],
@@ -248,9 +248,9 @@
     }
   ],
   "special": {
-    "description": "Speed Kills.\n\nVery short spin-up. Greatly boosts fire rate and magazine size, with slightly reduced damage.\n\nAssault rifle. Non-Jakobs assault rifles suffer a critical hit damage penalty."
+    "description": "Speed Kills. Very short spin-up. Greatly boosts fire rate and magazine size, with slightly reduced damage. Assault rifle. Non-Jakobs assault rifles suffer a critical hit damage penalty."
   },
-  "notes": "Often misreported as a common drop from Bonehead 2.0, likely confused with the Bone Shredder.\n\nCan reach roughly 15.7 base fire rate without skills or class mods; skills can push it higher, and few guns exceed it naturally.",
+  "notes": "Often misreported as a common drop from Bonehead 2.0, likely confused with the Bone Shredder. Can reach roughly 15.7 base fire rate without skills or class mods; skills can push it higher, and few guns exceed it naturally.",
   "max": {
     "accuracy": 73.3,
     "damage": 870450,

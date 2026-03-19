@@ -21,7 +21,7 @@
   "elements": [
     "None"
   ],
-  "notes": "Drops randomly from appropriate loot sources.\n\nUses the bandit barrel, so it only appears at green rarity or higher.\n\nBorderlands: The Pre-Sequel equivalent Scav shotgun is the Firehose.\n\nIts name is a misspelling of Room Cleaner.\n\nWithout an accessory or elemental capacitor, it can spawn with the prefix Threpul Bareld (misspelt Triple Barrelled).\n\nCan roll such low accuracy that the stat display becomes negative.",
+  "notes": "Drops randomly from appropriate loot sources. Uses the bandit barrel, so it only appears at green rarity or higher. Borderlands: The Pre-Sequel equivalent Scav shotgun is the Firehose. Its name is a misspelling of Room Cleaner. Without an accessory or elemental capacitor, it can spawn with the prefix Threpul Bareld (misspelt Triple Barrelled). Can roll such low accuracy that the stat display becomes negative.",
   "sources": [
     {
       "name": "World Drop",

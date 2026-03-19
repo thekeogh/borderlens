@@ -251,9 +251,9 @@
   ],
   "special": {
     "title": "Good for starting fires.",
-    "description": "Fires slow, arcing rounds that explode on contact, dealing splash damage. The blast adds +100% weapon damage as splash, and this portion is boosted by grenade damage.\n\nAlways incendiary. Lower direct bullet damage and reduced fire rate. Higher elemental effect chance. Uses 2 ammo per shot."
+    "description": "Fires slow, arcing rounds that explode on contact, dealing splash damage. The blast adds +100% weapon damage as splash, and this portion is boosted by grenade damage. Always incendiary. Lower direct bullet damage and reduced fire rate. Higher elemental effect chance. Uses 2 ammo per shot."
   },
-  "notes": "While A Train to Catch is active, shooting the snowmans head in the southern Tundra Express (by the vending machines) makes a Tinderbox drop. After you pick it up or finish the mission, it will not spawn there again.\nThis one off drop is a safety net so players are likely to have a fire weapon; Roland notes he stashed it.\nAppears as a mission weapon in Clan War: Trailer Trashing, but you do not need it to complete the objective.\nIts splash damage scales with grenade damage bonuses.",
+  "notes": "While A Train to Catch is active, shooting the snowmans head in the southern Tundra Express (by the vending machines) makes a Tinderbox drop. After you pick it up or finish the mission, it will not spawn there again. This one off drop is a safety net so players are likely to have a fire weapon; Roland notes he stashed it. Appears as a mission weapon in Clan War: Trailer Trashing, but you do not need it to complete the objective. Its splash damage scales with grenade damage bonuses.",
   "max": {
     "accuracy": 82.4,
     "damage": 651561,

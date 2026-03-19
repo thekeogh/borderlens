@@ -20,9 +20,9 @@
     "Rare",
     "Epic"
   ],
-  "notes": "Melee damage can increase by up to 37.8%. Melee override cooldown rate can improve by up to 30%.\n\nThe cooldown bonus only applies to melee override skills with a cooldown timer: Maya's Scorn, Salvador's Fistful of Hurt, and Krieg's Hellfire Halitosis. It does not affect Zer0's Execute or Gaige's With Claws, as neither has a cooldown.",
+  "notes": "Melee damage can increase by up to 37.8%. Melee override cooldown rate can improve by up to 30%. The cooldown bonus only applies to melee override skills with a cooldown timer: Maya's Scorn, Salvador's Fistful of Hurt, and Krieg's Hellfire Halitosis. It does not affect Zer0's Execute or Gaige's With Claws, as neither has a cooldown.",
   "special": {
-    "description": "Increases melee damage.\n\nMay also increase melee override cooldown rate."
+    "description": "Increases melee damage. May also increase melee override cooldown rate."
   },
   "sources": [
     {

@@ -10,7 +10,7 @@
   "name": "Vanquisher",
   "slug": "vanquisher",
   "type": "Launcher",
-  "description": "Vladof launcher with a triple-barrel cannon that boosts rocket speed. It fires at very high RPM and will keep firing in full-auto while the trigger is held.\n\nIt typically has a large magazine, very low per-shot damage for a high-velocity launcher, and shaky accuracy. It shines against packs of mid-tier enemies and fast aircraft such as Buzzards, where the speed reduces the need to lead targets. Its rapid fire can drain even a maxed rocket reserve quickly, making sustained use costly.",
+  "description": "Vladof launcher with a triple-barrel cannon that boosts rocket speed. It fires at very high RPM and will keep firing in full-auto while the trigger is held. It typically has a large magazine, very low per-shot damage for a high-velocity launcher, and shaky accuracy. It shines against packs of mid-tier enemies and fast aircraft such as Buzzards, where the speed reduces the need to lead targets. Its rapid fire can drain even a maxed rocket reserve quickly, making sustained use costly.",
   "manufacturers": [
     "Vladof"
   ],
@@ -19,7 +19,7 @@
     "Uncommon",
     "Rare"
   ],
-  "notes": "Random world drop from appropriate loot sources.\n\nIt may play a reload even with no rockets in reserve, but the magazine remains empty.",
+  "notes": "Random world drop from appropriate loot sources. It may play a reload even with no rockets in reserve, but the magazine remains empty.",
   "sources": [
     {
       "name": "World Drop",

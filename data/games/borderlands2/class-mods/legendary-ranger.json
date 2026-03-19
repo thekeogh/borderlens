@@ -11,7 +11,7 @@
   "name": "Legendary Ranger",
   "slug": "legendary-ranger",
   "type": "Commando",
-  "description": "Legendary Ranger is a legendary Class Mod for Axton in Borderlands 2.\n\nMade by Anshin. Orange rarity. Red text: Wanna know how I got these scars?",
+  "description": "Legendary Anshin class mod for Axton the Commando, part of the Digistruct Peak content. Built around Ranger, Quick Charge, Onslaught, Impact, Metal Storm. Provides strong team shield bonuses.",
   "manufacturers": [
     "Anshin"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Requires the Digistruct Peak Challenge DLC (Ultimate Vault Hunter Upgrade Pack Two) and cannot drop without it.\n\nIts Onslaught bonus is bugged: it only applies if you equip the mod while the kill skill is already active, and you must repeat this each time it ends. In normal play, treat the Onslaught boost as non-functional.\n\nThe red text is a nod to a well-known Joker line, with how swapped in for why.",
+  "notes": "Requires the Digistruct Peak Challenge DLC. The Onslaught bonus is bugged: it only applies if you equip the mod while the kill skill is already active, and you must repeat this each time it ends. The displayed team recharge delay value may also be incorrect. The red text nods to the Joker's line from Batman.",
   "special": {
-    "description": "At maximum level it provides team shield bonuses: +60.5% Recharge Rate and -57.5% Recharge Delay.\n\nBug: the Onslaught and Quick Charge boosts only work when the mod is equipped during the active kill skill window. The displayed team recharge delay value may also be incorrect.",
-    "title": "\"Wanna know why I got these scars?\""
+    "description": "At max level: +60.5% team Shield Recharge Rate, -57.5% Shield Recharge Delay.",
+    "title": "Wanna know why I got these scars?"
   },
   "max": {
     "level": 90,

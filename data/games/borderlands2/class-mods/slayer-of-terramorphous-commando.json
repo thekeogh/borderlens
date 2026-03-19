@@ -11,7 +11,7 @@
   "name": "Slayer Of Terramorphous",
   "slug": "slayer-of-terramorphous-commando",
   "type": "Commando",
-  "description": "Slayer Of Terramorphous is a legendary class mod available in Borderlands 2. It drops from Terramorphous the Invincible and can roll for any character. Compared with most legendary class mods, its main stat boosts are slightly smaller, but it makes up for that by adding a broader mix of bonuses, such as extra survivability and damage-related improvements.",
+  "description": "Bandit class mod for Axton the Commando. Drops from Terramorphous the Invincible. Built around Sentry, Ready, Impact, Expertise, Healthy.",
   "manufacturers": [
     "Dahl"
   ],
@@ -34,9 +34,9 @@
       ]
     }
   ],
-  "notes": "Terramorphous always drops a Slayer Of Terramorphous class mod, but the character version is random.\n\nThe Assassin variant was previously incorrect, boosting the wrong skill and ending up with fewer bonuses until it was fixed.\n\nEach character variant uses unique artwork (for example, the Gunzerker references Brick's Berserk, the Siren resembles Lilith's Phasewalk icon, and the Mechromancer uses a cartoon Claptrap style). The Psycho version is uniquely styled with a lowercase o in of.",
+  "notes": "Part of a set of Terramorphous-only items. Collecting all of them combines their red text into a short poem.",
   "special": {
-    "description": "At max level, Axton's Slayer Of Terramorphous grants:\n\n- Burn Damage: +37%\n- Ignite Chance: +37%\n- Health: +1,101,229"
+    "description": "At max level, Axton's Slayer Of Terramorphous grants: - Burn Damage: +37% - Ignite Chance: +37% - Health: +1,101,229"
   },
   "abilities": [
     "+4 Ready Skill",

@@ -11,7 +11,7 @@
   "name": "Catalyst",
   "slug": "catalyst",
   "type": "Mechromancer",
-  "description": "Catalyst is a Gaige class mod for the Mechromancer in Borderlands 2. It is a Maliwan mod.",
+  "description": "Maliwan class mod for Gaige the Mechromancer, centred on Wires Don't Talk, Evil Enchantress, and Shock Storm. Significantly boosts team-wide elemental damage.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At maximum level, Catalyst increases the whole team's elemental effect damage by 59%."
+    "description": "At max level, increases the whole team's elemental effect damage by 59%."
   },
   "notes": "",
   "abilities": [

@@ -11,7 +11,7 @@
   "name": "Hawk Eye",
   "slug": "hawk-eye",
   "type": "Sniper",
-  "description": "Hawk Eye is a Jakobs Seraph sniper rifle. It swaps a massive critical hit bonus for heavily reduced base damage, so it excels at long range if you can land headshots. Body shots hit very weakly, and the high zoom can make close fights awkward.\n\nDespite the huge crit modifier, lowered base damage means headshot damage is only slightly ahead of a similar Jakobs Muckamuck, while non-crits are far worse. As crit bonuses stack additively, extra crit from skills and gear gives smaller gains than usual, so it is a poor fit for crit-stacking builds.",
+  "description": "Hawk Eye is a Jakobs Seraph sniper rifle. It swaps a massive critical hit bonus for heavily reduced base damage, so it excels at long range if you can land headshots. Body shots hit very weakly, and the high zoom can make close fights awkward. Despite the huge crit modifier, lowered base damage means headshot damage is only slightly ahead of a similar Jakobs Muckamuck, while non-crits are far worse. As crit bonuses stack additively, extra crit from skills and gear gives smaller gains than usual, so it is a poor fit for crit-stacking builds.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -233,9 +233,9 @@
   ],
   "special": {
     "title": "Eye certain. Finger Lightning. Aim Death.",
-    "description": "Seraph effect: +420% critical hit damage (scales), plus the usual Jakobs sniper crit bonus.\n\nBonuses: higher zoom, fire rate, reload speed, and magazine size.\nPenalties: reduced base damage and slightly lower accuracy."
+    "description": "Seraph effect: +420% critical hit damage (scales), plus the usual Jakobs sniper crit bonus. Bonuses: higher zoom, fire rate, reload speed, and magazine size. Penalties: reduced base damage and slightly lower accuracy."
   },
-  "notes": "Slightly higher headshot damage than a comparable Muckamuck, with a faster fire rate.\nWith heavy critical stacking (for example Critical Ascensi0n), Muckamuck can overtake it.\n+100% crit adds about +14.7% crit damage here, versus about +38% on typical Jakobs snipers and +50% on most non-Jakobs snipers.\nZoom was once incorrect; later fixed to a higher-than-normal value.\nWith a Hyperion scope it reaches 11.6x zoom, the highest of any sniper rifle.",
+  "notes": "Slightly higher headshot damage than a comparable Muckamuck, with a faster fire rate. With heavy critical stacking (for example Critical Ascensi0n), Muckamuck can overtake it. +100% crit adds about +14.7% crit damage here, versus about +38% on typical Jakobs snipers and +50% on most non-Jakobs snipers. Zoom was once incorrect; later fixed to a higher-than-normal value. With a Hyperion scope it reaches 11.6x zoom, the highest of any sniper rifle.",
   "elements": [
     "None"
   ],

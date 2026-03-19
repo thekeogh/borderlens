@@ -159,9 +159,9 @@
   ],
   "special": {
     "title": "The whip at the New Pandoran's backs.",
-    "description": "Always Shock.\nShots explode on impact, dealing splash damage. The explosion deals 80% of listed weapon damage as splash and is boosted by grenade damage bonuses.\nWhile aiming down sights, it fires a 6-round burst.\nLower bullet damage and accuracy. Higher elemental effect chance. Fixed blade for melee."
+    "description": "Always Shock. Shots explode on impact, dealing splash damage. The explosion deals 80% of listed weapon damage as splash and is boosted by grenade damage bonuses. While aiming down sights, it fires a 6-round burst. Lower bullet damage and accuracy. Higher elemental effect chance. Fixed blade for melee."
   },
-  "notes": "Always spawns with the bladed accessory.\nDoes not roll a prefix.",
+  "notes": "Always spawns with the bladed accessory. Does not roll a prefix.",
   "max": {
     "accuracy": 82,
     "damage": 927267,

@@ -225,9 +225,9 @@
   ],
   "special": {
     "title": "What plaything can you offer me today?",
-    "description": "Moxxi weapon: while held, heals you for 3% of all damage you deal.\n\n+200% critical hit damage (scaled).\n\nFires arcing bullets that split into two after a set distance.\n\nRounds explode on impact, dealing splash damage equal to 80% of weapon damage; this splash is affected by grenade damage bonuses."
+    "description": "Moxxi weapon: while held, heals you for 3% of all damage you deal. +200% critical hit damage (scaled). Fires arcing bullets that split into two after a set distance. Rounds explode on impact, dealing splash damage equal to 80% of weapon damage; this splash is affected by grenade damage bonuses."
   },
-  "notes": "Projectile speed boosts such as Vel0city or Accelerate change how much you must aim down to land hits, making the rifle feel easier or harder depending on your adjustment.\n\nPairs well with Gaige Close Enough, letting you arc shots over obstacles while staying in cover.\n\nUnlisted split projectiles receive full amp damage.\n\nEach shot deals splash damage equal to 80% of listed gun damage, and this splash is boosted by grenade damage bonuses.\n\nCan roll with Vladof sights, Torgue sights, or no sight.",
+  "notes": "Projectile speed boosts such as Vel0city or Accelerate change how much you must aim down to land hits, making the rifle feel easier or harder depending on your adjustment. Pairs well with Gaige Close Enough, letting you arc shots over obstacles while staying in cover. Unlisted split projectiles receive full amp damage. Each shot deals splash damage equal to 80% of listed gun damage, and this splash is boosted by grenade damage bonuses. Can roll with Vladof sights, Torgue sights, or no sight.",
   "max": {
     "accuracy": 77.3,
     "damage": 831668,

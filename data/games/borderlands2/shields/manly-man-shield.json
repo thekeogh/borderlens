@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "Its melee bonus adds explosive damage equal to 40 percent of your character's base melee damage, and it does not scale with melee skills, relics, or weapon effects.\n\nIf passed to Deathtrap using Sharing is Caring, the base melee scaling does not transfer correctly, so the added explosive damage is very small and usually negligible.\n\nThe red text is a nod to the film In and Out.",
+  "notes": "Its melee bonus adds explosive damage equal to 40 percent of your character's base melee damage, and it does not scale with melee skills, relics, or weapon effects. If passed to Deathtrap using Sharing is Caring, the base melee scaling does not transfer correctly, so the added explosive damage is very small and usually negligible. The red text is a nod to the film In and Out.",
   "special": {
-    "description": "Melee attacks deal extra explosive damage equal to 40 percent of base melee damage.\n\nCurse of the Elementals: increased elemental damage taken.\n\nWhat a fabulous window treatment.",
+    "description": "Melee attacks deal extra explosive damage equal to 40 percent of base melee damage. Curse of the Elementals: increased elemental damage taken. What a fabulous window treatment.",
     "title": "What a fabulous window treatment. Curse of the Elementals!"
   },
   "elements": [

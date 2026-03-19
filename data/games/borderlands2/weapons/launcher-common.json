@@ -10,7 +10,7 @@
   "name": "Launcher (common)",
   "slug": "launcher-common",
   "type": "Launcher",
-  "description": "With a Bandit muzzle, this launcher hits harder but is less accurate than the Tediore muzzle.\n\nBandit builds usually come with bigger magazines and fire three smaller rockets per trigger pull, splitting the listed damage across all three projectiles.\n\nTediore builds tend to be the reverse and can reclaim leftover rocket damage when you throw the weapon away by reloading early, combining that remaining damage into the thrown reload effect.",
+  "description": "With a Bandit muzzle, this launcher hits harder but is less accurate than the Tediore muzzle. Bandit builds usually come with bigger magazines and fire three smaller rockets per trigger pull, splitting the listed damage across all three projectiles. Tediore builds tend to be the reverse and can reclaim leftover rocket damage when you throw the weapon away by reloading early, combining that remaining damage into the thrown reload effect.",
   "manufacturers": [
     "Bandit"
   ],

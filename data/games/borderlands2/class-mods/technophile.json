@@ -11,7 +11,7 @@
   "name": "Technophile",
   "slug": "technophile",
   "type": "Mechromancer",
-  "description": "Technophile is an Epic class mod for Gaige, the Mechromancer, in Borderlands 2.",
+  "description": "Pangolin class mod for Gaige the Mechromancer, built around Strength of Five Gorillas, Fancy Mathematics, Interspersed Outburst. Boosts shield capacity and recharge rate.",
   "manufacturers": [
     "Pangolin"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At maximum level, Technophile provides two bonuses:\n\nShield Capacity: +718193\nShield Recharge Rate: +51%"
+    "description": "At max level: boosts Shield Capacity by 718,193 and Shield Recharge Rate by 51%."
   },
   "notes": "",
   "max": {

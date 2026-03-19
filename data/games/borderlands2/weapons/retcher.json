@@ -11,7 +11,7 @@
   "name": "Retcher",
   "slug": "retcher",
   "type": "Shotgun",
-  "description": "The Retcher is a Tediore Seraph shotgun from Pirate's Booty. It fires corrosive orbs in a low arc, which makes landing shots at close range easier but sharply limits reach. Unlike E-tech Splatguns it only spends 1 ammo per shot, so it keeps a healthier magazine and better damage per ammo, but it also misses out on the boosted status chance those guns get.\n\nReloading throws the gun as a grenade. It also lobs two small child grenades high upwards; they detonate on contact and are usually awkward to use indoors. Despite their green look, the child blasts deal explosive damage.",
+  "description": "The Retcher is a Tediore Seraph shotgun from Pirate's Booty. It fires corrosive orbs in a low arc, which makes landing shots at close range easier but sharply limits reach. Unlike E-tech Splatguns it only spends 1 ammo per shot, so it keeps a healthier magazine and better damage per ammo, but it also misses out on the boosted status chance those guns get. Reloading throws the gun as a grenade. It also lobs two small child grenades high upwards; they detonate on contact and are usually awkward to use indoors. Despite their green look, the child blasts deal explosive damage.",
   "manufacturers": [
     "Tediore"
   ],
@@ -220,7 +220,7 @@
   ],
   "special": {
     "title": "Ewww",
-    "description": "Fires arcing corrosive orbs that explode on impact for area damage.\n\nReload: thrown Tediore explosive triggers on enemy contact or after 1.7s. Reload blast scales with unused ammo and has damage falloff by distance. It also launches 2 child grenades that detonate on impact; the child explosions deal explosive damage."
+    "description": "Fires arcing corrosive orbs that explode on impact for area damage. Reload: thrown Tediore explosive triggers on enemy contact or after 1.7s. Reload blast scales with unused ammo and has damage falloff by distance. It also launches 2 child grenades that detonate on impact; the child explosions deal explosive damage."
   },
   "notes": "Both the weapon's direct damage and its thrown-reload explosion scale with grenade damage bonuses.",
   "max": {

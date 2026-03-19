@@ -11,7 +11,7 @@
   "name": "Lascaux",
   "slug": "lascaux",
   "type": "SMG",
-  "description": "Rare Dahl SMG.\n\nOften fires two projectiles for the cost of one round, giving it unusually high close-range burst damage. Aiming down sights switches to Dahl burst fire; the large burst count dumps a lot of bullets quickly. Spread limits its reach, but very low recoil keeps it controllable even when fired from the hip.",
+  "description": "Rare Dahl SMG. Often fires two projectiles for the cost of one round, giving it unusually high close-range burst damage. Aiming down sights switches to Dahl burst fire; the large burst count dumps a lot of bullets quickly. Spread limits its reach, but very low recoil keeps it controllable even when fired from the hip.",
   "manufacturers": [
     "Dahl"
   ],
@@ -199,9 +199,9 @@
   ],
   "special": {
     "title": "The gun of the Bulls.",
-    "description": "Always non-elemental.\n\nCosts 1 SMG round per shot; has a 60% chance to fire an extra projectile (2 total). While aiming, fires a 9-14 round Dahl burst. Projectiles follow a distinctive bull-like pattern. Greatly reduced recoil, with slightly reduced accuracy."
+    "description": "Always non-elemental. Costs 1 SMG round per shot; has a 60% chance to fire an extra projectile (2 total). While aiming, fires a 9-14 round Dahl burst. Projectiles follow a distinctive bull-like pattern. Greatly reduced recoil, with slightly reduced accuracy."
   },
-  "notes": "Fixed spawn in Frostburn Canyon, making it easy to farm. It does not scale in Normal Mode, or in TVHM until the story is finished.\nStrong on Gaige: Close Enough and Anarchy reduce the need for accuracy, and the fast empty-reload rhythm suits her.\nStocks matter little (aside from a Dahl stock adding +1 burst); grip and accessory have the biggest impact.\nLonger fights: Dahl grip with Flying is strong sustained DPS. Short fights: Flying or Stopping with Bandit or Maliwan grip.\nNon-elemental, but reliable crits make it effective against Loaders up close.\nCan remain useful in UVHM, but level scaling still matters for damage.",
+  "notes": "Fixed spawn in Frostburn Canyon, making it easy to farm. It does not scale in Normal Mode, or in TVHM until the story is finished. Strong on Gaige: Close Enough and Anarchy reduce the need for accuracy, and the fast empty-reload rhythm suits her. Stocks matter little (aside from a Dahl stock adding +1 burst); grip and accessory have the biggest impact. Longer fights: Dahl grip with Flying is strong sustained DPS. Short fights: Flying or Stopping with Bandit or Maliwan grip. Non-elemental, but reliable crits make it effective against Loaders up close. Can remain useful in UVHM, but level scaling still matters for damage.",
   "elements": [
     "None"
   ],

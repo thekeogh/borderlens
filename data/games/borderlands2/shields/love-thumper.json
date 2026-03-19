@@ -34,9 +34,9 @@
     "Corrosive",
     "Explosive"
   ],
-  "notes": "Bandit shield with a Torgue-style explosive nova; the nova can roll alongside other elemental resistances.\n\nThe Bandit Technical sawblade launcher can trigger the nova (counts as melee) but also damages the vehicle.\n\nGood for Roid Rage farming; a low-level copy works well in low-level areas.\n\nRecharge delay is extreme and taking damage refreshes it. To force a refill, briefly swap to a fast-recharging shield, then swap back.\n\nNova damage benefits from grenade and explosive boosts. The nova can hurt allies, and can also hit Gaige if Deathtrap is wearing the shield.\n\nDistinctive look with a yellow heart motif.",
+  "notes": "Bandit shield with a Torgue-style explosive nova; the nova can roll alongside other elemental resistances. The Bandit Technical sawblade launcher can trigger the nova (counts as melee) but also damages the vehicle. Good for Roid Rage farming; a low-level copy works well in low-level areas. Recharge delay is extreme and taking damage refreshes it. To force a refill, briefly swap to a fast-recharging shield, then swap back. Nova damage benefits from grenade and explosive boosts. The nova can hurt allies, and can also hit Gaige if Deathtrap is wearing the shield. Distinctive look with a yellow heart motif.",
   "special": {
-    "description": "Huge roid melee bonus with massively increased recharge delay.\n\nAt zero capacity, melee hits release an explosive nova for extra explosive damage.",
+    "description": "Huge roid melee bonus with massively increased recharge delay. At zero capacity, melee hits release an explosive nova for extra explosive damage.",
     "title": "If thumping you is wrong, I don't want to be right."
   },
   "max": {

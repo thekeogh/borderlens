@@ -11,7 +11,7 @@
   "name": "Sawbar",
   "slug": "sawbar",
   "type": "Assault Rifle",
-  "description": "Pearlescent Bandit assault rifle.\n\nFires a single round that splits into three fanned projectiles, which then detonate after a short delay. At the right range the blasts can hit enemies behind cover. Explosions can take full amp damage, making it deadly on large flesh targets when spaced correctly.",
+  "description": "Pearlescent Bandit assault rifle. Fires a single round that splits into three fanned projectiles, which then detonate after a short delay. At the right range the blasts can hit enemies behind cover. Explosions can take full amp damage, making it deadly on large flesh targets when spaced correctly.",
   "manufacturers": [
     "Bandit"
   ],
@@ -231,7 +231,7 @@
     "title": "Surpresssing Fires!!!",
     "description": "Always incendiary. Fires a main bullet; after ~0.15s it spawns three sideways-fanning bullets. After another ~0.15s, those bullets explode in a small radius for fire bullet damage. The main bullet has no splash."
   },
-  "notes": "Uses the same skin as a purple Bandit rifle.\nSplit and detonation are flight time-based, not distance. Higher projectile speed pushes the explosions further out.\nSynergises with Make it Sparkle: Deathtrap only needs to be near the line of fire.\nThe first bullet has no splash. The three spawned bullets deal full gun damage and each adds a full splash detonation; if all connect this can reach up to 600% total shot damage. Grenade damage bonuses do not boost this splash.\nBoth bullets and explosions can ignite; if all parts hit, a shot has about a 31% chance to ignite.",
+  "notes": "Uses the same skin as a purple Bandit rifle. Split and detonation are flight time-based, not distance. Higher projectile speed pushes the explosions further out. Synergises with Make it Sparkle: Deathtrap only needs to be near the line of fire. The first bullet has no splash. The three spawned bullets deal full gun damage and each adds a full splash detonation; if all connect this can reach up to 600% total shot damage. Grenade damage bonuses do not boost this splash. Both bullets and explosions can ignite; if all parts hit, a shot has about a 31% chance to ignite.",
   "max": {
     "accuracy": 11.7,
     "damage": 685533,

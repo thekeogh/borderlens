@@ -11,7 +11,7 @@
   "name": "Trespasser",
   "slug": "trespasser",
   "type": "Sniper",
-  "description": "Trespasser is a rare Jakobs sniper rifle. Its shots damage health through shields, at the cost of lower base damage and slower projectile speed than many rifles at the same level.\n\nIt excels against shielded enemies. Against stalkers it can often one-shot, but if the target survives, their shield stays up and they may remain cloaked.\n\nQuirk: if equipped when entering certain vehicles, the vehicle machine gun may also ignore shields. This does not affect sawblades or explosive vehicle weapons.",
+  "description": "Trespasser is a rare Jakobs sniper rifle. Its shots damage health through shields, at the cost of lower base damage and slower projectile speed than many rifles at the same level. It excels against shielded enemies. Against stalkers it can often one-shot, but if the target survives, their shield stays up and they may remain cloaked. Quirk: if equipped when entering certain vehicles, the vehicle machine gun may also ignore shields. This does not affect sawblades or explosive vehicle weapons.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -216,9 +216,9 @@
   ],
   "special": {
     "title": "I infrequently perish.",
-    "description": "Shots ignore shields and hit health directly.\n\nReduced damage and projectile speed.\n\nJakobs: increased critical hit damage (scales with level)."
+    "description": "Shots ignore shields and hit health directly. Reduced damage and projectile speed. Jakobs: increased critical hit damage (scales with level)."
   },
-  "notes": "Does not bypass Master Gee's shield.\nDoes not pierce the ION Loader shield bubble, as it is a barrier rather than a normal shield.",
+  "notes": "Does not bypass Master Gee's shield. Does not pierce the ION Loader shield bubble, as it is a barrier rather than a normal shield.",
   "elements": [
     "None"
   ],

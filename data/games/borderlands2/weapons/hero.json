@@ -10,7 +10,7 @@
   "name": "Hero",
   "slug": "hero",
   "type": "Launcher",
-  "description": "Hero launches heavy-hitting rockets with low velocity and a pronounced arc due to its Torgue barrel. As a Vladof launcher it fires faster than most, and its 3-round burst pattern includes an extra rocket, improving ammo efficiency. The high damage and rapid follow-up shots make it reliable for securing Second Winds.\n\nKrieg can get strong value at close range where the slow travel time matters less, and Hellborn bonuses can push damage higher when the launcher is elemental.",
+  "description": "Hero launches heavy-hitting rockets with low velocity and a pronounced arc due to its Torgue barrel. As a Vladof launcher it fires faster than most, and its 3-round burst pattern includes an extra rocket, improving ammo efficiency. The high damage and rapid follow-up shots make it reliable for securing Second Winds. Krieg can get strong value at close range where the slow travel time matters less, and Hellborn bonuses can push damage higher when the launcher is elemental.",
   "manufacturers": [
     "Vladof"
   ],

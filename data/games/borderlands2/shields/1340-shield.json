@@ -34,7 +34,7 @@
     "Corrosive",
     "Explosive"
   ],
-  "notes": "Despite being Vladof, it uses the same visual model as a blue Hyperion amplify shield.\n\nIf equipped on Deathtrap via Sharing is Caring, it can bug out like other Vladof shields and may keep playing voice lines even after the shield is gone and Deathtrap is taking health damage.",
+  "notes": "Despite being Vladof, it uses the same visual model as a blue Hyperion amplify shield. If equipped on Deathtrap via Sharing is Caring, it can bug out like other Vladof shields and may keep playing voice lines even after the shield is gone and Deathtrap is taking health damage.",
   "special": {
     "description": "Includes a unique voice module that speaks in the voice of Loader 1340. No other special effect.",
     "title": "If you can't beat 'em, join 'em."

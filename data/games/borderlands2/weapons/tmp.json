@@ -10,7 +10,7 @@
   "name": "TMP",
   "slug": "tmp",
   "type": "Pistol",
-  "description": "Vladof's TMP is a straightforward machine pistol with middling accuracy, low kick, a respectable magazine and quick reloads. Higher grade versions can maintain strong sustained DPS, particularly compared with most non-Vladof pistols.\n\nIt can roll with different barrels: Tediore (no extra effect), Maliwan (better accuracy and stronger elemental damage when elemental), Dahl (faster recoil recovery with lower damage), and Bandit or Scav (higher damage but worse accuracy).",
+  "description": "Vladof's TMP is a straightforward machine pistol with middling accuracy, low kick, a respectable magazine and quick reloads. Higher grade versions can maintain strong sustained DPS, particularly compared with most non-Vladof pistols. It can roll with different barrels: Tediore (no extra effect), Maliwan (better accuracy and stronger elemental damage when elemental), Dahl (faster recoil recovery with lower damage), and Bandit or Scav (higher damage but worse accuracy).",
   "manufacturers": [
     "Vladof"
   ],

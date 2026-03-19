@@ -11,7 +11,7 @@
   "name": "Hoplite",
   "slug": "hoplite",
   "type": "Turtle",
-  "description": "Pangolin Seraph turtle shield with extreme capacity at the cost of max health and movement speed.\n\nCapacity scales with co-op: each party member wearing a Hoplite boosts capacity but increases the movement penalty. When used solo it also receives an extra hidden capacity boost, so real capacity can exceed the card value.",
+  "description": "Pangolin Seraph turtle shield with extreme capacity at the cost of max health and movement speed. Capacity scales with co-op: each party member wearing a Hoplite boosts capacity but increases the movement penalty. When used solo it also receives an extra hidden capacity boost, so real capacity can exceed the card value.",
   "manufacturers": [
     "Pangolin"
   ],
@@ -38,9 +38,9 @@
     "None",
     "Explosive"
   ],
-  "notes": "Very high base capacity can make percentage capacity boosts feel less noticeable.\n\nCan roll a Torgue capacitor for explosive damage reduction; no other elemental resistance, and the prefix may not display.\n\nThe card may omit the max health penalty, but it still applies.\n\nWith Sharing is Caring, Deathtrap can inherit the capacity bonus.\n\nAt OP levels the health penalty can push max health to 0, so any hit may trigger FFYL even if the shield absorbs it.\n\nShares a model with the Fabled Tortoise.",
+  "notes": "Very high base capacity can make percentage capacity boosts feel less noticeable. Can roll a Torgue capacitor for explosive damage reduction; no other elemental resistance, and the prefix may not display. The card may omit the max health penalty, but it still applies. With Sharing is Caring, Deathtrap can inherit the capacity bonus. At OP levels the health penalty can push max health to 0, so any hit may trigger FFYL even if the shield absorbs it. Shares a model with the Fabled Tortoise.",
   "special": {
-    "description": "Gain 20% shield capacity for each Hoplite equipped by the party, including you.\n\nFor each Hoplite equipped in the group, you take a 25% movement speed penalty.",
+    "description": "Gain 20% shield capacity for each Hoplite equipped by the party, including you. For each Hoplite equipped in the group, you take a 25% movement speed penalty.",
     "title": "Alone a mere soldier, together an unstoppable phalanx."
   },
   "max": {

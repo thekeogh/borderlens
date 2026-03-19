@@ -27,7 +27,7 @@
     "Slag",
     "Explosive"
   ],
-  "notes": "Drops randomly from any appropriate loot source.\nAmong Bandit-made launchers, it is the slowest for both reload speed and rocket travel speed.",
+  "notes": "Drops randomly from any appropriate loot source. Among Bandit-made launchers, it is the slowest for both reload speed and rocket travel speed.",
   "sources": [
     {
       "name": "World Drop",

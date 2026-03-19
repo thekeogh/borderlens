@@ -18,9 +18,9 @@
   "rarities": [
     "Rare"
   ],
-  "notes": "Effects stack in co-op when multiple players have one equipped.\n\nIts loot modifier cannot roll higher or lower than the standard value.\n\nIt cannot normally be traded or dropped. If you swap it for a relic on the ground while your inventory is full, it can vanish.\n\nIf lost, make a new character to obtain another, then transfer it via Claptrap's Secret Stash in Sanctuary.",
+  "notes": "Effects stack in co-op when multiple players have one equipped. Its loot modifier cannot roll higher or lower than the standard value. It cannot normally be traded or dropped. If you swap it for a relic on the ground while your inventory is full, it can vanish. If lost, make a new character to obtain another, then transfer it via Claptrap's Secret Stash in Sanctuary.",
   "special": {
-    "description": "Improves the odds of finding uncommon and rarer items by reducing the weighting of common (white) drops. Each equipped Vault Hunter's Relic cuts common-drop weight by 60%, indirectly boosting all higher rarities; the benefit diminishes at the very top end.\n\nThis stacks per relic on the team.\n\nWeight divisor: 1.0 + (0.6 * number of players wearing the relic)."
+    "description": "Improves the odds of finding uncommon and rarer items by reducing the weighting of common (white) drops. Each equipped Vault Hunter's Relic cuts common-drop weight by 60%, indirectly boosting all higher rarities; the benefit diminishes at the very top end. This stacks per relic on the team. Weight divisor: 1.0 + (0.6 * number of players wearing the relic)."
   },
   "sources": [
     {

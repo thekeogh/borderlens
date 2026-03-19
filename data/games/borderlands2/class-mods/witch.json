@@ -11,7 +11,7 @@
   "name": "Witch",
   "slug": "witch",
   "type": "Siren",
-  "description": "Epic Witch is a class mod for Maya in Borderlands 2 (base game).",
+  "description": "Maliwan class mod for Maya the Siren, built around Helios, Flicker, Kinetic Reflection. Boosts corrosive damage.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At max level it boosts Corrode Chance by 58% and Corrosion Damage by 58%."
+    "description": "At max level: boosts corrode chance by 58% and corrosion damage by 58%."
   },
   "notes": "",
   "abilities": [

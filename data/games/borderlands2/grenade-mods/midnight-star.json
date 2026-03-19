@@ -11,7 +11,7 @@
   "name": "Midnight Star",
   "slug": "midnight-star",
   "type": "MIRV",
-  "description": "Midnight Star is a rare Torgue grenade mod from Captain Scarlett and her Pirate's Booty.\n\nWhen it detonates, it spits out child grenades in a tight delta spread that travels back towards where the thrower was standing. This makes it awkward for long range throws, but useful when you are fighting up close, as it can blanket the area around you and help secure a Second Wind.\n\nWith Axton, Do or Die can turn this behaviour into an advantage when you are downed in the middle of enemies.",
+  "description": "Midnight Star is a rare Torgue grenade mod from Captain Scarlett and her Pirate's Booty. When it detonates, it spits out child grenades in a tight delta spread that travels back towards where the thrower was standing. This makes it awkward for long range throws, but useful when you are fighting up close, as it can blanket the area around you and help secure a Second Wind. With Axton, Do or Die can turn this behaviour into an advantage when you are downed in the middle of enemies.",
   "manufacturers": [
     "Torgue"
   ],
@@ -32,7 +32,7 @@
   ],
   "notes": "Its name and red text reference the film Silverado. The quoted line is a character remark, and Midnight Star is both a saloon name and a character nickname in the film.",
   "special": {
-    "description": "Curse: child grenades arc back towards your original position.\n\nRed text effect: higher damage, fewer child grenades.",
+    "description": "Curse: child grenades arc back towards your original position. Red text effect: higher damage, fewer child grenades.",
     "title": "\"Hangin' around with you is no picnic.\" Curse of the Cackling Designer!"
   },
   "max": {

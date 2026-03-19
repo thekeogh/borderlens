@@ -11,7 +11,7 @@
   "name": "Fox",
   "slug": "fox",
   "type": "Siren",
-  "description": "Fox is a common Siren class mod in Borderlands 2, made by Maliwan. It can drop at random from any appropriate loot source.",
+  "description": "Common Maliwan class mod for Maya the Siren, built around Blight Phoenix, Helios, and Reaper. Boosts incendiary damage and burn effects.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At maximum level, Fox provides: +58% Ignite Chance and +58% Burn Damage."
+    "description": "At max level, boosts ignite chance by 58% and burn damage by 58%."
   },
   "notes": "",
   "abilities": [

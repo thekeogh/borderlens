@@ -11,7 +11,7 @@
   "name": "Legendary Torch",
   "slug": "legendary-torch",
   "type": "Psycho",
-  "description": "Legendary Torch is a legendary Psycho class mod made by Bandit. It can drop from Tubby enemies at level 62 and above in Ultimate Vault Hunter Mode.",
+  "description": "Legendary Bandit class mod for Krieg the Psycho, part of the Digistruct Peak content. Built around Embrace the Pain, Burn, Baby, Burn, Fuel the Fire, Elemental Elation, Flame Flare. Focused on incendiary damage.",
   "manufacturers": [
     "Bandit"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Added with Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. Unavailable without the DLC.\n\nUses the standard Meat class mod appearance.",
+  "notes": "Requires the Digistruct Peak Challenge DLC.",
   "special": {
-    "description": "At maximum level, grants +65% burn damage.\n\nShares the regular Torch texture for easier identification.",
-    "title": "\"Embrace the deep dark warmth.\""
+    "description": "At max level: +61% incendiary damage.",
+    "title": "Embrace the deep dark warmth."
   },
   "abilities": [
     "+5 Burn, aoe Burn Skill",

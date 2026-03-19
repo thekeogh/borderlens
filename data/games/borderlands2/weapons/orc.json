@@ -235,7 +235,7 @@
   ],
   "special": {
     "title": "Have I achieved worth yet?",
-    "description": "Every 6 seconds, there is a 23% chance to trigger a 6-second buff. The effect remains active after weapon swaps.\n\nBuff effects: +1 projectile, +20% damage, +50% fire rate, +100% reload speed, 50% chance to fire an extra shot, and shots ricochet once on impact then split into two."
+    "description": "Every 6 seconds, there is a 23% chance to trigger a 6-second buff. The effect remains active after weapon swaps. Buff effects: +1 projectile, +20% damage, +50% fire rate, +100% reload speed, 50% chance to fire an extra shot, and shots ricochet once on impact then split into two."
   },
   "notes": "Its red text is a quote from a Discworld novel. The buff can trigger while in a vehicle and will also improve vehicle machine guns. While the buff is active, the card may show an added x1 pellet line, but it typically only appears after swapping away and back. Swapping weapons restarts the 6-second roll timer.",
   "max": {

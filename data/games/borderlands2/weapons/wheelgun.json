@@ -10,7 +10,7 @@
   "name": "Wheelgun",
   "slug": "wheelgun",
   "type": "Pistol",
-  "description": "The Wheelgun handles like the standard version, aside from the usual rarity stat boost and its blue Jakobs finish.\n\nBarrel effects (excluding accessory bonuses):\n- Tediore: No stat change.\n- Maliwan: Slight accuracy increase.\n- Bandit: Higher damage, lower accuracy.\n- Dahl: Better accuracy, reduced recoil and faster recoil recovery, but lower damage.",
+  "description": "The Wheelgun handles like the standard version, aside from the usual rarity stat boost and its blue Jakobs finish. Barrel effects (excluding accessory bonuses): - Tediore: No stat change. - Maliwan: Slight accuracy increase. - Bandit: Higher damage, lower accuracy. - Dahl: Better accuracy, reduced recoil and faster recoil recovery, but lower damage.",
   "manufacturers": [
     "Jakobs"
   ],

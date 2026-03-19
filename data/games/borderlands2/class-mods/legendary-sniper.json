@@ -11,7 +11,7 @@
   "name": "Legendary Sniper",
   "slug": "legendary-sniper",
   "type": "Assassin",
-  "description": "Legendary Sniper is a legendary Jakobs class mod for Zer0 in Borderlands 2. It can drop from Tubby enemies in Ultimate Vault Hunter Mode at level 62 and above. Part of the Digistruct Peak Upgrade Pack content.",
+  "description": "Legendary Jakobs class mod for Zer0 the Assassin, part of the Digistruct Peak content. Built around Precisi0n, 0ne Sh0t 0ne Kill, Headsh0t, Kill C0nfirmed, Vel0city. Focused on sniper rifle damage and critical hits.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Requires Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge to obtain.\n\nThe shield capacity penalty scales with item level, while the skill and damage boosts do not, so a level 62 copy is often the best choice even at higher character levels.\n\nThe tagline \"Boom! Headshot.\" references FPS Doug from Pure Pwnage and was also used by Mordecai in Borderlands.",
+  "notes": "Requires the Digistruct Peak Challenge DLC.",
   "special": {
-    "description": "At maximum level it provides +55% sniper damage, +55% critical hit damage and -1,101,229 shield capacity.\n\nBug: the listed sniper critical hit damage bonus applies to all weapon types, not only sniper rifles.\n\nThe item uses the non-legendary Sniper texture for easier identification.",
-    "title": "\"Boom! Headshot.\""
+    "description": "At max level: +61% sniper rifle damage.",
+    "title": "Boom! Headshot."
   },
   "max": {
     "gun_damage_bonus": 557,

@@ -39,7 +39,7 @@
   ],
   "notes": "It is the only Hyperion-manufactured Maylay shield in the game.",
   "special": {
-    "description": "When used with the Toothpick in the Writhing Deep, it increases movement speed and jump height.\n\nKnown issue: the melee damage bonus does not apply, so it provides no roid-style boost.",
+    "description": "When used with the Toothpick in the Writhing Deep, it increases movement speed and jump height. Known issue: the melee damage bonus does not apply, so it provides no roid-style boost.",
     "title": "Retains your guts inside your body, where they belong."
   },
   "max": {

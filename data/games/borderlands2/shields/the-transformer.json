@@ -11,7 +11,7 @@
   "name": "The Transformer",
   "slug": "the-transformer",
   "type": "Absorb",
-  "description": "The Transformer is a legendary Vladof shield in Borderlands 2.\n\nIt can occasionally absorb bullets, but its defining feature is turning incoming shock damage into shield charge. This makes it ideal against electrically focused enemies such as loaders and surveyors. It also stops shock electrocute damage-over-time, so you can remain inside effects like an ION Loader shield without taking DOT.\n\nIts absorb chance reaches 42%, which is lower than some top-tier purple Vladof absorb shields.",
+  "description": "The Transformer is a legendary Vladof shield in Borderlands 2. It can occasionally absorb bullets, but its defining feature is turning incoming shock damage into shield charge. This makes it ideal against electrically focused enemies such as loaders and surveyors. It also stops shock electrocute damage-over-time, so you can remain inside effects like an ION Loader shield without taking DOT. Its absorb chance reaches 42%, which is lower than some top-tier purple Vladof absorb shields.",
   "manufacturers": [
     "Vladof"
   ],
@@ -37,9 +37,9 @@
   "elements": [
     "Shock"
   ],
-  "notes": "Not every shock source is safe. Some effects can still cause direct damage, including certain barrels and specific enemy attacks.\n\nYou can deliberately refill it with shock weapon hits, such as Thunderball Fists or shock Splatguns.\n\nRecharge is capped by maximum shield capacity. If a shock hit would overfill the shield, the overflow can carry into health, effectively bypassing the shield. This is most dangerous with heavy shock hits (Badasses, grenades, rockets, or friendly fire). On Gaige builds with high Anarchy, self-charging can become fatal as damage scales up.",
+  "notes": "Not every shock source is safe. Some effects can still cause direct damage, including certain barrels and specific enemy attacks. You can deliberately refill it with shock weapon hits, such as Thunderball Fists or shock Splatguns. Recharge is capped by maximum shield capacity. If a shock hit would overfill the shield, the overflow can carry into health, effectively bypassing the shield. This is most dangerous with heavy shock hits (Badasses, grenades, rockets, or friendly fire). On Gaige builds with high Anarchy, self-charging can become fatal as damage scales up.",
   "special": {
-    "description": "Immune to shock damage-over-time.\n\nShock damage recharges the shield based on damage received.\n\nThere is more than meets the eye.",
+    "description": "Immune to shock damage-over-time. Shock damage recharges the shield based on damage received. There is more than meets the eye.",
     "title": "There's more than your eye can see."
   },
   "max": {

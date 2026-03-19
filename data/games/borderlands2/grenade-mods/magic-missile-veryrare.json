@@ -30,9 +30,9 @@
       ]
     }
   ],
-  "notes": "Badass Wizards can drop the purple-rarity version. The homing, guaranteed slag and ammo-free regeneration make it broadly useful for slagging or finishing targets.\n\nA reliable farm is the Magic Slaughter (Badass Round) at Murderlin's Temple; you can also try the Sacrificial Altar in Dragon Keep to spawn a Badass Wizard, though the drop is rare.\n\nNamed after the Dungeons and Dragons spell. Killing The Darkness with it opens the door behind to a Dice Chest. With it equipped, Axton may shout \"Magic Missile!\" when deploying his Sabre Turret.",
+  "notes": "Badass Wizards can drop the purple-rarity version. The homing, guaranteed slag and ammo-free regeneration make it broadly useful for slagging or finishing targets. A reliable farm is the Magic Slaughter (Badass Round) at Murderlin's Temple; you can also try the Sacrificial Altar in Dragon Keep to spawn a Badass Wizard, though the drop is rare. Named after the Dungeons and Dragons spell. Killing The Darkness with it opens the door behind to a Dice Chest. With it equipped, Axton may shout \"Magic Missile!\" when deploying his Sabre Turret.",
   "special": {
-    "description": "Throw to spawn homing slag projectiles that explode on impact. Regenerates grenades over time.\n\nBlue rarity fires 2 child grenades; purple rarity fires 4. Consumes 1 grenade per throw.",
+    "description": "Throw to spawn homing slag projectiles that explode on impact. Regenerates grenades over time. Blue rarity fires 2 child grenades; purple rarity fires 4. Consumes 1 grenade per throw.",
     "title": "No wand required. Just point and shoot."
   },
   "max": {

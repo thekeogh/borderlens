@@ -11,7 +11,7 @@
   "name": "Legendary Anarchist",
   "slug": "legendary-anarchist",
   "type": "Mechromancer",
-  "description": "Legendary Anarchist is a legendary Vladof class mod for Gaige the Mechromancer in Borderlands 2. It is part of the Digistruct Peak content and only appears for players who own the relevant upgrade pack. It can drop from Tubby enemies in Ultimate Vault Hunter Mode at level 62 and above.",
+  "description": "Legendary Vladof class mod for Gaige the Mechromancer, part of the Digistruct Peak content. Built around Unstoppable Force, Myelin, Strength of Five Gorillas, Smaller, Lighter, Faster, Typecast Iconoclast. Trades accuracy for raw gun damage.",
   "manufacturers": [
     "Vladof"
   ],
@@ -36,8 +36,8 @@
   ],
   "notes": "Low level versions under level 50 may show reduced skill bonuses, but these are not obtainable through normal play. The red flavour line references a Bob Dylan lyric.",
   "special": {
-    "description": "At maximum level, this class mod boosts Gun Damage by 60.5% and reduces Accuracy by 46%.",
-    "title": "\"Chaos is a friend of mine.\""
+    "description": "At max level: +60.5% gun damage, -46% accuracy.",
+    "title": "Chaos is a friend of mine."
   },
   "max": {
     "gun_damage_bonus": 61,

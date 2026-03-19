@@ -11,7 +11,7 @@
   "name": "Infiltrator",
   "slug": "infiltrator",
   "type": "Assassin",
-  "description": "Infiltrator is a common (white) Zer0 class mod in Borderlands 2, made by Dahl. It can drop randomly from any appropriate loot source.",
+  "description": "Common Dahl class mod for Zer0 the Assassin, built around Be Like Water, Unf0rseen, and Ir0n Hand. Combines fire rate and melee damage boosts.",
   "manufacturers": [
     "Dahl"
   ],
@@ -36,9 +36,9 @@
     }
   ],
   "special": {
-    "description": "At the level cap, this class mod provides +52% fire rate and +52% melee damage. The item card may show an incorrect fire rate value."
+    "description": "At max level, boosts fire rate by 52% and melee damage by 52%."
   },
-  "notes": "",
+  "notes": "The item card may show an incorrect fire rate value.",
   "max": {
     "fire_rate": 34,
     "level": 90

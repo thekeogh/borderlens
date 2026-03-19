@@ -11,7 +11,7 @@
   "name": "Legendary Nurse",
   "slug": "legendary-nurse",
   "type": "Siren",
-  "description": "Legendary Nurse is a legendary Siren class mod for Maya, made by Anshin in Borderlands 2. It can drop from chubby enemies from level 62 onwards in Ultimate Vault Hunter Mode.",
+  "description": "Legendary Maliwan class mod for Maya the Siren, part of the Digistruct Peak content. Built around Restoration, Elated, Sweet Release, Sustenance, Suspension. Focused on healing and health regeneration.",
   "manufacturers": [
     "Anshin"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Added with Ultimate Vault Hunter Upgrade Pack Two and unavailable without that DLC.\n\nThe class mod emblem references Liliths Phasewalk action skill.",
+  "notes": "Requires the Digistruct Peak Challenge DLC.",
   "special": {
-    "description": "Max level bonus: Team health regeneration per second +40,398.\n\nProvides team health regen up to +30,467 depending on roll.\n\nMay roll up to +5 in Restoration, Elated, Sweet Release, Sustenance and Suspension.\n\nFlavour text: A friend in need is a friend indeed.",
-    "title": "\"A friend in need is a friend indeed.\""
+    "description": "At max level: +68% health regen rate, +58% action skill cooldown rate.",
+    "title": "A friend in need is a friend indeed."
   },
   "abilities": [
     "+5 Restoration Skill",

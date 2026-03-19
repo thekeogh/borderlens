@@ -10,7 +10,7 @@
   "name": "Topneaa",
   "slug": "topneaa",
   "type": "Launcher",
-  "description": "The Topneaa is an E-tech Vladof launcher with reduced ammo use, costing two thirds of a rocket per shot. It fires one slow rocket that hits for very high splash damage. Anything caught in the blast also spawns energy spheres that continue to deal damage around the impact area.\n\nAs with other Vladof launchers, ammo use is fractional: every third shot does not consume a magazine round, letting you fire more rockets than the listed magazine size. It is one of the few E-tech guns to use under 2 ammo per shot (the Dahl Blaster can do so in burst only).",
+  "description": "The Topneaa is an E-tech Vladof launcher with reduced ammo use, costing two thirds of a rocket per shot. It fires one slow rocket that hits for very high splash damage. Anything caught in the blast also spawns energy spheres that continue to deal damage around the impact area. As with other Vladof launchers, ammo use is fractional: every third shot does not consume a magazine round, letting you fire more rockets than the listed magazine size. It is one of the few E-tech guns to use under 2 ammo per shot (the Dahl Blaster can do so in burst only).",
   "manufacturers": [
     "Vladof"
   ],

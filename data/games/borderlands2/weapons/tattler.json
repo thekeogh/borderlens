@@ -11,7 +11,7 @@
   "name": "Tattler",
   "slug": "tattler",
   "type": "SMG",
-  "description": "The Tattler is a Bandit Seraph SMG from the Pirate's Booty add-on.\n\nIt spits out slow, hard-hitting rounds with poor accuracy, but each shot releases three projectiles while only consuming one round. This gives it exceptional damage per ammo for an SMG. Its spread and feel sit somewhere between an SMG and a shotgun, making it strongest up close and workable at mid-range.\n\nIt can roll with any element or none, and its high fire rate shreds nearby enemies.",
+  "description": "The Tattler is a Bandit Seraph SMG from the Pirate's Booty add-on. It spits out slow, hard-hitting rounds with poor accuracy, but each shot releases three projectiles while only consuming one round. This gives it exceptional damage per ammo for an SMG. Its spread and feel sit somewhere between an SMG and a shotgun, making it strongest up close and workable at mid-range. It can roll with any element or none, and its high fire rate shreds nearby enemies.",
   "manufacturers": [
     "Bandit"
   ],
@@ -188,10 +188,10 @@
     }
   ],
   "special": {
-    "description": "Always spawns with a blade.\n\nReduced accuracy. Fires three slow projectiles per shot for the cost of one ammo.",
+    "description": "Always spawns with a blade. Reduced accuracy. Fires three slow projectiles per shot for the cost of one ammo.",
     "title": "If thou'st would'st snitch'st, acquire thine stich!"
   },
-  "notes": "Later updates increased its projectile count from 2 to 3 and boosted accuracy by about 20%.\nIt always spawns with the +50% melee damage blade accessory, so its prefix is always Bladed. This blade part is unique to the Tattler and uses Bladed rather than the usual Bandit SMG melee prefix.\nA later hotfix also raised magazine size and damage for the Tattler as part of a wider Bandit SMG buff.",
+  "notes": "Later updates increased its projectile count from 2 to 3 and boosted accuracy by about 20%. It always spawns with the +50% melee damage blade accessory, so its prefix is always Bladed. This blade part is unique to the Tattler and uses Bladed rather than the usual Bandit SMG melee prefix. A later hotfix also raised magazine size and damage for the Tattler as part of a wider Bandit SMG buff.",
   "max": {
     "accuracy": 56.7,
     "damage": 638234,

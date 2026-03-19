@@ -25,7 +25,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Spawns only at green rarity or above.\nDrops randomly from any appropriate loot source.",
+  "notes": "Spawns only at green rarity or above. Drops randomly from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

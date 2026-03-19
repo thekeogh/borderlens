@@ -11,7 +11,7 @@
   "name": "Grenadier",
   "slug": "grenadier",
   "type": "Commando",
-  "description": "Grenadier is an Epic class mod for Axton in Borderlands 2.",
+  "description": "Epic Torgue class mod for Axton the Commando, focused on Steady, Impact, and Grenadier. Boosts grenade damage and explosive resistance.",
   "manufacturers": [
     "Torgue"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At maximum level, this class mod provides two bonuses:\n\n+51 percent grenade damage\n+34 percent explosive resistance"
+    "description": "At max level, boosts grenade damage by 51% and explosive resistance by 34%."
   },
   "notes": "",
   "max": {

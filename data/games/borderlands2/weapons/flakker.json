@@ -236,9 +236,9 @@
   ],
   "special": {
     "title": "Flak the world.",
-    "description": "Consumes 4 ammo per shot. Fires 3 (up to 5) invisible projectiles; after a brief delay each detonates into 6 nearby explosions dealing explosive bullet damage. Four blasts deal 100% card damage (2 small, 2 medium) and two large blasts deal 120%.\n\nRed text: Flak the world."
+    "description": "Consumes 4 ammo per shot. Fires 3 (up to 5) invisible projectiles; after a brief delay each detonates into 6 nearby explosions dealing explosive bullet damage. Four blasts deal 100% card damage (2 small, 2 medium) and two large blasts deal 120%. Red text: Flak the world."
   },
-  "notes": "Each pellet triggers 6 explosions: 2 small, 2 medium (100% card damage), and 2 large (120%).\nRising Sh0t (Zer0) stacks rapidly from one shot, and the slow fire rate helps maintain stacks.\nDetonation is time-based: Velocity (Zer0) and Accelerate (Maya) extend effective reach/spread but worsen point-blank use.\nPellets can crit, but accuracy is poor, making crit-based parts/effects less reliable.\nExplosions are explosive bullet damage, not grenade damage; no Blood Bath, but benefits from Reaper.\nSwapping to a launcher after firing can increase explosion damage via a glitch.",
+  "notes": "Each pellet triggers 6 explosions: 2 small, 2 medium (100% card damage), and 2 large (120%). Rising Sh0t (Zer0) stacks rapidly from one shot, and the slow fire rate helps maintain stacks. Detonation is time-based: Velocity (Zer0) and Accelerate (Maya) extend effective reach/spread but worsen point-blank use. Pellets can crit, but accuracy is poor, making crit-based parts/effects less reliable. Explosions are explosive bullet damage, not grenade damage; no Blood Bath, but benefits from Reaper. Swapping to a launcher after firing can increase explosion damage via a glitch.",
   "max": {
     "accuracy": 1,
     "damage": 2638641,

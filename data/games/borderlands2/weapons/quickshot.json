@@ -10,7 +10,7 @@
   "name": "Quickshot",
   "slug": "quickshot",
   "type": "Pistol",
-  "description": "A Tediore pistol with Vladof parts, the Quickshot leans into speed: higher fire rate and magazine size, plus reduced recoil, at the cost of lower accuracy.\n\nAs with other Tediore weapons, frequent reloads can boost overall damage thanks to the thrown-gun reload effect. The Quickshot helps you take advantage of this by firing quickly between reloads, making rapid reload loops easier to maintain even at closer ranges.",
+  "description": "A Tediore pistol with Vladof parts, the Quickshot leans into speed: higher fire rate and magazine size, plus reduced recoil, at the cost of lower accuracy. As with other Tediore weapons, frequent reloads can boost overall damage thanks to the thrown-gun reload effect. The Quickshot helps you take advantage of this by firing quickly between reloads, making rapid reload loops easier to maintain even at closer ranges.",
   "manufacturers": [
     "Tediore"
   ],
@@ -28,7 +28,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Spawns at green rarity or higher.\nDrops randomly from any appropriate loot source.",
+  "notes": "Spawns at green rarity or higher. Drops randomly from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

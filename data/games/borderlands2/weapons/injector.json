@@ -23,7 +23,7 @@
   "elements": [
     "Explosive"
   ],
-  "notes": "The Injector can drop from any appropriate loot source.\n\nIt only appears at green rarity or above.",
+  "notes": "The Injector can drop from any appropriate loot source. It only appears at green rarity or above.",
   "sources": [
     {
       "name": "World Drop",

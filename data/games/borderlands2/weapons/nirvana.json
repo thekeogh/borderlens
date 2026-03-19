@@ -191,7 +191,7 @@
   ],
   "special": {
     "title": "Look, life's a bitch. Get over it. Burn something to the ground.",
-    "description": "Shots detonate on impact, creating splash damage.\n\nEach explosion adds 50% of weapon damage as splash, and this splash is increased by grenade damage boosts.\n\nAlways incendiary. Reduced bullet damage and accuracy, with larger magazine plus higher elemental damage and status chance. Includes 50% elemental splash damage."
+    "description": "Shots detonate on impact, creating splash damage. Each explosion adds 50% of weapon damage as splash, and this splash is increased by grenade damage boosts. Always incendiary. Reduced bullet damage and accuracy, with larger magazine plus higher elemental damage and status chance. Includes 50% elemental splash damage."
   },
   "notes": "Krieg synergises well with Nirvana, especially Hellborn skills that reward frequent ignites and self-immolation. Its 50% splash component scales with grenade damage bonuses. It uses the same core gimmick as the Hellfire. The name and red text reference the concept of nirvana and or the band Nirvana.",
   "max": {

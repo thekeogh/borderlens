@@ -11,7 +11,7 @@
   "name": "Wanderlust",
   "slug": "wanderlust",
   "type": "Pistol",
-  "description": "Wanderlust is a Pearlescent Maliwan pistol from the Digistruct Peak Upgrade Pack.\n\nIts shots leave the barrel at unpredictable angles, but any dart that hits a surface will ricochet and steer towards the nearest enemy. It rarely lands where you aim and can tag an unintended target, yet it is difficult for the darts to fully miss once they have something to bounce from.",
+  "description": "Wanderlust is a Pearlescent Maliwan pistol from the Digistruct Peak Upgrade Pack. Its shots leave the barrel at unpredictable angles, but any dart that hits a surface will ricochet and steer towards the nearest enemy. It rarely lands where you aim and can tag an unintended target, yet it is difficult for the darts to fully miss once they have something to bounce from.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -249,9 +249,9 @@
   ],
   "special": {
     "title": "You never know until you go.",
-    "description": "Launches ricocheting homing darts that detonate on impact, dealing splash damage.\n\nYou never know until you go. Shots start wildly inaccurate, then rebound off surfaces to seek nearby enemies. Higher elemental effect chance, but lower base damage."
+    "description": "Launches ricocheting homing darts that detonate on impact, dealing splash damage. You never know until you go. Shots start wildly inaccurate, then rebound off surfaces to seek nearby enemies. Higher elemental effect chance, but lower base damage."
   },
-  "notes": "Listed accuracy is always 1.0, regardless of parts.\nGaige can pair it well with Anarchy, as the homing ricochets are not hindered by Anarchy accuracy penalties. Little Big Trouble further boosts a shock version.\nKills with Wanderlust do not progress pistol kill challenges.\nIts splash damage can also harm the user.",
+  "notes": "Listed accuracy is always 1.0, regardless of parts. Gaige can pair it well with Anarchy, as the homing ricochets are not hindered by Anarchy accuracy penalties. Little Big Trouble further boosts a shock version. Kills with Wanderlust do not progress pistol kill challenges. Its splash damage can also harm the user.",
   "max": {
     "accuracy": 1,
     "damage": 1465114,

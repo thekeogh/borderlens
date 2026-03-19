@@ -23,7 +23,7 @@
   "elements": [
     "Explosive"
   ],
-  "notes": "Obtained at random from any appropriate loot source.\n\nOnly appears at green rarity or higher.",
+  "notes": "Obtained at random from any appropriate loot source. Only appears at green rarity or higher.",
   "sources": [
     {
       "name": "World Drop",

@@ -236,7 +236,7 @@
   ],
   "special": {
     "title": "Fear the Swarm!",
-    "description": "Always corrosive. Shots detonate on impact, dealing splash damage equal to 80% of the weapon's damage; the splash is treated as grenade damage for bonuses.\n\nDAHL: aiming down sights switches to a 6-round burst. Reduced accuracy, higher elemental effect chance, and the burst rounds carry the corrosive splash effect."
+    "description": "Always corrosive. Shots detonate on impact, dealing splash damage equal to 80% of the weapon's damage; the splash is treated as grenade damage for bonuses. DAHL: aiming down sights switches to a 6-round burst. Reduced accuracy, higher elemental effect chance, and the burst rounds carry the corrosive splash effect."
   },
   "notes": "Always corrosive, making it strong against armoured targets. Knuckle Dragger can drop it very early, allowing a level 0-1 Hornet, or level 2 if you level up on the kill. Its shots create an impact explosion that adds 80% of weapon damage as splash; this splash counts as grenade damage and is boosted by grenade-damage skills (eg Steady).",
   "max": {

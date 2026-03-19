@@ -45,6 +45,11 @@ function Card(props: Props) {
   const url = Config.Routes.item(props.game, props.category, props.slug);
   const rarity = getHighestRarity(props.rarities).toLowerCase();
 
+  /**
+   * Renders a grouped collection of item elements.
+   *
+   * @returns A JSX element containing grouped elements, or null if elements are not available.
+   */
   const elements = () => {
     if (!props.elements) {
       return null;

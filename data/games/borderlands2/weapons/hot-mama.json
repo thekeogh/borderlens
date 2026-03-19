@@ -11,7 +11,7 @@
   "name": "Hot Mama",
   "slug": "hot-mama",
   "type": "Sniper",
-  "description": "Hot Mama is an Effervescent Jakobs sniper rifle from the Fight for Sanctuary DLC in Borderlands 2.\n\nWhen scoped, it becomes perfectly accurate, making it a strong pick for Gaige builds with high Anarchy where normal accuracy suffers.",
+  "description": "Hot Mama is an Effervescent Jakobs sniper rifle from the Fight for Sanctuary DLC in Borderlands 2. When scoped, it becomes perfectly accurate, making it a strong pick for Gaige builds with high Anarchy where normal accuracy suffers.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -75,9 +75,9 @@
   ],
   "special": {
     "title": "Sniper is a lonely occupation.",
-    "description": "Always Incendiary. Fires bullets that leave a heart trail.\n\nAiming down sights sets accuracy to 100%.\n\nCritical hits or critical kills grant a stack that increases critical hit damage by 50%. Stacks have no cap, but each lasts 12 seconds and you can only gain one stack every 5 seconds.\n\nHas unique voice lines while equipped."
+    "description": "Always Incendiary. Fires bullets that leave a heart trail. Aiming down sights sets accuracy to 100%. Critical hits or critical kills grant a stack that increases critical hit damage by 50%. Stacks have no cap, but each lasts 12 seconds and you can only gain one stack every 5 seconds. Has unique voice lines while equipped."
   },
-  "notes": "It only rolls with a Maliwan scope, a Dahl grip and the bladed accessory.\n\nIts critical bonus can only add a new stack once every 5 seconds. Each stack lasts 12 seconds and expires on its own timer.",
+  "notes": "It only rolls with a Maliwan scope, a Dahl grip and the bladed accessory. Its critical bonus can only add a new stack once every 5 seconds. Each stack lasts 12 seconds and expires on its own timer.",
   "max": {
     "accuracy": 96.4,
     "damage": 3048329,

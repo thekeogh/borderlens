@@ -203,9 +203,9 @@
   ],
   "special": {
     "title": "I like being a gun.",
-    "description": "Talks while equipped.\n\nHyperion: sustained fire boosts accuracy and reduces recoil.\n\nUnique voice module: speaks with the voice of Loader 1340.\n\nI like being a gun."
+    "description": "Talks while equipped. Hyperion: sustained fire boosts accuracy and reduces recoil. Unique voice module: speaks with the voice of Loader 1340. I like being a gun."
   },
-  "notes": "The voice module can trigger on firing, reloading, switching to the weapon, aiming down sights, or scoring a kill.\n\nIf you stow it during a line trigger (most often a reload), the voice may continue while other weapons are equipped.\n\nIt can occasionally play multiple voice lines for the same event at once.\n\nIt cannot spawn with an elemental capacitor, or with Bandit or Tediore sights.",
+  "notes": "The voice module can trigger on firing, reloading, switching to the weapon, aiming down sights, or scoring a kill. If you stow it during a line trigger (most often a reload), the voice may continue while other weapons are equipped. It can occasionally play multiple voice lines for the same event at once. It cannot spawn with an elemental capacitor, or with Bandit or Tediore sights.",
   "elements": [
     "None"
   ],

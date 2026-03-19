@@ -11,7 +11,7 @@
   "name": "Infection Cleaner",
   "slug": "infection-cleaner",
   "type": "SMG",
-  "description": "Infection Cleaner is an Effervescent Tediore SMG from the Fight for Sanctuary add-on in Borderlands 2.\n\nIt plays the same as the Avenger and can match its stats when level and parts align. Key differences: it is always incendiary, and the bullets fired by the thrown gun do not apply elemental effects.",
+  "description": "Infection Cleaner is an Effervescent Tediore SMG from the Fight for Sanctuary add-on in Borderlands 2. It plays the same as the Avenger and can match its stats when level and parts align. Key differences: it is always incendiary, and the bullets fired by the thrown gun do not apply elemental effects.",
   "manufacturers": [
     "Tediore"
   ],
@@ -207,7 +207,7 @@
   ],
   "special": {
     "title": "Shhh. I'll take care of everything, don't you fret.",
-    "description": "While equipped, regenerates SMG reserve ammo at 1.5 per second.\n\nReload throws the weapon forwards; it ricochets off targets and scenery, keeps firing in all directions, then detonates after a short fuse (roughly 0.1 to 3.6s). When SMG reserve ammo drops below 57, the fuse shortens.\n\nDetonation damage scales with shot damage and unused ammo (fire). The thrown gun's bullets deal physical grenade-type damage and benefit from gun and amp damage bonuses."
+    "description": "While equipped, regenerates SMG reserve ammo at 1.5 per second. Reload throws the weapon forwards; it ricochets off targets and scenery, keeps firing in all directions, then detonates after a short fuse (roughly 0.1 to 3.6s). When SMG reserve ammo drops below 57, the fuse shortens. Detonation damage scales with shot damage and unused ammo (fire). The thrown gun's bullets deal physical grenade-type damage and benefit from gun and amp damage bonuses."
   },
   "notes": "Despite the name fitting the Writhing Deep dental theme, it does not receive any performance bonus from the Retainer or Mouthwash.",
   "max": {

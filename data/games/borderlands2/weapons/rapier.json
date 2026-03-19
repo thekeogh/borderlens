@@ -11,7 +11,7 @@
   "name": "Rapier",
   "slug": "rapier",
   "type": "Assault Rifle",
-  "description": "Rapier is a rare Vladof assault rifle from Borderlands 2: Captain Scarlett and Her Pirate's Booty.\n\nIt trades very low gun damage for an unmatched +200 percent melee bonus, making it best for melee builds. A Slag version can still be handy for boosting overall damage.\n\nThe downside only affects damage taken from enemy melee hits while held, so it is manageable with positioning. It pairs well with roid shields and Zer0 (especially Many Must Fall) for chaining melee kills. Krieg can also benefit in Mania, adding strong melee outside Buzz Axe Rampage and helping fuel the Porcelain Fist effect.",
+  "description": "Rapier is a rare Vladof assault rifle from Borderlands 2: Captain Scarlett and Her Pirate's Booty. It trades very low gun damage for an unmatched +200 percent melee bonus, making it best for melee builds. A Slag version can still be handy for boosting overall damage. The downside only affects damage taken from enemy melee hits while held, so it is manageable with positioning. It pairs well with roid shields and Zer0 (especially Many Must Fall) for chaining melee kills. Krieg can also benefit in Mania, adding strong melee outside Buzz Axe Rampage and helping fuel the Porcelain Fist effect.",
   "manufacturers": [
     "Vladof"
   ],
@@ -223,9 +223,9 @@
   ],
   "special": {
     "title": "As I end the refrain, thrust home.",
-    "description": "+200% melee damage\nCurse: while wielding, you take increased damage from melee attacks\nVery low weapon damage for its rarity"
+    "description": "+200% melee damage Curse: while wielding, you take increased damage from melee attacks Very low weapon damage for its rarity"
   },
-  "notes": "Always spawns with a unique bayonet in the second accessory slot, leaving the first slot free for normal accessory rolls. The standard bayonet cannot appear in slot one for extra melee bonus.\nCan roll Vladof or Torgue scopes, or no scope.",
+  "notes": "Always spawns with a unique bayonet in the second accessory slot, leaving the first slot free for normal accessory rolls. The standard bayonet cannot appear in slot one for extra melee bonus. Can roll Vladof or Torgue scopes, or no scope.",
   "max": {
     "accuracy": 80.7,
     "damage": 526795,

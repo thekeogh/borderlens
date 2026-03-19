@@ -10,7 +10,7 @@
   "name": "Projectile Convergence",
   "slug": "projectile-convergence",
   "type": "SMG",
-  "description": "Hyperion SMGs start off shaky, then tighten up the longer you hold the trigger. The accuracy shown reflects the weapon at maximum stabilisation.\n\nProjectile Convergence can roll with different barrels:\n- Tediore (lite): faster reloads and better accuracy, but lower damage.\n- Bandit (heavy): higher damage, but worse accuracy.\n- Maliwan (stock): improved accuracy. Because of a generation quirk, this roll only appears without an elemental capacitor.",
+  "description": "Hyperion SMGs start off shaky, then tighten up the longer you hold the trigger. The accuracy shown reflects the weapon at maximum stabilisation. Projectile Convergence can roll with different barrels: - Tediore (lite): faster reloads and better accuracy, but lower damage. - Bandit (heavy): higher damage, but worse accuracy. - Maliwan (stock): improved accuracy. Because of a generation quirk, this roll only appears without an elemental capacitor.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "In Borderlands: The Pre-Sequel, this SMG can spawn with either the newer or older Hyperion material and prefix sets.\n\nOlder versions deal more damage but suffer much lower accuracy and fire rate. Their stabilising recoil behaviour is also reduced, only applying while aiming down sights.\n\nDrops at random from any appropriate loot source.",
+  "notes": "In Borderlands: The Pre-Sequel, this SMG can spawn with either the newer or older Hyperion material and prefix sets. Older versions deal more damage but suffer much lower accuracy and fire rate. Their stabilising recoil behaviour is also reduced, only applying while aiming down sights. Drops at random from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

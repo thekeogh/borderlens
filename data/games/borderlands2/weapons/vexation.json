@@ -10,7 +10,7 @@
   "name": "Vexation",
   "slug": "vexation",
   "type": "SMG",
-  "description": "Vexation is a Maliwan SMG variant that always rolls with a fixed-element Maliwan barrel. This gives it above-average elemental damage over time and a higher status chance than typical SMGs. Fitting a Maliwan grip can boost those elemental stats further.\n\nAlthough it is not a high-rarity drop, its strong proc rate and DoT output can carry you effectively until you find a more specialised or rarer option.",
+  "description": "Vexation is a Maliwan SMG variant that always rolls with a fixed-element Maliwan barrel. This gives it above-average elemental damage over time and a higher status chance than typical SMGs. Fitting a Maliwan grip can boost those elemental stats further. Although it is not a high-rarity drop, its strong proc rate and DoT output can carry you effectively until you find a more specialised or rarer option.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Shock"
   ],
-  "notes": "Related fixed-element Maliwan SMGs include Provacateur (incendiary), Venom (corrosive), Revenant (slag), and Hyperborean (cryo).\n\nA known generation bug can make some blue versions display purple-style item card title colouring; with Colourblind Mode enabled they may even show as [Purple]. Due to the same issue, blue and purple rolls with identical parts can end up with identical stats.\n\nDrops randomly from any appropriate loot source.",
+  "notes": "Related fixed-element Maliwan SMGs include Provacateur (incendiary), Venom (corrosive), Revenant (slag), and Hyperborean (cryo). A known generation bug can make some blue versions display purple-style item card title colouring; with Colourblind Mode enabled they may even show as [Purple]. Due to the same issue, blue and purple rolls with identical parts can end up with identical stats. Drops randomly from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

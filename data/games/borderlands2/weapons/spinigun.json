@@ -10,7 +10,7 @@
   "name": "Spinigun",
   "slug": "spinigun",
   "type": "Assault Rifle",
-  "description": "Spiniguns are assault rifles with a rotating Gatling barrel assembly. They perform best when you hold the trigger for extended bursts, as they need time to spin up to peak fire rate and remain there. Magazine size boosts help you keep the stream going.\n\nVladof versions pair well with Salvador builds in the Rampage tree, where skills that sustain fire and return ammo shine. Consider a Hoarder class mod and a Stockpile relic, as these weapons burn through rifle ammunition extremely quickly.",
+  "description": "Spiniguns are assault rifles with a rotating Gatling barrel assembly. They perform best when you hold the trigger for extended bursts, as they need time to spin up to peak fire rate and remain there. Magazine size boosts help you keep the stream going. Vladof versions pair well with Salvador builds in the Rampage tree, where skills that sustain fire and return ammo shine. Consider a Hoarder class mod and a Stockpile relic, as these weapons burn through rifle ammunition extremely quickly.",
   "manufacturers": [
     "Bandit"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "Spiniguns can drop from any appropriate loot source.\n\nBecause they use the Vladof Gatling barrel, they only appear at green rarity or above.\n\nTheir high fire rate and large magazines can empty your ammo reserves in seconds.\n\nVladof Spiniguns can roll the highest fire rate available on non-unique assault rifles.",
+  "notes": "Spiniguns can drop from any appropriate loot source. Because they use the Vladof Gatling barrel, they only appear at green rarity or above. Their high fire rate and large magazines can empty your ammo reserves in seconds. Vladof Spiniguns can roll the highest fire rate available on non-unique assault rifles.",
   "sources": [
     {
       "name": "World Drop",

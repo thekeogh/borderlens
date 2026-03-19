@@ -10,7 +10,7 @@
   "name": "Weisenheimer",
   "slug": "weisenheimer",
   "type": "SMG",
-  "description": "Like other Hyperion SMGs, the Weisenheimer starts with noticeable sway and tightens up the longer you keep firing. The accuracy shown reflects its fully stabilised state.\n\nIt belongs to a set of Hyperion SMGs that always roll with a fixed element via a Maliwan barrel, giving higher elemental chance and damage-over-time than usual. These bonuses can be pushed further with a Maliwan grip.\n\nAlthough not a top-tier rarity, its strong status effects can carry you well until you find a rarer upgrade.",
+  "description": "Like other Hyperion SMGs, the Weisenheimer starts with noticeable sway and tightens up the longer you keep firing. The accuracy shown reflects its fully stabilised state. It belongs to a set of Hyperion SMGs that always roll with a fixed element via a Maliwan barrel, giving higher elemental chance and damage-over-time than usual. These bonuses can be pushed further with a Maliwan grip. Although not a top-tier rarity, its strong status effects can carry you well until you find a rarer upgrade.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -23,7 +23,7 @@
   "elements": [
     "Corrosive"
   ],
-  "notes": "Related fixed-element Hyperion SMGs include Backburner (incendiary), Storm (shock), Wellness (slag), and Cooler (cryo).\n\nThe Weisenheimer only appears at green rarity or above.\n\nIn Borderlands: The Pre-Sequel it commonly uses the newer Hyperion materials and prefixes seen in Borderlands 2. An old-Hyperion variant also exists there, named the Ascerbic.\n\nIt is a world drop from any appropriate loot source.",
+  "notes": "Related fixed-element Hyperion SMGs include Backburner (incendiary), Storm (shock), Wellness (slag), and Cooler (cryo). The Weisenheimer only appears at green rarity or above. In Borderlands: The Pre-Sequel it commonly uses the newer Hyperion materials and prefixes seen in Borderlands 2. An old-Hyperion variant also exists there, named the Ascerbic. It is a world drop from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

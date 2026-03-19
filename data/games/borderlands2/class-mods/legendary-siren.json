@@ -11,7 +11,7 @@
   "name": "Legendary Siren",
   "slug": "legendary-siren",
   "type": "Siren",
-  "description": "Legendary Siren is a legendary Maliwan class mod for Maya in Borderlands 2. It can drop from any appropriate loot source, with boosted drop odds from Vermivorous the Invincible, Pete the Invincible, Voracidous the Invincible, Uranus, and the Ancient Dragons of Destruction.",
+  "description": "Legendary Maliwan class mod for Maya the Siren. Built around Ward, Accelerate, Mind's Eye, Foresight, Flicker. Boosts cooldown rate and gun damage, with extra movement speed during Phaselock.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -62,10 +62,10 @@
       ]
     }
   ],
-  "notes": "Extra Phaselock duration from Suspension and Thoughtlock also prolongs the mod's movement-speed bonus, as it lasts for the full time Phaselock is active.\n\nA separate Legendary Siren item can be unlocked via a SHiFT code from the Diamond Plate Loot Chest. The model features Lilith's Phasewalk emblem, and the red text nods to one of Lilith's critical-hit voice lines from Borderlands.",
+  "notes": "Extra Phaselock duration from Suspension and Thoughtlock prolongs the movement-speed bonus, as it lasts for the full time Phaselock is active. A separate Legendary Siren item can be unlocked via a SHiFT code from the Diamond Plate Loot Chest. The model features Lilith's Phasewalk emblem, and the red text nods to one of Lilith's critical-hit voice lines from the original Borderlands.",
   "special": {
-    "description": "Boosts cooldown rate and gun damage (up to +58% cooldown and +42% gun damage at max level).\n\nUnique effect: while Phaselock is active, Maya gains +45% movement speed.\n\nPossible skill bonuses (varies by roll): up to +5 Ward, +5 Accelerate, +5 Mind's Eye, +5 Foresight, and +5 Flicker.",
-    "title": "\"(giggles) I'm really good at this!\""
+    "description": "At max level: +58% action skill cooldown rate, +42% gun damage. While Phaselock is active, Maya gains +45% movement speed. Possible skill bonuses (varies by roll): up to +5 Ward, +5 Accelerate, +5 Mind's Eye, +5 Foresight, +5 Flicker.",
+    "title": "(giggles) I'm really good at this!"
   },
   "max": {
     "cooldown_rate_bonus": 58,

@@ -11,7 +11,7 @@
   "name": "Specialist",
   "slug": "specialist",
   "type": "Commando",
-  "description": "Specialist is an Epic Class Mod for Axton in Borderlands 2.",
+  "description": "Vladof class mod for Axton the Commando, built around Duty Calls, Ready, Forbearance.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -35,9 +35,9 @@
       ]
     }
   ],
-  "notes": "Drops randomly from any suitable loot source.",
+  "notes": "Drops randomly from any suitable loot source. The item card may show incorrect values.",
   "special": {
-    "description": "At maximum level, grants +57.5% SMG maximum accuracy and -57.5% SMG spread.\n\nNote: the item card may show incorrect values."
+    "description": "At maximum level, grants +57.5% SMG maximum accuracy and -57.5% SMG spread."
   },
   "max": {
     "accuracy": 37.7,

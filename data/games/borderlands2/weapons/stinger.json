@@ -11,7 +11,7 @@
   "name": "Stinger",
   "slug": "stinger",
   "type": "Pistol",
-  "description": "Stinger is a Vladof Seraph pistol from the Tiny Tina's Assault on Dragon Keep add-on.\n\nAny round that misses will rebound once, travelling sideways much like Gaige's Close Enough. This can be devastating in tight spaces and helps when fighting enemies with awkward or multiple critical points, such as Threshers and Loaders. Outside the ricochet gimmick it handles like a comparable purple Anarchist, favouring close-range bursts. Its very high fire rate chews through ammo fast, and each shot hits for relatively low damage.",
+  "description": "Stinger is a Vladof Seraph pistol from the Tiny Tina's Assault on Dragon Keep add-on. Any round that misses will rebound once, travelling sideways much like Gaige's Close Enough. This can be devastating in tight spaces and helps when fighting enemies with awkward or multiple critical points, such as Threshers and Loaders. Outside the ricochet gimmick it handles like a comparable purple Anarchist, favouring close-range bursts. Its very high fire rate chews through ammo fast, and each shot hits for relatively low damage.",
   "manufacturers": [
     "Vladof"
   ],
@@ -239,7 +239,7 @@
   ],
   "special": {
     "title": "It's like butter, baby.",
-    "description": "-150 percent projectile speed.\nProjectiles ricochet once.\n\nIts like butter, baby. Fires bullets that rebound."
+    "description": "-150 percent projectile speed. Projectiles ricochet once. Its like butter, baby. Fires bullets that rebound."
   },
   "notes": "",
   "max": {

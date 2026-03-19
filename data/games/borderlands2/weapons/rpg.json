@@ -10,7 +10,7 @@
   "name": "RPG",
   "slug": "rpg",
   "type": "Launcher",
-  "description": "Rocket behaviour depends on the barrel.\n\nTediore: no extra effect.\n\nBandit/Scav: higher damage but worse accuracy.",
+  "description": "Rocket behaviour depends on the barrel. Tediore: no extra effect. Bandit/Scav: higher damage but worse accuracy.",
   "manufacturers": [
     "Vladof"
   ],
@@ -25,7 +25,7 @@
     "Slag",
     "Explosive"
   ],
-  "notes": "Every third shot is free and does not spend ammo. The counter persists through reloads, so reloading early does not skip the next free rocket. This can also stop an automatic reload at empty if the next shot is treated as a free one.\n\nAll blue and purple RPGs share the same material.\n\nDrops randomly from appropriate loot sources.",
+  "notes": "Every third shot is free and does not spend ammo. The counter persists through reloads, so reloading early does not skip the next free rocket. This can also stop an automatic reload at empty if the next shot is treated as a free one. All blue and purple RPGs share the same material. Drops randomly from appropriate loot sources.",
   "sources": [
     {
       "name": "World Drop",

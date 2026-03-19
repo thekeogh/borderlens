@@ -10,7 +10,7 @@
   "name": "Umbrage",
   "slug": "umbrage",
   "type": "Pistol",
-  "description": "Fitted with a Vladof pistol barrel, the Umbrage fires at double the usual rate and comes with a larger magazine, but suffers reduced accuracy.\n\nIts shots also deal 80% extra splash damage, and this splash portion is increased by grenade damage bonuses.",
+  "description": "Fitted with a Vladof pistol barrel, the Umbrage fires at double the usual rate and comes with a larger magazine, but suffers reduced accuracy. Its shots also deal 80% extra splash damage, and this splash portion is increased by grenade damage bonuses.",
   "manufacturers": [
     "Maliwan"
   ],

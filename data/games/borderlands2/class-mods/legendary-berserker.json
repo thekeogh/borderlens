@@ -11,7 +11,7 @@
   "name": "Legendary Berserker",
   "slug": "legendary-berserker",
   "type": "Gunzerker",
-  "description": "Legendary Berserker is a legendary Bandit class mod for Salvador (Gunzerker) in Borderlands 2. It can world drop from any appropriate loot source, with boosted drop odds from Vermivorous and Voracidous the Invincible.",
+  "description": "Legendary Bandit class mod for Salvador the Gunzerker. Built around Locked and Loaded, Quick Draw, Filled to the Brim, Hard to Kill, Incite. Boosts cooldown rate, fire rate, and melee damage, plus movement speed while Gunzerking.",
   "manufacturers": [
     "Bandit"
   ],
@@ -62,10 +62,10 @@
       ]
     }
   ],
-  "notes": "During Gunzerking, the fire rate bonus only affects the right-hand weapon.\n\nDo not confuse this with the Legendary Gunzerker class mod.\n\nA SHiFT reward version exists via the Diamond Plate Loot Chest. The red flavour text references one of Brick's kill quotes.\n\nThe item card may show an incorrect fire rate value.",
+  "notes": "During Gunzerking, the fire rate bonus only applies to the right-hand weapon. A SHiFT reward version exists via the Diamond Plate Loot Chest. The red flavour text references one of Brick's kill quotes. The item card may show an incorrect fire rate value.",
   "special": {
-    "description": "Max-level bonuses: +57.5% cooldown rate, +50.6% fire rate (right hand only while Gunzerking), and +52.25% melee damage.\n\nUnique effect: while Gunzerking, Salvador also gains +20% movement speed.",
-    "title": "\"Never look at my fist.\""
+    "description": "At max level: +57.5% cooldown rate, +50.6% fire rate, +52.25% melee damage. While Gunzerking, Salvador gains +20% movement speed.",
+    "title": "Never look at my fist."
   },
   "max": {
     "cooldown_rate_bonus": 58,

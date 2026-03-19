@@ -257,7 +257,7 @@
     "title": "The Horde will always return!",
     "description": "Consumes 2 ammo per shot. Fires one large rocket that detonates on impact for [weapon element] launcher damage. While in flight, it sheds multiple smaller rockets at random angles; these arc downward and explode on impact for 60% explosive launcher damage."
   },
-  "notes": "If the main rocket is elemental, only that projectile applies the element; the spawned rockets are always explosive.\nThe item card jokes about reduced ammo use, but it does not get the usual Vladof free-shot behaviour and instead spends 2 ammo per trigger pull.\nA Loot Hunt hotfix (Day 27) increased damage and reload speed for the Mongol and other Vladof launchers.",
+  "notes": "If the main rocket is elemental, only that projectile applies the element; the spawned rockets are always explosive. The item card jokes about reduced ammo use, but it does not get the usual Vladof free-shot behaviour and instead spends 2 ammo per trigger pull. A Loot Hunt hotfix (Day 27) increased damage and reload speed for the Mongol and other Vladof launchers.",
   "max": {
     "accuracy": 80.2,
     "damage": 15139502,

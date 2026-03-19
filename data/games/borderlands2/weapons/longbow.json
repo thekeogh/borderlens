@@ -11,7 +11,7 @@
   "name": "Longbow",
   "slug": "longbow",
   "type": "Sniper",
-  "description": "Longbow is a Hyperion legendary sniper rifle from the Borderlands 2 base game that always comes without a scope, suiting close to mid-range fights.\n\nIt fires slow, arrow-like projectiles that travel in a gentle arc, so you must lead targets and aim high at distance. With aim assist enabled, snap targeting lines the arc up towards a typical humanoid head. It is exceptionally accurate, and continuous fire offers little practical accuracy gain.",
+  "description": "Longbow is a Hyperion legendary sniper rifle from the Borderlands 2 base game that always comes without a scope, suiting close to mid-range fights. It fires slow, arrow-like projectiles that travel in a gentle arc, so you must lead targets and aim high at distance. With aim assist enabled, snap targeting lines the arc up towards a typical humanoid head. It is exceptionally accurate, and continuous fire offers little practical accuracy gain.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -158,7 +158,7 @@
     "title": "Ceci n'est pas une sniper rifle!",
     "description": "Always incendiary. Fires slow, arcing arrow projectiles for 1 ammo per shot. +150% critical hit damage. Cannot spawn with a scope."
   },
-  "notes": "Shown as legendary, but internally treated as an E-tech weapon and is grouped with E-tech items in inventories.\nCan roll with no accessory, allowing the Thermogenic prefix.\nNever has a scope, so it cannot roll scope-only accessories such as Operational (fire rate), Auditing (damage) or Resource (mag size).\nOriginally dropped by Mister Boney Pants Guy during the Borderlands 2 Loot Hunt (Week 1, Day 6).\nLater hotfixed to raise ignite chance by 4.5% and damage by 20%; these changes were subsequently patched in permanently.",
+  "notes": "Shown as legendary, but internally treated as an E-tech weapon and is grouped with E-tech items in inventories. Can roll with no accessory, allowing the Thermogenic prefix. Never has a scope, so it cannot roll scope-only accessories such as Operational (fire rate), Auditing (damage) or Resource (mag size). Originally dropped by Mister Boney Pants Guy during the Borderlands 2 Loot Hunt (Week 1, Day 6). Later hotfixed to raise ignite chance by 4.5% and damage by 20%; these changes were subsequently patched in permanently.",
   "max": {
     "accuracy": 98.3,
     "damage": 4266464,

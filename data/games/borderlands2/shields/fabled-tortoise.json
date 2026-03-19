@@ -38,9 +38,9 @@
     "None",
     "Explosive"
   ],
-  "notes": "Very large capacity boosts may be limited by a hidden cap.\n\nCan roll a Torgue capacitor for explosive resistance, but cannot roll elemental immunity.\n\nAt very high levels it can reduce max health to 1, letting chip damage bypass health-gate and trigger FFYL.\n\nStrong on Gaige due to high capacity and frequent restores; Sharing is Caring can pass the capacity to Deathtrap.\n\nNegative-capacity setups can keep the speed bonus, but effects requiring true 0 charge do not persist while below 0.\n\nRed text references The Tortoise and the Hare.",
+  "notes": "Very large capacity boosts may be limited by a hidden cap. Can roll a Torgue capacitor for explosive resistance, but cannot roll elemental immunity. At very high levels it can reduce max health to 1, letting chip damage bypass health-gate and trigger FFYL. Strong on Gaige due to high capacity and frequent restores; Sharing is Caring can pass the capacity to Deathtrap. Negative-capacity setups can keep the speed bonus, but effects requiring true 0 charge do not persist while below 0. Red text references The Tortoise and the Hare.",
   "special": {
-    "description": "While shielded: 80% slower movement.\nWhen fully depleted: 50% faster movement.\n\nMassive shield capacity, reduced max health.",
+    "description": "While shielded: 80% slower movement. When fully depleted: 50% faster movement. Massive shield capacity, reduced max health.",
     "title": "Win by a hare."
   },
   "max": {

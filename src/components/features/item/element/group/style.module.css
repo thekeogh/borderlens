@@ -3,9 +3,34 @@
   display: flex;
 
   &.md {
+    --spacing: .25rem;
+    padding-right: var(--spacing);
+    padding-bottom: var(--spacing);
+    gap: var(--spacing);
+  }
+  &.lg {
     --spacing: var(--spacing-xs);
     padding-right: var(--spacing);
     padding-bottom: var(--spacing);
     gap: var(--spacing);
+  }
+}
+
+/*
+|------------------------------------------------------------------------------
+| Responsive
+|------------------------------------------------------------------------------
+*/
+
+/*
+ * Large phones and tablets portrait
+ *
+ * Covers iPad portrait, large Android phones, iPhone Plus/Pro Max
+ */
+@media (max-width: 768px) {
+  .root {
+    &.lg {
+      --spacing: .25rem;
+    }
   }
 }

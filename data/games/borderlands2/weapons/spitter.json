@@ -10,7 +10,7 @@
   "name": "Spitter",
   "slug": "spitter",
   "type": "Assault Rifle",
-  "description": "Instead of the usual Vladof spin-up, the Spitter's rate of fire fluctuates while you hold the trigger, speeding up and slowing down unpredictably. It can also occasionally double-tap, firing two rounds in rapid succession.\n\nAccuracy is poor, but recoil is low. Spitters only appear at green rarity or above.",
+  "description": "Instead of the usual Vladof spin-up, the Spitter's rate of fire fluctuates while you hold the trigger, speeding up and slowing down unpredictably. It can also occasionally double-tap, firing two rounds in rapid succession. Accuracy is poor, but recoil is low. Spitters only appear at green rarity or above.",
   "manufacturers": [
     "Torgue"
   ],

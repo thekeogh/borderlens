@@ -21,7 +21,7 @@
   "elements": [
     "Slag"
   ],
-  "notes": "Drops randomly from any appropriate loot source.\nOnly appears at green rarity or above.\nRelated Bandit-made variants in the same fixed-element set include Barfy (corrosive), Burny (incendiary), and Shoky (shock).",
+  "notes": "Drops randomly from any appropriate loot source. Only appears at green rarity or above. Related Bandit-made variants in the same fixed-element set include Barfy (corrosive), Burny (incendiary), and Shoky (shock).",
   "sources": [
     {
       "name": "World Drop",

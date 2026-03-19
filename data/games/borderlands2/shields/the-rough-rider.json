@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "Jakobs only shield.\n\nUses a Turtle-style shield body. Although shown as 0 capacity, some UI situations treat it as having 100 maximum shield for display checks, but it still cannot recharge.\n\nFlat shield-capacity increases can cause it to function like a normal shield. Fixed capacity reductions can also interfere with the always-depleted behaviour.",
+  "notes": "Jakobs only shield. Uses a Turtle-style shield body. Although shown as 0 capacity, some UI situations treat it as having 100 maximum shield for display checks, but it still cannot recharge. Flat shield-capacity increases can cause it to function like a normal shield. Fixed capacity reductions can also interfere with the always-depleted behaviour.",
   "special": {
-    "description": "A permanently empty shield that increases maximum health and reduces incoming damage by 20%. Keeps shield-depleted skills active at all times.\n\nStrong with Axton (Crisis Management), Maya (Fleet), Salvador (Out of Bubblegum, Inconceivable), Zer0 (Fearless), and Krieg (Empty the Rage, Embrace the Pain).\n\n\"It takes more than that to kill a Bull Moose.\"",
+    "description": "A permanently empty shield that increases maximum health and reduces incoming damage by 20%. Keeps shield-depleted skills active at all times. Strong with Axton (Crisis Management), Maya (Fleet), Salvador (Out of Bubblegum, Inconceivable), Zer0 (Fearless), and Krieg (Empty the Rage, Embrace the Pain). \"It takes more than that to kill a Bull Moose.\"",
     "title": "It takes more than that to kill a Bull Moose."
   },
   "elements": [

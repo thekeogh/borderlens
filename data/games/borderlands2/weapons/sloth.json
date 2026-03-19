@@ -11,7 +11,7 @@
   "name": "Sloth",
   "slug": "sloth",
   "type": "Sniper",
-  "description": "Sloth is a rare DAHL sniper rifle from the Borderlands 2 base game.\n\nIt hits harder than most snipers at the same level, but its rounds travel slowly, so you will need to lead moving targets, especially airborne enemies. Characters who boost projectile speed can offset this drawback and further increase its already high damage output.",
+  "description": "Sloth is a rare DAHL sniper rifle from the Borderlands 2 base game. It hits harder than most snipers at the same level, but its rounds travel slowly, so you will need to lead moving targets, especially airborne enemies. Characters who boost projectile speed can offset this drawback and further increase its already high damage output.",
   "manufacturers": [
     "Dahl"
   ],
@@ -250,7 +250,7 @@
     }
   ],
   "special": {
-    "description": "Fires unusually slow projectiles.\n\nDAHL sniper: bursts while aiming down sights. Non-Jakobs snipers gain increased critical hit damage.\n\nUnique effect: around +70 percent weapon damage, traded for reduced bullet speed.",
+    "description": "Fires unusually slow projectiles. DAHL sniper: bursts while aiming down sights. Non-Jakobs snipers gain increased critical hit damage. Unique effect: around +70 percent weapon damage, traded for reduced bullet speed.",
     "title": "Yeah, booze'll do that to ya..."
   },
   "notes": "",

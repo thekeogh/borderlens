@@ -10,7 +10,7 @@
   "name": "Quad",
   "slug": "quad",
   "type": "Shotgun",
-  "description": "Quad shotguns burn four ammo per trigger pull and suffer poor accuracy, but they throw out a huge number of pellets. They shine up close, where spread matters less and the burst damage is brutal. At longer ranges the heavy ammo use quickly becomes inefficient.\n\nThey also pair well with effects that key off the first or last round in a magazine, thanks to their strong per-shot damage, rapid firing, and the way their low effective mag size can make those triggers happen more often.",
+  "description": "Quad shotguns burn four ammo per trigger pull and suffer poor accuracy, but they throw out a huge number of pellets. They shine up close, where spread matters less and the burst damage is brutal. At longer ranges the heavy ammo use quickly becomes inefficient. They also pair well with effects that key off the first or last round in a magazine, thanks to their strong per-shot damage, rapid firing, and the way their low effective mag size can make those triggers happen more often.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -20,7 +20,7 @@
     "Rare",
     "Epic"
   ],
-  "notes": "Only appears at blue rarity or higher.\n\nCan drop randomly from any appropriate loot source.",
+  "notes": "Only appears at blue rarity or higher. Can drop randomly from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

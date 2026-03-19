@@ -11,7 +11,7 @@
   "name": "Storm",
   "slug": "storm",
   "type": "Sniper",
-  "description": "Storm is a Pearlescent Maliwan sniper rifle added in the Borderlands 2 Ultimate Upgrade Pack.\n\nIt uses a fixed-element Maliwan barrel, giving it unusually strong elemental chance and damage over time for its type. These bonuses can be pushed further with a Maliwan grip.\n\nEven if the base rarity seems modest, the high proc rate and status damage can carry you effectively until you replace it with a rarer option.",
+  "description": "Storm is a Pearlescent Maliwan sniper rifle added in the Borderlands 2 Ultimate Upgrade Pack. It uses a fixed-element Maliwan barrel, giving it unusually strong elemental chance and damage over time for its type. These bonuses can be pushed further with a Maliwan grip. Even if the base rarity seems modest, the high proc rate and status damage can carry you effectively until you replace it with a rarer option.",
   "manufacturers": [
     "Hyperion",
     "Maliwan"
@@ -231,9 +231,9 @@
     }
   ],
   "special": {
-    "description": "Shots detonate on impact to produce a shock nova that deals shock gun damage.\n\nEach hit also creates 5 Tesla orbs around the impact point. Orbs persist for 0.85 seconds and zap nearby enemies 3 times, each zap dealing 10% shock grenade damage.\n\nSniper bonus: all manufacturers except Jakobs gain +100% critical hit damage (scales)."
+    "description": "Shots detonate on impact to produce a shock nova that deals shock gun damage. Each hit also creates 5 Tesla orbs around the impact point. Orbs persist for 0.85 seconds and zap nearby enemies 3 times, each zap dealing 10% shock grenade damage. Sniper bonus: all manufacturers except Jakobs gain +100% critical hit damage (scales)."
   },
-  "notes": "Random world drop from any appropriate loot source.\nSpawns at green rarity or higher.\nBorderlands: The Pre-Sequel versions commonly use the newer Hyperion materials and prefixes.\nA related Pre-Sequel variant exists called the Brainstorm, produced by the older Hyperion.\nSimilar fixed-element Hyperion SMGs include Backburner (incendiary), Weisenheimer (corrosive), Wellness (slag), and Cooler (cryo).",
+  "notes": "Random world drop from any appropriate loot source. Spawns at green rarity or higher. Borderlands: The Pre-Sequel versions commonly use the newer Hyperion materials and prefixes. A related Pre-Sequel variant exists called the Brainstorm, produced by the older Hyperion. Similar fixed-element Hyperion SMGs include Backburner (incendiary), Weisenheimer (corrosive), Wellness (slag), and Cooler (cryo).",
   "max": {
     "accuracy": 96.8,
     "damage": 2830877,

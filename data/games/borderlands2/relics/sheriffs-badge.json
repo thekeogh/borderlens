@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "A stronger counterpart to the Deputy's Badge, trading shotgun bonuses for pistol boosts while adding extra survivability. It is most effective when only one player equips it, as stacking bonuses come from teammates wearing Deputy's Badges rather than additional Sheriff's Badges.\n\nIts pistol bonuses also apply to Krieg's thrown buzz axe.\n\nNotably, it is the only purple-rarity relic in Borderlands 2 with red flavour text.",
+  "notes": "A stronger counterpart to the Deputy's Badge, trading shotgun bonuses for pistol boosts while adding extra survivability. It is most effective when only one player equips it, as stacking bonuses come from teammates wearing Deputy's Badges rather than additional Sheriff's Badges. Its pistol bonuses also apply to Krieg's thrown buzz axe. Notably, it is the only purple-rarity relic in Borderlands 2 with red flavour text.",
   "special": {
-    "description": "Boosts pistol fire rate and pistol damage, and increases Fight For Your Life bleed-out time.\n\nParty bonus: for each Deputy's Badge equipped by other players, all players gain +15% maximum health and +15% Fight For Your Life time.",
+    "description": "Boosts pistol fire rate and pistol damage, and increases Fight For Your Life bleed-out time. Party bonus: for each Deputy's Badge equipped by other players, all players gain +15% maximum health and +15% Fight For Your Life time.",
     "title": "Take turns and play nice."
   },
   "max": {

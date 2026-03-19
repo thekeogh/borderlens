@@ -11,7 +11,7 @@
   "name": "Unforgiven",
   "slug": "unforgiven",
   "type": "Pistol",
-  "description": "Unforgiven is a Pearlescent Jakobs pistol from Borderlands 2 Ultimate Upgrade Pack.\n\nA true hand-cannon, it delivers very high damage, exceptional accuracy, and the strongest critical hit output of any pistol. The trade-off is a notably slow fire rate for a Jakobs weapon, so it performs best at mid to long range where you can line up precision shots. Ideal for consistently hitting weak spots.",
+  "description": "Unforgiven is a Pearlescent Jakobs pistol from Borderlands 2 Ultimate Upgrade Pack. A true hand-cannon, it delivers very high damage, exceptional accuracy, and the strongest critical hit output of any pistol. The trade-off is a notably slow fire rate for a Jakobs weapon, so it performs best at mid to long range where you can line up precision shots. Ideal for consistently hitting weak spots.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -234,7 +234,7 @@
   ],
   "special": {
     "title": "It's a helluva thing...",
-    "description": "Grants +75% critical hit damage that scales with level and is multiplicative. This stacks on top of the standard Jakobs pistol bonus (+50% crit damage, additive).\n\nEffect profile: higher damage and accuracy, slower fire rate, increased recoil, and longer accuracy recovery."
+    "description": "Grants +75% critical hit damage that scales with level and is multiplicative. This stacks on top of the standard Jakobs pistol bonus (+50% crit damage, additive). Effect profile: higher damage and accuracy, slower fire rate, increased recoil, and longer accuracy recovery."
   },
   "notes": "Its combined critical hit bonuses work out to about 4.375x damage on crits. For comparison, a Jakobs sniper rifle typically reaches around 5.2x on critical hits.",
   "elements": [
@@ -249,6 +249,6 @@
     "reload_speed": 1.7
   },
   "abilities": [
-    "Fires as fastas youcanpullthe trigger. Bak not too fast JAKOBRS bats SIIB OIG Z"
+    "Fires as fast as you can pull the trigger."
   ]
 }

@@ -11,7 +11,7 @@
   "name": "Monk",
   "slug": "monk",
   "type": "Gunzerker",
-  "description": "Monk is a common Gunzerker class mod made by Vladof and introduced in Tiny Tina's Assault on Dragon Keep. It is found only within the Dragon Keep DLC area, typically from treasure chests and DLC enemies.",
+  "description": "Bandit class mod for Krieg the Psycho, built around Money Shot, Asbestos, Sexual Tyrannosaurus. Focused on melee damage.",
   "manufacturers": [
     "Vladof"
   ],
@@ -49,9 +49,9 @@
       ]
     }
   ],
-  "notes": "Monk variants with the Good prefix once applied the wrong reload modifier, increasing reload time instead of improving it. This has since been corrected.\n\nThe name references the tabletop Monk archetype, known for endurance and rapid multi-hit offence. In gameplay terms, the mod supports Salvador's tougher Brawn-focused style and complements the sustained aggression of Gunzerking.",
+  "notes": "Monk variants with the Good prefix once applied the wrong reload modifier, increasing reload time instead of improving it. This has since been corrected. The name references the tabletop Monk archetype, known for endurance and rapid multi-hit offence. In gameplay terms, the mod supports Salvador's tougher Brawn-focused style and complements the sustained aggression of Gunzerking. The item card may show incorrect fire rate, reload speed, and accuracy values.",
   "special": {
-    "description": "At max level, this mod rolls one bonus from each of two pools.\n\nPool 1: Neutral +58.5% magazine size, Chaotic +58.5% fire rate, Lawful +58.5% accuracy.\n\nPool 2: Neutral +58.5% magazine size, Evil +58.5% critical damage, Good +58.5% reload speed.\n\nTrue Neutral grants 2x magazine size for +93.6% magazine size. The item card may show incorrect fire rate, reload speed, and accuracy values."
+    "description": "At max level, this mod rolls one bonus from each of two pools. Pool 1: Neutral +58.5% magazine size, Chaotic +58.5% fire rate, Lawful +58.5% accuracy. Pool 2: Neutral +58.5% magazine size, Evil +58.5% critical damage, Good +58.5% reload speed. True Neutral grants 2x magazine size for +93.6% magazine size."
   },
   "max": {
     "fire_rate": 377,

@@ -41,7 +41,7 @@
     "Corrosive",
     "Explosive"
   ],
-  "notes": "Strong versus Pete the Invincible, as his sustained damage-over-time keeps proccing booster drops, easing pressure on the wearer and leaving more boosters for teammates.\n\nIt can spawn with hidden capacitor parts: Maliwan versions grant resistance to shock, corrosive, or incendiary damage, while a Torgue capacitor reduces explosive damage. These do not add a visible prefix.\n\nDespite being made by Torgue, it uses the visual model of a purple Dahl shield.",
+  "notes": "Strong versus Pete the Invincible, as his sustained damage-over-time keeps proccing booster drops, easing pressure on the wearer and leaving more boosters for teammates. It can spawn with hidden capacitor parts: Maliwan versions grant resistance to shock, corrosive, or incendiary damage, while a Torgue capacitor reduces explosive damage. These do not add a visible prefix. Despite being made by Torgue, it uses the visual model of a purple Dahl shield.",
   "special": {
     "description": "Picking up a Shield Booster restores 1 grenade and 1 rocket launcher round.",
     "title": "For all your big boom blasting needs!"

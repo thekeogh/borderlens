@@ -62,9 +62,9 @@
     "Corrosive",
     "Explosive"
   ],
-  "notes": "Common drops include Hunter Hellquist and Treants.\n\nAmp applies to vehicle weapons. Vehicle damage does not drain the driver's shield, so the amp can stay active while driving.\n\nCan roll resistance prefixes (Grounded, Inflammable, Alkaline) or Blast Proof.\n\nFixed parts: always a Torgue body; cannot roll Dahl or Hyperion battery or capacitor.\n\nBalance changes reduced amp and recharge rate, increased delay, split amp across listed projectiles, and stopped most Tediore reload throws from being amped.",
+  "notes": "Common drops include Hunter Hellquist and Treants. Amp applies to vehicle weapons. Vehicle damage does not drain the driver's shield, so the amp can stay active while driving. Can roll resistance prefixes (Grounded, Inflammable, Alkaline) or Blast Proof. Fixed parts: always a Torgue body; cannot roll Dahl or Hyperion battery or capacitor. Balance changes reduced amp and recharge rate, increased delay, split amp across listed projectiles, and stopped most Tediore reload throws from being amped.",
   "special": {
-    "description": "While full, shots gain a huge amp damage bonus with no shield drain.\n\nListed multi-pellet guns (x2, x3, etc) split the amp between projectiles; unlisted extra projectiles can each get the full bonus.\n\nVery high amp, drastically reduced capacity, increased recharge delay, improved recharge rate.",
+    "description": "While full, shots gain a huge amp damage bonus with no shield drain. Listed multi-pellet guns (x2, x3, etc) split the amp between projectiles; unlisted extra projectiles can each get the full bonus. Very high amp, drastically reduced capacity, increased recharge delay, improved recharge rate.",
     "title": "Float like a butterfly..."
   },
   "max": {

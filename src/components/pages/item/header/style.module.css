@@ -1,0 +1,160 @@
+.root {
+  --min-height: 390px;
+  --padding: var(--spacing-lg);
+  min-height: var(--min-height);
+  padding: var(--padding);
+  background: var(--color-zinc-1000) linear-gradient(to bottom right, rgb(24 24 27 / .9) , rgb(0 0 0 / .95) , rgb(24 24 27 / .9));
+  border: solid 2px #f9731680;
+  position: relative;
+  gap: var(--padding);
+  align-items: flex-start;
+  display: flex;
+  > .corner {
+    width: 5rem;
+    height: 5rem;
+    border: solid 4px var(--color-orange-500);
+    position: absolute;
+    &:nth-child(1), &:nth-child(2) {
+      border-bottom-width: 0;
+      top: -1px
+    }
+    &:nth-child(1) {
+      border-right-width: 0;
+      left: -1px;
+    }
+    &:nth-child(2) {
+      border-left-width: 0;
+      right: -1px
+    }
+    &:nth-child(3), &:nth-child(4) {
+      border-top-width: 0;
+      bottom: -1px
+    }
+    &:nth-child(3) {
+      border-right-width: 0;
+      left: -1px;
+    }
+    &:nth-child(4) {
+      border-left-width: 0;
+      right: -1px
+    }
+  }
+  > .left, > .right {
+    flex: 1 0 0;
+  }
+
+  .left {
+    .img {
+      height: var(--min-height);
+      position: relative;
+      .elements {
+        right: 0;
+        bottom: 0;
+        position: absolute;
+        z-index: 1
+      }
+    }
+    .rarities {
+      padding-top: var(--padding);
+    }
+  }
+
+  .right {
+    .game {
+      margin-bottom: var(--spacing-xs);
+    }
+    h1 {
+      margin-bottom: var(--spacing-sm);
+      background: linear-gradient(to right, var(--color-orange-300) , #f97316 , #ef4444);
+      background-clip: text;
+      color: transparent;
+      font-size: 4.375rem;
+      font-weight: var(--font-weight-bolder);
+      line-height: 1;
+    }
+    .meta {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      gap: var(--spacing-sm);
+      align-items: center;
+      display: flex;
+      li {
+        padding: .625rem 1rem;
+        border-style: solid;
+        border-width: 1px;
+        font-size: var(--font-size-sm);
+        font-weight: var(--font-weight-bold);
+        text-transform: uppercase;
+        &:first-child {
+          background: var(--color-zinc-700);
+          border-color: var(--color-zinc-500);
+        }
+        &:last-child {
+          background: var(--color-orange-500);
+          border-color: var(--color-orange-300);
+        }
+      }
+    }
+    aside {
+      margin-top: var(--spacing-md);
+      padding: var(--spacing-md);
+      background: #450a0acc linear-gradient(to right, rgb(220 38 38 / .2) , transparent);
+      border: solid 2px #ef4444;
+      > div {
+        margin-bottom: var(--spacing-sm);
+        color: #f97171;
+        font-size: var(--font-size-sm);
+        font-weight: var(--font-weight-bold);
+        line-height: 1rem;
+        text-transform: uppercase;
+        letter-spacing: .1em;
+        gap: var(--spacing-xs);
+        align-items: center;
+        display: flex;
+        > .icon {
+          font-size: 24px
+        }
+      }
+      > strong {
+        margin-bottom: var(--spacing-xs);
+        color: #fca5a5;
+        font-size: 1.25rem;
+        font-weight: var(--font-weight-bolder);
+        line-height: 1.75rem;
+        display: block;
+      }
+      > p {
+        font-size: vaR(--font-size-sm);
+        line-height: 1.45;
+      }
+    }
+  }
+
+}
+
+/*
+|------------------------------------------------------------------------------
+| Responsive
+|------------------------------------------------------------------------------
+*/
+
+/*
+ * Large phones and tablets portrait
+ *
+ * Covers iPad portrait, large Android phones, iPhone Plus/Pro Max
+ */
+@media (max-width: 768px) {
+  .root {
+    --min-height: 260px;
+    --padding: var(--spacing-sm);
+    min-height: auto;
+    align-items: normal;
+    flex-direction: column;
+    .right {
+      h1 {
+        font-size: 3.125rem;
+      }
+    }
+  }
+}

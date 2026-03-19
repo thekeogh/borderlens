@@ -253,7 +253,7 @@
   ],
   "special": {
     "title": "Shoulda stopped at one.",
-    "description": "+20 percent critical hit damage (multiplicative).\n\nParty bonus: for each Veritas pistol or Aequitas shield equipped across the group, Fight For Your Life duration is increased by 10 percent."
+    "description": "+20 percent critical hit damage (multiplicative). Party bonus: for each Veritas pistol or Aequitas shield equipped across the group, Fight For Your Life duration is increased by 10 percent."
   },
   "notes": "",
   "max": {

@@ -10,7 +10,7 @@
   "name": "Engineer",
   "slug": "engineer",
   "type": "Commando",
-  "description": "Engineer is a common (white) Commando class mod made by Dahl. It can drop at random from any appropriate loot source.",
+  "description": "Common Dahl class mod for Axton the Commando, centred on Sentry, Battlefront, and Resourceful. Dropped randomly from any appropriate loot source.",
   "manufacturers": [
     "Dahl"
   ],

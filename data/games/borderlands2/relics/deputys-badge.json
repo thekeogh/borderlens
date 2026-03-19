@@ -29,7 +29,7 @@
   ],
   "notes": "Its flavour line references the chorus of Bob Marley's I Shot the Sheriff: \"I shot the sheriff, but I did not shoot the deputy.\"",
   "special": {
-    "description": "Boosts shotgun damage and reload speed.\n\nWhile equipped, each Deputy's Badge worn by anyone in the party adds +10% Fight For Your Life duration for all team members (stacks per equipped badge).",
+    "description": "Boosts shotgun damage and reload speed. While equipped, each Deputy's Badge worn by anyone in the party adds +10% Fight For Your Life duration for all team members (stacks per equipped badge).",
     "title": "Who the hell shot me?"
   },
   "max": {

@@ -228,9 +228,9 @@
   ],
   "special": {
     "title": "Name Dropper.",
-    "description": "Lobs a rocket in a curved path that erupts into a mushroom-cloud explosion.\n\nUnique effect: slower, parabolic rockets with higher damage, longer reloads, and increased ammo consumption."
+    "description": "Lobs a rocket in a curved path that erupts into a mushroom-cloud explosion. Unique effect: slower, parabolic rockets with higher damage, longer reloads, and increased ammo consumption."
   },
-  "notes": "A projectile speed (rocket velocity) part greatly extends its range, but makes it harder to drop shots over walls with the arc.\n\nProjectile speed boosts such as Maya's Accelerate or Zer0's Vel0city help a lot outside of point-blank fights. Extra projectile speed parts and a Maliwan exhaust further improve long-range usability.",
+  "notes": "A projectile speed (rocket velocity) part greatly extends its range, but makes it harder to drop shots over walls with the arc. Projectile speed boosts such as Maya's Accelerate or Zer0's Vel0city help a lot outside of point-blank fights. Extra projectile speed parts and a Maliwan exhaust further improve long-range usability.",
   "max": {
     "accuracy": 73.3,
     "damage": 51111380,

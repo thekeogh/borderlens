@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "A level 61 Very Rare (purple) Strength Relic can equal the stat boost of a level 50 Might of the Seraphs, but at the same level this relic provides stronger bonuses.\n\nThe tagline nods to the classic \"unstoppable force\" versus \"immovable object\" paradox.",
+  "notes": "A level 61 Very Rare (purple) Strength Relic can equal the stat boost of a level 50 Might of the Seraphs, but at the same level this relic provides stronger bonuses. The tagline nods to the classic \"unstoppable force\" versus \"immovable object\" paradox.",
   "special": {
-    "description": "Grants up to +51% melee damage and up to +51% cooldown rate for melee override skills.\n\nAffected overrides include: Hellfire Halitosis (Krieg) 15s to 9.9s, Scorn (Maya) 18s to 11.9s, Fistful of Hurt (Salvador) 15s to 9.9s.",
+    "description": "Grants up to +51% melee damage and up to +51% cooldown rate for melee override skills. Affected overrides include: Hellfire Halitosis (Krieg) 15s to 9.9s, Scorn (Maya) 18s to 11.9s, Fistful of Hurt (Salvador) 15s to 9.9s.",
     "title": "Become the unstoppable force!"
   },
   "max": {

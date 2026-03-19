@@ -37,9 +37,9 @@
       ]
     }
   ],
-  "notes": "Each time a child grenade passes the corrosive status effect to a fresh target, a rocket launcher firing sound plays.\n\nPandemic has fixed corrosive parts, including the Exterminator-style area payload. Storm Front and Fire Bee use the same payload, but their behaviour differs due to separate balancing.",
+  "notes": "Each time a child grenade passes the corrosive status effect to a fresh target, a rocket launcher firing sound plays. Pandemic has fixed corrosive parts, including the Exterminator-style area payload. Storm Front and Fire Bee use the same payload, but their behaviour differs due to separate balancing.",
   "special": {
-    "description": "Always corrosive. On detonation it releases a corrosive cloud, then spawns 3 homing child grenades. The child grenades stick to enemies and deal damage over time, then move on to new targets, repeatedly transferring corrosion until they expire.\n\nSpread the sickness.",
+    "description": "Always corrosive. On detonation it releases a corrosive cloud, then spawns 3 homing child grenades. The child grenades stick to enemies and deal damage over time, then move on to new targets, repeatedly transferring corrosion until they expire. Spread the sickness.",
     "title": "Spread the sickness."
   },
   "max": {

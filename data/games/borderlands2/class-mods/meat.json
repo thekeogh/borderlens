@@ -11,7 +11,7 @@
   "name": "Meat",
   "slug": "meat",
   "type": "Psycho",
-  "description": "Meat is an Epic class mod for Krieg in Borderlands 2, introduced with the Psycho Pack.",
+  "description": "Bandit class mod for Krieg the Psycho, built around Empty the Rage, Embrace the Pain, Salt the Wound. Focused on close-range melee and health bonuses.",
   "manufacturers": [
     "Bandit"
   ],
@@ -35,7 +35,7 @@
       ]
     }
   ],
-  "notes": "Meat and the rest of Krieg's class mods were added to the loot pool on 18 April 2013.",
+  "notes": "The unique model depicts a ribcage wrapped in bandages.",
   "special": {
     "description": "At max level, Meat provides: +52,368 health regeneration per second and +1.5s shield recharge delay."
   },

@@ -11,7 +11,7 @@
   "name": "Yellow Jacket",
   "slug": "yellow-jacket",
   "type": "SMG",
-  "description": "Yellow Jacket is a Hyperion E-Tech SMG from Sir Hammerlock's Big Game Hunt. It always deals shock damage, stripping shields extremely quickly, and its strong base damage keeps it effective versus many enemies. Its rounds start slow, speed up over distance, and fade from view, so it performs best at close to mid range rather than long range.\n\nElemental-focused builds such as Gaige (Little Big Trouble), Maya (Cataclysm) and Krieg (Hellborn) can get excellent value from it.",
+  "description": "Yellow Jacket is a Hyperion E-Tech SMG from Sir Hammerlock's Big Game Hunt. It always deals shock damage, stripping shields extremely quickly, and its strong base damage keeps it effective versus many enemies. Its rounds start slow, speed up over distance, and fade from view, so it performs best at close to mid range rather than long range. Elemental-focused builds such as Gaige (Little Big Trouble), Maya (Cataclysm) and Krieg (Hellborn) can get excellent value from it.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -191,9 +191,9 @@
   ],
   "special": {
     "title": "By the people. For the people.",
-    "description": "Always shock. Increased damage, magazine size and projectile size.\n\nFires slow-moving bolts that accelerate; after a set distance they become invisible. Each bolt ricochets off the first surface it hits, then detonates on impact to deal splash damage in a small radius.\n\nThe explosion deals 70% of weapon damage as splash and is increased by grenade damage bonuses. Hyperion trait: sustained fire improves accuracy and reduces recoil."
+    "description": "Always shock. Increased damage, magazine size and projectile size. Fires slow-moving bolts that accelerate; after a set distance they become invisible. Each bolt ricochets off the first surface it hits, then detonates on impact to deal splash damage in a small radius. The explosion deals 70% of weapon damage as splash and is increased by grenade damage bonuses. Hyperion trait: sustained fire improves accuracy and reduces recoil."
   },
-  "notes": "Only E-Tech SMG that can roll with a bladed attachment.\nRounds cause explosions that deal +70% weapon damage as splash, and this splash is boosted by grenade damage bonuses. This is 20% higher than typical E-Tech SMGs.",
+  "notes": "Only E-Tech SMG that can roll with a bladed attachment. Rounds cause explosions that deal +70% weapon damage as splash, and this splash is boosted by grenade damage bonuses. This is 20% higher than typical E-Tech SMGs.",
   "max": {
     "accuracy": 95.6,
     "damage": 954918,

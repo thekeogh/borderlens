@@ -11,7 +11,7 @@
   "name": "Legendary Soldier",
   "slug": "legendary-soldier",
   "type": "Commando",
-  "description": "Legendary Soldier is a Legendary Commando class mod made by Dahl. It can drop from most appropriate loot sources, with higher drop chances from Vermivorous the Invincible, Pete the Invincible, and Voracidous the Invincible.",
+  "description": "Legendary Torgue class mod for Axton the Commando, part of the Digistruct Peak content. Built around Sentry, Ready, Impact, Expertise, Healthy, Preparation. Boosts gun damage, fire rate, and action skill cooldown.",
   "manufacturers": [
     "Dahl"
   ],
@@ -63,10 +63,10 @@
       ]
     }
   ],
-  "notes": "A one-time Legendary Soldier can be taken from the Diamond Plate Loot Chest. The item card caption reads: \"The power of the Atlas Crimson Lance meets the accuracy of Dahl's special forces.\"\n\nIts flavour line references a Roland quote from Borderlands when opening a chest.",
+  "notes": "Requires the Digistruct Peak Challenge DLC.",
   "special": {
-    "description": "Max-level bonuses: +51% cooldown rate, +41.8% gun damage, +36.8% fire rate. The item card may show an incorrect fire rate value.\n\nRed text: \"It's like Christmas.\" This mod boosts 6 skills rather than the usual 5 for most legendary class mods.",
-    "title": "\"It's like Christmas.\""
+    "description": "At max level: boosts cooldown rate by 51%, gun damage by 41.8%, and fire rate by 36.8%.",
+    "title": "It's like Christmas."
   },
   "max": {
     "cooldown_rate_bonus": 51,

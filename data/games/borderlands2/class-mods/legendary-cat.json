@@ -11,7 +11,7 @@
   "name": "Legendary Cat",
   "slug": "legendary-cat",
   "type": "Siren",
-  "description": "Legendary class mod for Maya in Borderlands 2. Manufactured by Hyperion.",
+  "description": "Legendary Hyperion class mod for Maya the Siren, part of the Digistruct Peak content. Built around Accelerate, Mind's Eye, Wreck, Foresight, Reaper. Boosts SMG damage heavily at the cost of accuracy.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Added with Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. Unavailable without this DLC.",
+  "notes": "Requires the Digistruct Peak Challenge DLC.",
   "special": {
-    "description": "Boosts SMG damage heavily in exchange for reduced accuracy.\n\nAt max level: +142.5% SMG damage, -40% SMG accuracy.\n\nAcross all versions (up to): +141% SMG damage, -43% SMG accuracy.\n\nPossible skill bonuses (up to +5): Mind's Eye, Wreck, Accelerate, Reaper, Foresight.",
-    "title": "\"Rawr.\""
+    "description": "At max level: +142.5% SMG damage, -40% SMG accuracy. Possible skill bonuses (up to +5): Mind's Eye, Wreck, Accelerate, Reaper, Foresight.",
+    "title": "Rawr."
   },
   "max": {
     "gun_damage_bonus": 1437,

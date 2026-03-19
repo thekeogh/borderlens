@@ -208,9 +208,9 @@
   ],
   "special": {
     "title": "Ogres chew their food.",
-    "description": "Fires explosive rounds that deal grenade type splash damage.\n\n25 percent chance to fire an extra shot.\n\nEvery 6 seconds, has a 23 percent chance to grant a 6 second buff. The buff remains active after swapping weapons.\n\nWhile buffed: +20 percent damage, +50 percent fire rate, +100 percent reload speed, increases the extra shot chance to 75 percent total, and shots ricochet once after hitting a surface."
+    "description": "Fires explosive rounds that deal grenade type splash damage. 25 percent chance to fire an extra shot. Every 6 seconds, has a 23 percent chance to grant a 6 second buff. The buff remains active after swapping weapons. While buffed: +20 percent damage, +50 percent fire rate, +100 percent reload speed, increases the extra shot chance to 75 percent total, and shots ricochet once after hitting a surface."
   },
-  "notes": "Shares its name with an explosive assault rifle from the first Borderlands.\nIt does not appear in Torgue vending machines.\nPromoting Warlord Slog to King of Orcs does not raise its drop chance.\nGrenade damage bonuses increase its damage.\nSwitching weapons restarts the timer that checks for its self buff.",
+  "notes": "Shares its name with an explosive assault rifle from the first Borderlands. It does not appear in Torgue vending machines. Promoting Warlord Slog to King of Orcs does not raise its drop chance. Grenade damage bonuses increase its damage. Switching weapons restarts the timer that checks for its self buff.",
   "max": {
     "accuracy": 55.8,
     "damage": 1730127,

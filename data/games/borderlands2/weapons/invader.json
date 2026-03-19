@@ -260,7 +260,7 @@
   ],
   "special": {
     "title": "The Executioner has arrived.",
-    "description": "Unscoped: semi-auto.\n\nScoped: 5-round burst at greatly increased fire rate.\n\nTrait: accuracy improves and recoil drops during sustained fire.\n\nOther: reduced damage, larger magazine, faster reload."
+    "description": "Unscoped: semi-auto. Scoped: 5-round burst at greatly increased fire rate. Trait: accuracy improves and recoil drops during sustained fire. Other: reduced damage, larger magazine, faster reload."
   },
   "notes": "If you fire immediately after scoping, the first burst may not gain the reverse recoil accuracy bonus. Waiting about 2 seconds after scoping avoids this.",
   "max": {
@@ -277,4 +277,3 @@
     "Sustained fire and aiming down the sights increases accuracy."
   ]
 }
-

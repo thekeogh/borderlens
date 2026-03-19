@@ -11,7 +11,7 @@
   "name": "Devastator",
   "slug": "devastator",
   "type": "Gunzerker",
-  "description": "Devastator is an Epic class mod for Salvador in Borderlands 2.",
+  "description": "Epic Bandit class mod for Salvador the Gunzerker, built around Filled to the Brim, Just Got Real, and Divergent Likeness. Boosts team magazine size.",
   "manufacturers": [
     "Bandit"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At maximum level, Devastator increases team magazine size by 58%."
+    "description": "At max level, increases team magazine size by 58%."
   },
   "notes": "",
   "max": {

@@ -236,7 +236,7 @@
   ],
   "special": {
     "title": "In. Not unlike Errol.",
-    "description": "Consumes 3 rounds to fire 8 slow pellets. After a short distance, the spread opens into a horizontal, flapping bird pattern.\n\nWhile aiming: fires a 3-round burst (4 rounds with a Dahl stock)."
+    "description": "Consumes 3 rounds to fire 8 slow pellets. After a short distance, the spread opens into a horizontal, flapping bird pattern. While aiming: fires a 3-round burst (4 rounds with a Dahl stock)."
   },
   "notes": "Extra pellets are not shown on the card, and each pellet gets full amp bonus. Projectile speed can be boosted by the Flying prefix, Maya's Accelerate, or Zer0's Vel0city. More ammo-efficient per pellet than Lascaux; the fixed spread can help at range on large, slow targets, but lower fire rate hurts sustained DPS. Hidden parts can alter stats; prefix may override others. Dahl stock raises aimed burst from 3 to 4 rounds (24 to 32 pellets). On Gaige, Anarchy has little effect; Close Enough can merge ricochets, reducing output.",
   "max": {

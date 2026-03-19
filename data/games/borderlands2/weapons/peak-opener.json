@@ -11,7 +11,7 @@
   "name": "Peak Opener",
   "slug": "peak-opener",
   "type": "Assault Rifle",
-  "description": "Effervescent Torgue assault rifle from the Fight for Sanctuary DLC.\n\nFires high-damage shock rockets that shred shields and health quickly, with an extra fire rate boost while aiming. The splash and follow-up explosions can self-damage at close range. It also eats ammo extremely fast due to its rate of fire and heavy ammo cost per shot.",
+  "description": "Effervescent Torgue assault rifle from the Fight for Sanctuary DLC. Fires high-damage shock rockets that shred shields and health quickly, with an extra fire rate boost while aiming. The splash and follow-up explosions can self-damage at close range. It also eats ammo extremely fast due to its rate of fire and heavy ammo cost per shot.",
   "manufacturers": [
     "Torgue"
   ],
@@ -82,9 +82,9 @@
   ],
   "special": {
     "title": "Top-tier pick for optimal play.",
-    "description": "Shoots rockets that explode on impact for +200% shock rocket damage.\n\nEach impact spawns 3 child grenades that detonate after 1s, dealing explosive grenade damage.\n\nAiming grants +90% fire rate.\n\nIn Raid on Digistruct Peak, equipping the Easy Mode shield grants +100% damage.\n\nConsumes 4 ammo per shot."
+    "description": "Shoots rockets that explode on impact for +200% shock rocket damage. Each impact spawns 3 child grenades that detonate after 1s, dealing explosive grenade damage. Aiming grants +90% fire rate. In Raid on Digistruct Peak, equipping the Easy Mode shield grants +100% damage. Consumes 4 ammo per shot."
   },
-  "notes": "In Digistruct Peak, Easy Mode and/or Hard Carry increase its damage.\nAlways rolls with a Torgue stock; cannot spawn with a scope or accessory.\nOne of the few Torgue guns not using explosive elemental tech on its main projectile.\nShares its material with the KerBlaster.\nSimilar to the KerBlaster effect but stronger, with a shorter fuse on the spawned grenades.\nBug: With Salvador, if held in the left hand alongside Easy Mode, the damage bonus can apply to the right-hand weapon instead.",
+  "notes": "In Digistruct Peak, Easy Mode and/or Hard Carry increase its damage. Always rolls with a Torgue stock; cannot spawn with a scope or accessory. One of the few Torgue guns not using explosive elemental tech on its main projectile. Shares its material with the KerBlaster. Similar to the KerBlaster effect but stronger, with a shorter fuse on the spawned grenades. Bug: With Salvador, if held in the left hand alongside Easy Mode, the damage bonus can apply to the right-hand weapon instead.",
   "max": {
     "accuracy": 89.3,
     "damage": 2245071,

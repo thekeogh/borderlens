@@ -29,7 +29,7 @@
   ],
   "notes": "Its inscription echoes the closing lines of Shakespeare's Sonnet 30: \"But if the while I think on thee, dear friend, all losses are restored and sorrows end.\" When you receive it, Mr Miz mentions \"Fandir's grasp\"; the Striker shotgun references Fandir in its flavour text, but no verified connection has been found.",
   "special": {
-    "description": "Cosmetic aura scales with how many players have it equipped.\n\n0: No effect.\n\n1+: White dusty aura with pink hearts.\n\nMore equipped: Adds white and yellow stars. A pink flare may appear, and \"folk\" music can randomly start.\n\nTip: In Fight for Sanctuary, feed Butt Stallion with this relic equipped (after My Brittle Pony) to get the Unicornsplosion.",
+    "description": "Cosmetic aura scales with how many players have it equipped. 0: No effect. 1+: White dusty aura with pink hearts. More equipped: Adds white and yellow stars. A pink flare may appear, and \"folk\" music can randomly start. Tip: In Fight for Sanctuary, feed Butt Stallion with this relic equipped (after My Brittle Pony) to get the Unicornsplosion.",
     "title": "While I fight with thee, dear friend, all losses are restored and sorrows end."
   },
   "max": {

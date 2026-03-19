@@ -11,7 +11,7 @@
   "name": "Antifection",
   "slug": "antifection",
   "type": "Area of Effect",
-  "description": "Antifection is an Effervescent grenade mod made by Vladof, introduced in the Fight for Sanctuary add-on for Borderlands 2.\n\nIt always deals incendiary damage and covers a wide area, making it strongest when clearing packs of unshielded foes, especially human enemies and ground-based creatures.",
+  "description": "Antifection is an Effervescent grenade mod made by Vladof, introduced in the Fight for Sanctuary add-on for Borderlands 2. It always deals incendiary damage and covers a wide area, making it strongest when clearing packs of unshielded foes, especially human enemies and ground-based creatures.",
   "manufacturers": [
     "Vladof"
   ],
@@ -30,9 +30,9 @@
       ]
     }
   ],
-  "notes": "Its behaviour is comparable to the Fire Bee. A second, unused variant exists with an identical item card but without the extra flame spawns; it is not obtainable through normal play.\n\nThe red text references Ragnaros from the Warcraft series.\n\nThe rocket impacts use a smaller version of the Nukem explosion.\n\nCan damage allies via friendly fire.",
+  "notes": "Its behaviour is comparable to the Fire Bee. A second, unused variant exists with an identical item card but without the extra flame spawns; it is not obtainable through normal play. The red text references Ragnaros from the Warcraft series. The rocket impacts use a smaller version of the Nukem explosion. Can damage allies via friendly fire.",
   "special": {
-    "description": "Always incendiary. Emits a rotating ring of flame while launching explosive fire rockets in all directions that detonate on impact.\n\nRed text: By fire be purged!",
+    "description": "Always incendiary. Emits a rotating ring of flame while launching explosive fire rockets in all directions that detonate on impact. Red text: By fire be purged!",
     "title": "By fire be purged!"
   },
   "max": {

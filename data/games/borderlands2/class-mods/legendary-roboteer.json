@@ -11,7 +11,7 @@
   "name": "Legendary Roboteer",
   "slug": "legendary-roboteer",
   "type": "Mechromancer",
-  "description": "Legendary Roboteer is a Legendary (orange) class mod for Gaige the Mechromancer, made by Hyperion. It is part of the Ultimate Vault Hunter Upgrade Pack 2: Digistruct Peak Challenge. It can drop from Tubby enemies at level 62+ in Ultimate Vault Hunter Mode.",
+  "description": "Legendary Hyperion class mod for Gaige the Mechromancer, part of the Digistruct Peak content. Built around Potent as a Pony, Made of Sterner Stuff, 20% Cooler, Strength of Five Gorillas, Annoyed Android. Trades some cooldown for melee damage.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Low level versions (below level 50) may show reduced skill bonuses, but these cannot be obtained legitimately. This class mod requires the Digistruct Peak upgrade pack and is not available without that DLC.",
+  "notes": "Requires the Digistruct Peak Challenge DLC. Below-level-50 versions cannot be obtained legitimately.",
   "special": {
-    "description": "At max level it provides +31% action skill cooldown rate and +51% melee damage. It uses the standard Roboteer skin, which helps distinguish it visually.",
-    "title": "\"Science, my sweetest valentine!\""
+    "description": "At max level: +31% action skill cooldown rate, +51% melee damage.",
+    "title": "Science, my sweetest valentine!"
   },
   "max": {
     "cooldown_rate_bonus": 31,

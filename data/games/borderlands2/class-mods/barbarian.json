@@ -11,7 +11,7 @@
   "name": "Barbarian",
   "slug": "barbarian",
   "type": "Psycho",
-  "description": "Barbarian is a common Psycho class mod for Krieg, made by Bandit. It was introduced with Tiny Tina's Assault on Dragon Keep and drops from treasure chests found within that DLC areas.",
+  "description": "Bandit class mod for Krieg the Psycho, built around Fire Fiend, Blood Trance, and Salt the Wound. Close-range melee focus with a rage mechanic, it rolls additional bonuses from two pools.",
   "manufacturers": [
     "Bandit"
   ],
@@ -49,9 +49,9 @@
       ]
     }
   ],
-  "notes": "Earlier versions of the Good variant could mistakenly slow reloads instead of speeding them up; this has since been corrected.\n\nThe mod is themed after tabletop Barbarians, focusing on light or no armour and close-range melee power, often backed by a rage-style boost.",
+  "notes": "Earlier versions of the Good variant could mistakenly slow reloads instead of speeding them up; this has since been corrected. The mod is themed after tabletop Barbarians, focusing on light or no armour and close-range melee power, often backed by a rage-style boost. The item card may show incorrect fire rate, reload speed, and accuracy values.",
   "special": {
-    "description": "At level cap, the mod rolls one bonus from each of two pools.\n\nPool 1: Neutral +58.5% magazine size, Chaotic +58.5% fire rate, Lawful +58.5% accuracy.\n\nPool 2: Neutral +58.5% magazine size, Evil +58.5% critical hit damage, Good +58.5% reload speed.\n\nTrue Neutral is the double magazine size prefix, giving +93.6% magazine size. The item card may show incorrect fire rate, reload speed and accuracy values."
+    "description": "At max level, the mod rolls one bonus from each of two pools. Pool 1: Neutral gives +58.5% magazine size, Chaotic gives +58.5% fire rate, Lawful gives +58.5% accuracy. Pool 2: Neutral gives +58.5% magazine size, Evil gives +58.5% critical hit damage, Good gives +58.5% reload speed. True Neutral is the double magazine size prefix, giving +93.6% magazine size."
   },
   "max": {
     "level": 90,

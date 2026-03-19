@@ -10,7 +10,7 @@
   "name": "Torpedo",
   "slug": "torpedo",
   "type": "Assault Rifle",
-  "description": "Fires a single micro-rocket, consuming 4 rounds per shot. The projectile flies straight and faster than typical Torgue assault rifle rounds, detonating on contact with an enemy or surface.\n\nThe blast deals 100 percent of the weapon's listed gun damage as splash in a small radius, with no extra direct-hit impact damage. Gun damage boosts increase the explosion damage, but grenade/splash bonuses and rocket launcher damage bonuses do not.",
+  "description": "Fires a single micro-rocket, consuming 4 rounds per shot. The projectile flies straight and faster than typical Torgue assault rifle rounds, detonating on contact with an enemy or surface. The blast deals 100 percent of the weapon's listed gun damage as splash in a small radius, with no extra direct-hit impact damage. Gun damage boosts increase the explosion damage, but grenade/splash bonuses and rocket launcher damage bonuses do not.",
   "manufacturers": [
     "Torgue"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "Explosive"
   ],
-  "notes": "Dropped randomly from any appropriate loot source.\n\nAll damage is splash, so kills can trigger Krieg's Blood Bath; the resulting gun damage bonus also strengthens follow-up shots. Blood Overdrive cannot be activated.\n\nIf it spawns without an accessory, it uses the prefix 'Rocket' instead of the usual grip prefix.\n\nIts detonating shots can be absorbed by absorption shields, converting them into rocket launcher ammo.\n\nAvailable only in green rarity or higher.",
+  "notes": "Dropped randomly from any appropriate loot source. All damage is splash, so kills can trigger Krieg's Blood Bath; the resulting gun damage bonus also strengthens follow-up shots. Blood Overdrive cannot be activated. If it spawns without an accessory, it uses the prefix 'Rocket' instead of the usual grip prefix. Its detonating shots can be absorbed by absorption shields, converting them into rocket launcher ammo. Available only in green rarity or higher.",
   "sources": [
     {
       "name": "World Drop",

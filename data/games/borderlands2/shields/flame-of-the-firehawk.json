@@ -11,7 +11,7 @@
   "name": "Flame of the Firehawk",
   "slug": "flame-of-the-firehawk",
   "type": "Nova",
-  "description": "Flame of the Firehawk is a Legendary Maliwan nova shield.\n\nWhen the shield is fully drained, it starts pulsing incendiary novas repeatedly, making it lethal at point-blank range and against clustered enemies. The pulses continue during Fight For Your Life, which can help you earn a Second Wind, but the constant explosions can obscure what you are aiming at.\n\nThe effect only runs while the shield remains completely empty. Any recharge or refill stops the pulses, and they will not return until the shield reaches full charge and is broken again.",
+  "description": "Flame of the Firehawk is a Legendary Maliwan nova shield. When the shield is fully drained, it starts pulsing incendiary novas repeatedly, making it lethal at point-blank range and against clustered enemies. The pulses continue during Fight For Your Life, which can help you earn a Second Wind, but the constant explosions can obscure what you are aiming at. The effect only runs while the shield remains completely empty. Any recharge or refill stops the pulses, and they will not return until the shield reaches full charge and is broken again.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -31,9 +31,9 @@
     "None",
     "Incendiary"
   ],
-  "notes": "On common part combinations, only the Black Hole and the Hide of Terramorphous typically outdamage its single nova burst.\n\nIt can spawn with the Inflammable prefix from a Maliwan capacitor, providing immunity to fire damage. It cannot roll other elemental immunities.\n\nIt suits close-range, fire-focused builds and benefits from longer recharge delay to keep it empty for longer. Skills that top up shields can cancel the effect, while full refills can help you trigger it again sooner.\n\nIt is the only base-game Legendary shield obtained as a mission reward.",
+  "notes": "On common part combinations, only the Black Hole and the Hide of Terramorphous typically outdamage its single nova burst. It can spawn with the Inflammable prefix from a Maliwan capacitor, providing immunity to fire damage. It cannot roll other elemental immunities. It suits close-range, fire-focused builds and benefits from longer recharge delay to keep it empty for longer. Skills that top up shields can cancel the effect, while full refills can help you trigger it again sooner. It is the only base-game Legendary shield obtained as a mission reward.",
   "special": {
-    "description": "While the shield is completely empty, it emits an incendiary nova roughly once per second, including in Fight For Your Life.\n\nRestoring any shield charge stops the novas. They will not restart until the shield fully recharges and is depleted again.",
+    "description": "While the shield is completely empty, it emits an incendiary nova roughly once per second, including in Fight For Your Life. Restoring any shield charge stops the novas. They will not restart until the shield fully recharges and is depleted again.",
     "title": "From the ashes she will rise."
   },
   "max": {

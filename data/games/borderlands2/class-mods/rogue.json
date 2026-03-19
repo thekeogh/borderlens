@@ -11,7 +11,7 @@
   "name": "Rogue",
   "slug": "rogue",
   "type": "Assassin",
-  "description": "Rogue is a common Assassin class mod for Zer0, made by Maliwan and introduced with Tiny Tina's Assault on Dragon Keep.\n\nIt is found in treasure chests within that DLC area.",
+  "description": "Hyperion class mod for Zer0 the Assassin, built around Vel0city, Tw0Fang, Like The Wind.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -49,9 +49,9 @@
       ]
     }
   ],
-  "notes": "Zer0 cannot have enough skill points to cover all three boosted skills until level 58, and cannot fully max all three until level 70. As a result, purple Rogue mods offer limited benefit under level 70 and are worse than blue versions below level 58.\n\nChaotic rolls can push fire rate above 10.0, which can prevent Tw0 Fang from activating. Older Good rolls once increased reload time instead of reducing it, but this has been corrected.\n\nNamed after the Dungeons and Dragons Rogue archetype, focused on stealth and burst damage.",
+  "notes": "Zer0 cannot have enough skill points to cover all three boosted skills until level 58, and cannot fully max all three until level 70. As a result, purple Rogue mods offer limited benefit under level 70 and are worse than blue versions below level 58. Chaotic rolls can push fire rate above 10.0, which can prevent Tw0 Fang from activating. Older Good rolls once increased reload time instead of reducing it, but this has been corrected. Named after the Dungeons and Dragons Rogue archetype, focused on stealth and burst damage. The item card may show incorrect values for fire rate, reload speed, and accuracy.",
   "special": {
-    "description": "At level cap, the Rogue grants one bonus from each of two stat pools.\n\nPool 1: Neutral +58.5% magazine size, Chaotic +58.5% fire rate, Lawful +58.5% accuracy.\n\nPool 2: Neutral +58.5% magazine size, Evil +58.5% critical hit damage, Good +58.5% reload speed.\n\nTrue Neutral indicates double magazine size at +93.6%. The item card may show incorrect values for fire rate, reload speed, and accuracy."
+    "description": "At level cap, the Rogue grants one bonus from each of two stat pools. Pool 1: Neutral +58.5% magazine size, Chaotic +58.5% fire rate, Lawful +58.5% accuracy. Pool 2: Neutral +58.5% magazine size, Evil +58.5% critical hit damage, Good +58.5% reload speed. True Neutral indicates double magazine size at +93.6%."
   },
   "max": {
     "level": 90,

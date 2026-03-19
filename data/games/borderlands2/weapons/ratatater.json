@@ -24,7 +24,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "World drop from any appropriate loot source.\nOnly appears at green rarity or higher.",
+  "notes": "World drop from any appropriate loot source. Only appears at green rarity or higher.",
   "sources": [
     {
       "name": "World Drop",

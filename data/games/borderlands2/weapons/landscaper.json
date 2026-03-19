@@ -233,7 +233,7 @@
     "title": "Get off my lawn!",
     "description": "Fires 4 sticky mines in a square pattern. Mines stick to surfaces, then detonate on enemy contact, when a target comes close, or after 6 seconds. Deals explosive damage, with a smaller pellet count and slower fire rate offset by higher damage."
   },
-  "notes": "Absorbed splash damage can be converted into rocket launcher ammo by an Absorb Shield.\n\nWith the vertical grip (Casual prefix), each trigger pull fires 6 mines instead of 4. The two extra mines appear as an added pair on either the upper or lower side of the square, alternating each shot.",
+  "notes": "Absorbed splash damage can be converted into rocket launcher ammo by an Absorb Shield. With the vertical grip (Casual prefix), each trigger pull fires 6 mines instead of 4. The two extra mines appear as an added pair on either the upper or lower side of the square, alternating each shot.",
   "max": {
     "accuracy": 83.3,
     "damage": 1637959,

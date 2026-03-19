@@ -11,7 +11,7 @@
   "name": "Renegade",
   "slug": "renegade",
   "type": "Gunzerker",
-  "description": "Renegade is an Epic class mod for Salvador in Borderlands 2.",
+  "description": "Bandit class mod for Salvador the Gunzerker, built around I'm Your Huckleberry, Incite, All I Need is One.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At max level it boosts pistol damage by 57.5% but reduces pistol accuracy by 10%.\n\nWhile Gunzerking, these effects apply to both hands. If your right-hand weapon is a pistol, the left-hand weapon also receives both bonuses even if it is not a pistol."
+    "description": "At max level it boosts pistol damage by 57.5% but reduces pistol accuracy by 10%. While Gunzerking, these effects apply to both hands. If your right-hand weapon is a pistol, the left-hand weapon also receives both bonuses even if it is not a pistol."
   },
   "notes": "",
   "max": {

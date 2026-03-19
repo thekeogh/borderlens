@@ -30,7 +30,7 @@
       ]
     }
   ],
-  "notes": "Uranus has a 10% chance to drop The Electric Chair.\n\nIts behaviour is a stronger take on Storm Front, swapping in child grenades that leave a long shock trail as they move.",
+  "notes": "Uranus has a 10% chance to drop The Electric Chair. Its behaviour is a stronger take on Storm Front, swapping in child grenades that leave a long shock trail as they move.",
   "special": {
     "description": "On impact, it triggers a shock blast, then fires 8 lightning bolts upward, each dealing 45% of the grenade damage. It also scatters 8 sticky child grenades around the landing point; they arc outward, zap nearby enemies like Tesla grenades, then detonate when their duration ends with a smaller radius than the initial blast.",
     "title": "The truth is often one's best shield."

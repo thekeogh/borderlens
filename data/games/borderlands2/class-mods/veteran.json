@@ -11,7 +11,7 @@
   "name": "Veteran",
   "slug": "veteran",
   "type": "Commando",
-  "description": "Veteran is a Common Dahl class mod for Axton the Commando in Borderlands 2. It can drop randomly from any appropriate loot source.",
+  "description": "Dahl class mod for Axton the Commando, built around Steady, Pressure, Last Ditch Effort. Boosts reload speed and magazine size.",
   "manufacturers": [
     "Dahl"
   ],
@@ -36,9 +36,9 @@
     }
   ],
   "special": {
-    "description": "At max level, grants increased reload speed (up to +65%) and magazine size (up to +51%). Known issue: the item card may show an incorrect reload speed value."
+    "description": "At max level boosts reload speed by up to 65% and magazine size by up to 51%."
   },
-  "notes": "",
+  "notes": "The item card may show an incorrect reload speed value.",
   "max": {
     "mag_size": 51,
     "reload_speed": 3.97

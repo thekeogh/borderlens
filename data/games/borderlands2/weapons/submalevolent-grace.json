@@ -10,7 +10,7 @@
   "name": "SubMalevolent Grace",
   "slug": "submalevolent-grace",
   "type": "SMG",
-  "description": "Maliwan SMGs always spawn with an element, offering strong status effect chance and improved damage over time.\n\nSubMalevolent Grace can roll with two barrel styles that change its handling:\n- Tediore (light): faster reloads and better accuracy, but lower damage.\n- Bandit or Scav (heavy): higher base damage, but worse accuracy.",
+  "description": "Maliwan SMGs always spawn with an element, offering strong status effect chance and improved damage over time. SubMalevolent Grace can roll with two barrel styles that change its handling: - Tediore (light): faster reloads and better accuracy, but lower damage. - Bandit or Scav (heavy): higher base damage, but worse accuracy.",
   "manufacturers": [
     "Maliwan"
   ],

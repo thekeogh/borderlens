@@ -17,7 +17,7 @@
   "rarities": [
     "Rare"
   ],
-  "notes": "Access is limited to save editors, mods, or trading, and the Captain Scarlett and Her Pirate's Booty DLC must be present.\n\nIt is treated as a Torgue launcher but uses a purple Tediore-style skin.\n\nIts behaviour matches the Ahab, firing explosive harpoons.\n\nIf spawned with Master Gee, it rolls a random prefix and parts but always has a Maliwan barrel. Its damage largely scales with Master Gee's remaining health, increasing as his health drops.",
+  "notes": "Access is limited to save editors, mods, or trading, and the Captain Scarlett and Her Pirate's Booty DLC must be present. It is treated as a Torgue launcher but uses a purple Tediore-style skin. Its behaviour matches the Ahab, firing explosive harpoons. If spawned with Master Gee, it rolls a random prefix and parts but always has a Maliwan barrel. Its damage largely scales with Master Gee's remaining health, increasing as his health drops.",
   "sources": [
     {
       "name": "World Drop",

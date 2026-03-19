@@ -10,7 +10,7 @@
   "name": "Transaction",
   "slug": "transaction",
   "type": "Sniper",
-  "description": "Hyperion sniper rifles fire slowly and begin with poor accuracy, tightening up the longer you stay aimed. Accuracy resets when you stop aiming, so hip-fire and quick-scoping are unreliable. When scoped in, they are very stable with minimal recoil.\n\nThe Transaction uses a Hyperion barrel, boosting accuracy and recoil control at the cost of a smaller magazine.",
+  "description": "Hyperion sniper rifles fire slowly and begin with poor accuracy, tightening up the longer you stay aimed. Accuracy resets when you stop aiming, so hip-fire and quick-scoping are unreliable. When scoped in, they are very stable with minimal recoil. The Transaction uses a Hyperion barrel, boosting accuracy and recoil control at the cost of a smaller magazine.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -26,7 +26,7 @@
     "Corrosive",
     "Slag"
   ],
-  "notes": "In Borderlands: The Pre-Sequel, this weapon often rolls with Hyperion's newer materials and the same style of prefixes seen in Borderlands 2.\n\nA related Pre-Sequel variant called the Contract exists, produced by the older Hyperion line.\n\nThe Transaction is a world drop from any appropriate loot source.",
+  "notes": "In Borderlands: The Pre-Sequel, this weapon often rolls with Hyperion's newer materials and the same style of prefixes seen in Borderlands 2. A related Pre-Sequel variant called the Contract exists, produced by the older Hyperion line. The Transaction is a world drop from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

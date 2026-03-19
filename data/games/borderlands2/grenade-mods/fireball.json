@@ -51,9 +51,9 @@
       ]
     }
   ],
-  "notes": "Fire Storm is the legendary variant of Fireball.\n\nThe name references the Fireball spell from Dungeons and Dragons.\n\nIts red text nods to the dubbed G.I. Joe PSA parody where a firefighter shouts, Porkchop sandwiches.\n\nWith Fireball equipped, Axton may call out Fireball when deploying his Sabre Turret.",
+  "notes": "Fire Storm is the legendary variant of Fireball. The name references the Fireball spell from Dungeons and Dragons. Its red text nods to the dubbed G.I. Joe PSA parody where a firefighter shouts, Porkchop sandwiches. With Fireball equipped, Axton may call out Fireball when deploying his Sabre Turret.",
   "special": {
-    "description": "Launches a slow, straight flying fireball that explodes on impact and always deals incendiary damage.\n\nRegenerates grenade ammo over time.\n\nPlays a unique throw sound, and characters may shout Fireball while in Tiny Tina's Assault on Dragon Keep.",
+    "description": "Launches a slow, straight flying fireball that explodes on impact and always deals incendiary damage. Regenerates grenade ammo over time. Plays a unique throw sound, and characters may shout Fireball while in Tiny Tina's Assault on Dragon Keep.",
     "title": "Porkchop sandwiches!"
   },
   "max": {

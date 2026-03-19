@@ -11,7 +11,7 @@
   "name": "Fastball",
   "slug": "fastball",
   "type": "Standard",
-  "description": "Legendary Tediore grenade mod from Borderlands 2.\n\nFastball is thrown in a shallow arc but travels extremely quickly, letting it reach targets at longer ranges than typical lobbed grenades. It has a 0.0 fuse and will detonate instantly on hitting an enemy or destructible object. If it hits an inert surface, it will bounce and only explode once it comes to rest.\n\nIts blast radius is very small, so it usually hits a single target, but the damage is exceptionally high.",
+  "description": "Legendary Tediore grenade mod from Borderlands 2. Fastball is thrown in a shallow arc but travels extremely quickly, letting it reach targets at longer ranges than typical lobbed grenades. It has a 0.0 fuse and will detonate instantly on hitting an enemy or destructible object. If it hits an inert surface, it will bounce and only explode once it comes to rest. Its blast radius is very small, so it usually hits a single target, but the damage is exceptionally high.",
   "manufacturers": [
     "Tediore"
   ],
@@ -40,7 +40,7 @@
       ]
     }
   ],
-  "notes": "Pairs well with Moxxi healing weapons (eg Grog Nozzle, Rubi), as the huge on-impact damage converts into immediate health return, making it especially effective against larger enemies and raid bosses.\n\nIn Ultimate Vault Hunter Mode, Slag greatly boosts its damage, enabling extreme overkill. This can strongly support Krieg setups such as Bloodsplosion for clearing groups.\n\nKnown issue: damage may be reduced after loading in with it equipped; re-equipping restores normal damage.",
+  "notes": "Pairs well with Moxxi healing weapons (eg Grog Nozzle, Rubi), as the huge on-impact damage converts into immediate health return, making it especially effective against larger enemies and raid bosses. In Ultimate Vault Hunter Mode, Slag greatly boosts its damage, enabling extreme overkill. This can strongly support Krieg setups such as Bloodsplosion for clearing groups. Known issue: damage may be reduced after loading in with it equipped; re-equipping restores normal damage.",
   "special": {
     "description": "Slight downward arc and detonates on impact.",
     "title": "Forgot the curveball Ricky, give him the heater."

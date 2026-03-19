@@ -11,7 +11,7 @@
   "name": "Florentine",
   "slug": "florentine",
   "type": "SMG",
-  "description": "Maliwan Seraph SMG.\n\nFires large Plasma Caster-style shock orbs. On a direct hit it deals shock damage, then triggers a secondary splash burst that deals slag damage equal to 50 percent of the projectile's listed damage. This makes it a reliable slagging tool while still outputting strong shock damage, particularly useful in Ultimate Vault Hunter Mode where slag bonuses are higher.\n\nAgainst already-slagged targets it may lag behind a standard Plasma Caster in sustained damage, as the slag splash adds less outside UVHM.",
+  "description": "Maliwan Seraph SMG. Fires large Plasma Caster-style shock orbs. On a direct hit it deals shock damage, then triggers a secondary splash burst that deals slag damage equal to 50 percent of the projectile's listed damage. This makes it a reliable slagging tool while still outputting strong shock damage, particularly useful in Ultimate Vault Hunter Mode where slag bonuses are higher. Against already-slagged targets it may lag behind a standard Plasma Caster in sustained damage, as the slag splash adds less outside UVHM.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -184,7 +184,7 @@
   ],
   "special": {
     "title": "Double trouble",
-    "description": "Fires shock orbs that detonate on impact, adding a slag splash equal to 50 percent of projectile damage. The splash scales with grenade damage bonuses.\n\nDouble trouble - shock shots with built-in slag splash."
+    "description": "Fires shock orbs that detonate on impact, adding a slag splash equal to 50 percent of projectile damage. The splash scales with grenade damage bonuses. Double trouble - shock shots with built-in slag splash."
   },
   "notes": "The 50 percent slag splash is treated as grenade-type damage and scales with grenade damage bonuses.",
   "max": {

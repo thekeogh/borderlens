@@ -29,7 +29,7 @@
   ],
   "notes": "At maximum roll, Mouthwash can boost assault rifle damage by up to 47.5%.",
   "special": {
-    "description": "Passively increases assault rifle damage. While the Toothpick is equipped, it also gains a separate +200% damage bonus.\n\nSalvador note: if Mouthwash is equipped and Toothpick is held in the left hand, the +200% bonus applies to the weapon in the right hand.\n\nRed text: Gargle and spit.",
+    "description": "Passively increases assault rifle damage. While the Toothpick is equipped, it also gains a separate +200% damage bonus. Salvador note: if Mouthwash is equipped and Toothpick is held in the left hand, the +200% bonus applies to the weapon in the right hand. Red text: Gargle and spit.",
     "title": "Gargle and spit."
   },
   "max": {

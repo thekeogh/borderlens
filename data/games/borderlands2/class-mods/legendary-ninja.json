@@ -11,7 +11,7 @@
   "name": "Legendary Ninja",
   "slug": "legendary-ninja",
   "type": "Assassin",
-  "description": "Legendary Ninja is a Legendary Class Mod for Zer0 in Borderlands 2. It is a Maliwan-made Class Mod.",
+  "description": "Legendary Dahl class mod for Zer0 the Assassin, part of the Digistruct Peak content. Built around Backstab, Resurgence, Killing Bl0w, Ambush, F0ll0wthr0ugh. Designed for melee and backstab builds.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Requires the Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. It cannot drop or be used without that DLC.",
+  "notes": "Requires the Digistruct Peak Challenge DLC.",
   "special": {
-    "description": "At max level, grants +69% melee damage. The item is visually similar to the standard Ninja mod to help tell them apart.",
-    "title": "\"In the midst of combat, keep stillness inside of you.\""
+    "description": "At max level: +52% melee damage, +42% action skill cooldown rate. After a kill with Deception, the next melee strike deals +800% damage.",
+    "title": "In the midst of combat, keep stillness inside of you."
   },
   "abilities": [
     "+5 Backstab Skill",

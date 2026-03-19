@@ -11,7 +11,7 @@
   "name": "Legendary Hoarder",
   "slug": "legendary-hoarder",
   "type": "Gunzerker",
-  "description": "Legendary Hoarder is a Legendary class mod for Salvador in Borderlands 2. It is a Vladof mod.",
+  "description": "Legendary Vladof class mod for Salvador the Gunzerker. Built around Lay Waste, 5 Shots or 6, Filled to the Brim, Locked and Loaded, Incite. Provides a strong gun damage boost.",
   "manufacturers": [
     "Vladof"
   ],
@@ -34,10 +34,10 @@
       ]
     }
   ],
-  "notes": "Added with Ultimate Vault Hunter Upgrade Pack Two: Digistruct Peak Challenge. It cannot be obtained without this DLC.",
+  "notes": "Requires the Digistruct Peak Challenge DLC.",
   "special": {
-    "description": "At maximum level it provides a team-wide ammo regeneration bonus of +4.5. The item uses the standard Hoarder skin to help players tell it apart.",
-    "title": "\"Ain't got time for dilly-dally.\""
+    "description": "At max level: +51% gun damage, +57.5% ammo regen rate.",
+    "title": "Ain't got time for dilly-dally."
   },
   "abilities": [
     "+5 Lay Waste Skill",

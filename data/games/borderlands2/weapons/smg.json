@@ -10,7 +10,7 @@
   "name": "SMG",
   "slug": "smg",
   "type": "SMG",
-  "description": "This SMG may roll with one of three barrel types, each altering performance.\n\nBandit or Scav barrels raise damage but worsen accuracy. Tediore barrels lower damage in return for faster reloads. Maliwan barrels improve accuracy; if the gun is elemental, they also increase the chance to apply status effects.",
+  "description": "This SMG may roll with one of three barrel types, each altering performance. Bandit or Scav barrels raise damage but worsen accuracy. Tediore barrels lower damage in return for faster reloads. Maliwan barrels improve accuracy; if the gun is elemental, they also increase the chance to apply status effects.",
   "manufacturers": [
     "Dahl"
   ],

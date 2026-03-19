@@ -20,7 +20,7 @@
     "Rare",
     "Epic"
   ],
-  "notes": "The bonus can reach up to 51%.\n\nIts cooldown effect overlaps with Bone of the Ancients, which also provides elemental bonuses.",
+  "notes": "The bonus can reach up to 51%. Its cooldown effect overlaps with Bone of the Ancients, which also provides elemental bonuses.",
   "special": {
     "description": "Reduces Action Skill cooldown time."
   },

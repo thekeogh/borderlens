@@ -11,7 +11,7 @@
   "name": "Punk",
   "slug": "punk",
   "type": "Mechromancer",
-  "description": "Punk is a common Mechromancer class mod in Borderlands 2, made by Bandit. It is part of the Mechromancer Pack and can drop at random from most appropriate loot sources.",
+  "description": "Bandit class mod for Krieg the Psycho, built around The Better Half, Smaller, Lighter, Faster, Annoyed Android.",
   "manufacturers": [
     "Bandit"
   ],
@@ -35,9 +35,9 @@
       ]
     }
   ],
-  "notes": "All Punk variants reduce magazine size by at least 1 round. This can drop a weapon to 0 magazine capacity, making some guns unusable, including Infinity, Longrider, Striker, and Coach Gun.",
+  "notes": "All Punk variants reduce magazine size by at least 1 round. This can drop a weapon to 0 magazine capacity, making some guns unusable, including Infinity, Longrider, Striker, and Coach Gun. The item card may show an incorrect fire rate value.",
   "special": {
-    "description": "At max level, Punk provides +46% fire rate and -29% magazine size. Known issue: the item card may show an incorrect fire rate value."
+    "description": "At max level, Punk provides +46% fire rate and -29% magazine size."
   },
   "max": {
     "fire_rate": 327,

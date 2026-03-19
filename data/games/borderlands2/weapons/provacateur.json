@@ -10,7 +10,7 @@
   "name": "Provacateur",
   "slug": "provacateur",
   "type": "SMG",
-  "description": "The Provacateur is a Maliwan SMG variant that always rolls with a fixed-element Maliwan barrel. This setup gives it above-average elemental chance and damage over time, boosted further if it also spawns with a Maliwan grip.\n\nAlthough it is not a high-rarity drop, its strong status effects can carry you well until you replace it with a rarer or better-suited gun.",
+  "description": "The Provacateur is a Maliwan SMG variant that always rolls with a fixed-element Maliwan barrel. This setup gives it above-average elemental chance and damage over time, boosted further if it also spawns with a Maliwan grip. Although it is not a high-rarity drop, its strong status effects can carry you well until you replace it with a rarer or better-suited gun.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -22,7 +22,7 @@
   "elements": [
     "Incendiary"
   ],
-  "notes": "Related Maliwan fixed-element SMGs include Venom (corrosive), Vexation (shock), Revenant (slag), and Hyperborean (cryo).\n\nA loot generation bug can cause blue-rarity versions to display purple-style item card title colouring. With Colourblind Mode enabled, it may label them as [Purple] instead of [Blue].\n\nBecause of this, blue and purple versions with identical parts can end up with the same stats.\n\nDrops randomly from any appropriate loot source.",
+  "notes": "Related Maliwan fixed-element SMGs include Venom (corrosive), Vexation (shock), Revenant (slag), and Hyperborean (cryo). A loot generation bug can cause blue-rarity versions to display purple-style item card title colouring. With Colourblind Mode enabled, it may label them as [Purple] instead of [Blue]. Because of this, blue and purple versions with identical parts can end up with the same stats. Drops randomly from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

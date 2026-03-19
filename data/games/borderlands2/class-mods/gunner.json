@@ -11,7 +11,7 @@
   "name": "Gunner",
   "slug": "gunner",
   "type": "Commando",
-  "description": "The Gunner is a common (white) class mod for Axton in Borderlands 2, made by Vladof.",
+  "description": "Common Vladof class mod for Axton the Commando, centred on Overload, Steady, and Metal Storm. Boosts team fire rate.",
   "manufacturers": [
     "Vladof"
   ],
@@ -35,9 +35,9 @@
       ]
     }
   ],
-  "notes": "Increases Sabre Turret fire rate.\n\nCan drop at random from most appropriate loot sources.",
+  "notes": "The item card can show an incorrect fire rate value.",
   "special": {
-    "description": "At max level: Team fire rate +51%.\n\nKnown issue: the item card can show an incorrect fire rate value."
+    "description": "At max level, team fire rate increases by 51%."
   },
   "max": {
     "fire_rate": 34,

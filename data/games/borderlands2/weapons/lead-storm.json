@@ -11,7 +11,7 @@
   "name": "Lead Storm",
   "slug": "lead-storm",
   "type": "Assault Rifle",
-  "description": "Lead Storm is a Vladof Seraph assault rifle from the Big Game Hunt DLC.\n\nIts rounds travel in a pronounced arc and then split into three mid-flight. This makes it poor at long range, but excellent for saturating an area, tagging enemies on high ground, and hitting targets sheltering behind cover by lobbing shots over obstacles.",
+  "description": "Lead Storm is a Vladof Seraph assault rifle from the Big Game Hunt DLC. Its rounds travel in a pronounced arc and then split into three mid-flight. This makes it poor at long range, but excellent for saturating an area, tagging enemies on high ground, and hitting targets sheltering behind cover by lobbing shots over obstacles.",
   "manufacturers": [
     "Vladof"
   ],
@@ -254,9 +254,9 @@
   ],
   "special": {
     "title": "What a glorious feeling!",
-    "description": "Fires slow, steeply arcing rounds that split into three shortly after being fired.\n\nWeapon bonuses: 35% chance to fire an extra shot and +30% critical hit damage (pre-add). Note that most assault rifles (excluding Jakobs) carry -20% critical hit damage (scale)."
+    "description": "Fires slow, steeply arcing rounds that split into three shortly after being fired. Weapon bonuses: 35% chance to fire an extra shot and +30% critical hit damage (pre-add). Note that most assault rifles (excluding Jakobs) carry -20% critical hit damage (scale)."
   },
-  "notes": "Gaige's Close Enough can make the weapon easier to use by letting you fire from cover while still arcing shots over terrain. The ricochet effect appears to apply only to the initial round; the three split projectiles do not seem to benefit.\n\nThe split projectiles are not shown on the item card, and each projectile can receive full amp damage from amplify shields.",
+  "notes": "Gaige's Close Enough can make the weapon easier to use by letting you fire from cover while still arcing shots over terrain. The ricochet effect appears to apply only to the initial round; the three split projectiles do not seem to benefit. The split projectiles are not shown on the item card, and each projectile can receive full amp damage from amplify shields.",
   "max": {
     "accuracy": 26,
     "damage": 904923,

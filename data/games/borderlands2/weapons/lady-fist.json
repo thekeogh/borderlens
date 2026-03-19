@@ -260,7 +260,7 @@
   ],
   "special": {
     "title": "Love is a Lady Finger. True love is a Lady Fist.",
-    "description": "Unique effect: +800 percent critical hit damage (scales) and -43 percent gun damage.\n\nHyperion pistol: sustained fire improves accuracy and reduces recoil. Also increases projectile speed and magazine size.\n\nRed text: Love is a Lady Finger. True love is a Lady Fist."
+    "description": "Unique effect: +800 percent critical hit damage (scales) and -43 percent gun damage. Hyperion pistol: sustained fire improves accuracy and reduces recoil. Also increases projectile speed and magazine size. Red text: Love is a Lady Finger. True love is a Lady Fist."
   },
   "notes": "Its reduced base damage and massive crit bonus result in about 5.14x more damage on critical hits than on non-crits. The crit bonus is multiplicative, so it gains relatively little from additional crit boosts (for example, Zer0s Sniping tree bonuses add only a modest increase on top). During Gunzerking, crit bonuses from both guns apply, letting Salvador stack very high crit damage with another crit-boost weapon. The crit bonus can also carry over to slow projectiles if you swap to Lady Fist before impact, and it can affect vehicle primary guns and the Outrunners turret when equipped on entry.",
   "max": {

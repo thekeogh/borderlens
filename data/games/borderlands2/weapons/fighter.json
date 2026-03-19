@@ -18,7 +18,7 @@
     "Common",
     "Uncommon"
   ],
-  "notes": "Spawns only at green rarity or higher.\nDrops randomly from any appropriate loot source.",
+  "notes": "Spawns only at green rarity or higher. Drops randomly from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

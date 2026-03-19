@@ -11,7 +11,7 @@
   "name": "Hydra",
   "slug": "hydra",
   "type": "Shotgun",
-  "description": "Hydra is a rare Jakobs shotgun from the Big Game Hunt DLC.\n\nIt consumes 3 shells per shot but throws out roughly 20 pellets, giving strong pellets-per-ammo efficiency. Its wide, segmented spread often wastes pellets at range, yet it shines against very large targets or when several crit spots line up across the horizontal pattern.",
+  "description": "Hydra is a rare Jakobs shotgun from the Big Game Hunt DLC. It consumes 3 shells per shot but throws out roughly 20 pellets, giving strong pellets-per-ammo efficiency. Its wide, segmented spread often wastes pellets at range, yet it shines against very large targets or when several crit spots line up across the horizontal pattern.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -230,7 +230,7 @@
   ],
   "special": {
     "title": "Leather Hydra",
-    "description": "Passive bonuses: +50% critical hit damage. As a Jakobs shotgun, it also gains the standard +30% critical hit damage.\n\nFiring pattern: pellets split into five evenly spaced clusters in a horizontal line.\n\nRed text effect: very high pellet count."
+    "description": "At max level, boosts critical hit damage by 50%. As a Jakobs shotgun, it also gains the standard +30% critical hit damage."
   },
   "notes": "Pairs especially well with Gaige's Close Enough, as missed pellets can ricochet to recover otherwise lost damage.",
   "elements": [

@@ -11,7 +11,7 @@
   "name": "Banshee",
   "slug": "banshee",
   "type": "Siren",
-  "description": "Banshee is a common Siren class mod in Borderlands 2, made by Bandit. It can drop at random from any appropriate loot source.",
+  "description": "Bandit class mod for Maya the Siren, centred on Immolate, Fleet, and Backdraft. Focuses on shield recharge at the cost of health.",
   "manufacturers": [
     "Bandit"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At max level it provides:\n+66% shield recharge rate\n-40% shield recharge delay\n-957,590 health"
+    "description": "At max level, boosts shield recharge rate by 66% and reduces recharge delay by 40%, at the cost of 957,590 health."
   },
   "notes": "",
   "max": {

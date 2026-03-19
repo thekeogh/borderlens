@@ -11,7 +11,7 @@
   "name": "Evolution",
   "slug": "evolution",
   "type": "Adaptive",
-  "description": "Evolution is an Anshin Seraph adaptive shield introduced in Captain Scarlett and Her Pirate's Booty.\n\nIt favours durability over sheer shield strength, boosting maximum health and providing health regeneration that builds as you take damage. The regeneration only functions while the shield has charge and cuts out if the shield is broken.\n\nAs an adaptive shield, it gains resistance to the most recent elemental damage type. This resistance is lost when the shield is fully depleted.",
+  "description": "Evolution is an Anshin Seraph adaptive shield introduced in Captain Scarlett and Her Pirate's Booty. It favours durability over sheer shield strength, boosting maximum health and providing health regeneration that builds as you take damage. The regeneration only functions while the shield has charge and cuts out if the shield is broken. As an adaptive shield, it gains resistance to the most recent elemental damage type. This resistance is lost when the shield is fully depleted.",
   "manufacturers": [
     "Anshin"
   ],
@@ -41,9 +41,9 @@
       ]
     }
   ],
-  "notes": "In Ultimate Vault Hunter Mode it is not available from the Oasis Seraph vendor, so it must be purchased in Normal or True Vault Hunter Mode.\n\nThe scaling regeneration works best for builds that stay under sustained fire, but loses value if the shield is often completely stripped.\n\nVersus a comparable Neogenator, it usually has about 55% more capacity, but around 37.5% slower recharge rate and roughly 23% longer recharge delay. The elemental resistance, max health, and regeneration bonuses match.\n\nAt 86% elemental resistance, a full natural recharge after breaking takes about 9.02 seconds.",
+  "notes": "In Ultimate Vault Hunter Mode it is not available from the Oasis Seraph vendor, so it must be purchased in Normal or True Vault Hunter Mode. The scaling regeneration works best for builds that stay under sustained fire, but loses value if the shield is often completely stripped. Versus a comparable Neogenator, it usually has about 55% more capacity, but around 37.5% slower recharge rate and roughly 23% longer recharge delay. The elemental resistance, max health, and regeneration bonuses match. At 86% elemental resistance, a full natural recharge after breaking takes about 9.02 seconds.",
   "special": {
-    "description": "While charged, grants adaptive elemental resistance (up to 86%) and regenerates 0.08% of maximum health per second.\n\nIncoming damage ramps the regeneration, up to 3.98% of maximum health per second. All effects stop when the shield is fully depleted.",
+    "description": "While charged, grants adaptive elemental resistance (up to 86%) and regenerates 0.08% of maximum health per second. Incoming damage ramps the regeneration, up to 3.98% of maximum health per second. All effects stop when the shield is fully depleted.",
     "title": "Strength through adversity."
   },
   "elements": [

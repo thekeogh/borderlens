@@ -11,7 +11,7 @@
   "name": "Sweetheart",
   "slug": "sweetheart",
   "type": "Mechromancer",
-  "description": "Sweetheart is a common (white) class mod for Gaige the Mechromancer in Borderlands 2. Made by Anshin, it can drop at random from most appropriate loot sources.",
+  "description": "Anshin class mod for Gaige the Mechromancer, built around More Pep, Cooking Up Trouble, The Better Half. Boosts team health.",
   "manufacturers": [
     "Anshin"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At maximum level, grants a team health bonus of +837,892."
+    "description": "At max level: boosts team health by 837,892."
   },
   "notes": "",
   "abilities": [

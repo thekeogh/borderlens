@@ -11,7 +11,7 @@
   "name": "Whisky Tango Foxtrot",
   "slug": "whisky-tango-foxtrot",
   "type": "Booster",
-  "description": "Legendary DAHL booster shield. Taking damage can launch an IED Booster at the nearest enemy. While it sits on the ground it emits timed volleys of arcing shock MIRV charges, up to nine blasts in total, and the explosions can hit you too. Pick the booster up to regain 25 percent of your shield; collecting it early also cancels any remaining volleys.\n\nStrong for mid-range fights, but hazardous in cramped areas or versus fast-moving targets.",
+  "description": "Legendary DAHL booster shield. Taking damage can launch an IED Booster at the nearest enemy. While it sits on the ground it emits timed volleys of arcing shock MIRV charges, up to nine blasts in total, and the explosions can hit you too. Pick the booster up to regain 25 percent of your shield; collecting it early also cancels any remaining volleys. Strong for mid-range fights, but hazardous in cramped areas or versus fast-moving targets.",
   "manufacturers": [
     "Dahl"
   ],
@@ -49,7 +49,7 @@
   ],
   "notes": "The booster begins firing as soon as it lands; pickup only restores shields and prevents further charges. The shock blasts have heavy knockback and can stagger foes. Expect frequent self-damage, so shock resistance or mitigation skills are useful. Rats can be killed while trying to steal an active booster. Cannot spawn with Bandit or Torgue parts. The name references the NATO initialism \"WTF\" and a joke about \"SNAFU\"; IED stands for improvised explosive device.",
   "special": {
-    "description": "On taking damage, may fire an IED Booster towards the nearest enemy.\n\nThe booster releases three timed volleys of arcing shock charges (up to 9 explosions) that can also damage the wearer.\n\nPicking it up restores 25 percent of shield capacity and stops any further charges.",
+    "description": "On taking damage, may fire an IED Booster towards the nearest enemy. The booster releases three timed volleys of arcing shock charges (up to 9 explosions) that can also damage the wearer. Picking it up restores 25 percent of shield capacity and stops any further charges.",
     "title": "Situation normal... ...all foxtroted up."
   },
   "max": {

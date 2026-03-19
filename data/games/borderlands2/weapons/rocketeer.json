@@ -21,7 +21,7 @@
   "aliases": [
     "Rocketeer (assault rifle)"
   ],
-  "notes": "Available only at green rarity or higher.\n\nIf it spawns without an accessory or elemental capacitor, it uses the standard grip prefix rather than a unique one.\n\nDrops randomly from any appropriate loot source.",
+  "notes": "Available only at green rarity or higher. If it spawns without an accessory or elemental capacitor, it uses the standard grip prefix rather than a unique one. Drops randomly from any appropriate loot source.",
   "sources": [
     {
       "name": "World Drop",

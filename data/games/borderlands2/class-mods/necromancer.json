@@ -11,7 +11,7 @@
   "name": "Necromancer",
   "slug": "necromancer",
   "type": "Mechromancer",
-  "description": "Necromancer is a common Gaige (Mechromancer) class mod made by Maliwan and introduced in Tiny Tina's Assault on Dragon Keep. It is found only from treasure chests within that DLC area.",
+  "description": "Maliwan class mod for Maya the Siren, built around Strength of Five Gorillas, Wires Don't Talk, Made of Sterner Stuff.",
   "manufacturers": [
     "Tediore"
   ],
@@ -49,9 +49,9 @@
       ]
     }
   ],
-  "notes": "Some Good variants previously applied the wrong effect, increasing reload time instead of reducing it.\n\nNeutral variants can offset the Smaller, Lighter, Faster magazine penalty on single-round weapons (eg Infinity). The mag size bonus starts at 13%, which is higher than the perk's maximum 4% penalty while the mod is equipped.\n\nThe name references the Mecromancer wizard theme; it is the only Dragon Keep class mod not named after a DnD base class.",
+  "notes": "Some Good variants previously applied the wrong effect, increasing reload time instead of reducing it. Neutral variants can offset the Smaller, Lighter, Faster magazine penalty on single-round weapons (eg Infinity). The mag size bonus starts at 13%, which is higher than the perk's maximum 4% penalty while the mod is equipped. The item card may show incorrect fire rate, reload speed, and accuracy values.",
   "special": {
-    "description": "At level cap, rolls one bonus from each pool.\n\nPool 1: Neutral +58.5% Mag Size, Chaotic +58.5% Fire Rate, Lawful +58.5% Accuracy.\n\nPool 2: Neutral +58.5% Mag Size, Evil +58.5% Crit Damage, Good +58.5% Reload Speed.\n\nTrue Neutral gives double Mag Size (+93.6%). The item card may show incorrect fire rate, reload speed, and accuracy values."
+    "description": "At level cap, rolls one bonus from each pool. Pool 1: Neutral +58.5% Mag Size, Chaotic +58.5% Fire Rate, Lawful +58.5% Accuracy. Pool 2: Neutral +58.5% Mag Size, Evil +58.5% Crit Damage, Good +58.5% Reload Speed. True Neutral gives double Mag Size (+93.6%)."
   },
   "max": {
     "level": 90,

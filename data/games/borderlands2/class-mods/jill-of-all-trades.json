@@ -11,7 +11,7 @@
   "name": "Jill of All Trades",
   "slug": "jill-of-all-trades",
   "type": "Mechromancer",
-  "description": "Jill of All Trades is an Epic Class Mod for Gaige in Borderlands 2, included with the Mechromancer character add-on.",
+  "description": "Epic Tediore class mod for Gaige the Mechromancer, centred on More Pep, The Better Half, and Smaller, Lighter, Faster. Focused on assault rifle performance.",
   "manufacturers": [
     "Tediore"
   ],
@@ -35,9 +35,9 @@
       ]
     }
   ],
-  "notes": "Its name appears to be a gender-flipped take on the phrase \"Jack of all trades\".",
+  "notes": "Its name is a gender-flipped take on the phrase 'Jack of all trades'.",
   "special": {
-    "description": "At max level, this Class Mod boosts assault rifles with +52% AR damage and +59% AR magazine size."
+    "description": "At max level, boosts AR damage by 52% and AR magazine size by 59%."
   },
   "max": {
     "gun_damage_bonus": 52,

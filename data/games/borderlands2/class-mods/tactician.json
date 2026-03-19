@@ -11,7 +11,7 @@
   "name": "Tactician",
   "slug": "tactician",
   "type": "Commando",
-  "description": "Tactician is a common Commando class mod for Axton in Borderlands 2, made by Anshin. It is a world drop and can appear from most appropriate loot sources.",
+  "description": "Anshin class mod for Axton the Commando, built around Battlefront, Resourceful, Preparation. Boosts team shield recharge rate.",
   "manufacturers": [
     "Anshin"
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "special": {
-    "description": "At maximum level, it boosts team shield recharge rate by 58% and reduces team shield recharge delay by 37%."
+    "description": "At max level: boosts team shield recharge rate by 58% and reduces team shield recharge delay by 37%."
   },
   "notes": "",
   "max": {

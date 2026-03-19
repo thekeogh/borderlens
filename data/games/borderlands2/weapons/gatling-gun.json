@@ -10,7 +10,7 @@
   "name": "Gatling Gun",
   "slug": "gatling-gun",
   "type": "Assault Rifle",
-  "description": "Although it has a rotating, minigun-like barrel, this Jakobs rifle is semi-automatic and unleashes several shots per trigger pull. It can reach very high practical fire rates, but you must keep tapping the trigger and contend with Jakobs-style slow reloads.\n\nStrong per-shot damage lets it dump heavy damage quickly. Recoil is pronounced, and the magazine empties fast because each trigger pull spends three rounds on a modest capacity.",
+  "description": "Although it has a rotating, minigun-like barrel, this Jakobs rifle is semi-automatic and unleashes several shots per trigger pull. It can reach very high practical fire rates, but you must keep tapping the trigger and contend with Jakobs-style slow reloads. Strong per-shot damage lets it dump heavy damage quickly. Recoil is pronounced, and the magazine empties fast because each trigger pull spends three rounds on a modest capacity.",
   "manufacturers": [
     "Jakobs"
   ],

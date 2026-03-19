@@ -10,7 +10,7 @@
   "name": "Murrv",
   "slug": "murrv",
   "type": "MIRV",
-  "description": "On detonation, this grenade splits into several child grenades. The child count varies with the randomly rolled parts on the drop.\n\nThe listed base damage is effectively scaled by the number of children produced, as each child uses the same base damage value. If multiple children hit the same target, the combined damage can stack heavily.\n\nUnlike similar Torgue split grenades, this one can roll in any element. All child grenades inherit the parent grenade's element.",
+  "description": "On detonation, this grenade splits into several child grenades. The child count varies with the randomly rolled parts on the drop. The listed base damage is effectively scaled by the number of children produced, as each child uses the same base damage value. If multiple children hit the same target, the combined damage can stack heavily. Unlike similar Torgue split grenades, this one can roll in any element. All child grenades inherit the parent grenade's element.",
   "manufacturers": [
     "Bandit"
   ],

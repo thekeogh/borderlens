@@ -11,7 +11,7 @@
   "name": "Prodigy",
   "slug": "prodigy",
   "type": "Mechromancer",
-  "description": "Prodigy is a common Gaige (Mechromancer) class mod in Borderlands 2, made by Dahl. It can drop from any appropriate loot source.",
+  "description": "Dahl class mod for Axton the Commando, built around Cooking Up Trouble, The Better Half, More Pep.",
   "manufacturers": [
     "Dahl"
   ],
@@ -35,9 +35,9 @@
       ]
     }
   ],
-  "notes": "The reload speed bonus was previously bugged and could make reloads slower. In patch 1.3.0 it provided no benefit, then in patch 1.4.0 it was fixed and correctly reduced reload time.",
+  "notes": "The reload speed bonus was previously bugged and could make reloads slower. In patch 1.3.0 it provided no benefit, then in patch 1.4.0 it was fixed and correctly reduced reload time. The item card may show incorrect values for reload speed and accuracy.",
   "special": {
-    "description": "At maximum level it provides up to +51% accuracy and +65% reload speed. The item card may show incorrect values for reload speed and accuracy."
+    "description": "At maximum level it provides up to +51% accuracy and +65% reload speed."
   },
   "max": {
     "level": 90,

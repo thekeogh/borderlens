@@ -11,7 +11,7 @@
   "name": "Norfleet",
   "slug": "norfleet",
   "type": "Launcher",
-  "description": "Maliwan legendary launcher that fires three drifting plasma rockets. Keep your distance: the splash and elemental effects can down you even without a direct hit.\n\nOn impact it creates plasma that can damage through cover and terrain, spreading elemental effects over a huge area. Excellent for Second Winds, but sturdy or overlevelled enemies may survive.\n\nConsumes 3 rockets per shot, so ammo vanishes fast.",
+  "description": "Maliwan legendary launcher that fires three drifting plasma rockets. Keep your distance: the splash and elemental effects can down you even without a direct hit. On impact it creates plasma that can damage through cover and terrain, spreading elemental effects over a huge area. Excellent for Second Winds, but sturdy or overlevelled enemies may survive. Consumes 3 rockets per shot, so ammo vanishes fast.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -243,9 +243,9 @@
   ],
   "special": {
     "title": "Blows Up Everything!!!",
-    "description": "Fires 3 plasma projectiles that explode for elemental rocket damage. Each impact also leaves a plasma field dealing +50% elemental rocket damage over an area about 4x wider than the initial blast, and it can hit through cover.\n\nHigh damage, huge splash, poor accuracy. Uses 3 ammo per shot."
+    "description": "Fires 3 plasma projectiles that explode for elemental rocket damage. Each impact also leaves a plasma field dealing +50% elemental rocket damage over an area about 4x wider than the initial blast, and it can hit through cover. High damage, huge splash, poor accuracy. Uses 3 ammo per shot."
   },
-  "notes": "If all three projectiles hit, per-shot damage can beat Nukem and Tunguska.\nExtremely high base damage per trigger pull, before elemental damage.\nBest at close to mid range; projectile drift limits long-range use.\nProjectile speed and accuracy bonuses improve consistency and reach.\nA hotfix improved reload speed and elemental effect chance for Maliwan launchers, including this one.",
+  "notes": "If all three projectiles hit, per-shot damage can beat Nukem and Tunguska. Extremely high base damage per trigger pull, before elemental damage. Best at close to mid range; projectile drift limits long-range use. Projectile speed and accuracy bonuses improve consistency and reach. A hotfix improved reload speed and elemental effect chance for Maliwan launchers, including this one.",
   "max": {
     "accuracy": 85.2,
     "damage": 29126706,

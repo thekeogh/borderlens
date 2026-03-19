@@ -11,7 +11,7 @@
   "name": "Stalker",
   "slug": "stalker",
   "type": "Assassin",
-  "description": "Stalker is a common class mod for Zer0 in Borderlands 2, made by Vladof. It can drop at random from most loot sources that can generate class mods.",
+  "description": "Vladof class mod for Zer0 the Assassin, built around Rising Sh0t, F0ll0wthr0ugh, C0unter Strike.",
   "manufacturers": [
     "Vladof"
   ],
@@ -36,9 +36,9 @@
     }
   ],
   "special": {
-    "description": "At max level it boosts pistol fire rate by 52%, pistol magazine size by 52%, and shield recharge rate by 51%.\n\nKnown issue: the item card may show an incorrect fire rate value."
+    "description": "At max level boosts pistol fire rate by 52%, pistol magazine size by 52%, and shield recharge rate by 51%."
   },
-  "notes": "",
+  "notes": "The item card may show an incorrect fire rate value.",
   "max": {
     "fire_rate": 34,
     "level": 90,

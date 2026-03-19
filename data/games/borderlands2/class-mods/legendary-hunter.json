@@ -11,7 +11,7 @@
   "name": "Legendary Hunter",
   "slug": "legendary-hunter",
   "type": "Assassin",
-  "description": "Legendary Hunter is a legendary class mod for Zer0, made by Jakobs. It can drop from most appropriate loot sources, with better odds from Vermivorous the Invincible, Pete the Invincible, Voracidous the Invincible, and the Ancient Dragons of Destruction.",
+  "description": "Legendary Anshin class mod for Axton the Commando, part of the Digistruct Peak content. Built around Headsh0t, Fast Hands, C0unter Strike, Killing Bl0w, Ir0n Hand. Focused on sniper and pistol performance with shield bonuses.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -62,10 +62,10 @@
       ]
     }
   ],
-  "notes": "A SHiFT code that awards a Legendary Hunter to one character is included with the Diamond Plate Loot Chest.\n\nItem card caption: \"Precision. Deadliness. Cool face masks.\"\n\nThe red flavour text references a Mordecai line when he is downed in Borderlands.",
+  "notes": "Requires the Digistruct Peak Challenge DLC. Drops from Tubby enemies in Ultimate Vault Hunter Mode at level 62+.",
   "special": {
-    "description": "At max level it boosts cooldown rate by 51%, critical hit damage by 41.8%, and reload speed by 36.8%.\n\nUnique effect: activating Decepti0n restores 10% of max health.\n\nKnown issue: the item card can show an incorrect reload speed value.",
-    "title": "\"I never die.\""
+    "description": "At max level: +58% shield capacity, +57.5% shield recharge rate. While the turret is active, grants +52% team ammo regen rate.",
+    "title": "I never die."
   },
   "max": {
     "cooldown_rate_bonus": 5,

@@ -38,7 +38,7 @@
     "None",
     "Explosive"
   ],
-  "notes": "Entering Fight For Your Life triggers the nova even if the shield has not recharged.\n\nIt shows as purple in your inventory, but it is handled as a legendary for drops and the Grinder, so it can appear in the general legendary pool and be made by grinding legendary shields.\n\nThe purple display is down to an internal rarity bug.",
+  "notes": "Entering Fight For Your Life triggers the nova even if the shield has not recharged. It shows as purple in your inventory, but it is handled as a legendary for drops and the Grinder, so it can appear in the general legendary pool and be made by grinding legendary shields. The purple display is down to an internal rarity bug.",
   "special": {
     "description": "When the shield breaks, it releases an explosive nova that damages nearby enemies. The same nova also triggers when you enter Fight For Your Life.",
     "title": "What do you mean... theoretically?"
