@@ -11,7 +11,7 @@
   "name": "Heart of the Ancients",
   "slug": "heart-of-the-ancients",
   "type": "Offense",
-  "description": "Heart of the Ancients is an Eridian E-tech relic in Borderlands 2. It is exclusive to Ultimate Vault Hunter Mode and only drops from Legendary Loot Midgets.",
+  "description": "An Eridian E-tech relic that combines a weapon-type damage bonus with Tenacity-style Fight For Your Life support. It is a strong hybrid choice for builds that want more damage without giving up all of their downed-state utility.",
   "manufacturers": [
     "Eridian"
   ],
@@ -28,9 +28,9 @@
     }
   ],
   "special": {
-    "description": "Grants a damage boost for one weapon category, which can roll as Assault Rifle, Pistol, Rocket Launcher, Shotgun, SMG, Sniper Rifle, or other weapon types. It also includes Tenacity-style bonuses, increasing Fight For Your Life duration and/or the health restored on Second Wind. In effect, it merges Aggression and Tenacity relic traits into a single item."
+    "description": "Grants a damage boost for one weapon category and also adds Tenacity-style bonuses, increasing Fight For Your Life duration and sometimes the health restored on Second Wind."
   },
-  "notes": "",
+  "notes": "It drops from Legendary Loot Midgets.\n\nIn practice, it combines the core effects of Aggression Relics and Tenacity Relics into a single item.",
   "abilities": [
     "Improves weapon damage and second wind capability. SOOIDIGIOIGI2"
   ],

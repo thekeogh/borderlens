@@ -11,7 +11,7 @@
   "name": "Pun-chee",
   "slug": "pun-chee",
   "type": "Roid",
-  "description": "Pun-chee is a Bandit Seraph roid shield from the Campaign of Carnage DLC. Compared with a similar purple roid shield using the same components, it generally performs better and is a good fit for builds that rely on frequent melee attacks. Its shorter recharge delay can make it harder to keep the shield empty, which can lower roid uptime and reduce peak melee damage compared with some other named roid shields.",
+  "description": "A Bandit Seraph roid shield that generally outperforms a comparable purple roid shield with the same components. It is a strong fit for melee builds that want solid damage without relying on a more specialized legendary.\n\nIts shorter recharge delay can make it harder to keep the shield empty, which lowers roid uptime and can reduce peak melee damage compared with some other named roid shields.",
   "manufacturers": [
     "Bandit"
   ],
@@ -34,9 +34,9 @@
     "Corrosive",
     "Explosive"
   ],
-  "notes": "It can spawn with a Maliwan capacitor for elemental damage resistance or a Torgue capacitor for explosive resistance. These Seraph versions do not use the standard resistance prefixes (such as Grounded, Inflammable, Alkaline, or Blast-proof).",
+  "notes": "It can spawn with a Maliwan capacitor for elemental resistance or a Torgue capacitor for explosive resistance. These Seraph versions do not use the standard resistance prefixes such as Grounded, Inflammable, Alkaline, or Blast Proof.",
   "special": {
-    "description": "No unique special effect.",
+    "description": "It has no exclusive special effect beyond its part rolls.",
     "title": "You wanna go, asshole?"
   },
   "max": {

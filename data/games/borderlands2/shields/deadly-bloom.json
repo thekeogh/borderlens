@@ -11,7 +11,7 @@
   "name": "Deadly Bloom",
   "slug": "deadly-bloom",
   "type": "Nova",
-  "description": "Deadly Bloom is a Torgue shield built for in-your-face fighting. Its explosive nova on break strips nearby shields and helps finish off close targets, making it a strong fit for melee-focused setups such as Krieg. The extra blast can also help you clutch a Second Wind by tagging enemies you cannot immediately reach.",
+  "description": "A Torgue shield built for point-blank fighting. Its explosive nova on break strips nearby shields and helps finish off close targets, which makes it a strong fit for melee-heavy setups such as Krieg. That extra blast can also help secure a Second Wind by tagging enemies you cannot reach in time.",
   "manufacturers": [
     "Torgue"
   ],
@@ -38,7 +38,7 @@
     "None",
     "Explosive"
   ],
-  "notes": "Entering Fight For Your Life triggers the nova even if the shield has not recharged. It shows as purple in your inventory, but it is handled as a legendary for drops and the Grinder, so it can appear in the general legendary pool and be made by grinding legendary shields. The purple display is down to an internal rarity bug.",
+  "notes": "Entering Fight For Your Life triggers the nova even if the shield has not recharged.\n\nIt appears as purple in your inventory, but the game treats it as a legendary for drops and for the Grinder. That means it can appear in the general legendary pool and can be created by grinding legendary shields. The purple inventory color comes from an internal rarity bug.",
   "special": {
     "description": "When the shield breaks, it releases an explosive nova that damages nearby enemies. The same nova also triggers when you enter Fight For Your Life.",
     "title": "What do you mean... theoretically?"

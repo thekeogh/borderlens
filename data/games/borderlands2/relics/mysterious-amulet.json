@@ -11,7 +11,7 @@
   "name": "Mysterious Amulet",
   "slug": "mysterious-amulet",
   "type": "Unique",
-  "description": "Mysterious Amulet is a unique Eridian relic from Tiny Tina's Assault on Dragon Keep. It boosts the DLC-only Friendship stat by up to 7, but Friendship has no proven link to the game's underlying mechanics. Rumoured hidden effects (such as stronger Pixie buffs or triggering a raid boss) have been disproven; no gameplay benefit is confirmed beyond its cosmetic behaviour. In Commander Lilith and the Fight for Sanctuary, equipping it when feeding Butt Stallion after My Brittle Pony makes her produce the Unicornsplosion. Bought from Mr Miz during The Amulet.",
+  "description": "A unique Eridian relic built around mystery and cosmetic effects rather than meaningful combat power. It raises the hidden Friendship stat, but no proven gameplay benefit has ever been tied to that stat despite years of rumors and testing.",
   "manufacturers": [
     "Eridian"
   ],
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "Its inscription echoes the closing lines of Shakespeare's Sonnet 30: \"But if the while I think on thee, dear friend, all losses are restored and sorrows end.\" When you receive it, Mr Miz mentions \"Fandir's grasp\"; the Striker shotgun references Fandir in its flavour text, but no verified connection has been found.",
+  "notes": "It is bought from Mr. Miz during The Amulet.\n\nRumored hidden effects, including stronger Pixie buffs or access to a raid boss, have been disproven. Its only confirmed special use is that feeding Butt Stallion with it equipped after My Brittle Pony makes her produce the Unicornsplosion.\n\nIts inscription echoes the closing lines of Shakespeare's Sonnet 30: \"But if the while I think on thee, dear friend, all losses are restored and sorrows end.\" When you receive it, Mr. Miz mentions \"Fandir's grasp\"; the Striker shotgun references Fandir in its flavor text, but no verified connection has been found.",
   "special": {
-    "description": "Cosmetic aura scales with how many players have it equipped. 0: No effect. 1+: White dusty aura with pink hearts. More equipped: Adds white and yellow stars. A pink flare may appear, and \"folk\" music can randomly start. Tip: In Fight for Sanctuary, feed Butt Stallion with this relic equipped (after My Brittle Pony) to get the Unicornsplosion.",
+    "description": "Changes the cosmetic aura around the wearer based on how many players have it equipped, adding hearts, stars, and occasional visual or audio flourishes. It has no confirmed combat effect.",
     "title": "While I fight with thee, dear friend, all losses are restored and sorrows end."
   },
   "max": {

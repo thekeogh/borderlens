@@ -11,7 +11,7 @@
   "name": "The Rough Rider",
   "slug": "the-rough-rider",
   "type": "Standard",
-  "description": "The Rough Rider is a rare Jakobs shield that provides no shield capacity and never recharges. In exchange, it boosts maximum health and grants a fixed damage reduction. As your shield is always empty, shield-depleted bonuses remain active permanently, while effects that need a full shield will never trigger. It pairs well with tanky, self-heal focused playstyles and constant health sustain.",
+  "description": "A unique Jakobs shield that provides no shield capacity and never recharges. In exchange, it boosts maximum health and grants fixed damage reduction, which makes it ideal for tanky builds built around health sustain rather than normal shield play.\n\nBecause the shield is always empty, shield-depleted bonuses stay active permanently, while effects that require a full shield never trigger.",
   "manufacturers": [
     "Jakobs"
   ],
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "Jakobs only shield. Uses a Turtle-style shield body. Although shown as 0 capacity, some UI situations treat it as having 100 maximum shield for display checks, but it still cannot recharge. Flat shield-capacity increases can cause it to function like a normal shield. Fixed capacity reductions can also interfere with the always-depleted behaviour.",
+  "notes": "It is the only Jakobs shield in the game and uses a turtle-shield body.\n\nAlthough it shows 0 capacity, some parts of the UI treat it as if it had 100 maximum shield for display checks, even though it still cannot recharge. Flat shield-capacity increases can make it function like a normal shield, and fixed capacity reductions can also interfere with its always-depleted behavior.",
   "special": {
-    "description": "A permanently empty shield that increases maximum health and reduces incoming damage by 20%. Keeps shield-depleted skills active at all times. Strong with Axton (Crisis Management), Maya (Fleet), Salvador (Out of Bubblegum, Inconceivable), Zer0 (Fearless), and Krieg (Empty the Rage, Embrace the Pain). \"It takes more than that to kill a Bull Moose.\"",
+    "description": "A permanently empty shield that increases maximum health and reduces incoming damage. It keeps shield-depleted skills active at all times and works especially well with builds that benefit from staying at zero shield.",
     "title": "It takes more than that to kill a Bull Moose."
   },
   "elements": [

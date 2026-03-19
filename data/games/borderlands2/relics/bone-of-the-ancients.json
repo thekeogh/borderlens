@@ -11,7 +11,7 @@
   "name": "Bone of the Ancients",
   "slug": "bone-of-the-ancients",
   "type": "Offense",
-  "description": "E-tech relic made by Eridian. It boosts damage for one element and also shortens Action Skill cooldown, making it strong for builds that lean on matching elements. Variants roll Incendiary, Shock, or Corrosive. In Ultimate Vault Hunter Mode it is obtained from Legendary Loot Midgets only.",
+  "description": "An Eridian E-tech relic that pairs a single elemental damage bonus with faster Action Skill cooldown. It is one of the strongest general-purpose relics for element-focused builds, especially when you can match the rolled element to both your weapons and your skill tree.",
   "manufacturers": [
     "Eridian"
   ],
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "At OP10 the Action Skill cooldown bonus can reach 51.0%, and the elemental damage bonus can reach 42.0%.",
+  "notes": "It rolls as Incendiary, Shock, or Corrosive and drops from Legendary Loot Midgets.\n\nAt level 90, the Action Skill cooldown bonus can reach 51.0%, and the elemental damage bonus can reach 42.0%.",
   "special": {
-    "description": "Rolls with a single elemental damage bonus: Incendiary, Shock, or Corrosive. Grants increased damage for the rolled element and faster Action Skill recharge. The elemental damage boost is multiplicative rather than additive like most gun damage bonuses."
+    "description": "Rolls with a single elemental damage bonus, either incendiary, shock, or corrosive. It increases damage for that element and speeds up Action Skill recharge. The elemental damage bonus is multiplicative rather than additive like most gun-damage boosts."
   },
   "max": {
     "cooldown_rate_bonus": 51,

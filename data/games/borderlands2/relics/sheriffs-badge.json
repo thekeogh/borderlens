@@ -11,7 +11,7 @@
   "name": "Sheriff's Badge",
   "slug": "sheriffs-badge",
   "type": "Offense",
-  "description": "A unique Eridian relic from Borderlands 2. The Sheriff's Badge boosts pistol fire rate and pistol damage, and extends Fight For Your Life bleed-out time. It also grants party-based bonuses to maximum health and Fight For Your Life duration when allies equip Deputy's Badges.",
+  "description": "A unique Eridian relic built for pistol users, boosting pistol fire rate and damage while also extending Fight For Your Life time. In co-op, it becomes even better thanks to party bonuses tied to allies wearing Deputy's Badges.",
   "manufacturers": [
     "Eridian"
   ],
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "A stronger counterpart to the Deputy's Badge, trading shotgun bonuses for pistol boosts while adding extra survivability. It is most effective when only one player equips it, as stacking bonuses come from teammates wearing Deputy's Badges rather than additional Sheriff's Badges. Its pistol bonuses also apply to Krieg's thrown buzz axe. Notably, it is the only purple-rarity relic in Borderlands 2 with red flavour text.",
+  "notes": "It is the stronger counterpart to Deputy's Badge, trading shotgun bonuses for pistol boosts while adding more survivability.\n\nIt is usually most effective when only one player equips it, because the extra party bonuses come from teammates wearing Deputy's Badges rather than from stacking multiple Sheriff's Badges. Its pistol bonuses also apply to Krieg's thrown buzz axe.\n\nIt is also the only purple-rarity relic with red flavor text.",
   "special": {
-    "description": "Boosts pistol fire rate and pistol damage, and increases Fight For Your Life bleed-out time. Party bonus: for each Deputy's Badge equipped by other players, all players gain +15% maximum health and +15% Fight For Your Life time.",
+    "description": "Boosts pistol fire rate and damage, and increases Fight For Your Life bleed-out time. For each Deputy's Badge equipped by another player, everyone on the team also gains bonus maximum health and extra Fight For Your Life time.",
     "title": "Take turns and play nice."
   },
   "max": {

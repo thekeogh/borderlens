@@ -11,7 +11,7 @@
   "name": "Winter is Over",
   "slug": "winter-is-over",
   "type": "Offense",
-  "description": "Winter is Over is a unique Eridian relic from the Fight for Sanctuary DLC in Borderlands 2. It can be obtained from Ghost, a named skag found in a small cave near the entrance to The Burrows.",
+  "description": "A unique Eridian relic that boosts incendiary damage. It is a focused offensive option for fire-heavy builds, and its effect is strong enough to matter on characters or loadouts built around burning targets down quickly.",
   "manufacturers": [
     "Eridian"
   ],
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "This relic may appear in blue or purple. Its name is a nod to the phrase \"Winter is Coming\".",
+  "notes": "It drops from Ghost, a named skag in a small cave near the entrance to The Burrows.\n\nThis relic can appear in blue or purple rarity. Its name nods to the phrase \"Winter is Coming.\"",
   "special": {
-    "description": "Boosts Incendiary damage dealt by up to 42%."
+    "description": "Boosts incendiary damage dealt."
   },
   "max": {
     "level": 90

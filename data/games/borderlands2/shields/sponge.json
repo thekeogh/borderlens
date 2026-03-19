@@ -11,7 +11,7 @@
   "name": "Sponge",
   "slug": "sponge",
   "type": "Absorb",
-  "description": "The Sponge is a Vladof Seraph shield from Borderlands 2, added with Campaign of Carnage. It is built around absorbing incoming bullets and turning them into ammo, without any extra special effect beyond its part rolls. It usually spawns with solid capacity, and can roll Maliwan capacitors for elemental resistance. Absorb rate is part-dependent: Bandit pieces tend to be lower, while heavy Maliwan setups can reach very high absorption at the cost of capacity and recharge stats.",
+  "description": "A Vladof Seraph absorb shield built around turning incoming bullets into ammo. It has no exclusive effect beyond its absorb behavior, but it usually comes with solid capacity and can roll Maliwan capacitors for elemental resistance.\n\nIts absorb rate depends heavily on its parts. Bandit combinations tend to be lower, while heavy Maliwan setups can reach very high absorption at the cost of capacity and recharge performance.",
   "manufacturers": [
     "Vladof"
   ],
@@ -35,10 +35,10 @@
     "Explosive"
   ],
   "special": {
-    "description": "Absorb chance varies by parts, ranging from 20% up to 54%.",
+    "description": "Its absorb chance varies heavily by parts, ranging from modest rolls to very high absorption on the right setup.",
     "title": "Highly absorbent!"
   },
-  "notes": "",
+  "notes": "Its value depends heavily on the exact part roll, since that determines whether it leans toward raw absorb chance or more balanced shield stats.",
   "max": {
     "absorb_chance": 54,
     "capacity": 3683040,

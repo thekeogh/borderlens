@@ -11,7 +11,7 @@
   "name": "Easy Mode",
   "slug": "easy-mode",
   "type": "Standard",
-  "description": "Easy Mode is an Effervescent Maliwan shield introduced in Borderlands 2 with the Commander Lilith and the Fight for Sanctuary DLC.",
+  "description": "An Effervescent Maliwan shield built around Digistruct Peak synergy. On its own it is not especially remarkable, but it becomes much more powerful when paired with the other Peak-themed gear.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -31,9 +31,9 @@
     "None",
     "Shock"
   ],
-  "notes": "With Salvador, Gunzerking while the Peak Opener is in the left hand can cause its damage bonus to apply to the weapon in the right hand as well.",
+  "notes": "With Salvador, Gunzerking while Peak Opener is held in the left hand can cause the damage bonus to apply to the weapon in the right hand as well.",
   "special": {
-    "description": "In the Raid on Digistruct Peak, it gains extra effects when used with the Hard Carry relic or the Peak Opener: - +300 percent maximum health - Fight For Your Life lasts 2 minutes - +100 percent Peak Opener damage Quirk: its nova seems to trigger only when the Law pistol is held, and the damage is minimal.",
+    "description": "On Digistruct Peak, it gains extra effects when used with Hard Carry or Peak Opener, including a large health boost, a much longer Fight For Your Life timer, and bonus Peak Opener damage. It also has a quirky nova interaction with the Law pistol, though the damage is minimal.",
     "title": "Keep the pressure up without getting bodied."
   },
   "max": {

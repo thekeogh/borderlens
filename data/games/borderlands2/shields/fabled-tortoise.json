@@ -11,7 +11,7 @@
   "name": "Fabled Tortoise",
   "slug": "fabled-tortoise",
   "type": "Turtle",
-  "description": "Legendary Pangolin shield with massive capacity at the cost of max health. While it has any charge you are heavily slowed; when it is fully depleted you gain a large movement speed boost and increased jump distance.",
+  "description": "A legendary Pangolin turtle shield with massive capacity at the cost of maximum health. While it has any charge left, it heavily slows your movement, but once it is fully depleted it grants a large speed boost and increased jump distance.",
   "manufacturers": [
     "Pangolin"
   ],
@@ -38,9 +38,9 @@
     "None",
     "Explosive"
   ],
-  "notes": "Very large capacity boosts may be limited by a hidden cap. Can roll a Torgue capacitor for explosive resistance, but cannot roll elemental immunity. At very high levels it can reduce max health to 1, letting chip damage bypass health-gate and trigger FFYL. Strong on Gaige due to high capacity and frequent restores; Sharing is Caring can pass the capacity to Deathtrap. Negative-capacity setups can keep the speed bonus, but effects requiring true 0 charge do not persist while below 0. Red text references The Tortoise and the Hare.",
+  "notes": "Very large capacity boosts can run into a hidden cap. It can roll a Torgue capacitor for explosive resistance, but it cannot roll elemental immunity.\n\nAt very high levels it can reduce maximum health to 1, which lets chip damage bypass health-gate and send you straight into Fight For Your Life. It is strong on Gaige thanks to its huge capacity and frequent shield restores, and Sharing is Caring can pass that capacity to Deathtrap. Negative-capacity setups can preserve the speed bonus, but effects that require true zero charge do not persist while the shield sits below zero. The red text references The Tortoise and the Hare.",
   "special": {
-    "description": "While shielded: 80% slower movement. When fully depleted: 50% faster movement. Massive shield capacity, reduced max health.",
+    "description": "While the shield has charge, it greatly slows movement. When fully depleted, it instead grants a major movement-speed boost. It also comes with massive capacity and reduced maximum health.",
     "title": "Win by a hare."
   },
   "max": {

@@ -11,7 +11,7 @@
   "name": "Lucrative Opportunity",
   "slug": "lucrative-opportunity",
   "type": "Universal",
-  "description": "Lucrative Opportunity is a unique Eridian relic from Borderlands 2. It is awarded during the mission Safe and Sound if you hand the incriminating photos of Moxxi to Marcus.",
+  "description": "A unique Eridian relic focused on vendor utility rather than combat. It speeds up vending machine restock timers, so it is mildly useful for shop-farming routes that rely on waiting instead of save-quit resets.",
   "manufacturers": [
     "Eridian"
   ],
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "The relic looks like a pair of coins, matching its money-focused theme.",
+  "notes": "It is awarded during Safe and Sound if you hand the incriminating photos of Moxxi to Marcus.\n\nThe relic resembles a pair of coins, matching its money-focused theme.",
   "special": {
-    "description": "Cuts vending machine restock time by 36.5%, speeding up the shop timer. For farming, save-quit resets are still quicker."
+    "description": "Cuts vending machine restock time, speeding up the shop timer. For most farming routes, save-quit resets are still faster."
   },
   "abilities": [
     "Causes shop timers to count down faster."

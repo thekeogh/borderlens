@@ -11,7 +11,7 @@
   "name": "Neogenator",
   "slug": "neogenator",
   "type": "Adaptive",
-  "description": "Legendary Anshin adaptive shield. While it has charge, it restores a small portion of your maximum health each second. If an enemy has hit you recently, the health regen ramps up sharply. The size of the hit is irrelevant; only being struck matters. The regeneration pauses whenever the shield is empty. Works best in prolonged fights with frequent chip damage, and is less reliable against heavy burst damage.",
+  "description": "A legendary Anshin adaptive shield that restores a small portion of your maximum health each second while it has charge. If an enemy has hit you recently, that regeneration ramps up sharply, regardless of how hard the hit was.\n\nIt works best in prolonged fights with frequent chip damage and is less reliable against heavy burst damage, since the regeneration stops whenever the shield is empty.",
   "manufacturers": [
     "Anshin"
   ],
@@ -41,9 +41,9 @@
       ]
     }
   ],
-  "notes": "When copied via Sharing is Caring, Deathtrap does not gain this shield's health regeneration. As with other adaptive shields, it has no elemental resistance immediately after equipping or loading in. Resistance is only gained after taking elemental damage, is lost when the shield breaks, and must be built up again once it has recharged. The red flavour text is a nod to Henry David Thoreau.",
+  "notes": "When copied through Sharing is Caring, Deathtrap does not receive this shield's health regeneration.\n\nLike other adaptive shields, it has no elemental resistance immediately after being equipped or after loading in. That resistance only appears after taking elemental damage, disappears when the shield breaks, and has to be rebuilt after the shield recharges. The red flavor text references Henry David Thoreau.",
   "special": {
-    "description": "While charged: regenerates 0.05% of maximum health per second. After a recent enemy hit: regenerates 3.0% of maximum health per second. No regeneration while depleted. Adaptive: while charged, gains resistance to the last element that hit you, up to 86%. Traits: boosts maximum health, lowers shield capacity.",
+    "description": "While charged, it regenerates health and gains resistance to the last element that hit you. That regeneration becomes much stronger after a recent enemy hit, but stops completely while the shield is empty.",
     "title": "For an impenetrable shield, stand inside yourself."
   },
   "elements": [

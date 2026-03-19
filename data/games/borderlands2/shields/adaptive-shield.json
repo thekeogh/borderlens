@@ -10,8 +10,8 @@
   "name": "Adaptive Shield",
   "slug": "adaptive-shield",
   "type": "Adaptive",
-  "description": "Anshin Adaptive Shields boost your maximum health and adjust their elemental resistance to match the last elemental hit you took. They are useful in fights with varied damage types, as long as the shield stays up long enough for the resistance to pay off.",
-  "notes": "Only one element is resisted at any time. Their benefit can drop off against heavy burst damage or when different elements hit you in quick succession, as the resistance keeps switching.",
+  "description": "Anshin adaptive shields boost maximum health and shift their elemental resistance to match the last elemental hit you took. They work best in fights with mixed elemental damage, as long as the shield stays up long enough for the resistance swap to matter.",
+  "notes": "They only resist one element at a time. Their value drops against heavy burst damage or rapid elemental switching, since the resistance keeps changing to match the last hit.",
   "manufacturers": [
     "Anshin"
   ],
@@ -22,7 +22,7 @@
     "Epic"
   ],
   "special": {
-    "description": "While the shield is active, it gains temporary resistance to the most recent element that damaged you."
+    "description": "While the shield has charge, it gains temporary resistance to the most recent element that damaged you."
   },
   "sources": [
     {

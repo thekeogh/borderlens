@@ -10,8 +10,8 @@
   "name": "Turtle Shield",
   "slug": "turtle-shield",
   "type": "Turtle",
-  "description": "Turtle Shields are Pangolin models that trade maximum health for a much larger shield capacity. They suit characters who prefer a bigger shield pool and can play around the health loss with defensive skills, damage reduction, or careful positioning.",
-  "notes": "At higher levels the reduced health can be the main drawback. They work best in builds that can restore, buffer, or otherwise compensate for the lower maximum health.",
+  "description": "Turtle shields are Pangolin models that trade maximum health for a much larger shield pool. They suit characters who want more shielding and can offset the health loss with defensive skills, damage reduction, or careful positioning.",
+  "notes": "At higher levels, the reduced health often becomes the main drawback. They work best in builds that can restore, buffer, or otherwise compensate for the lower maximum health.",
   "manufacturers": [
     "Pangolin"
   ],
@@ -22,7 +22,7 @@
     "Epic"
   ],
   "special": {
-    "description": "Greatly increases shield capacity but reduces maximum health."
+    "description": "Greatly increases shield capacity, but reduces maximum health."
   },
   "sources": [
     {

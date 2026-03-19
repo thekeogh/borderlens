@@ -13,8 +13,8 @@
   ],
   "slug": "shield-tediore",
   "type": "Standard",
-  "description": "Tediore standard shields focus on simple protection with no unique perk. Higher quality models tend to recharge rapidly, favouring quick resets over maximum capacity. This suits taking cover, letting the shield come back up, then re-engaging in short bursts.",
-  "notes": "They generally prioritise fast recharge behaviour instead of specialised combat bonuses or large shield capacity.",
+  "description": "Tediore standard shields focus on straightforward protection with no special gimmick. Higher-quality versions usually recharge very quickly, favoring fast resets over large capacity.\n\nThat makes them well suited to ducking into cover, letting the shield come back, and then re-engaging in short bursts.",
+  "notes": "They generally prioritize quick recharge behavior over specialized combat bonuses or large shield pools.",
   "manufacturers": [
     "Tediore"
   ],

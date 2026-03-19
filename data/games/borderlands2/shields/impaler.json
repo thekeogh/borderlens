@@ -11,7 +11,7 @@
   "name": "Impaler",
   "slug": "impaler",
   "type": "Spike",
-  "description": "Impaler is a legendary Maliwan shield that mixes spike retaliation with a ranged counter. Melee attackers take corrosive damage on hit. When you are struck by bullets, the shield launches a slow, homing corrosive spike back towards the shooter. The projectile can drift wide, struggle to hit very close targets, switch to a nearer enemy while travelling, and is blocked by solid cover.",
+  "description": "A legendary Maliwan shield that mixes spike retaliation with a ranged counterattack. Melee attackers take corrosive damage on contact, while bullet hits cause the shield to launch a slow homing corrosive spike back at the shooter.\n\nThat projectile can drift wide, miss very close targets, switch to a nearer enemy while traveling, and gets blocked by solid cover.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -45,9 +45,9 @@
     "None",
     "Corrosive"
   ],
-  "notes": "Only bullet impacts launch the spike; most other ranged damage will not. Reflected rounds that hit you can still trigger it. The launched spike deals corrosive splash damage and benefits from grenade damage bonuses. Spike kills can activate Blood Bath, but they do not progress the Game of Thorns challenge. The spike can damage you if it detonates too close. Impaler can spawn with the Alkaline prefix for corrosive immunity, but it cannot roll other elemental immunities.",
+  "notes": "Only bullet impacts launch the spike. Most other ranged damage does not. Reflected rounds that hit you can still trigger it.\n\nThe launched spike deals corrosive splash damage and benefits from grenade-damage bonuses. Kills from the spike can activate Blood Bath, but they do not count toward the Game of Thorns challenge. The spike can also damage you if it detonates too close. Impaler can spawn with the Alkaline prefix for corrosive immunity, but it cannot roll other elemental immunities.",
   "special": {
-    "description": "Bullet hit (shield up or down): launches a homing corrosive spike. Melee hit (shield up or down): retaliates with corrosive damage.",
+    "description": "Bullet hits launch a homing corrosive spike, while melee hits trigger corrosive retaliation damage.",
     "title": "Vlad would be proud."
   },
   "max": {

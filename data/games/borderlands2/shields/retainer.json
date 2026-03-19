@@ -11,7 +11,7 @@
   "name": "Retainer",
   "slug": "retainer",
   "type": "Roid",
-  "description": "The Retainer is an Effervescent shield made by Hyperion, added with the Fight for Sanctuary DLC for Borderlands 2.",
+  "description": "An Effervescent Hyperion shield with a narrow but useful movement bonus when paired with Toothpick in the right location. Outside of that setup, it mainly stands out as an unusual Hyperion maylay shield.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -37,9 +37,9 @@
   "elements": [
     "Corrosive"
   ],
-  "notes": "It is the only Hyperion-manufactured Maylay shield in the game.",
+  "notes": "It is the only Hyperion-made maylay shield in the game.",
   "special": {
-    "description": "When used with the Toothpick in the Writhing Deep, it increases movement speed and jump height. Known issue: the melee damage bonus does not apply, so it provides no roid-style boost.",
+    "description": "When used with Toothpick in the Writhing Deep, it increases movement speed and jump height. Due to a bug, its melee damage bonus does not apply, so it offers no real roid-style boost.",
     "title": "Retains your guts inside your body, where they belong."
   },
   "max": {

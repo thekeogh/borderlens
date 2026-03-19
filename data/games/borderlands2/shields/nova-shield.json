@@ -10,8 +10,8 @@
   "name": "Nova Shield",
   "slug": "nova-shield",
   "type": "Nova",
-  "description": "Nova Shields detonate when their capacity hits zero, releasing an elemental burst around you that damages nearby foes. They suit close-range builds that stay on top of enemies and can turn shield breaks into crowd damage or a quick Second Wind setup.",
-  "notes": "A nova cannot trigger again until the shield has fully recharged, so recharge delay, recharge rate and staying in range determine how often it pays off.",
+  "description": "Nova shields detonate when their capacity hits zero, releasing an elemental burst around you that damages nearby enemies. They suit close-range builds that stay in the middle of the fight and can turn shield breaks into crowd damage or quick Second Wind setups.",
+  "notes": "A nova cannot trigger again until the shield has fully recharged, so recharge delay, recharge rate, and your ability to stay near enemies all determine how often it pays off.",
   "manufacturers": [
     "Maliwan",
     "Torgue"
@@ -29,7 +29,7 @@
     "Epic"
   ],
   "special": {
-    "description": "On break, unleashes an elemental nova that damages enemies close to the wearer."
+    "description": "On shield break, it releases an elemental nova that damages nearby enemies."
   },
   "sources": [
     {

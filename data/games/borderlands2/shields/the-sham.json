@@ -11,7 +11,7 @@
   "name": "The Sham",
   "slug": "the-sham",
   "type": "Absorb",
-  "description": "The Sham is a legendary Vladof shield in Borderlands 2 that focuses on absorbing bullets, turning many incoming shots into ammo. It shines against enemies using firearms. The trade-off is poor basic defence, with low capacity and weak recharge performance. It does little against non-bullet damage, so its usefulness depends on the encounter.",
+  "description": "A legendary Vladof absorb shield built around turning incoming gunfire into ammo. It is at its best against enemies that rely heavily on firearms, where its absorb chance can turn sustained fire into a constant stream of ammunition.\n\nThe trade-off is weak basic defense, with low capacity and poor recharge performance. It does very little against non-bullet damage, so its usefulness depends heavily on the encounter.",
   "manufacturers": [
     "Vladof"
   ],
@@ -34,9 +34,9 @@
       ]
     }
   ],
-  "notes": "Dropped by BNK3R (3.33% chance). Useful for the Ammo Eater challenge. Can work against Krieg in Mania and Hellborn, as absorbed hits may not trigger damage-based mechanics. Bloodlust builds tend to gain more from the extra ammo. Strong for launcher-heavy setups, helping top up rockets via self-splash with gear such as Logan's Gun, KerBlaster, or the Grenadier, and lowering the chance of self-inflicted deaths. Cannot roll with a Maliwan capacitor, or with Anshin, Bandit, Pangolin, or Torgue parts. Red text references a ShamWow catchphrase.",
+  "notes": "Its dedicated source is BNK-3R, and it is also useful for the Ammo Eater challenge.\n\nIt can work well on Krieg in Mania or Hellborn, since absorbed hits may not trigger some damage-based mechanics. Bloodlust builds usually get more value from the extra ammo. It is also strong in launcher-heavy setups, where it helps refill rockets through self-splash with weapons such as Logan's Gun, KerBlaster, or the Grenadier while lowering the risk of self-inflicted deaths.\n\nIt cannot roll a Maliwan capacitor or spawn with Anshin, Bandit, Pangolin, or Torgue parts. The red text references a ShamWow catchphrase.",
   "special": {
-    "description": "Absorption chance varies by parts, from 77% to 94%. Wow, I CAN do this all day. Massive bullet absorption. Greatly reduced shield capacity and recharge delay, with a slightly reduced recharge rate. Cannot spawn with elemental resistance.",
+    "description": "Its absorb chance varies by parts, reaching extremely high bullet absorption on the best rolls. In exchange, it has sharply reduced shield stats and cannot spawn with elemental resistance.",
     "title": "Wow, I CAN do this all day."
   },
   "elements": [

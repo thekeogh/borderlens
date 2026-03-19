@@ -10,7 +10,7 @@
   "name": "Elemental Relic",
   "slug": "elemental-relic",
   "type": "Elemental",
-  "description": "The Elemental Relic is a common Eridian relic in Borderlands 2.",
+  "description": "A basic Eridian relic that boosts damage for a single elemental type. It is a simple option for early builds that lean on matching elements.",
   "manufacturers": [
     "Eridian"
   ],
@@ -20,9 +20,9 @@
     "Rare",
     "Epic"
   ],
-  "notes": "Its bonus overlaps with the Bone of the Ancients, which effectively pairs an elemental damage boost with an elemental proficiency bonus.",
+  "notes": "Its elemental damage bonus overlaps with Bone of the Ancients, which adds faster Action Skill cooldown on top of a similar effect.",
   "special": {
-    "description": "Boosts damage for a single elemental type. At Overpower levels, the bonus can reach up to 38%."
+    "description": "Boosts damage for a single elemental type."
   },
   "sources": [
     {

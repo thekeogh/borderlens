@@ -11,7 +11,7 @@
   "name": "Whisky Tango Foxtrot",
   "slug": "whisky-tango-foxtrot",
   "type": "Booster",
-  "description": "Legendary DAHL booster shield. Taking damage can launch an IED Booster at the nearest enemy. While it sits on the ground it emits timed volleys of arcing shock MIRV charges, up to nine blasts in total, and the explosions can hit you too. Pick the booster up to regain 25 percent of your shield; collecting it early also cancels any remaining volleys. Strong for mid-range fights, but hazardous in cramped areas or versus fast-moving targets.",
+  "description": "A legendary Dahl booster shield that can launch an IED Booster toward the nearest enemy when you take damage. Once it lands, that booster emits timed volleys of arcing shock MIRV charges, and those explosions can hurt you as easily as they hurt enemies.\n\nPicking the booster up restores part of your shield and cancels the remaining volleys. It is strong in mid-range fights, but dangerous in tight spaces or against fast-moving targets.",
   "manufacturers": [
     "Dahl"
   ],
@@ -47,9 +47,9 @@
     "Shock",
     "Corrosive"
   ],
-  "notes": "The booster begins firing as soon as it lands; pickup only restores shields and prevents further charges. The shock blasts have heavy knockback and can stagger foes. Expect frequent self-damage, so shock resistance or mitigation skills are useful. Rats can be killed while trying to steal an active booster. Cannot spawn with Bandit or Torgue parts. The name references the NATO initialism \"WTF\" and a joke about \"SNAFU\"; IED stands for improvised explosive device.",
+  "notes": "The booster starts firing as soon as it lands. Picking it up only restores shield charge and prevents further volleys.\n\nThe shock blasts have strong knockback and can stagger enemies. You should also expect frequent self-damage, so shock resistance or mitigation skills help a lot. Rats can even be killed while trying to steal an active booster. It cannot spawn with Bandit or Torgue parts.\n\nIts name references the NATO initialism \"WTF\" and a joke about \"SNAFU.\" IED stands for improvised explosive device.",
   "special": {
-    "description": "On taking damage, may fire an IED Booster towards the nearest enemy. The booster releases three timed volleys of arcing shock charges (up to 9 explosions) that can also damage the wearer. Picking it up restores 25 percent of shield capacity and stops any further charges.",
+    "description": "When you take damage, it can launch an IED Booster toward the nearest enemy. That booster releases timed volleys of arcing shock charges that can also damage the wearer. Picking it up restores shield capacity and stops the remaining volleys.",
     "title": "Situation normal... ...all foxtroted up."
   },
   "max": {

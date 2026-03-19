@@ -10,8 +10,8 @@
   "name": "Booster Shield",
   "slug": "booster-shield",
   "type": "Booster",
-  "description": "Booster Shields, most often made by Dahl, can spawn shield booster pickups when you take hits. Grabbing a booster replenishes a portion of your shield, helping you stay topped up during longer firefights where steady incoming damage keeps boosters appearing.",
-  "notes": "Boosters are temporary and will shrink and vanish, so you need to move to collect them quickly. In co-op, their value depends on which player is able to pick up the drops when they appear.",
+  "description": "Booster shields, most commonly made by Dahl, can spawn shield booster pickups when you take damage. Collecting one restores part of your shield, which helps keep you topped up during longer fights where steady incoming fire keeps boosters dropping.",
+  "notes": "Boosters are temporary and shrink before vanishing, so you need to move quickly to collect them. In co-op, their value depends heavily on who can actually reach the drops when they appear.",
   "manufacturers": [
     "Dahl"
   ],
@@ -22,7 +22,7 @@
     "Epic"
   ],
   "special": {
-    "description": "When damaged, may drop booster batteries that restore shield capacity when collected."
+    "description": "When damaged, it can drop booster batteries that restore shield capacity when picked up."
   },
   "sources": [
     {

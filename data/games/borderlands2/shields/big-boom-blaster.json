@@ -11,7 +11,7 @@
   "name": "Big Boom Blaster",
   "slug": "big-boom-blaster",
   "type": "Booster",
-  "description": "Big Boom Blaster is a Seraph booster shield made by Torgue. When you take damage it has a very high chance to spawn boosters. Unlike typical booster shields, its drops can also top up limited ammo, making it well suited to builds that burn through grenades and rockets. The steady stream of boosters can help in solo play and gives co-op teams extra pick-ups to share.",
+  "description": "A Torgue booster shield with an unusually high chance to spawn pickups when you take damage. Unlike most booster shields, its drops can also refill limited ammo, which makes it especially good for builds that burn through grenades and rockets.\n\nThat steady stream of boosters is valuable in solo play and gives co-op teams plenty of pickups to share.",
   "manufacturers": [
     "Torgue"
   ],
@@ -41,9 +41,9 @@
     "Corrosive",
     "Explosive"
   ],
-  "notes": "Strong versus Pete the Invincible, as his sustained damage-over-time keeps proccing booster drops, easing pressure on the wearer and leaving more boosters for teammates. It can spawn with hidden capacitor parts: Maliwan versions grant resistance to shock, corrosive, or incendiary damage, while a Torgue capacitor reduces explosive damage. These do not add a visible prefix. Despite being made by Torgue, it uses the visual model of a purple Dahl shield.",
+  "notes": "It is especially strong against Pete the Invincible, since his persistent damage-over-time keeps triggering booster drops, easing pressure on the wearer and leaving more pickups for teammates.\n\nIt can spawn with hidden capacitor parts. Maliwan capacitors grant resistance to shock, corrosive, or incendiary damage, while a Torgue capacitor reduces explosive damage, and none of these add a visible prefix. Despite being a Torgue shield, it uses the visual model of a purple Dahl shield.",
   "special": {
-    "description": "Picking up a Shield Booster restores 1 grenade and 1 rocket launcher round.",
+    "description": "Picking up one of its shield boosters also restores a grenade and a rocket round.",
     "title": "For all your big boom blasting needs!"
   },
   "max": {

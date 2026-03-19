@@ -11,7 +11,7 @@
   "name": "Deputy's Badge",
   "slug": "deputys-badge",
   "type": "Offense",
-  "description": "Deputy's Badge is a unique Eridian relic from Borderlands 2. It is awarded for completing the mission Showdown in Lynchwood.",
+  "description": "A unique Eridian relic built for shotgun play, boosting both shotgun damage and reload speed. It also adds a teamwide Fight For Your Life bonus when multiple players wear Deputy's Badges, which gives it extra value in co-op.",
   "manufacturers": [
     "Eridian"
   ],
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "Its flavour line references the chorus of Bob Marley's I Shot the Sheriff: \"I shot the sheriff, but I did not shoot the deputy.\"",
+  "notes": "It is awarded for completing Showdown in Lynchwood.\n\nIts flavor line references the chorus of Bob Marley's \"I Shot the Sheriff\": \"I shot the sheriff, but I did not shoot the deputy.\"",
   "special": {
-    "description": "Boosts shotgun damage and reload speed. While equipped, each Deputy's Badge worn by anyone in the party adds +10% Fight For Your Life duration for all team members (stacks per equipped badge).",
+    "description": "Boosts shotgun damage and reload speed. While equipped, each Deputy's Badge worn by anyone in the party adds extra Fight For Your Life duration for all team members, and those bonuses stack.",
     "title": "Who the hell shot me?"
   },
   "max": {

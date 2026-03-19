@@ -11,7 +11,7 @@
   "name": "Blockade",
   "slug": "blockade",
   "type": "Adaptive",
-  "description": "Blockade is a Seraph shield from Anshin introduced in the Dragon Keep add-on. It is valued for its reliable defensive stats and an always-on damage reduction effect. The reduction helps blunt heavy incoming damage, including explosive hits and raid boss attacks.",
+  "description": "An Anshin Seraph shield valued for its reliable defensive stats and its always-on damage reduction. That reduction helps blunt heavy incoming damage, including explosive hits and raid boss attacks, which makes Blockade one of the strongest pure defensive shields available.",
   "manufacturers": [
     "Anshin"
   ],
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "The damage reduction does not work as shown on the card. The reduction is a fixed percentage based on level and parts and it applies even when the shield is depleted. At OP8, the highest reduction achievable with Hyperion parts is about 45.7%, slightly under an optimal Antagonist at roughly 49%. It cannot spawn with Maliwan parts. Despite being branded Anshin, it uses a Hyperion-style model, does not provide the usual Anshin maximum health bonus, and is the only Anshin shield that is not Adaptive.",
+  "notes": "Its damage reduction does not work the way the item card suggests. The reduction is a fixed percentage based on level and parts, and it still applies even when the shield is empty.\n\nAt the top end, the highest reduction achievable with Hyperion parts is about 45.7%, slightly below an optimized Antagonist at roughly 49%. It cannot spawn with Maliwan parts. Despite the Anshin branding, it uses a Hyperion-style model, does not grant the usual Anshin maximum-health bonus, and is the only Anshin shield that is not adaptive.",
   "special": {
-    "description": "Provides constant damage reduction. The listed extra reduction while the shield is full is bugged and does not apply. Passive reduction: 0.5% x shield level + 7.5%. Intended full-shield bonus: 5% x shield level. Damage taken is calculated as damage / (1 + damage reduction).",
+    "description": "Provides constant damage reduction. The listed extra reduction while the shield is full is bugged and does not apply.",
     "title": "Am I living or am I dying?"
   },
   "elements": [

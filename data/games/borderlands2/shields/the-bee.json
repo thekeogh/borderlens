@@ -11,7 +11,7 @@
   "name": "The Bee",
   "slug": "the-bee",
   "type": "Amplify",
-  "description": "Legendary Hyperion amp shield for maximum burst. Extremely low capacity and long recharge delay, but grants a huge amp bonus that does not drain shield. While the shield is full, every shot is amped; any damage ends the effect until fully recharged. Best for cautious, high-damage play.",
+  "description": "A legendary Hyperion amp shield built for maximum burst damage. It has extremely low capacity and a long recharge delay, but in exchange it grants a huge amp bonus that does not consume shield charge.\n\nWhile the shield is full, every shot is amped. Any incoming damage shuts that down until the shield fully recharges again, so it works best for cautious, high-damage play.",
   "manufacturers": [
     "Hyperion"
   ],
@@ -62,9 +62,9 @@
     "Corrosive",
     "Explosive"
   ],
-  "notes": "Common drops include Hunter Hellquist and Treants. Amp applies to vehicle weapons. Vehicle damage does not drain the driver's shield, so the amp can stay active while driving. Can roll resistance prefixes (Grounded, Inflammable, Alkaline) or Blast Proof. Fixed parts: always a Torgue body; cannot roll Dahl or Hyperion battery or capacitor. Balance changes reduced amp and recharge rate, increased delay, split amp across listed projectiles, and stopped most Tediore reload throws from being amped.",
+  "notes": "Common drop sources include Hunter Hellquist and Treants.\n\nIts amp bonus also applies to vehicle weapons, and vehicle damage does not drain the driver's shield, which means the amp can stay active while driving. It can roll resistance prefixes such as Grounded, Inflammable, Alkaline, or Blast Proof. Its parts are otherwise fixed in several ways: it always uses a Torgue body and cannot roll a Dahl or Hyperion battery or capacitor.\n\nLater balance changes reduced its amp damage and recharge rate, increased recharge delay, split amp across listed projectiles, and prevented most Tediore reload throws from receiving the bonus.",
   "special": {
-    "description": "While full, shots gain a huge amp damage bonus with no shield drain. Listed multi-pellet guns (x2, x3, etc) split the amp between projectiles; unlisted extra projectiles can each get the full bonus. Very high amp, drastically reduced capacity, increased recharge delay, improved recharge rate.",
+    "description": "While full, shots gain a huge amp bonus without draining the shield. Listed multi-pellet guns split that bonus between projectiles, while some unlisted extra projectiles can still receive the full effect.",
     "title": "Float like a butterfly..."
   },
   "max": {

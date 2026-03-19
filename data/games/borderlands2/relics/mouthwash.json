@@ -11,7 +11,7 @@
   "name": "Mouthwash",
   "slug": "mouthwash",
   "type": "Offense",
-  "description": "Mouthwash is an Effervescent relic made by the Eridians, introduced with the Fight for Sanctuary DLC for Borderlands 2.",
+  "description": "An Effervescent Eridian relic that boosts assault rifle damage, with a much larger hidden payoff when paired with the Toothpick. On its own it is a straightforward offensive relic, but together with that weapon it becomes a major damage amplifier.",
   "manufacturers": [
     "Eridian"
   ],
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "At maximum roll, Mouthwash can boost assault rifle damage by up to 47.5%.",
+  "notes": "At its highest roll, it can boost assault rifle damage by up to 47.5%.",
   "special": {
-    "description": "Passively increases assault rifle damage. While the Toothpick is equipped, it also gains a separate +200% damage bonus. Salvador note: if Mouthwash is equipped and Toothpick is held in the left hand, the +200% bonus applies to the weapon in the right hand. Red text: Gargle and spit.",
+    "description": "Passively increases assault rifle damage. While Toothpick is equipped, it also grants a separate massive damage bonus. On Salvador, if Toothpick is held in the left hand, that bonus applies to the weapon in the right hand instead.",
     "title": "Gargle and spit."
   },
   "max": {

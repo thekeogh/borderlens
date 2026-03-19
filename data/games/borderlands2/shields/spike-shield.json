@@ -10,8 +10,8 @@
   "name": "Spike Shield",
   "slug": "spike-shield",
   "type": "Spike",
-  "description": "Spike Shields retaliate when you are struck by a melee attack, dealing elemental spike damage back to the attacker. They are niche, but can shine in close-quarters fights against melee-focused groups, steadily punishing enemies that keep pressing into you.",
-  "notes": "Much less effective against enemies that stay at range, as the spike effect only triggers on melee hits.",
+  "description": "Spike shields retaliate when you are hit by a melee attack, dealing elemental spike damage back to the attacker. They are niche, but they can work well in close-quarters fights against melee-heavy enemies that keep pushing into you.",
+  "notes": "They are much less effective against enemies that stay at range, since the spike effect only triggers on melee hits.",
   "manufacturers": [
     "Maliwan",
     "Torgue"
@@ -29,7 +29,7 @@
     "Epic"
   ],
   "special": {
-    "description": "Taking melee damage triggers elemental spike damage to the attacker."
+    "description": "Taking melee damage triggers elemental spike damage against the attacker."
   },
   "sources": [
     {

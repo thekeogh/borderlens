@@ -11,7 +11,7 @@
   "name": "Hard Carry",
   "slug": "hard-carry",
   "type": "Unique",
-  "description": "Hard Carry is an Eridian-made Effervescent relic introduced in the Fight for Sanctuary DLC for Borderlands 2.",
+  "description": "An Effervescent Eridian relic designed for Digistruct Peak survivability. On its own it does nothing special, but when paired with Easy Mode it becomes an enormous durability boost for that specific endgame area.",
   "manufacturers": [
     "Eridian"
   ],
@@ -28,7 +28,7 @@
     }
   ],
   "special": {
-    "description": "When paired with the Easy Mode shield, this relic massively boosts maximum health and greatly extends Fight For Your Life duration, but only while on Digistruct Peak. Tagline: Tough to lose when you are this broken.",
+    "description": "When paired with the Easy Mode shield, it massively boosts maximum health and greatly extends Fight For Your Life duration, but only on Digistruct Peak.",
     "title": "Tough to lose when you're this broken."
   },
   "notes": "",

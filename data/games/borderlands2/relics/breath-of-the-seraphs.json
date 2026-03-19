@@ -11,7 +11,7 @@
   "name": "Breath of the Seraphs",
   "slug": "breath-of-the-seraphs",
   "type": "Unique",
-  "description": "A Seraph relic from Borderlands 2 (Big Game Hunt). After you score a kill to get Second Wind, it triggers a short buff that boosts damage and rapidly regenerates health, helping you stabilise after being revived. With the damage boost, it can also be used to push aggressively straight after getting back on your feet.",
+  "description": "A Seraph relic designed around post-revive momentum. After you get a Second Wind, it grants a short burst of bonus damage and rapid health regeneration, letting you stabilise quickly and press the advantage instead of scrambling just to stay alive.",
   "manufacturers": [
     "Eridian"
   ],
@@ -28,7 +28,7 @@
     }
   ],
   "special": {
-    "description": "On Second Wind (kill while in Fight For Your Life), gain a buff for about 15 seconds: +55% damage +8.2% of maximum health regenerated per second",
+    "description": "After a Second Wind, it grants a short buff that boosts damage and rapidly regenerates health for roughly 15 seconds.",
     "title": "Their return is to be feared..."
   },
   "notes": "",

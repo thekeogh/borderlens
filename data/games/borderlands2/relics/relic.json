@@ -10,7 +10,7 @@
   "name": "Relic",
   "slug": "relic",
   "type": "Universal",
-  "description": "Eridian Relic. A common relic that increases shock elemental damage. In Borderlands 2, relics are passive gear items that raise one or more character stats. Their effects vary widely and can improve certain stats that are otherwise hard to increase. Unlike Artifacts, relics do not modify Action Skills, are not class-locked, and may be elemental or non-elemental. Relics only appear in Borderlands 2 and are Eridian-made.",
+  "description": "A basic Eridian relic that boosts shock damage. More broadly, relics are passive gear pieces that increase one or more character stats, ranging from elemental damage and survivability to utility bonuses that are hard to find elsewhere.",
   "manufacturers": [
     "Eridian"
   ],
@@ -20,7 +20,7 @@
     "Rare",
     "Epic"
   ],
-  "notes": "For relics with percentage-based bonuses, the final value depends on both the relic level and its grade. Grades range from 7 to 15, so a higher-level relic can sometimes roll weaker stats than a lower-level one. The same scaling applies with Overpower levels; the strongest rolls are typically found at the highest Overpower level with grade 15.",
+  "notes": "For relics with percentage-based bonuses, the final value depends on both item level and grade. Grades range from 7 to 15, so a higher-level relic can sometimes roll weaker stats than a lower-level one.\n\nThat same scaling rule applies at Overpower levels, and the strongest rolls usually come from the highest level with grade 15.",
   "sources": [
     {
       "name": "Relic Pool",

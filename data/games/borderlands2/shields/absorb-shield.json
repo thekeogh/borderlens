@@ -10,8 +10,8 @@
   "name": "Absorb Shield",
   "slug": "absorb-shield",
   "type": "Absorb",
-  "description": "Absorb Shields are Vladof-made defensive shields that can sometimes catch incoming bullets or rockets. When an absorption triggers, the hit is cancelled and you gain ammo of the same type. Higher-quality versions usually have a better absorb rate, making them handy against gun-heavy foes and for stretching your ammunition in long fights.",
-  "notes": "Absorption only applies to certain projectile attacks, not all damage sources. It shines in exposed firefights with limited cover and against enemies relying on standard firearms.",
+  "description": "Vladof absorb shields can sometimes catch incoming bullets or rockets before they hit you. When that effect triggers, the damage is canceled and you gain ammo of the same type, which makes these shields especially useful against gun-heavy enemies and in long fights where ammunition matters.",
+  "notes": "Absorption only works against certain projectile attacks, not every kind of incoming damage. It is strongest in exposed firefights with limited cover and against enemies that rely on conventional guns.",
   "manufacturers": [
     "Vladof"
   ],
@@ -28,7 +28,7 @@
     "Epic"
   ],
   "special": {
-    "description": "Chance to absorb incoming projectiles, prevent their damage, and add the corresponding ammo to your reserves."
+    "description": "Has a chance to absorb incoming projectiles, prevent their damage, and add matching ammo to your reserves."
   },
   "sources": [
     {

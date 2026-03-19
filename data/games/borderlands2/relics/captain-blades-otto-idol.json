@@ -14,7 +14,7 @@
   ],
   "slug": "captain-blades-otto-idol",
   "type": "Unique",
-  "description": "Captain Blade's Otto Idol is a cursed unique Eridian relic from the Pirate's Booty DLC, awarded for the mission Message in a Bottle in The Rustyards. It heals you for a percentage of your maximum health every time you score a kill, making it especially effective with weapons that can secure rapid multi-kills. It also pairs well with kill-triggered shield or health skills, helping offset their drawbacks, but its shorter Fight For Your Life window can make Second Winds harder to clutch in solo play.",
+  "description": "A cursed Eridian relic that restores a chunk of your maximum health whenever you score a kill. It is especially strong with weapons or builds that chain kills quickly, and it pairs well with skills that trade health for power, though the reduced Fight For Your Life duration can make solo recoveries more difficult.",
   "manufacturers": [
     "Eridian"
   ],
@@ -31,10 +31,10 @@
     }
   ],
   "special": {
-    "description": "Every man for himself! Killing an enemy restores a percentage of your maximum health and slightly speeds up ally revives. Curse: Fight For Your Life duration is reduced by roughly 3 seconds.",
+    "description": "Killing an enemy restores a percentage of your maximum health and slightly speeds up reviving allies. As a curse, it shortens your Fight For Your Life duration by roughly three seconds.",
     "title": "Every man for himself. Curse of the Sudden-er Death!"
   },
-  "notes": "Strong with wide-area explosive weapons for quick kill chains and easier Second Winds. Can offset Gaige's Blood Soaked Shields health drain on kill, though incoming damage multipliers (such as being Slagged) may outpace the healing. Works well with Zer0's Resurgence and kill-chaining setups, enabling near-instant recovery after a few kills. The FFYL penalty competes with relics that extend FFYL time, but the faster ally revive can be valuable in co-op.",
+  "notes": "It is awarded for the mission Message in a Bottle in The Rustyards.\n\nIt works especially well with wide-area explosive weapons for quick kill chains and easier recovery. It can offset Gaige's Blood Soaked Shields health drain on kill, though heavy incoming damage, especially while slagged, can still outpace the healing. It also plays well with Zer0's Resurgence and other kill-chaining setups.\n\nThe Fight For Your Life penalty competes directly with relics that extend that timer, but the faster ally revive can be valuable in co-op.",
   "max": {
     "level": 90
   }

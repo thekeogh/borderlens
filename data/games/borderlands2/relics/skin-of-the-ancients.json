@@ -11,7 +11,7 @@
   "name": "Skin of the Ancients",
   "slug": "skin-of-the-ancients",
   "type": "Survivability",
-  "description": "Skin of the Ancients is an Eridian E-tech relic in Borderlands 2 (Ultimate Upgrade Pack). It blends damage resistance effects with shield improvements, effectively combining Resistance and Protection relic bonuses. It drops only from Legendary Loot Midgets in Ultimate Vault Hunter Mode.",
+  "description": "An Eridian E-tech relic that blends elemental resistance with shield improvements, effectively combining the roles of Resistance and Protection relics. It is a strong all-purpose defensive option when you want layered survivability instead of a single narrow stat boost.",
   "manufacturers": [
     "Eridian"
   ],
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "Always rolls at least two effects and no more than four. It can include one to three resistance bonuses (as per Resistance relics) plus one or two shield bonuses (as per Protection relics).",
+  "notes": "It drops from Legendary Loot Midgets.\n\nIt always rolls at least two effects and no more than four. Those effects can include one to three resistance bonuses plus one or two shield bonuses.",
   "special": {
-    "description": "Grants 1 to 3 damage resistances (Physical, Fire, Shock, Corrosive, Explosive). Also provides 1 to 2 shield bonuses (Capacity and/or Recharge Rate). Maximum of 4 total effects."
+    "description": "Grants one to three damage resistances, including physical, fire, shock, corrosive, or explosive, and also provides one or two shield bonuses such as capacity or recharge rate, for a maximum of four total effects."
   },
   "max": {
     "capacity": 42,

@@ -11,7 +11,7 @@
   "name": "Love Thumper",
   "slug": "love-thumper",
   "type": "Roid",
-  "description": "Legendary Bandit roid shield for melee builds. Let it break, then use the huge recharge delay to stay at zero capacity so the roid bonus stays active. While empty, melee hits also trigger an explosive nova for extra damage. Best on Zer0; strong on Gaige via Sharing is Caring (equip on Deathtrap, then swap); useful for shield-down setups like Fleet or Mania. Offers little protection, so reliable healing helps.",
+  "description": "A legendary Bandit roid shield built for melee-heavy play. Its huge recharge delay makes it easy to keep the shield empty, which lets the roid bonus stay active for long stretches. While empty, melee hits also trigger an explosive nova for extra damage.\n\nIt is especially strong on Zer0, works well with Gaige through Sharing is Caring, and fits shield-down setups such as Fleet or Mania. It offers almost no real protection, so reliable healing is important.",
   "manufacturers": [
     "Bandit"
   ],
@@ -34,9 +34,9 @@
     "Corrosive",
     "Explosive"
   ],
-  "notes": "Bandit shield with a Torgue-style explosive nova; the nova can roll alongside other elemental resistances. The Bandit Technical sawblade launcher can trigger the nova (counts as melee) but also damages the vehicle. Good for Roid Rage farming; a low-level copy works well in low-level areas. Recharge delay is extreme and taking damage refreshes it. To force a refill, briefly swap to a fast-recharging shield, then swap back. Nova damage benefits from grenade and explosive boosts. The nova can hurt allies, and can also hit Gaige if Deathtrap is wearing the shield. Distinctive look with a yellow heart motif.",
+  "notes": "It is a Bandit shield with a Torgue-style explosive nova, and that nova can roll alongside other elemental resistances.\n\nThe Bandit Technical sawblade launcher counts as melee and can trigger the nova, though it also damages the vehicle. It is excellent for Roid Rage farming, and a low-level copy works well in low-level areas. The recharge delay is extreme, and taking damage refreshes it. To force a refill, you can briefly swap to a fast-recharging shield and then swap back. The nova benefits from grenade and explosive boosts, can hurt allies, and can also damage Gaige if Deathtrap is wearing the shield. It also has a distinctive yellow heart motif.",
   "special": {
-    "description": "Huge roid melee bonus with massively increased recharge delay. At zero capacity, melee hits release an explosive nova for extra explosive damage.",
+    "description": "Provides a huge roid melee bonus with a massively increased recharge delay. At zero capacity, melee hits also release an explosive nova.",
     "title": "If thumping you is wrong, I don't want to be right."
   },
   "max": {

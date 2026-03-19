@@ -11,7 +11,7 @@
   "name": "Cracked Sash",
   "slug": "cracked-sash",
   "type": "Standard",
-  "description": "Cracked Sash is an Epic-grade Tediore shield in Borderlands 2. It sacrifices capacity for rapid recovery, featuring a very high recharge rate and an exceptionally short recharge delay (about 0.98 to 1.48 seconds). This makes it well suited to quickly getting your shield back up during fast, aggressive fights. It has no exclusive effect beyond its stat profile. Similar purple Tediore shields with matching parts can reach comparable results, and its restricted part pool can also limit access to some elemental resistance capacitors.",
+  "description": "A Tediore shield that trades capacity for extremely fast recovery, with a very high recharge rate and an unusually short recharge delay. That makes it well suited to aggressive fights where you want your shield back almost immediately after it breaks.\n\nIt has no exclusive effect beyond its stat profile, and comparable purple Tediore shields can reach similar performance with the right parts.",
   "manufacturers": [
     "Tediore"
   ],
@@ -28,9 +28,9 @@
     }
   ],
   "special": {
-    "description": "Very low capacity, but an exceptionally short recharge delay and fast recharge rate."
+    "description": "Has very low capacity, but an exceptionally short recharge delay and a very fast recharge rate."
   },
-  "notes": "Despite being treated as a unique item, its performance is essentially replicable by standard purple Tediore shields, which are usually easier to obtain in normal play.",
+  "notes": "Despite being treated as a unique item, its performance is largely reproducible with ordinary purple Tediore shields, which are usually easier to find. Its restricted part pool can also limit access to some elemental-resistance capacitors.",
   "elements": [
     "None"
   ],

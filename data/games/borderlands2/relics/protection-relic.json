@@ -10,7 +10,7 @@
   "name": "Protection Relic",
   "slug": "protection-relic",
   "type": "Protection",
-  "description": "A common Eridian relic in Borderlands 2.",
+  "description": "A basic Eridian relic focused on shield durability, improving one or more shield stats to make your defenses sturdier or quicker to recover.",
   "manufacturers": [
     "Eridian"
   ],
@@ -20,9 +20,9 @@
     "Rare",
     "Epic"
   ],
-  "notes": "Improves up to two shield stats at once. The bonus can reach 30 percent in Normal Mode, rising to 39 percent at OP8. Its effects overlap with Skin of the Ancients, which merges the benefits of a resistance relic and a protection relic.",
+  "notes": "It can improve up to two shield stats at once. The bonus reaches 30% in Normal Mode and can rise to 39% at the highest levels.\n\nIts effects overlap with Skin of the Ancients, which merges Protection and Resistance relic bonuses.",
   "special": {
-    "description": "Boosts shield capacity and or shield recharge rate."
+    "description": "Boosts shield capacity and, depending on the roll, shield recharge rate."
   },
   "sources": [
     {

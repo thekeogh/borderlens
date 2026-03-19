@@ -11,7 +11,7 @@
   "name": "1340 Shield",
   "slug": "1340-shield",
   "type": "Absorb",
-  "description": "Rare Vladof absorb shield. It features an onboard voice module that announces shield conditions such as low capacity, breaking, taking elemental hits, and fully recharging. Aside from these callouts, it performs much like other blue absorb shields.",
+  "description": "A Vladof absorb shield with an onboard voice module that announces key shield states, including low charge, shield breaks, elemental hits, and full recharge. Outside of the voice lines, it behaves much like a standard blue absorb shield.",
   "manufacturers": [
     "Vladof"
   ],
@@ -34,9 +34,9 @@
     "Corrosive",
     "Explosive"
   ],
-  "notes": "Despite being Vladof, it uses the same visual model as a blue Hyperion amplify shield. If equipped on Deathtrap via Sharing is Caring, it can bug out like other Vladof shields and may keep playing voice lines even after the shield is gone and Deathtrap is taking health damage.",
+  "notes": "Despite being a Vladof shield, it uses the same visual model as a blue Hyperion amp shield.\n\nIf Gaige gives it to Deathtrap through Sharing is Caring, it can bug out like other Vladof shields and may keep playing voice lines even after the shield is gone and Deathtrap is taking health damage.",
   "special": {
-    "description": "Includes a unique voice module that speaks in the voice of Loader 1340. No other special effect.",
+    "description": "Includes a unique voice module that uses Loader 1340's voice. It has no other exclusive effect.",
     "title": "If you can't beat 'em, join 'em."
   },
   "max": {

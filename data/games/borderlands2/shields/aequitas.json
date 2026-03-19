@@ -11,7 +11,7 @@
   "name": "Aequitas",
   "slug": "aequitas",
   "type": "Absorb",
-  "description": "Aequitas is a rare Vladof shield in Borderlands 2. Its team bonus improves as more players in the group equip an Aequitas shield or a Veritas pistol, so it shines most in organised co-op rather than solo runs.",
+  "description": "A unique Vladof shield whose team bonus grows as more players equip either an Aequitas shield or a Veritas pistol. That makes it far more appealing in organized co-op than in solo play.",
   "manufacturers": [
     "Vladof"
   ],
@@ -34,9 +34,9 @@
     "Corrosive",
     "Explosive"
   ],
-  "notes": "The red flavour text references The Boondock Saints films, joking that the sequel is the better entry. Aequitas is Latin for equality, fairness or justice, and appears as a tattoo paired with Veritas in the same series.",
+  "notes": "The red flavor text references The Boondock Saints films and jokes that the sequel is the better one.\n\nAequitas is Latin for equality, fairness, or justice, and appears alongside Veritas as a tattoo in the same series.",
   "special": {
-    "description": "Party-wide bonus: for each equipped Aequitas shield or Veritas pistol across the group, Fight For Your Life duration increases by 10%.",
+    "description": "For each Aequitas shield or Veritas pistol equipped across the party, everyone gains extra Fight For Your Life duration.",
     "title": "The second is better."
   },
   "max": {

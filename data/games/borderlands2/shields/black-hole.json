@@ -11,7 +11,7 @@
   "name": "Black Hole",
   "slug": "black-hole",
   "type": "Nova",
-  "description": "The Black Hole is a legendary Maliwan shield. When it breaks completely, it generates a powerful singularity that yanks nearby enemies towards you, then follows up with a shock nova. It is best used to disrupt crowds, drag targets out of cover, and set up quick Second Winds.",
+  "description": "A legendary Maliwan nova shield that creates a strong singularity when it breaks, dragging nearby enemies toward you before following up with a shock nova. It is best used to disrupt crowds, pull enemies out of cover, and create quick Second Wind opportunities.",
   "manufacturers": [
     "Maliwan"
   ],
@@ -38,9 +38,9 @@
     "None",
     "Shock"
   ],
-  "notes": "Its effect only activates on a full shield break. The ensuing shock nova can hit extremely hard, making it excellent for mobbing. It can roll the Grounded prefix via a Maliwan capacitor (shock immunity), but cannot spawn with other elemental immunities. Notable synergies include Gaige, Krieg and Maya. In TPS, the Doppelganger can pass it to Digi-Jacks for area control, though despawning may prevent the nova. The pull can affect the Cara-Van, and triggering it point-blank can damage you.",
+  "notes": "Its effect only triggers on a full shield break. The shock nova that follows can hit extremely hard, which makes it excellent for mobbing.\n\nIt can roll the Grounded prefix through a Maliwan capacitor for shock immunity, but it cannot spawn with other elemental immunities. It has strong synergy with Gaige, Krieg, and Maya. In The Pre-Sequel, the Doppelganger can pass it to Digi-Jacks for area control, though despawning can prevent the nova from going off. The pull can also affect the Cara-Van, and triggering it at point-blank range can damage you.",
   "special": {
-    "description": "On break: spawns a large singularity that drags in nearby enemies, then detonates a shock nova. Boosts shield capacity and nova damage, but lowers nova radius.",
+    "description": "On shield break, it creates a large singularity that drags in nearby enemies and then detonates a shock nova.",
     "title": "You are the center of the universe."
   },
   "max": {

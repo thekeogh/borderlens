@@ -13,8 +13,8 @@
   ],
   "slug": "maylay-shield",
   "type": "Roid",
-  "description": "The Maylay Shield is built for melee play. When its capacity is broken, it boosts your melee damage, encouraging aggressive close-quarters fighting instead of staying behind a fully charged shield.",
-  "notes": "To get the most from it, you will often keep the shield down on purpose, so plan around healing, damage reduction, or other ways to stay alive while taking hits.",
+  "description": "Maylay shields are built for melee play. When their capacity is broken, they boost melee damage, encouraging aggressive close-range fighting instead of hiding behind a full shield.",
+  "notes": "To get the most out of them, you will often want to keep the shield down on purpose. That means planning around healing, damage reduction, or other ways to survive while taking hits.",
   "manufacturers": [
     "Bandit"
   ],
@@ -33,7 +33,7 @@
     "Epic"
   ],
   "special": {
-    "description": "While depleted, it provides a large melee damage increase, but typically comes with a longer recharge delay, leaving you exposed for longer."
+    "description": "While depleted, it provides a large melee damage increase, but usually comes with a longer recharge delay that leaves you exposed for longer."
   },
   "sources": [
     {

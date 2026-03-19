@@ -11,7 +11,7 @@
   "name": "Blood of Terramorphous",
   "slug": "blood-of-terramorphous",
   "type": "Survivability",
-  "description": "Blood of Terramorphous is a legendary Eridian relic from Borderlands 2. It offers the strongest sustained health regeneration available from any relic. The regen scales with item level: 1% at level 50, 1.2% at 61, 1.4% at 72, 1.6% at 80 (OP8), and 1.8% at 90 (OP10). It outperforms Blood of the Seraphs for raw regeneration, even accounting for extra health. It can drop rarely from Terramorphous the Invincible at Terramorphous Peak.",
+  "description": "A legendary Eridian relic built entirely around sustain, offering the strongest health regeneration available on any relic. Its regeneration increases with the relic's level and outpaces Blood of the Seraphs for pure healing over time, even after factoring in that relic's bonus health.",
   "manufacturers": [
     "Eridian"
   ],
@@ -27,9 +27,9 @@
       ]
     }
   ],
-  "notes": "If you collect the other Terramorphous-only items (Teeth of Terramorphous, Breath of Terramorphous, and Hide of Terramorphous), their red text lines combine with this one to form a short poem.",
+  "notes": "It drops rarely from Terramorphous the Invincible at Terramorphous Peak.\n\nIts regeneration scales by level, reaching 1.8% of maximum health per second at level 90. If you collect the other Terramorphous items, their red text lines combine with this one to form a short poem.",
   "special": {
-    "description": "+1.8% Max-Health Regen/s ...His blood could inspire... - Adds health regeneration.",
+    "description": "Adds constant health regeneration that increases with the relic's level.",
     "title": "His blood could inspire..."
   },
   "max": {

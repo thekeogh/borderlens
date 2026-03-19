@@ -11,7 +11,7 @@
   "name": "Shadow of the Seraphs",
   "slug": "shadow-of-the-seraphs",
   "type": "Unique",
-  "description": "Equipping Shadow of the Seraphs grants a Tw0 Fang style bonus: each trigger pull has a chance to fire an extra shot immediately. The extra round counts as a normal shot, so it uses ammo and applies recoil. The bonus stacks with Zer0s Tw0 Fang, allowing very high double shot chances with the right gear. It follows the same rules and limitations as Tw0 Fang, including not proccing on weapons with an effective fire rate of 10.0 or higher (including boosted fire rate).",
+  "description": "A Seraph relic that grants a Tw0 Fang-style chance to fire an extra shot with each trigger pull. The extra round behaves like a normal shot, using ammo and producing recoil, which makes the relic especially strong on slow, high-damage weapons where a duplicate shot is most valuable.",
   "manufacturers": [
     "Eridian"
   ],
@@ -28,10 +28,10 @@
     }
   ],
   "special": {
-    "description": "A Shadow is a copy of self, only shadier. Chance to fire an additional shot each time you shoot.",
+    "description": "Grants a chance to fire an additional shot each time you shoot.",
     "title": "A shadow is a copy of self, only shadier."
   },
-  "notes": "Works with rocket launchers, sometimes dumping most or all of a small magazine in one trigger pull for very high burst damage. Can help slow firing weapons by producing two rapid shots, and becomes stronger when combined with Tw0 Fang. While Salvador is Gunzerking, the off hand weapon does not benefit from the extra shot chance.",
+  "notes": "It follows the same rules and limitations as Tw0 Fang, including not triggering on weapons with an effective fire rate of 10.0 or higher.\n\nIt works with rocket launchers, where it can empty most or all of a small magazine in one trigger pull for huge burst damage. It also becomes stronger when combined with Zer0's Tw0 Fang. While Salvador is Gunzerking, the off-hand weapon does not benefit from the extra-shot chance.",
   "max": {
     "level": 90
   }
