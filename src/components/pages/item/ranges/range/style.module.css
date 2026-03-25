@@ -1,0 +1,83 @@
+.root {
+  --shadow-spread: 100px;
+  --shadow-blur: 0;
+  padding: var(--spacing-sm);
+  background-image: linear-gradient(to bottom right, rgb(24 24 27 / .9) , rgb(0 0 0 / .9));
+  border: solid 2px rgb(39 39 42 / var(--tw-border-opacity, 1));
+  flex: 1 0 0;
+  z-index: 1;
+  position: relative;
+  &:nth-child(1) {
+    box-shadow: 0 0 var(--shadow-spread) var(--shadow-blur) #ef44444a;
+    .value {
+      background-image: linear-gradient(to right, #ef4444 , #ea580c);
+    }
+  }
+  &:nth-child(2) {
+    box-shadow: 0 0 var(--shadow-spread) var(--shadow-blur) #06b6d44a;
+    .value {
+      background-image: linear-gradient(to right, #06b6d4 , #2563eb);
+    }
+  }
+  &:nth-child(3) {
+    box-shadow: 0 0 var(--shadow-spread) var(--shadow-blur) #eab2084a;
+    .value {
+      background-image: linear-gradient(to right, #eab308 , #ea580c);
+    }
+  }
+  &:nth-child(4) {
+    box-shadow: 0 0 var(--shadow-spread) var(--shadow-blur) #a955f74a;
+    .value {
+      background-image: linear-gradient(to right, #a855f7 , #db2777);
+    }
+  }
+
+  .icon {
+    width: var(--icon-size);
+    height: var(--icon-size);
+    margin-bottom: .75rem;
+    background: var(--color-orange-500);
+    font-size: 1.75rem;
+    font-style: normal;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  .name {
+    margin-bottom: .75rem;
+    color: var(--color-zinc-500);
+    font-size: var(--font-size-xs);
+    font-weight: var(--font-weight-bold);
+    line-height: 1rem;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+  }
+  .value {
+    color: transparent;
+    background-clip: text;
+    font-weight: var(--font-weight-bolder);
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+
+}
+
+
+/*
+|------------------------------------------------------------------------------
+| Responsive
+|------------------------------------------------------------------------------
+*/
+
+/*
+ * Large phones and tablets portrait
+ *
+ * Covers iPad portrait, large Android phones, iPhone Plus/Pro Max
+ */
+@media (max-width: 768px) {
+.root {
+    --shadow-spread: 50px;
+    --shadow-blur: -10px;
+    flex: 1 0 0;
+  }
+}

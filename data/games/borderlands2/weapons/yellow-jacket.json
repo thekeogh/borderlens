@@ -197,12 +197,10 @@
   "max": {
     "accuracy": 95.6,
     "damage": 954918,
-    "fire_rate": 3.7,
     "level": 90,
-    "mag_size": 65,
-    "reload_speed": 2.1,
-    "status_chance": 13,
-    "status_damage_per_sec": 478795.2
+    "rate": 3.7,
+    "mag": 65,
+    "reload": 2.1
   },
   "abilities": [
     "33% Weapon Recoil Reduction",

@@ -166,19 +166,17 @@
     }
   ],
   "special": {
-    "description": "Aiming down sights does not reduce movement speed. Manufacturer: Jakobs Jakobs pistols gain +50% critical hit damage. Red text: Thief. Always incendiary. Cannot spawn with a sight.",
+    "description": "Aiming down sights does not reduce movement speed. Manufacturer: Jakobs Jakobs pistols gain +50% critical hit damage.",
     "title": "Thief."
   },
   "notes": "Its full-speed ADS behavior comes from having no scope part at all rather than the usual sightless setup. Only Greed and the Interfacer can spawn this way. With enough Expertise and skill-boosting class mods, a Commando can move extremely fast while aiming. It can also be farmed repeatedly by re-entering The Leviathan's Lair and using co-op respawn tricks to spawn inside the Leviathan before killing Roscoe.",
   "max": {
     "accuracy": 96,
     "damage": 1773139,
-    "fire_rate": 14.1,
     "level": 90,
-    "mag_size": 9,
-    "reload_speed": 2.1,
-    "status_chance": 12.07,
-    "status_damage_per_sec": 478795.2
+    "rate": 14.1,
+    "mag": 9,
+    "reload": 2.1
   },
   "abilities": [
     "Fires as fast as you can pull the trigger."

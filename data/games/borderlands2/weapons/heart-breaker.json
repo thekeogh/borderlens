@@ -183,18 +183,16 @@
   ],
   "special": {
     "title": "I don't want to set the world on fire...",
-    "description": "Always incendiary. Fires in a heart-shaped pattern. Bonuses and traits: - +50% critical hit damage (scales) - Increased pellet count and fire rate - Reduced pellet damage and magazine size - Moxxi: heals for 2% of all damage dealt while equipped - Hyperion: sustained fire reduces recoil; accuracy behaviour does not change the fixed spread pattern Red text: I don't want to set the world on fire..."
+    "description": "Always incendiary. Fires in a heart-shaped pattern. Bonuses and traits: - +50% critical hit damage (scales) - Increased pellet count and fire rate - Reduced pellet damage and magazine size - Moxxi: heals for 2% of all damage dealt while equipped - Hyperion: sustained fire reduces recoil; accuracy behaviour does not change the fixed spread pattern."
   },
   "notes": "With the Critical prefix, its critical-hit bonus can become even larger because the accessory stacks with the built-in bonus. It cannot spawn with a sight. Limited-time SHiFT distributions granted level-matched copies during several Valentine's events, and a level 30 Krieg starts with one by default.",
   "max": {
     "accuracy": 63.6,
     "damage": 456053,
-    "fire_rate": 43,
     "level": 90,
-    "mag_size": 9,
-    "reload_speed": 2.7,
-    "status_chance": 8,
-    "status_damage_per_sec": 478795.2
+    "rate": 43,
+    "mag": 9,
+    "reload": 2.7
   },
   "abilities": [
     "+50, Critical Hit Damage",

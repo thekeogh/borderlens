@@ -213,10 +213,10 @@
   "max": {
     "accuracy": 73.4,
     "damage": 6335896,
-    "fire_rate": 15,
     "level": 90,
-    "mag_size": 22,
-    "reload_speed": 3.1
+    "rate": 15,
+    "mag": 22,
+    "reload": 3.1
   },
   "abilities": [
     "Consumes 2 ammo per shot.",

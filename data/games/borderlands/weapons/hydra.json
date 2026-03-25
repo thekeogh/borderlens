@@ -293,9 +293,9 @@
   "max": {
     "damage": 347,
     "accuracy": 76.4,
-    "fire_rate": 1.2,
-    "mag_size": 13,
-    "level": 69
+    "level": 69,
+    "rate": 1.2,
+    "mag": 13
   },
   "manufacturers": [
     "Atlas"

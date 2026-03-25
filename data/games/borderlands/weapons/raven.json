@@ -281,9 +281,9 @@
   "max": {
     "damage": 495,
     "accuracy": 90.4,
-    "fire_rate": 15,
-    "mag_size": 21,
-    "level": 69
+    "level": 69,
+    "rate": 15,
+    "mag": 21
   },
   "manufacturers": [
     "Dahl"

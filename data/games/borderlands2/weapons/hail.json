@@ -231,10 +231,10 @@
   "max": {
     "accuracy": 77.3,
     "damage": 831668,
-    "fire_rate": 10.8,
     "level": 90,
-    "mag_size": 37,
-    "reload_speed": 2.7
+    "rate": 10.8,
+    "mag": 37,
+    "reload": 2.7
   },
   "abilities": [
     "150%, Critical Hit Damage"

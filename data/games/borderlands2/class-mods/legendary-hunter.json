@@ -70,7 +70,7 @@
   "max": {
     "cooldown_rate_bonus": 5,
     "level": 90,
-    "reload_speed": 2.77
+    "reload": 2.77
   },
   "abilities": [
     "+5 HeadshOt Skill",

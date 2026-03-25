@@ -88,12 +88,10 @@
   "max": {
     "accuracy": 89.3,
     "damage": 2245071,
-    "fire_rate": 5.4,
     "level": 90,
-    "mag_size": 59,
-    "reload_speed": 3,
-    "status_chance": 6.07,
-    "status_damage_per_sec": 478795.2
+    "rate": 5.4,
+    "mag": 59,
+    "reload": 3
   },
   "abilities": [
     "Consumes 4 ammo per shot. SOWIBIGIOIOIOIG:"

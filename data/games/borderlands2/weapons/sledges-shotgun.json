@@ -270,10 +270,10 @@
   "notes": "Each trigger pull fires a two-shot burst, and each shot consumes 2 ammo, so every burst uses 4 shells. Fire-rate bonuses also shorten the delay between bursts, and even modest boosts are noticeable. It uses a Jakobs double barrel rather than a Bandit barrel. It can roll different accessories, but the prefix is not shown in the name. A hotfix on October 14, 2013 increased Bandit shotgun magazine size by 1 and slightly improved reload speed.",
   "max": {
     "accuracy": 14.7,
-    "fire_rate": 8,
     "level": 90,
-    "mag_size": 20,
-    "reload_speed": 3.5
+    "rate": 8,
+    "mag": 20,
+    "reload": 3.5
   },
   "abilities": [
     "1.8x Weapon Zoom",

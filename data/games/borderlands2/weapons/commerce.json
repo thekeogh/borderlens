@@ -215,12 +215,10 @@
   "max": {
     "accuracy": 95.2,
     "damage": 504690,
-    "fire_rate": 9.7,
     "level": 90,
-    "mag_size": 35,
-    "reload_speed": 1.9,
-    "status_chance": 10,
-    "status_damage_per_sec": 478795.2
+    "rate": 9.7,
+    "mag": 35,
+    "reload": 1.9
   },
   "abilities": [
     "Sustained fire increases accuracy."

@@ -270,16 +270,16 @@
   ],
   "special": {
     "title": "Give it a burl.",
-    "description": "Reload throws the gun forward; it ricochets off enemies and surfaces for about 1.5 seconds without exploding. It then reverses, slows, and returns, homing onto the nearest enemy in its path. It explodes on contact during the return or after about 3.5 seconds. Reload explosion damage (grenade): card damage x unused ammo x 1.5. Red text: Give it a burl. (+100% weapon damage.)"
+    "description": "Reload throws the gun forward; it ricochets off enemies and surfaces for about 1.5 seconds without exploding. It then reverses, slows, and returns, homing onto the nearest enemy in its path. It explodes on contact during the return or after about 3.5 seconds. Reload explosion damage (grenade): card damage x unused ammo x 1.5."
   },
   "notes": "It detonates once it has traveled back as far as it flew out, so if you stand still and it hits nothing, it can explode on you. At maximum range it hooks left or right before returning, and it only seeks targets on the way back, which limits its effective range. It can also lock onto destructible objects and even airborne rockets. It always spawns with a fixed sight and is excellent for the High-Flying Hurler challenge on flying targets.",
   "max": {
     "accuracy": 90.1,
     "damage": 1485861,
-    "fire_rate": 48,
     "level": 90,
-    "mag_size": 45,
-    "reload_speed": 1
+    "rate": 48,
+    "mag": 45,
+    "reload": 1
   },
   "abilities": [
     "2.8x Weapon Zoom",

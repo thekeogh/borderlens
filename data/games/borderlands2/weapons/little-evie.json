@@ -241,12 +241,10 @@
   "max": {
     "accuracy": 92,
     "damage": 1328657,
-    "fire_rate": 3.7,
     "level": 90,
-    "mag_size": 24,
-    "reload_speed": 8.8,
-    "status_chance": 22,
-    "status_damage_per_sec": 5745542
+    "rate": 3.7,
+    "mag": 24,
+    "reload": 8.8
   },
   "abilities": [
     "High elemental effect chance.",

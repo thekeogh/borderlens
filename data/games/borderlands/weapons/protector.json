@@ -262,9 +262,9 @@
   "max": {
     "damage": 277,
     "accuracy": 75.6,
-    "fire_rate": 5.5,
-    "mag_size": 21,
-    "level": 69
+    "level": 69,
+    "rate": 5.5,
+    "mag": 21
   },
   "manufacturers": [
     "Tediore"

@@ -70,9 +70,9 @@
   },
   "max": {
     "cooldown_rate_bonus": 51,
-    "fire_rate": 277,
     "gun_damage_bonus": 42,
-    "level": 90
+    "level": 90,
+    "rate": 277
   },
   "abilities": [
     "+5 Ready Skill",

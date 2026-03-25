@@ -42,9 +42,9 @@
   "max": {
     "damage": 170,
     "accuracy": 86.7,
-    "fire_rate": 8.3,
-    "mag_size": 36,
-    "level": 68
+    "level": 68,
+    "rate": 8.3,
+    "mag": 36
   },
   "manufacturers": [
     "Hyperion"

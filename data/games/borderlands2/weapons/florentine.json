@@ -190,11 +190,10 @@
   "max": {
     "accuracy": 92.6,
     "damage": 888564,
-    "fire_rate": 9,
     "level": 90,
-    "mag_size": 51,
-    "reload_speed": 2.5,
-    "status_chance": 18
+    "rate": 9,
+    "mag": 51,
+    "reload": 2.5
   },
   "abilities": [
     "Deals and Shock damage.",

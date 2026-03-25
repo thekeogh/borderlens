@@ -44,7 +44,7 @@
     "+4 Boiling Blood Skill"
   ],
   "max": {
-    "fire_rate": 307,
-    "level": 90
+    "level": 90,
+    "rate": 307
   }
 }

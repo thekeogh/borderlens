@@ -35,6 +35,6 @@
   "max": {
     "gun_damage_bonus": 13.3,
     "level": 90,
-    "reload_speed": 4.8
+    "reload": 4.8
   }
 }

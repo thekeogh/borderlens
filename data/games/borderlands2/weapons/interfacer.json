@@ -235,10 +235,10 @@
   "notes": "It never spawns with a scope. Its lack of aim-walk slowdown comes from using the NULL scope part rather than the usual sightless setup. Only Interfacer and Greed can roll this way. With enough Expertise, Axton can move faster than sprint speed while aiming, especially with a Legendary Soldier class mod.",
   "max": {
     "accuracy": 72.4,
-    "fire_rate": 45,
     "level": 90,
-    "mag_size": 14,
-    "reload_speed": 2.7
+    "rate": 45,
+    "mag": 14,
+    "reload": 2.7
   },
   "abilities": [
     "Sustained fire increases accuracy."

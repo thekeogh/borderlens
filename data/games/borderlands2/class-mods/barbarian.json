@@ -55,7 +55,7 @@
   },
   "max": {
     "level": 90,
-    "mag_size": 924
+    "mag": 924
   },
   "abilities": [
     "+5 Fire Fiend Skill",

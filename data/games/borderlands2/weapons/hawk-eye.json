@@ -242,9 +242,9 @@
   "max": {
     "accuracy": 97.1,
     "damage": 1934333,
-    "fire_rate": 3.1,
     "level": 90,
-    "reload_speed": 3
+    "rate": 3.1,
+    "reload": 3
   },
   "abilities": [
     "507 Weapon Damage"

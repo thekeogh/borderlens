@@ -243,17 +243,16 @@
   ],
   "special": {
     "title": "Itchy. Tasty.",
-    "description": "Fires slow, slightly arcing corrosive shots that explode on impact and deal splash damage. Projectiles also self-detonate after about 0.85 seconds, making long-range use unreliable. Red text: Itchy. Tasty. Always corrosive. Greatly increased status chance and status damage, but heavily reduced projectile damage."
+    "description": "Fires slow, slightly arcing corrosive shots that explode on impact and deal splash damage. Projectiles also self-detonate after about 0.85 seconds, making long-range use unreliable."
   },
   "notes": "Its explosions add extra splash damage that is affected by grenade-damage bonuses. If a shot detonates at the end of its flight instead of on impact, the splash radius becomes slightly larger. Certain Siren setups can push its corrosive status chance to 100%, though some of those builds are less broadly useful than a Legendary Siren setup.",
   "max": {
     "accuracy": 92.6,
     "damage": 309893,
-    "fire_rate": 3,
     "level": 90,
-    "mag_size": 16,
-    "reload_speed": 1.9,
-    "status_chance": 69.435
+    "rate": 3,
+    "mag": 16,
+    "reload": 1.9
   },
   "abilities": [
     "High elemental effect chance.",

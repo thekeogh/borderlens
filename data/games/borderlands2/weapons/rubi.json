@@ -270,10 +270,10 @@
   "max": {
     "accuracy": 93.3,
     "damage": 1041380,
-    "fire_rate": 3,
     "level": 90,
-    "mag_size": 2,
-    "reload_speed": 8.8
+    "rate": 3,
+    "mag": 2,
+    "reload": 8.8
   },
   "abilities": [
     "High elemental effect chance.",

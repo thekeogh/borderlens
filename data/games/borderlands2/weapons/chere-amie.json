@@ -251,10 +251,10 @@
   "max": {
     "accuracy": 95.6,
     "damage": 2067198,
-    "fire_rate": 1.4,
     "level": 90,
-    "mag_size": 3,
-    "reload_speed": 3.1
+    "rate": 1.4,
+    "mag": 3,
+    "reload": 3.1
   },
   "abilities": [
     "Deals bonus elemental damage."

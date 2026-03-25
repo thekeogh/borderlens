@@ -54,8 +54,8 @@
     "description": "At max level, this mod rolls one bonus from each of two pools. Pool 1: Neutral +58.5% magazine size, Chaotic +58.5% fire rate, Lawful +58.5% accuracy. Pool 2: Neutral +58.5% magazine size, Evil +58.5% critical damage, Good +58.5% reload speed. True Neutral grants 2x magazine size for +93.6% magazine size."
   },
   "max": {
-    "fire_rate": 377,
-    "level": 90
+    "level": 90,
+    "rate": 377
   },
   "abilities": [
     "+5 Money Shot Skill",

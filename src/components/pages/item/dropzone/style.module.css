@@ -1,0 +1,114 @@
+.root {
+  --shadow-spread: 110px;
+  --shadow-blur: 0;
+  padding: 1.25rem;
+  background-image: linear-gradient(to bottom right, rgb(24 24 27 / .9) , rgb(0 0 0 / .9));
+  border: solid 2px #a855f780;
+  box-shadow: 0 0 var(--shadow-spread) var(--shadow-blur) #a955f75a;
+
+  > header {
+    margin-bottom: var(--spacing-sm);
+    gap: var(--spacing-sm);
+    align-items: center;
+    display: flex;
+    > i {
+      width: var(--icon-size);
+      height: var(--icon-size);
+      background-color: #a855f7;
+      font-size: 27px;
+      font-style: normal;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+    }
+    > h2 {
+      color: #c084fc;
+      font-family: var(--font-family-base);
+      font-weight: var(--font-weight-bolder);
+      font-size: var(--font-size-lg);
+      letter-spacing: -.05rem;
+      line-height: 2rem;
+      > small {
+        color: #7e22ce;
+        font-size: .75rem;
+        font-weight: var(--font-weight-normal);
+        line-height: 1rem;
+        text-transform: uppercase;
+        letter-spacing: .1em;
+        display: block
+      }
+    }
+  }
+
+  > main {
+    gap: var(--spacing-sm);
+    display: flex;
+    > article {
+      max-width: 20rem;
+      padding: var(--spacing-sm);
+      background-color: #3b076466;
+      border: solid 1px #6b21a880;
+      flex: 1 0 0;
+      > p {
+        margin-bottom: var(--spacing-xs);
+        padding-bottom: var(--spacing-xs);
+        color: #e9d5ff;
+        border-bottom: solid 1px #6b21a880;
+        font-size: .875rem;
+        font-weight: var(--font-weight-bolder);
+        line-height: 1.25rem;
+        letter-spacing: .025em;
+        text-transform: uppercase;
+      }
+      > ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        gap: var(--spacing-xs);
+        flex-direction: column;
+        display: flex;
+        > li {
+          padding: .375rem;
+          background-color: #6b21a880;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #7e22ce80;
+          font-size: .75rem;
+          font-weight: var(--font-weight-bold);
+          line-height: 1rem;
+          text-transform: uppercase;
+          &.rate {
+            color: #fef9c3;
+            background-color: #ca8a04cc;
+            border-color: #eab30880;
+          }
+        }
+        &.pool li {
+          color: #bfdbfe;
+          background-color: #1d4ed899;
+          border-color: #2563eb80;
+        }
+      }
+    }
+  }
+
+}
+
+/*
+|------------------------------------------------------------------------------
+| Responsive
+|------------------------------------------------------------------------------
+*/
+
+/*
+ * Large phones and tablets portrait
+ *
+ * Covers iPad portrait, large Android phones, iPhone Plus/Pro Max
+ */
+@media (max-width: 768px) {
+  .root {
+    > main {
+      flex-direction: column;
+    }
+  }
+}

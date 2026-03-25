@@ -19,6 +19,15 @@ interface Props {
   style?: CSSProperties;
 }
 
+/**
+ * Renders a game icon with optional label styling.
+ *
+ * @param game - The game identifier used to fetch the corresponding logo and title.
+ * @param label - Whether to apply label styling to the icon (default: `false`).
+ * @param className - Optional CSS class name to apply to the icon element.
+ * @param style - Optional inline styles to apply to the icon element.
+ * @returns A React element displaying the game icon.
+ */
 export function GameIcon({ game, label = false, className, style }: Props) {
   const title = Config.Games.Title[game];
 

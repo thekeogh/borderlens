@@ -196,9 +196,9 @@
   "max": {
     "damage": 364,
     "accuracy": 6.4,
-    "fire_rate": 18,
-    "mag_size": 536,
-    "level": 68
+    "level": 68,
+    "rate": 18,
+    "mag": 536
   },
   "manufacturers": [
     "Vladof"

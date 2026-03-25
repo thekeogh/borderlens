@@ -192,7 +192,6 @@
       "tags": [
         "Mini-Boss",
         "Digistruct Peak",
-        "2x",
         "Drop rate: 10%"
       ]
     },
@@ -221,12 +220,10 @@
   "max": {
     "accuracy": 93.1,
     "damage": 613856,
-    "fire_rate": 9,
     "level": 90,
-    "mag_size": 37,
-    "reload_speed": 2.5,
-    "status_chance": 20.6,
-    "status_damage_per_sec": 670313.3
+    "rate": 9,
+    "mag": 37,
+    "reload": 2.5
   },
   "abilities": [
     "Highly effective vs Flesh."

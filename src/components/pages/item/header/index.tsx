@@ -1,10 +1,9 @@
 "use client";
 
-import clsx from "clsx";
-import { Fragment } from "react";
 import { IoSkullSharp } from "react-icons/io5";
 
 import { manufacturerCount } from "#utils/items";
+import { formatLineBreaks } from "#utils/string";
 
 import { GameIcon } from "#components/features/game-icon";
 import { Item } from "#components/features/item";
@@ -12,18 +11,20 @@ import { Item } from "#components/features/item";
 import Style from "./style.module.css";
 
 import type { Schema } from "#database/schema/types";
-import type { CSSProperties } from "react";
 
 /**
  * Props for the Header component.
  */
 interface Props {
   item: Schema;
-  className?: string;
-  style?: CSSProperties;
 }
 
-export function Header({ item, className, style }: Props) {
+/**
+ * Renders the header section of an item page with image, rarities, metadata, and special effects.
+ *
+ * @param item - The item data to display in the header.
+ */
+export function Header({ item }: Props) {
 
   /**
    * Renders a grouped collection of item elements.
@@ -44,7 +45,7 @@ export function Header({ item, className, style }: Props) {
   };
 
   return (
-    <header className={clsx(Style.root, className)} style={style}>
+    <header className={Style.root}>
       <div className={Style.corner} /><div className={Style.corner} /><div className={Style.corner} /><div className={Style.corner} />
 
       <div className={Style.left}>
@@ -69,14 +70,7 @@ export function Header({ item, className, style }: Props) {
           <aside>
             <div><IoSkullSharp className={Style.icon} /> Special Effect</div>
             {item.special.title && <strong>{item.special.title}</strong>}
-            <p>
-              {item.special.description.split("\n").map((line, i) => (
-                <Fragment key={i}>
-                  {i > 0 && <br />}
-                  {line}
-                </Fragment>
-              ))}
-            </p>
+            {formatLineBreaks(item.special.description)}
           </aside>
         )}
       </div>

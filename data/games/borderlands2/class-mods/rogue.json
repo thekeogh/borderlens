@@ -55,8 +55,8 @@
   },
   "max": {
     "level": 90,
-    "mag_size": 459,
-    "reload_speed": 3.77
+    "mag": 459,
+    "reload": 3.77
   },
   "abilities": [
     "+5 VelOcity Skill",

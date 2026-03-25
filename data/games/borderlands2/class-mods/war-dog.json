@@ -41,8 +41,8 @@
   "notes": "The item card may show an incorrect reload speed value.",
   "max": {
     "level": 90,
-    "mag_size": 58,
-    "reload_speed": 3.77
+    "mag": 58,
+    "reload": 3.77
   },
   "abilities": [
     "+4 Out of Bubblegum Sk",

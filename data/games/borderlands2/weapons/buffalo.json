@@ -163,10 +163,10 @@
   "max": {
     "accuracy": 96.9,
     "damage": 4653889,
-    "fire_rate": 5,
     "level": 90,
-    "mag_size": 8,
-    "reload_speed": 2.2
+    "rate": 5,
+    "mag": 8,
+    "reload": 2.2
   },
   "abilities": [
     "+657 Weapon Damage BIOIDIGI IE"

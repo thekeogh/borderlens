@@ -213,7 +213,7 @@
   ],
   "special": {
     "title": "Gar! Gorarr! My dad's a scientist! GWARRRR!!!!",
-    "description": "No special weapon effect beyond its stats. Jakobs assault rifles provide +30% critical hit damage (pre-add). Red text effect: increased weapon damage and improved critical hit bonus."
+    "description": "No special weapon effect beyond its stats. Jakobs assault rifles provide +30% critical hit damage (pre-add)."
   },
   "notes": "",
   "elements": [
@@ -222,10 +222,10 @@
   "max": {
     "accuracy": 83.6,
     "damage": 2757860,
-    "fire_rate": 17.2,
     "level": 90,
-    "mag_size": 16,
-    "reload_speed": 3.1
+    "rate": 17.2,
+    "mag": 16,
+    "reload": 3.1
   },
   "abilities": [
     "5.0x Weapon Zoom",

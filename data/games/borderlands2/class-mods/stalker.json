@@ -40,10 +40,10 @@
   },
   "notes": "The item card may show an incorrect fire rate value.",
   "max": {
-    "fire_rate": 34,
     "level": 90,
-    "mag_size": 527,
-    "recharge_rate": 51
+    "recharge_rate": 51,
+    "rate": 34,
+    "mag": 527
   },
   "abilities": [
     "+4 FONOw ThrOugh",

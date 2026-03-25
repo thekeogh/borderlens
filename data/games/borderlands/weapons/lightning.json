@@ -141,9 +141,9 @@
   "max": {
     "damage": 845,
     "accuracy": 98.3,
-    "fire_rate": 2.5,
-    "mag_size": 0,
-    "level": 69
+    "level": 69,
+    "rate": 2.5,
+    "mag": 0
   },
   "manufacturers": [
     "Eridian"

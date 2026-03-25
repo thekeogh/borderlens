@@ -55,7 +55,7 @@
   },
   "max": {
     "level": 90,
-    "mag_size": 94
+    "mag": 94
   },
   "abilities": [
     "+5 Strength of Five Gorillas Skill",

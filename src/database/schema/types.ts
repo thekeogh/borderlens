@@ -10,6 +10,7 @@ import { Manufacturer } from "#database/schema/manufacturer.schema";
 import { Max } from "#database/schema/max.schema";
 import { Rarity } from "#database/schema/rarity.schema";
 import { Resource } from "#database/schema/resource.schema";
+import { Range } from "#database/schema/weapons/range.schema";
 
 export type Category = z.infer<typeof Category>;
 export type Class = z.infer<typeof Class>;
@@ -20,4 +21,5 @@ export type Manufacturer = z.infer<typeof Manufacturer>;
 export type Max = z.infer<typeof Max>;
 export type Rarity = z.infer<typeof Rarity>;
 export type Resource = z.infer<typeof Resource>;
+export type Stat = keyof z.infer<typeof Range>;
 export type Schema = z.infer<typeof Schema>;

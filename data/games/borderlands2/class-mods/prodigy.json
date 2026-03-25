@@ -41,8 +41,8 @@
   },
   "max": {
     "level": 90,
-    "reload_speed": 3.97,
-    "weapon_accuracy_bonus": 34
+    "weapon_accuracy_bonus": 34,
+    "reload": 3.97
   },
   "abilities": [
     "+5 Cooking Up Trouble Skill",

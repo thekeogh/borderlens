@@ -40,8 +40,8 @@
   },
   "notes": "The item card may show an incorrect reload speed value.",
   "max": {
-    "mag_size": 51,
-    "reload_speed": 3.97
+    "mag": 51,
+    "reload": 3.97
   },
   "abilities": [
     "+5 Steady Skill",

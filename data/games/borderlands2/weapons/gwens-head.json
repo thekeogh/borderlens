@@ -200,16 +200,16 @@
   ],
   "special": {
     "title": "Thinking outside the box.",
-    "description": "Red text: Thinking outside the box. While aiming down sights, it fires a 7-round burst. Grants bonus critical hit damage with multiplicative scaling, plus higher base damage and magazine size. Always rolls with a Tediore grip."
+    "description": "Thinking outside the box. While aiming down sights, it fires a 7-round burst. Grants bonus critical hit damage with multiplicative scaling, plus higher base damage and magazine size. Always rolls with a Tediore grip."
   },
   "notes": "Opening its container triggers an ECHO line from Handsome Jack. A new copy can spawn each time you enter The Dust, and if one is left behind, leaving and returning reshuffles its location. Below UVHM, its level is set by the host's current story-mission level rather than The Dust's area level.",
   "max": {
     "accuracy": 93.3,
     "damage": 860236,
-    "fire_rate": 14.8,
     "level": 90,
-    "mag_size": 24,
-    "reload_speed": 1.5
+    "rate": 14.8,
+    "mag": 24,
+    "reload": 1.5
   },
   "abilities": [
     "Burst fire wired zoomed.",

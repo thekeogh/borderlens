@@ -226,12 +226,10 @@
   "max": {
     "accuracy": 13,
     "damage": 2411883,
-    "fire_rate": 18,
     "level": 90,
-    "mag_size": 7,
-    "reload_speed": 2.6,
-    "status_chance": 8,
-    "status_damage_per_sec": 478795.2
+    "rate": 18,
+    "mag": 7,
+    "reload": 2.6
   },
   "abilities": [
     "2 7% Weapon Reload Speed",

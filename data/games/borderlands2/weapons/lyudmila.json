@@ -260,9 +260,9 @@
   "max": {
     "accuracy": 95.8,
     "damage": 2501705,
-    "fire_rate": 5.7,
     "level": 90,
-    "mag_size": 27,
-    "reload_speed": 3.1
+    "rate": 5.7,
+    "mag": 27,
+    "reload": 3.1
   }
 }

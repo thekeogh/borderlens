@@ -269,9 +269,9 @@
   "max": {
     "damage": 244,
     "accuracy": 77.6,
-    "fire_rate": 5.5,
-    "mag_size": 31,
-    "level": 68
+    "level": 68,
+    "rate": 5.5,
+    "mag": 31
   },
   "manufacturers": [
     "S&S Munitions"

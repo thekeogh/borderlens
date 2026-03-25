@@ -96,9 +96,9 @@
   "max": {
     "damage": 189,
     "accuracy": 93.6,
-    "fire_rate": 3.6,
-    "mag_size": 20,
-    "level": 39
+    "level": 39,
+    "rate": 3.6,
+    "mag": 20
   },
   "manufacturers": [
     "Gearbox"

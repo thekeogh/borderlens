@@ -237,12 +237,10 @@
   "max": {
     "accuracy": 96.8,
     "damage": 2830877,
-    "fire_rate": 1,
     "level": 90,
-    "mag_size": 10,
-    "reload_speed": 3.1,
-    "status_chance": 61.9,
-    "status_damage_per_sec": 478795.4
+    "rate": 1,
+    "mag": 10,
+    "reload": 3.1
   },
   "abilities": [
     "Tut, tut, it looks like rain.",

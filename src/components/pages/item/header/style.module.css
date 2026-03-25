@@ -1,12 +1,13 @@
 .root {
   --min-height: 390px;
-  --padding: var(--spacing-lg);
+  --spacing: var(--spacing-lg);
   min-height: var(--min-height);
-  padding: var(--padding);
+  margin-bottom: var(--spacing);
+  padding: var(--spacing);
   background: var(--color-zinc-1000) linear-gradient(to bottom right, rgb(24 24 27 / .9) , rgb(0 0 0 / .95) , rgb(24 24 27 / .9));
   border: solid 2px #f9731680;
   position: relative;
-  gap: var(--padding);
+  gap: var(--spacing);
   align-items: flex-start;
   display: flex;
   > .corner {
@@ -55,7 +56,7 @@
       }
     }
     .rarities {
-      padding-top: var(--padding);
+      padding-top: var(--spacing);
     }
   }
 
@@ -147,7 +148,7 @@
 @media (max-width: 768px) {
   .root {
     --min-height: 260px;
-    --padding: var(--spacing-sm);
+    --spacing: var(--spacing-sm);
     min-height: auto;
     align-items: normal;
     flex-direction: column;

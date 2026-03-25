@@ -218,10 +218,10 @@
   "max": {
     "accuracy": 73.3,
     "damage": 63847332,
-    "fire_rate": 1.1,
     "level": 90,
-    "mag_size": 3,
-    "reload_speed": 4.1
+    "rate": 1.1,
+    "mag": 3,
+    "reload": 4.1
   },
   "abilities": [
     "Deals bonus explosive damage."

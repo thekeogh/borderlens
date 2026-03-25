@@ -69,8 +69,8 @@
   },
   "max": {
     "cooldown_rate_bonus": 58,
-    "fire_rate": 34,
-    "level": 90
+    "level": 90,
+    "rate": 34
   },
   "abilities": [
     "+5 Filled to the Brim Skill",

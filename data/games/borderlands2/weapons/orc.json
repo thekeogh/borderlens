@@ -241,10 +241,10 @@
   "max": {
     "accuracy": 87.4,
     "damage": 638234,
-    "fire_rate": 8.6,
     "level": 90,
-    "mag_size": 99,
-    "reload_speed": 3.6
+    "rate": 8.6,
+    "mag": 99,
+    "reload": 3.6
   },
   "abilities": [
     "2.4x Weapon Zoom C2 aaa"

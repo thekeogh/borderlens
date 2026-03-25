@@ -165,12 +165,10 @@
   "max": {
     "accuracy": 82,
     "damage": 927267,
-    "fire_rate": 125,
     "level": 90,
-    "mag_size": 28,
-    "reload_speed": 1.4,
-    "status_chance": 15,
-    "status_damage_per_sec": 478795.2
+    "rate": 125,
+    "mag": 28,
+    "reload": 1.4
   },
   "abilities": [
     "T e whip at the New",

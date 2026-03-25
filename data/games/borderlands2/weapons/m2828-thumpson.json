@@ -214,10 +214,10 @@
   "max": {
     "accuracy": 83.6,
     "damage": 3490417,
-    "fire_rate": 17.2,
     "level": 90,
-    "mag_size": 63,
-    "reload_speed": 3.1
+    "rate": 17.2,
+    "mag": 63,
+    "reload": 3.1
   },
   "abilities": [
     "Fires as fast as you can pull the trigger."

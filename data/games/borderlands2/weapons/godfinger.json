@@ -218,10 +218,10 @@
   "max": {
     "accuracy": 96,
     "damage": 1889065,
-    "fire_rate": 0.6,
     "level": 90,
-    "mag_size": 6,
-    "reload_speed": 4
+    "rate": 0.6,
+    "mag": 6,
+    "reload": 4
   },
   "abilities": [
     "7.0x Weapon Zoom JnKORS i IOI EIB ev"

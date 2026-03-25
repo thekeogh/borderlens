@@ -40,8 +40,8 @@
     "description": "At max level, Punk provides +46% fire rate and -29% magazine size."
   },
   "max": {
-    "fire_rate": 327,
-    "level": 90
+    "level": 90,
+    "rate": 327
   },
   "abilities": [
     "+5 The Better Half Skill",

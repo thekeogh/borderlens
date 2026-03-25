@@ -40,8 +40,8 @@
     "description": "At max level, team fire rate increases by 51%."
   },
   "max": {
-    "fire_rate": 34,
-    "level": 90
+    "level": 90,
+    "rate": 34
   },
   "abilities": [
     "+5 Overload Skill",

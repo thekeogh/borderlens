@@ -42,7 +42,7 @@
   "max": {
     "capacity": 1053349,
     "level": 90,
-    "reload_speed": 3.74
+    "reload": 3.74
   },
   "abilities": [
     "+5 Tw0 Fang Skill",

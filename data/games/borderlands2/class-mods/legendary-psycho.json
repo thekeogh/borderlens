@@ -49,8 +49,8 @@
   },
   "max": {
     "level": 90,
-    "mag_size": 40,
-    "recharge_delay": 1.5
+    "recharge_delay": 1.5,
+    "mag": 40
   },
   "abilities": [
     "+5 Biood-filled Guns Skill",

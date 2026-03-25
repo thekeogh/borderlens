@@ -233,12 +233,10 @@
   "max": {
     "accuracy": 94.7,
     "damage": 759689,
-    "fire_rate": 2,
     "level": 90,
-    "mag_size": 19,
-    "reload_speed": 1.4,
-    "status_chance": 8,
-    "status_damage_per_sec": 957590.4
+    "rate": 2,
+    "mag": 19,
+    "reload": 1.4
   },
   "abilities": [
     "Highly effective vs Armor."

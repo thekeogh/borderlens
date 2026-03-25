@@ -256,10 +256,10 @@
   "max": {
     "accuracy": 96.4,
     "damage": 2539211,
-    "fire_rate": 1,
     "level": 90,
-    "mag_size": 10,
-    "reload_speed": 3.1
+    "rate": 1,
+    "mag": 10,
+    "reload": 3.1
   },
   "abilities": [
     "8.9x Weapon Zoom"

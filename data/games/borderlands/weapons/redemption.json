@@ -256,9 +256,9 @@
   "max": {
     "damage": 6443,
     "accuracy": 88.8,
-    "fire_rate": 0.6,
-    "mag_size": 5,
-    "level": 69
+    "level": 69,
+    "rate": 0.6,
+    "mag": 5
   },
   "manufacturers": [
     "Torgue"

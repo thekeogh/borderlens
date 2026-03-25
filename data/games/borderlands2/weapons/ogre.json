@@ -214,10 +214,10 @@
   "max": {
     "accuracy": 55.8,
     "damage": 1730127,
-    "fire_rate": 6.2,
     "level": 90,
-    "mag_size": 81,
-    "reload_speed": 3.1
+    "rate": 6.2,
+    "mag": 81,
+    "reload": 3.1
   },
   "abilities": [
     "Deals bonus explosive damage. fone CENT"

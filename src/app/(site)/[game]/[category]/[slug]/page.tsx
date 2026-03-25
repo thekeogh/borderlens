@@ -1,8 +1,14 @@
+import clsx from "clsx";
 import { notFound } from "next/navigation";
 
 import { catalog } from "#database/catalog";
 
+import { Dossier } from "#components/pages/item/dossier";
+import { DropZone } from "#components/pages/item/dropzone";
 import { Header } from "#components/pages/item/header";
+import { Ranges } from "#components/pages/item/ranges";
+
+import Style from "../../../../../components/pages/item/style.module.css";
 
 import type { Game, Category } from "#database/schema/types";
 
@@ -28,8 +34,11 @@ export default async function Item({ params }: Props) {
   }
 
   return (
-    <div className="container pad-xl">
+    <div className={clsx(Style.root, "container pad-xl")}>
       <Header item={item} />
+      <Dossier item={item} />
+      <Ranges item={item} />
+      <DropZone item={item} />
     </div>
   );
 }

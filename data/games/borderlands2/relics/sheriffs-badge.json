@@ -33,8 +33,8 @@
     "title": "Take turns and play nice."
   },
   "max": {
-    "fire_rate": 56,
-    "level": 90
+    "level": 90,
+    "rate": 56
   },
   "abilities": [
     "Increases Fight for Your Life Time and Max Health by 15y. for every",

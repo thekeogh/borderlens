@@ -175,10 +175,10 @@
   "max": {
     "accuracy": 96.8,
     "damage": 2022431,
-    "fire_rate": 15.3,
     "level": 90,
-    "mag_size": 6,
-    "reload_speed": 1.7
+    "rate": 15.3,
+    "mag": 6,
+    "reload": 1.7
   },
   "abilities": [
     "+100% Melee Damage",

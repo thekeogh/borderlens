@@ -1,0 +1,32 @@
+.root {
+  padding-top: 4.5rem;
+  padding-bottom: 4rem;
+  background-color: #09090b;
+  border-top: solid 4px #ea580c80;
+  color: #3f3f46;
+  font-family: var(--font-family-mono);
+  font-size: var(--font-size-xs);
+  text-transform: uppercase;
+  line-height: 1rem;
+  z-index: 1;
+  position: relative;
+  p {
+    margin-bottom: var(--spacing-md);
+    &:last-child {
+      margin: 0;
+    }
+  }
+  span {
+    font-family: var(--font-family-base);
+  }
+  &:after {
+    content: "";
+    height: 1rem;
+    background-image: repeating-linear-gradient(45deg, rgb(249, 115, 22) 0px, rgb(249, 115, 22) 10px, rgb(0, 0, 0) 10px, rgb(0, 0, 0) 20px);
+    opacity: .2;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+  }
+}

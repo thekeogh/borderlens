@@ -263,10 +263,10 @@
   "max": {
     "accuracy": 81.5,
     "damage": 925671,
-    "fire_rate": 6.6,
     "level": 90,
-    "mag_size": 39,
-    "reload_speed": 2.8
+    "rate": 6.6,
+    "mag": 39,
+    "reload": 2.8
   },
   "abilities": [
     "3.4x Weapon Zoom",

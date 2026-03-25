@@ -40,8 +40,8 @@
   },
   "notes": "The item card may show an incorrect fire rate value.",
   "max": {
-    "fire_rate": 34,
-    "level": 90
+    "level": 90,
+    "rate": 34
   },
   "abilities": [
     "+5 Life Tap Skill",

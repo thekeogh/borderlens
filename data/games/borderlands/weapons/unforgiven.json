@@ -263,9 +263,9 @@
   "max": {
     "damage": 565,
     "accuracy": 87,
-    "fire_rate": 1,
-    "mag_size": 2,
-    "level": 69
+    "level": 69,
+    "rate": 1,
+    "mag": 2
   },
   "manufacturers": [
     "Jakobs"

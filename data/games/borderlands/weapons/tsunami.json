@@ -286,9 +286,9 @@
   "max": {
     "damage": 283,
     "accuracy": 93.5,
-    "fire_rate": 12.5,
-    "mag_size": 36,
-    "level": 68
+    "level": 68,
+    "rate": 12.5,
+    "mag": 36
   },
   "manufacturers": [
     "Maliwan"

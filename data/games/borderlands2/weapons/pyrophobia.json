@@ -234,12 +234,10 @@
   "max": {
     "accuracy": 87.6,
     "damage": 19351304,
-    "fire_rate": 1.05,
     "level": 90,
-    "mag_size": 5,
-    "reload_speed": 3.2,
-    "status_chance": 36.7,
-    "status_damage_per_sec": 5745542
+    "rate": 1.05,
+    "mag": 5,
+    "reload": 3.2
   },
   "abilities": [
     "Deais bonus elemental damage.",

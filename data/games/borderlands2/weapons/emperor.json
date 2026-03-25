@@ -268,10 +268,10 @@
   "max": {
     "accuracy": 89.1,
     "damage": 937242,
-    "fire_rate": 6.1,
     "level": 90,
-    "mag_size": 57,
-    "reload_speed": 2.3
+    "rate": 6.1,
+    "mag": 57,
+    "reload": 2.3
   },
   "abilities": [
     "Burst fire while zoomed."

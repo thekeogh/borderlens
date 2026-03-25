@@ -42,7 +42,7 @@
   "max": {
     "gun_damage_bonus": 52,
     "level": 90,
-    "mag_size": 59
+    "mag": 59
   },
   "abilities": [
     "+5 More Pep Skill",

@@ -161,14 +161,8 @@ def parse_percent(line: str, key_phrase: str) -> Optional[float]:
     return parse_float(match.group(1))
 
 
-def single_element(elements: Optional[List[str]]) -> bool:
-    values = elements or []
-    return len(values) == 1
-
-
-def parse_stats(lines: List[str], elements: Optional[List[str]]) -> Dict[str, float]:
+def parse_stats(lines: List[str]) -> Dict[str, float]:
     stats: Dict[str, float] = {}
-    allow_proc_stats = single_element(elements)
 
     for raw_line in lines:
         line = clean_space(raw_line)
@@ -219,13 +213,13 @@ def parse_stats(lines: List[str], elements: Optional[List[str]]) -> Dict[str, fl
             pick("fuse_time", parse_percent(lower, "fuse time"))
             continue
         if "reload speed" in lower:
-            pick("reload_speed", parse_percent(lower, "reload speed"))
+            pick("reload", parse_percent(lower, "reload speed"))
             continue
         if "fire rate" in lower:
-            pick("fire_rate", parse_percent(lower, "fire rate"))
+            pick("rate", parse_percent(lower, "fire rate"))
             continue
         if "magazine size" in lower:
-            pick("mag_size", parse_percent(lower, "magazine size"))
+            pick("mag", parse_percent(lower, "magazine size"))
             continue
         if "accuracy" in lower and "weapon accuracy" not in lower:
             pick("accuracy", parse_percent(lower, "accuracy"))
@@ -245,23 +239,6 @@ def parse_stats(lines: List[str], elements: Optional[List[str]]) -> Dict[str, fl
                 pick("grenade_damage", parse_float(match.group(1)))
                 if match.group(2):
                     pick("grenade_damage_multiplier", parse_float(match.group(2)))
-            continue
-
-        if allow_proc_stats and ("damage / sec" in lower or "damage/sec" in lower):
-            match = re.search(r"damage\s*/\s*sec\.?\s*([+\-]?\d[\d,]*(?:\.\d+)?)", lower)
-            if match:
-                pick("status_damage_per_sec", parse_float(match.group(1)))
-            continue
-
-        if allow_proc_stats and (
-            "ignite chance" in lower
-            or "electrocute chance" in lower
-            or "corrode chance" in lower
-            or "slag chance" in lower
-        ):
-            match = re.search(r"chance\s*([+\-]?\d[\d,]*(?:\.\d+)?)", lower)
-            if match:
-                pick("status_chance", parse_float(match.group(1)))
             continue
 
         if "damage" in lower and "grenade damage" not in lower and "damage / sec" not in lower and "damage/sec" not in lower:
@@ -495,11 +472,11 @@ def merge_stat_candidates(candidates: List[Dict[str, float]]) -> Dict[str, float
 
 def postprocess_stats(stats: Dict[str, float]) -> Dict[str, float]:
     out = dict(stats)
-    reload_speed = out.get("reload_speed")
-    if isinstance(reload_speed, (int, float)) and reload_speed > 10:
-        while reload_speed > 10:
-            reload_speed = reload_speed / 10
-        out["reload_speed"] = reload_speed
+    reload = out.get("reload")
+    if isinstance(reload, (int, float)) and reload > 10:
+        while reload > 10:
+            reload = reload / 10
+        out["reload"] = reload
     return out
 
 
@@ -509,9 +486,9 @@ def sanitise_stats(stats: Dict[str, float]) -> Dict[str, float]:
     min_one = {"level", "damage", "grenade_damage_multiplier"}
     min_zero = {
         "accuracy",
-        "fire_rate",
-        "reload_speed",
-        "mag_size",
+        "rate",
+        "reload",
+        "mag",
         "capacity",
         "recharge_rate",
         "recharge_delay",
@@ -519,10 +496,8 @@ def sanitise_stats(stats: Dict[str, float]) -> Dict[str, float]:
         "grenade_damage",
         "blast_radius",
         "fuse_time",
-        "status_damage_per_sec",
-        "status_chance",
     }
-    percent_like = {"accuracy", "absorb_chance", "status_chance"}
+    percent_like = {"accuracy", "absorb_chance"}
 
     for key, value in stats.items():
         if not isinstance(value, (int, float)):
@@ -547,7 +522,7 @@ def sanitise_stats(stats: Dict[str, float]) -> Dict[str, float]:
             continue
         if key in min_zero and v < 0:
             continue
-        if key in {"absorb_chance", "status_chance"} and v > 100:
+        if key == "absorb_chance" and v > 100:
             continue
 
         out[key] = v
@@ -577,8 +552,6 @@ def main() -> None:
 
             slug = item.get("slug") or path.stem
             red_text = ((item.get("special") or {}).get("title") or "").strip()
-            elements = item.get("elements") or []
-
             try:
                 card_url = parse_item_card_url(lootlemon_url)
                 if not card_url:
@@ -590,9 +563,9 @@ def main() -> None:
                 lines_bw180 = [line.strip() for line in ocr_variants["bw180"].splitlines() if line.strip()]
 
                 parsed_stats = sanitise_stats(postprocess_stats(merge_stat_candidates([
-                    parse_stats(lines_gray, elements),
-                    parse_stats(lines_bw160, elements),
-                    parse_stats(lines_bw180, elements),
+                    parse_stats(lines_gray),
+                    parse_stats(lines_bw160),
+                    parse_stats(lines_bw180),
                 ])))
                 parsed_abilities = extract_abilities(lines_gray, red_text)
 

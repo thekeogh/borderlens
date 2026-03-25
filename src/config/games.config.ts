@@ -1,5 +1,5 @@
 import type { Category, Game } from "#database/schema/types";
-
+import type { Stat } from "#database/schema/types";
 /**
  * Maps each game identifier to its display name.
  */
@@ -29,4 +29,14 @@ export const Navigation: Record<Game, Partial<Record<Category, string>>> = {
     "class-mods": "Class Mods",
     "relics": "Relics",
   },
+};
+
+/**
+ * Maps weapon statistic keys to their display names.
+ */
+export const Stats: Record<Stat, string> = {
+  accuracy: "Accuracy",
+  damage: "Damage",
+  mag: "Magazine size",
+  rate: "Fire rate",
 };
