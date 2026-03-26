@@ -13,6 +13,12 @@ interface Props {
   item: Schema;
 }
 
+/**
+ * Renders a section displaying the damage, accuracy, rate of fire, and magazine size ranges for an item.
+ *
+ * @param item - The item schema object containing range data.
+ * @returns The rendered ranges section, or `null` if no range data is available.
+ */
 export function Ranges({ item }: Props) {
   if (!item.ranges) {
     return null;

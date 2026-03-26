@@ -13,13 +13,24 @@ interface Props {
   item: Schema;
 }
 
+/**
+ * Displays the drop zone section for an item, showing all confirmed sources where the item can be obtained.
+ *
+ * @param item - The item schema object containing source information.
+ * @returns The rendered drop zone component, or `null` if no sources are available.
+ */
 export function DropZone({ item }: Props) {
   const sources = item.sources;
-
   if (!sources.length) {
     return null;
   }
 
+  /**
+   * Determines the CSS class to apply to a drop zone tag based on its content.
+   *
+   * @param tag - The tag string to evaluate.
+   * @returns The CSS class name if the tag matches "drop rate", otherwise `undefined`.
+   */
   const styleTag = (tag: string): string | undefined => {
     if (tag.toLowerCase().includes("drop rate")) {
       return Style.rate;

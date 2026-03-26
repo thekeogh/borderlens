@@ -109,6 +109,9 @@
   .root {
     > main {
       flex-direction: column;
+      > article {
+        max-width: none;
+      }
     }
   }
 }

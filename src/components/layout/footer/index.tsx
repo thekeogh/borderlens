@@ -2,6 +2,9 @@
 
 import Style from "./style.module.css";
 
+/**
+ * Renders the application footer with copyright and attribution information.
+ */
 export function Footer() {
   return (
     <footer className={Style.root}>
