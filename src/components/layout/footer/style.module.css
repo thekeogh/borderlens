@@ -29,4 +29,15 @@
     right: 0;
     position: absolute;
   }
+  > :global(.container) {
+    display: flex;
+  }
+
+  .left {
+    flex: 1 1 0;
+  }
+  .right {
+    flex: 0 0 auto;
+  }
+
 }
