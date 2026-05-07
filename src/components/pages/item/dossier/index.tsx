@@ -50,7 +50,7 @@ export function Dossier({ item }: Props) {
           {/* Notes */}
           {hasNotes && (
             <div>
-              <p>root@hyperion-db:~$ <span>cat notes.txt</span></p>
+              <p>root@{manufacturer}-db:~$ <span>cat notes.txt</span></p>
               {formatLineBreaks(item.notes as string)}
               <span className={Style.cursor} />
             </div>

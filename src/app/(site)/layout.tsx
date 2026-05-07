@@ -1,4 +1,5 @@
 import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Rajdhani, Inter, Space_Mono } from "next/font/google";
 
 import { Config } from "#config";
@@ -95,6 +96,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           {children}
         </Template>
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
